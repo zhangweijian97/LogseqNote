@@ -582,7 +582,8 @@ $$
 :END:
 #### 语言真正相关的是人，而不是单词
 #### 这节课主要关于NLP的社会影响
-####
+#### The social impact of NLP
+#####
 ### Lecture 14 Word Embeddings are Biased
 ### Lecture 15 The Environmental and Human Cost of NLP
 ### Lecture 16 Neural Parsing
