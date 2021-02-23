@@ -635,12 +635,6 @@ $$
 ###### 1910，1950，1990
 ##### text和种族联系，随时间变化
 #### Bias in NLP systems
-##### Case study: **219 automatic sentiment analysis systems**, submitted to a shared task intended to measure **anger, fear, joy, sadness**.
-###### 生成数据  (PERSON) made me feel (EMOTIONAL STATE WoRD).
-####### 比如 Ebony made me feel angry .
-######
-#### What can you do?
-#### Bias in NLP systems
 
 ##### Case study: **219 automatic sentiment analysis systems**, submitted to a shared task intended to measure **anger, fear, joy, sadness**.
 
