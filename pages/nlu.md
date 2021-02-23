@@ -629,7 +629,8 @@ $$
 ###### she-he
 ####### 定义上，queen-king，等
 ####### 刻板印象，lovely-brilliant，等
-#####
+##### Job descriptions in 20th century (American) texts
+######
 #### Bias in NLP systems
 
 #### What can you do?
