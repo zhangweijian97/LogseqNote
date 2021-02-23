@@ -3,8 +3,8 @@ title: Inception Score
 ---
 
 ## Name
-## [[concept_name_unique]]
-Type
+### [[Inception Score]]
+## Type
 # #PermanentNote
 ---
 Temporary notes 临时笔记
