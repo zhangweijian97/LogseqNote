@@ -598,7 +598,7 @@ $$
 ###### Harms to **fairness and justice**: different populations have different levels of access to benefits, and are subject to different degrees of harm
 ###### Note: Our goal is not to balance benefits and harm! We want to ave as much benefit as possible, with as few harms as possible. When benefits accrue mostly to the powerful, and harms happen mainly to the powerless, this increases social inequity.
 ###### Harms to **privacy and security**: data aggregation and inference can lead to many types of harm to individuals
-###### Harms to **transparency and autonomy**: Deep learning systems cannot explain outcomes, and **individuals** may not be able to challenge outcomes that harm them.
+###### Harms to **transparency and autonomy**: Deep learning systems cannot explain outcomes, and individuals may not be able to challenge outcomes that harm them.
 #####
 ### Lecture 14 Word Embeddings are Biased
 ### Lecture 15 The Environmental and Human Cost of NLP
