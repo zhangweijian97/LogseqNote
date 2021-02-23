@@ -10,14 +10,17 @@ title: Inception Score
 ---
 ## Temporary notes 临时笔记
 # 后续再整理
+#
 ---
-Literature Notes
-# zotaro
-# cite
-## \\cite{cite_name}
-# bib
+# Literature Notes
+## zotaro
+## cite
+### \\cite{cite_name}
+## bib
+##
 ---
-Permanent Notes
+##
+## Permanent Notes
 # 大段文字描述，不进行引用
 # 联想
 ## 这条笔记的意义，作用
