@@ -730,7 +730,7 @@ $$
 ###### 便宜的东西，用的人更多
 ##### 使用已有的模型（预训练）更环保
 ##### deep adaptation
-###### resilience
-###### relinquishment
+###### resilience 复原
+###### relinquishment 放弃
 ###### restoration
 ### Lecture 16 Neural Parsing
