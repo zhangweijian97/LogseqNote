@@ -756,9 +756,10 @@ $$
 ##### 增加性能的方法
 ###### EOS (end of sequence)
 ###### 反转输入
-##### 更深的网络
-##### 加注意力
-##### 用预训练词嵌入模型
+###### 更深的网络
+###### 加注意力
+###### 用预训练词嵌入模型
+#####
 #### Potential Problems
 #### Results
 #### Parsing with Transformers
