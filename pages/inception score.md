@@ -26,6 +26,5 @@ title: Inception Score
 ## 加合适的标签（归入对应的卡片盒）
 # 索引
 ## 信息来源，如参考文献，书籍，论文，网络文章
-## https://zhuanlan.zhihu.com/p/263652288
 ## [Inception Score原理及其代码实现](https://zhuanlan.zhihu.com/p/263652288)
 ##
