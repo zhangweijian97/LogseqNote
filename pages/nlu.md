@@ -586,10 +586,10 @@ $$
 ##### benefits
 ###### Efficiency
 ####### for individuals and institutions trying to understand and summarize information in many languages
-##### Personalization
-###### for users, e.g. through digital assistants, tutoring agents, and other services.
-##### Human understanding
-###### of the language faculty and its social use-e.g. through use in computational psycholinguistics and computational sociolinguistics.
+###### Personalization
+####### for users, e.g. through digital assistants, tutoring agents, and other services.
+###### Human understanding
+####### of the language faculty and its social use-e.g. through use in computational psycholinguistics and computational sociolinguistics.
 #####
 ### Lecture 14 Word Embeddings are Biased
 ### Lecture 15 The Environmental and Human Cost of NLP
