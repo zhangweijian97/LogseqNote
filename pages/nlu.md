@@ -741,6 +741,7 @@ $$
 ##### ((603454d6-c59f-4b54-b1c0-ae31e4fa5334))
 ##### 输入输出都是符号序列
 #### Reading: Vinyals et al. ( 2015 )
+##### 后面的三个部分都来自这篇论文。最后一个部分不是
 #### Neural Parsing
 ##### Parsing is the task of turning a sequence of words into a syntax tree:
 ###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223200644.png){:height 218, :width 261}
