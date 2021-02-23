@@ -583,7 +583,11 @@ $$
 #### 语言真正相关的是人，而不是单词
 #### 这节课主要关于NLP的社会影响
 #### The social impact of NLP
-#####
+##### Efficiency
+###### for individuals and institutions trying to understand and summarize information in many languages
+######
+##### Personalization for users, e.g. through digital assistants, tutoring agents, and other services.
+ Human understanding of the language faculty and its social use-e.g. through use in computational psycholinguistics and computational sociolinguistics.
 ### Lecture 14 Word Embeddings are Biased
 ### Lecture 15 The Environmental and Human Cost of NLP
 ### Lecture 16 Neural Parsing
