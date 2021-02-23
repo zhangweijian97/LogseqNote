@@ -785,5 +785,8 @@ $$
 ###### A simple encoder-decoder model can match the performance of the Berkeley parser (a probabilistic chart parser; O(n3) complexity)
 ###### Even though we use an LSTM, performance by sentence length is same or better than the Berkeley parser.
 ##### 分析注意力
-######
+###### Attention matrix shows that the model focuses on one word as it produces the parse tree.
+###### It moves through the input sequence monotonically (left to right)
+###### Model learns stack-like behavior when producing the output. Note that if model focuses on position i, that state has information for all words after i (input is reversed).
+###### in some cases, the model skips words
 #### Parsing with Transformers
