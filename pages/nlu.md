@@ -4,68 +4,68 @@ title: NLU
 
 ## #UoE
 ## My Lecture Notes
-## Lecture 1 Introduction
-### Natural Language Understanding
-#### input is natural language
-#### output is structured information
-### Natural Language Generation
-#### input is some form of non-linguistic data
-#### Output: A natural language description of that data
-### Machine Translation
-#### Both input and output are text that convey the same meaning, but written in a different language or style.
-### Objective
-#### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222235327.png)
-### Methods
-#### **probabilistic models** parameterised by **deep learning architectures**
-##### feed-forward neural networks
-##### recurrent neural networks
-##### transformers
-##### convolutional networks
-### Why deep learning
-#### universal function approximators
-#### representation learning
-#### multi-task learning
-### Ethical concerns
-### supervised, unsupervised, transfer learning
-### Second part of this course
-#### Problems
-##### morphological analysis
-##### syntactic parsing
-##### semantic parsing
-#### applications
-##### question answering
-##### paraphrasing
-##### summarization
-##### data-to-text generation
-##### sentiment analysis
-## Lecture 2 Machine Translation
-### 略
-### Key points to remember
-#### Very simple cues are very helpful in translation.
-##### Pairs of words that occur consecutively in the target language(bigrams).
-##### Pairs of source and target words that frequently occur together in translations.
-#### Q for next time: how would you model these cues?
-#### Q for all the time: what are the ways in which this can fail?
-## Lecture 3 Machine translation with n-grams
-### words conditioned on some input
-#### speech recognition: condition on speech signal
-#### machine translation: condition on text in another language
-#### text completion: condition on the first few words of a sentence optical
-#### character recognition: condition on an image of text
-#### image captioning: condition on an image
-#### grammar checking: condition on surrounding words
-### model
-#### V, vocabulary
-#### P, probability distribution
-#####
+### Lecture 1 Introduction
+#### Natural Language Understanding
+##### input is natural language
+##### output is structured information
+#### Natural Language Generation
+##### input is some form of non-linguistic data
+##### Output: A natural language description of that data
+#### Machine Translation
+##### Both input and output are text that convey the same meaning, but written in a different language or style.
+#### Objective
+##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222235327.png)
+#### Methods
+##### **probabilistic models** parameterised by **deep learning architectures**
+###### feed-forward neural networks
+###### recurrent neural networks
+###### transformers
+###### convolutional networks
+#### Why deep learning
+##### universal function approximators
+##### representation learning
+##### multi-task learning
+#### Ethical concerns
+#### supervised, unsupervised, transfer learning
+#### Second part of this course
+##### Problems
+###### morphological analysis
+###### syntactic parsing
+###### semantic parsing
+##### applications
+###### question answering
+###### paraphrasing
+###### summarization
+###### data-to-text generation
+###### sentiment analysis
+### Lecture 2 Machine Translation
+#### 略
+#### Key points to remember
+##### Very simple cues are very helpful in translation.
+###### Pairs of words that occur consecutively in the target language(bigrams).
+###### Pairs of source and target words that frequently occur together in translations.
+##### Q for next time: how would you model these cues?
+##### Q for all the time: what are the ways in which this can fail?
+### Lecture 3 Machine translation with n-grams
+#### words conditioned on some input
+##### speech recognition: condition on speech signal
+##### machine translation: condition on text in another language
+##### text completion: condition on the first few words of a sentence optical
+##### character recognition: condition on an image of text
+##### image captioning: condition on an image
+##### grammar checking: condition on surrounding words
+#### model
+##### V, vocabulary
+##### P, probability distribution
+######
 $$
 P: V^{*} \rightarrow \mathbb{R}_{+}
 $$
-#### $w$ a sequence of words
-#### $|w|$, length
-#### $w_i$ i-th word
-#### joint distribution, conditional distribution
-#####
+##### $w$ a sequence of words
+##### $|w|$, length
+##### $w_i$ i-th word
+##### joint distribution, conditional distribution
+######
 $$
 \begin{aligned}
 P\left(w_{1} \ldots w_{|w|}\right)=& P\left(w_{1}\right) \times \\
@@ -76,29 +76,29 @@ P\left(w_{1} \ldots w_{|w|}\right)=& P\left(w_{1}\right) \times \\
 &=\prod_{i=1}^{|w|+1} P\left(w_{i} \mid w_{1}, \ldots, w_{|w|}\right)
 \end{aligned}
 $$
-#### n-gram probabilities, MLE
-#### sampling zeros or structural zeros
-#### predict
-#####
+##### n-gram probabilities, MLE
+##### sampling zeros or structural zeros
+##### predict
+######
 $$
 \hat{w}_{k+1}=\underset{w_{k+1}}{\operatorname{argmax}} P\left(w_{k+1} \mid w_{1} \ldots w_{k}\right)
 $$
-### Conditional language models
-#### 第一种尝试 one long sequence
-#####
+#### Conditional language models
+##### 第一种尝试 one long sequence
+######
 $$
 P(y x)=P\left(x_{1} \ldots x_{|x|} y_{1} \ldots y_{|y|}\right)
 $$
-##### Problem: the English sentence will usually be longer than n!
-#### 第二种 pair
-#####
+###### Problem: the English sentence will usually be longer than n!
+##### 第二种 pair
+######
 $$
 P(y x)=P\left(x_{1} y_{1} \ldots x_{|x|} y_{|x|} y_{|x|+1} \cdots y_{|y|}\right)
 $$
-##### Problem 1: The sentences are not usually the **same length**!
-##### Problem 2: English and Swedish **word orders** are different!
-#### 关键点 model bigram **translation probabilities**
-#####
+###### Problem 1: The sentences are not usually the **same length**!
+###### Problem 2: English and Swedish **word orders** are different!
+##### 关键点 model bigram **translation probabilities**
+######
 $$
 \begin{aligned}
 P(y, z \mid x)=& P(y \mid x, z) P(z \mid x) \\
@@ -106,28 +106,28 @@ P(y, z \mid x)=& P(y \mid x, z) P(z \mid x) \\
 & \prod_{i=1}^{|y|} P\left(y_{i} \mid y_{1}, \ldots, y_{i-1}, x, z\right) \prod_{i=1}^{|z|} P\left(z_{i} \mid z_{1}, \ldots, z_{i-1}, x\right)
 \end{aligned}
 $$
-#### full model
-#####
+##### full model
+######
 $$
 P(|y| \mid x) \prod_{i=1}^{|y|} \underbrace{P\left(z_{i}\mid |x|\right)}_{\text {transition probability}} \underbrace{P\left(y_{i} \mid x_{z_{i}}\right)}_{\text {~~emission probability }}
 $$
-##### problem, z is a latent variable
-##### solution by Maximum likelihood
-######
+###### problem, z is a latent variable
+###### solution by Maximum likelihood
+#######
 $$
 \begin{aligned}
 \hat{\theta} &=\arg \max _{\theta} P(\mathcal{D} \mid \theta) \\
 &=\arg \max _{\theta} \prod_{x_{j}, y_{i} \in V^{2}} \theta_{x_{j} y_{i}}^{\mathbb{E}_{P(\mathcal{D} \mid \theta)}\left[\operatorname{Count}\left(x_{j} y_{i}\right)\right]}
 \end{aligned}
 $$
-##### 用 EM 算法 (Expectation maximization) 求 $\theta$
-#### Greedy search，每步求最优
-#### Beam search，每步保存k个最优
-### Summary
-#### n-gram models use a **Markov assumption** to model an infinite sample space with a finite set of parameters.
-#### Machine translation is just **conditional language modelling**.
-#### To effectively model translation with n-grams, we need additional **latent variables** to model word alignment
-#### One way to estimate the parameters of latent variable models is with a generalisation of maximum likelihood estimation, called **expectation maximisation**.
+###### 用 EM 算法 (Expectation maximization) 求 $\theta$
+##### Greedy search，每步求最优
+##### Beam search，每步保存k个最优
+#### Summary
+##### n-gram models use a **Markov assumption** to model an infinite sample space with a finite set of parameters.
+##### Machine translation is just **conditional language modelling**.
+##### To effectively model translation with n-grams, we need additional **latent variables** to model word alignment
+##### One way to estimate the parameters of latent variable models is with a generalisation of maximum likelihood estimation, called **expectation maximisation**.
 ## Lecture 4 Perceptrons
 ### Simple Perceptrons
 #### input function
