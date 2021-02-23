@@ -811,4 +811,8 @@ $$
 ###### 结果，略
 #### Summary
 ##### linearized parse tree
-#####
+##### LSTM encoder-decoder
+###### given enough training data
+##### generate well-formed trees
+##### improve by transformer
+##### decoder and CYK
