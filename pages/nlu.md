@@ -796,8 +796,8 @@ $$
 ####### tranformer
 ####### context aware summary vector
 ######## word，pos tag，position
-###### span scores
+####### span scores
 ###### attention blocks，attention head
-####### factored attention head
+###### factored attention head
 ######
 #####
