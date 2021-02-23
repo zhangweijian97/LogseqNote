@@ -16,4 +16,7 @@ title: Template
 ### Temporary notes
 ###
 ---
-###
+### Literature Notes
+#### zotaro
+#### cite \cite{cite_name}
+####
