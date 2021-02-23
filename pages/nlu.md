@@ -577,6 +577,9 @@ $$
 #### Pre-training and Finetuning Bert
 ##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222231336.png)
 ### Lecture 13 Ethics in NLP
+:PROPERTIES:
+:id: 60350bda-eb15-442e-8c85-04fdb69a9ab4
+:END:
 ####
 ### Lecture 14 Word Embeddings are Biased
 ### Lecture 15 The Environmental and Human Cost of NLP
