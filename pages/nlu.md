@@ -721,7 +721,8 @@ $$
 ####### Many models require access to specialized hardware (many GPUs or TPUs) limiting access to the richest (Who benefits from this? How does it affect existing power imbalances?)
 ###### 环境成本 Costs to the environment
 ####### Computation requires energy, and not all of this energy is carbon-neutral. Where it is. training NLP may not be the best allocation of that energy
-#####
+##### Estimating the carbon cost of a model
+######
 #### 总结
 ##### 训练时间和超参数选择增加了碳排放，而这在SOTA中很常见
 ##### 对计算资源的掌控导致强者愈强
