@@ -128,51 +128,51 @@ $$
 ##### Machine translation is just **conditional language modelling**.
 ##### To effectively model translation with n-grams, we need additional **latent variables** to model word alignment
 ##### One way to estimate the parameters of latent variable models is with a generalisation of maximum likelihood estimation, called **expectation maximisation**.
-## Lecture 4 Perceptrons
-### Simple Perceptrons
-#### input function
-#####
+### Lecture 4 Perceptrons
+#### Simple Perceptrons
+##### input function
+######
 $$
 u(x)=w \cdot x+b
 $$
-#### Activation function
-#####
+##### Activation function
+######
 $$
 y=f(u(x))=\left\{\begin{array}{ll}
 1, & \text { if } u(x)>0 \\
 0, & \text { otherwise }
 \end{array}\right.
 $$
-#### Learning Rule
-#####
+##### Learning Rule
+######
 $$
 \begin{array}{l}
 w_{i} \leftarrow w_{i}+\Delta w_{i} \\
 \Delta w_{i}=\eta(t-o) x_{i}
 \end{array}
 $$
-##### learning rate
-######
+###### learning rate
+#######
 $$0 < \eta \leq 1$$
-### Multilayer perceptrons
-#### universal function approximator
-## Lecture 5 n-gram language modelling with feedforward neural networks
-### One-hot encoding
-### softmax
-### logistic regression
-### maximize likelihood
-### minimise error, cross-entropy loss
-### Gradient descent
-#### gradient descent with momentum
-#### individual learning rates for each dimension
-#### adaptive learning rates
-#### decoupling step length from partial derivates
-### n-grams with a multilayer neural network
+#### Multilayer perceptrons
+##### universal function approximator
+### Lecture 5 n-gram language modelling with feedforward neural networks
+#### One-hot encoding
+#### softmax
+#### logistic regression
+#### maximize likelihood
+#### minimise error, cross-entropy loss
+#### Gradient descent
+##### gradient descent with momentum
+##### individual learning rates for each dimension
+##### adaptive learning rates
+##### decoupling step length from partial derivates
+#### n-grams with a multilayer neural network
 :PROPERTIES:
 :id: 6033f4e0-afdc-4f7b-8097-f76d3ee3dd20
 :END:
-#### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222181532.png){:height 189, :width 286}
-####
+##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222181532.png){:height 189, :width 286}
+#####
 $$
 \begin{aligned}
 P\left(w_{i} \mid w_{i-3}, w_{i-2}, w_{i-1}\right) &=\operatorname{softmax}\left(\mathrm{Vh}_{2}+\mathrm{b}_{2}\right) \\
@@ -181,25 +181,25 @@ P\left(w_{i} \mid w_{i-3}, w_{i-2}, w_{i-1}\right) &=\operatorname{softmax}\left
 \mathrm{w}_{i} &=\text { onehot }\left(w_{i}\right)
 \end{aligned}
 $$
-#### Each hidden layer is a **representation** of its input.
-#### Multiplying one-hot by C selects a row of C (a vector).
-#### We call i-th row of C the **embedding** of i-th word in V.
-#### Learned **word embeddings** replace hand-engineered features of logistic regression.
-### feedforward neural networks
-#### 1. Send an input pattern, x, from the training set.
-#### 2. Get the output y.
-#### 3. Compare y with the "right answer", or target t, to get the error quantity.
-#### 4. Use the error quantity to modify the weights, so next time y will be closer to t.
-#### 5. Repeat with another x from the training set.
-### SGD
-## Lecture 6 Recurrent Neural Networks and LSTMs
-### Recurrent networks for language modelling
-#### RNN Architecture
+##### Each hidden layer is a **representation** of its input.
+##### Multiplying one-hot by C selects a row of C (a vector).
+##### We call i-th row of C the **embedding** of i-th word in V.
+##### Learned **word embeddings** replace hand-engineered features of logistic regression.
+#### feedforward neural networks
+##### 1. Send an input pattern, x, from the training set.
+##### 2. Get the output y.
+##### 3. Compare y with the "right answer", or target t, to get the error quantity.
+##### 4. Use the error quantity to modify the weights, so next time y will be closer to t.
+##### 5. Repeat with another x from the training set.
+#### SGD
+### Lecture 6 Recurrent Neural Networks and LSTMs
+#### Recurrent networks for language modelling
+##### RNN Architecture
 :PROPERTIES:
 :id: 60341335-7dab-4af4-8418-3f90ce1af87a
 :END:
-##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222202413.png){:height 249, :width 352}
-#####
+###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222202413.png){:height 249, :width 352}
+######
 $$
 \begin{aligned}
 P\left(x_{i+1} \mid x_{1}, \ldots, x_{i-1}\right) &=\mathbf{y}_{i} \\
@@ -208,217 +208,217 @@ P\left(x_{i+1} \mid x_{1}, \ldots, x_{i-1}\right) &=\mathbf{y}_{i} \\
 \mathbf{x}_{i} &=\text { onehot }\left(x_{i}\right)
 \end{aligned}
 $$
-#### no Markov assumption
-#### Training
-##### Use stochastic gradient descent, with cross-entropy.
-##### dynanmic
-#### Backpropagation
-#####
+##### no Markov assumption
+##### Training
+###### Use stochastic gradient descent, with cross-entropy.
+###### dynanmic
+##### Backpropagation
+######
 $$
 \Delta w_{k j}=\eta \sum_{p}^{n} \delta_{p k} s_{p j} \quad \delta_{p k}=\left(d_{p k}-y_{p k}\right) g^{\prime}\left(n e t_{p k}\right)
 $$
-#####
+######
 $$
 \Delta v_{j i}=\eta \sum_{p}^{n} \delta_{p j} x_{p i} \quad \delta_{p j}=\sum_{k}^{0} \delta_{p k} w_{k j} f^{\prime}\left(n e t_{p j}\right)
 $$
-#####
+######
 $$
 \Delta u_{j i}=\eta \sum_{p}^{n} \delta_{p j}(t) s_{p h}(t-1) \quad \delta_{p j}(t)=\sum_{k}^{0} \delta_{p k} w_{k j} f^{\prime}\left(n e t_{p j}\right)
 $$
-#####
+######
 $$
 \delta_{p j}(t-1)=\sum_{h}^{m} \delta_{p h}(t) u_{h j} f^{\prime}\left(s_{p j}(t-1)\right)
 $$
-##### time steps $\tau$
-##### truncated backpropagation through time
-##### 梯度消失
-### LSTM Long short-term memory
-#### architecture
-##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223005222.png)
-##### O: open gate
-##### --: closed gate
-##### black: high activation
-##### white: low activation
-#### memory blocks
-##### trainable
-##### Input gate: controls whether the input to is passed on to the memory cell or ignored;
-##### Output gate: controls whether the current activation vector of the memory cell is passed on to the output layer or not;
-##### Forget gate: controls whether the activation vector of the memory
+###### time steps $\tau$
+###### truncated backpropagation through time
+###### 梯度消失
+#### LSTM Long short-term memory
+##### architecture
+###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223005222.png)
+###### O: open gate
+###### --: closed gate
+###### black: high activation
+###### white: low activation
+##### memory blocks
+###### trainable
+###### Input gate: controls whether the input to is passed on to the memory cell or ignored;
+###### Output gate: controls whether the current activation vector of the memory cell is passed on to the output layer or not;
+###### Forget gate: controls whether the activation vector of the memory
  cell is reset to zero or maintained;
-##### Memory cell: stores the current activation vector; with recurrent
+###### Memory cell: stores the current activation vector; with recurrent
 connection to itself controlled by forget gate.
-###### linear
-###### no vanishing gradient
-##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223005606.png){:height 239, :width 299}
-#### relaxes vanishing gradient problem ( somewhat ) using gates.
-## Lecture 7 Sequence-to-sequence models with attention
-### Encoding and decoding sequences
-#### use RNN
-#### problem
-##### Word order is different
-##### Different number of words
-#### two RNNs as encoder and decoder
-##### Encoder-Decoder Architecture
+####### linear
+####### no vanishing gradient
+###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223005606.png){:height 239, :width 299}
+##### relaxes vanishing gradient problem ( somewhat ) using gates.
+### Lecture 7 Sequence-to-sequence models with attention
+#### Encoding and decoding sequences
+##### use RNN
+##### problem
+###### Word order is different
+###### Different number of words
+##### two RNNs as encoder and decoder
+###### Encoder-Decoder Architecture
 :PROPERTIES:
 :id: 603454d6-c59f-4b54-b1c0-ae31e4fa5334
 :END:
-###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223010554.png){:height 262, :width 352}
-##### Encoder:
-######
+####### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223010554.png){:height 262, :width 352}
+###### Encoder:
+#######
 $$
 \mathbf{h}_{i}=\operatorname{RNN}_{\text {enc }}\left(\mathbf{x}_{i}, \mathbf{h}_{i-1}\right)
 $$
-##### Decoder:
-######
+###### Decoder:
+#######
 $$
 \begin{aligned}
 \mathbf{s}_{i} &=\operatorname{RNN}_{\mathrm{dec}}\left(\mathbf{y}_{i}, \mathbf{s}_{i-1}\right) \\
 P\left(y_{i} \mid y_{1}, \ldots, y_{i-1}, x_{1}, \ldots, x_{|x|}\right) &=\operatorname{softmax}\left(\mathbf{W} \operatorname{concat}\left(\mathbf{s}_{i}, \mathbf{h}_{|x|}\right)+\mathbf{b}\right)
 \end{aligned}
 $$
-##### context, $\mathbf{h}_{|x|}$
-##### problem
-###### fixed size
-###### recency bias
-### Attention
+###### context, $\mathbf{h}_{|x|}$
+###### problem
+####### fixed size
+####### recency bias
+#### Attention
 :PROPERTIES:
 :id: 603455ce-8391-481e-b4a6-cf0964921958
 :END:
-#### Encoder-Decoder with Attention
+##### Encoder-Decoder with Attention
 :PROPERTIES:
 :id: 603455d7-87c7-41fd-bf79-d67a62f06cb0
 :END:
-##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222103358.png){:height 328, :width 360}
-#### 计算公式
-#####
+###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222103358.png){:height 328, :width 360}
+##### 计算公式
+######
 $$
 \begin{aligned}
 P\left(y_{i} \mid y_{1}, \ldots, y_{i-1}, x_{1}, \ldots, x_{|x|}\right) &=\operatorname{softmax}\left(W \operatorname{concat}\left(s_{i}, c_{i}\right)+b\right) \\
 c_{i} &=\sum_{j=1}^{|x|} \alpha_{i j} h_{j}
 \end{aligned}
 $$
-#### output hidden state, the **query**; input vector, the **keys**
-#### dot product attention
-#####
+##### output hidden state, the **query**; input vector, the **keys**
+##### dot product attention
+######
 $$
 \begin{array}{l}
 a_{i j}=s_{i} \cdot h_{j} \\
 \alpha_{i}=\operatorname{softmax}\left(a_{i}\right)
 \end{array}
 $$
-##### 点乘，两个向量越接近，结果越大，所以可以表示相似的权重
-#### 还有其他方法计算相似度
-##### bilinear model
-######
+###### 点乘，两个向量越接近，结果越大，所以可以表示相似的权重
+##### 还有其他方法计算相似度
+###### bilinear model
+#######
 $$
 \begin{array}{l}
 a_{i, j}=\mathbf{s}_{i} \mathbf{V} \mathbf{h}_{j}
 \end{array}
 $$
-##### FNN
-######
+###### FNN
+#######
 $$a_{i, j}=\operatorname{FFN}\left(\mathbf{s}_{i}, \mathbf{h}_{j}\right)$$
-### bidirectional RNN
-## Lecture 8 Evaluating Machine Translation Systems
-### good translation
-#### Adequacy:
-##### Does the output convey the same meaning as the input sentence? Is part of the message lost, added, or distorted?
-#### Fluency:
-##### Is the output good fluent English? Is is grammatically correct? Does it use appropriate words and idioms?
-### human evaluation
-####
+#### bidirectional RNN
+### Lecture 8 Evaluating Machine Translation Systems
+#### good translation
+##### Adequacy:
+###### Does the output convey the same meaning as the input sentence? Is part of the message lost, added, or distorted?
+##### Fluency:
+###### Is the output good fluent English? Is is grammatically correct? Does it use appropriate words and idioms?
+#### human evaluation
+#####
 $$
 \kappa=\frac{p(A)-p(E)}{1-p(E)}
 $$
-#### $p(A)$ is proportion of times that evaluators agree.
-#### $p(E)$ is proportion of times that they would agree by chance.
-### BLEU
-####
+##### $p(A)$ is proportion of times that evaluators agree.
+##### $p(E)$ is proportion of times that they would agree by chance.
+#### BLEU
+#####
 $$
 \mathrm{BLEU}=\min \left(1, \frac{\text { output length }}{\text { reference length }}\right)\left(\prod_{n=1}^{4} \text { precision }_{i}\right)^{\frac{1}{4}}
 $$
-#### Not all words are equally important! BLEU treats determiners and punctuation the same as names and other content words.
-#### BLEU is a poor proxy for both adequacy and fluency
-#### BLEU isn't interpretable across datasets.
-#### BLEU often scores human translation low.
-## Lecture 9 Open-Vocabulary Models
-### 之前提到的模型都需要一个固定的vocabulary size
-### 问题是
-#### many training corpora contain millions of word types
-#### productive word formation processes (compounding; derivation)
+##### Not all words are equally important! BLEU treats determiners and punctuation the same as names and other content words.
+##### BLEU is a poor proxy for both adequacy and fluency
+##### BLEU isn't interpretable across datasets.
+##### BLEU often scores human translation low.
+### Lecture 9 Open-Vocabulary Models
+#### 之前提到的模型都需要一个固定的vocabulary size
+#### 问题是
+##### many training corpora contain millions of word types
+##### productive word formation processes (compounding; derivation)
  allow formation and understanding of unseen words
-#### names, numbers are morphologically simple, but open word
+##### names, numbers are morphologically simple, but open word
 classes
-### Open-vocabulary models
-#### Non-Solution: Ignore Rare Words
-##### replace out-of-vocabulary words with UNK
-##### 50 000 words covers 95% of text
-##### 但很稀少的词往往有极其独特的含义，所以很重要
-#### Solution 1: Approximative Softmax
-##### [Jean et al., 2015]
-##### compute softmax over ”active” subset of vocabulary
-##### limitations
-###### allows larger vocabulary, but still not open
-###### network may not learn good representation of rare words
-#### Solution 2: Back-off Models
-##### replace rare words with UNK at training time
-##### when system produces UNK, align UNK to source word, and translate this with back-off method
-##### 结果就挺离谱的
-##### 限制
-###### compounds: hard to model 1-to-many relationships
-###### morphology: hard to predict inflection with back-off dictionary
-###### names: if alphabets differ, we need transliteration
-###### alignment: attention model unreliable
-#### Solution 3: Subword NMT
-##### Byte pair encoding (BPE)
-###### open-vocabulary: operations learned on training set can be applied to unknown words
-###### compression of frequent character sequences improves
+#### Open-vocabulary models
+##### Non-Solution: Ignore Rare Words
+###### replace out-of-vocabulary words with UNK
+###### 50 000 words covers 95% of text
+###### 但很稀少的词往往有极其独特的含义，所以很重要
+##### Solution 1: Approximative Softmax
+###### [Jean et al., 2015]
+###### compute softmax over ”active” subset of vocabulary
+###### limitations
+####### allows larger vocabulary, but still not open
+####### network may not learn good representation of rare words
+##### Solution 2: Back-off Models
+###### replace rare words with UNK at training time
+###### when system produces UNK, align UNK to source word, and translate this with back-off method
+###### 结果就挺离谱的
+###### 限制
+####### compounds: hard to model 1-to-many relationships
+####### morphology: hard to predict inflection with back-off dictionary
+####### names: if alphabets differ, we need transliteration
+####### alignment: attention model unreliable
+##### Solution 3: Subword NMT
+###### Byte pair encoding (BPE)
+####### open-vocabulary: operations learned on training set can be applied to unknown words
+####### compression of frequent character sequences improves
  efficiency → trade-off between text length and vocabulary size
-#### Solution 4: Character-level NMT
-##### advantages:
-###### (mostly) open-vocabulary
-###### no heuristic or language-specific segmentation
-###### neural network can conceivably learn from raw character sequences
-##### drawbacks:
-###### increasing sequence length slows training/decoding (reported x2-x8 increase in training time)
-##### open questions
-###### on which level should we represent meaning?
-###### on which level should attention operate?
-##### hierarchical model: back-off revisited
-###### word-level model produces UNKs
-###### for each UNK, character-level model predicts word based on word hidden state
-## Lecture 10 Transformer
-### 复习
-#### {{embed ((603454d6-c59f-4b54-b1c0-ae31e4fa5334))}}
-#### {{embed ((603455ce-8391-481e-b4a6-cf0964921958))}}
-### self-attention
-#### input $$\boldsymbol{x}_{1}, \ldots, \boldsymbol{x}_{t}$$
-#### output $$\boldsymbol{y}_{1}, \ldots, \boldsymbol{y}_{t}$$
-####
+##### Solution 4: Character-level NMT
+###### advantages:
+####### (mostly) open-vocabulary
+####### no heuristic or language-specific segmentation
+####### neural network can conceivably learn from raw character sequences
+###### drawbacks:
+####### increasing sequence length slows training/decoding (reported x2-x8 increase in training time)
+###### open questions
+####### on which level should we represent meaning?
+####### on which level should attention operate?
+###### hierarchical model: back-off revisited
+####### word-level model produces UNKs
+####### for each UNK, character-level model predicts word based on word hidden state
+### Lecture 10 Transformer
+#### 复习
+##### {{embed ((603454d6-c59f-4b54-b1c0-ae31e4fa5334))}}
+##### {{embed ((603455ce-8391-481e-b4a6-cf0964921958))}}
+#### self-attention
+##### input $$\boldsymbol{x}_{1}, \ldots, \boldsymbol{x}_{t}$$
+##### output $$\boldsymbol{y}_{1}, \ldots, \boldsymbol{y}_{t}$$
+#####
 $$
 \mathrm{y}_{i}=\sum_{j} w_{i j} \mathrm{x}_{j}
 $$
-#### $w_{ij}$ is the attention, computed as the dot-product of each input token with every other token
-#####
+##### $w_{ij}$ is the attention, computed as the dot-product of each input token with every other token
+######
 $$
 \begin{array}{r}
 w_{i j}^{\prime}=x_{i} \cdot x_{j} \\
 w_{i}=\operatorname{softmax}\left(w_{i}^{\prime}\right)
 \end{array}
 $$
-##### 注意力权重 $w_{ij}'$
-##### 注意力分布 $w_i$
-#### Architecture
-##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222105758.png){:height 416, :width 554}
-##### 和前一个结构相比，x之间的连接没有了
-#### 缺点  The input is a position invariant, i.e., we have no way to represent word order (unlike in an RNN).
-#### Query
-##### compare $x_i$ to every other vector to compute attention weights for its own output $y_i$
-#### Key
-##### compare $x_i$ to every other vector to compute attention weights for its other output $y_j$
-#### Value
-##### use $x_i$ in the weighted sum to compute every output vector based on these weights.
-####
+###### 注意力权重 $w_{ij}'$
+###### 注意力分布 $w_i$
+##### Architecture
+###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222105758.png){:height 416, :width 554}
+###### 和前一个结构相比，x之间的连接没有了
+##### 缺点  The input is a position invariant, i.e., we have no way to represent word order (unlike in an RNN).
+##### Query
+###### compare $x_i$ to every other vector to compute attention weights for its own output $y_i$
+##### Key
+###### compare $x_i$ to every other vector to compute attention weights for its other output $y_j$
+##### Value
+###### use $x_i$ in the weighted sum to compute every output vector based on these weights.
+#####
 $$
 \begin{array}{rl}
 \mathrm{q}_{i}=W_{q} x_{i} & \mathrm{k}_{i}=W_{k} \mathrm{x}_{i} \quad \mathrm{v}_{i}=W_{v} \mathrm{x}_{i} \\
@@ -427,156 +427,156 @@ w_{i j}^{\prime} & =\mathrm{q}_{i} \cdot \mathrm{k}_{j} \\
 \mathrm{y}_{i} & =\sum_{j} w_{i j} \mathrm{v}_{j}
 \end{array}
 $$
-#### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222175350.png){:height 294, :width 342}
-### Multi-Head attention
-#### 相当于多几个上面的模型输出给加权一下
-####
+##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222175350.png){:height 294, :width 342}
+#### Multi-Head attention
+##### 相当于多几个上面的模型输出给加权一下
+#####
 $$W^r_q, W^r_k, W^r_v$$
-#### Narrow self-attention: cut the input into chunks of size k/h (h: number of heads), use weight matrices of size k/h x k/h.
-#### Wide self-attention: use weight matrices that cover the whole input for each head, i.e., of size k x k.
-### Transformer
-#### Architecture of Transformer Block
-##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222180317.png)
-##### blue connections are residual connections
-###### They prevent the gradients from getting to large or small.
-##### Layer normalisation makes training faster.
-##### The feedforward layer applies a single MLP independently to
+##### Narrow self-attention: cut the input into chunks of size k/h (h: number of heads), use weight matrices of size k/h x k/h.
+##### Wide self-attention: use weight matrices that cover the whole input for each head, i.e., of size k x k.
+#### Transformer
+##### Architecture of Transformer Block
+###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222180317.png)
+###### blue connections are residual connections
+####### They prevent the gradients from getting to large or small.
+###### Layer normalisation makes training faster.
+###### The feedforward layer applies a single MLP independently to
  each input vector.
-#### A bigger architecture
-##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222180646.png)
-##### Attention is position invariant
-##### Position Encodings
-######
+##### A bigger architecture
+###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222180646.png)
+###### Attention is position invariant
+###### Position Encodings
+#######
 $$
 f: \mathbb{N} \rightarrow \mathbb{R}^{k}
 $$
-###### Vaswani et al. ( 2017 )
-#######
+####### Vaswani et al. ( 2017 )
+########
 $$
 \begin{aligned}
 P E_{(p o s, 2 i)} &=\sin \left(\operatorname{pos} / 10000^{2 i / k}\right) \\
 P E_{(p o s, 2 i+1)} &=\cos \left(p o s / 10000^{2 i / k}\right)
 \end{aligned}
 $$
-####### 所以在i=2的the和i=7的the会有一些些不一样
-### 剩余部分在Lecture 12讲
-## Lecture 11 Word Embeddings
-### Recall Lecture 5, n-gram probabilities:
-#### {{embed ((((6033f4e0-afdc-4f7b-8097-f76d3ee3dd20))))}}
-#### C 和 word embedding 最相关
-### Recall Lecture 6, RNN
-#### drop Markov assumption
-#### {{embed ((60341335-7dab-4af4-8418-3f90ce1af87a)) }}
-### 引入
-#### 隐藏层是其输入的表示
-#### one-hot encoding是一种 word embedding
-#### 和迁移学习的关系？
-### Pre-training and Finetuning
-#### Feature Extraction
-##### VGG-16
-###### architecture
-####### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222203652.png){:height 324, :width 509}
-###### take the output of the last layer (here: fc8) as a feature vector.
-#### **Pre-training**: train a generic source model (e.g., VGG-16) on a standard, large dataset (e.g., ImageNet).
-#### **Fine-tuning**: then take the resulting model, keep its parameters, and replace the output layer to suit the new task. Now train this target model on the dataset for the new task.
-##### Transfer learning by ﬁne-tuning.
-##### truncate the last layer
-#### **weight freezing**: only finetune a handful of final layers, you keep the other ones fixed
-##### Finetuning without weight freezing is normally too slow.
-#### **source model** is the neural language model (NLM)
-#### **target model** is often ver y diﬀerent from the NLM
-#### **target model** is often ver y diﬀerent from the NLM
-#### word embeddings as the input representations for a new task, then we're doing feature extraction.
-### Word Embeddings
-#### word embeddings as the input representations for a new task, then we're doing feature extraction.
-#### contextualised word embeddings
-##### 原来每个单词自己编码成向量，比如word2vec
-##### 上下文词嵌入则是先过一层，把获得单词上下文，再对每个单词输出一个向量
-#### Overview
-##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222205625.png)
-##### Fast Text挺好的
-##### 之后会细讲Elmo，GPT，BERT
-##### Static Word Embeddings
-###### fixed vector to each word
-###### used for feature extration
-###### not designd for fine-tuning，但是也能用
-##### Contextualised (or Dynamic) Word Embeddings
-###### a vector to a word that depends on its context
+######## 所以在i=2的the和i=7的the会有一些些不一样
+#### 剩余部分在Lecture 12讲
+### Lecture 11 Word Embeddings
+#### Recall Lecture 5, n-gram probabilities:
+##### {{embed ((((6033f4e0-afdc-4f7b-8097-f76d3ee3dd20))))}}
+##### C 和 word embedding 最相关
+#### Recall Lecture 6, RNN
+##### drop Markov assumption
+##### {{embed ((60341335-7dab-4af4-8418-3f90ce1af87a)) }}
+#### 引入
+##### 隐藏层是其输入的表示
+##### one-hot encoding是一种 word embedding
+##### 和迁移学习的关系？
+#### Pre-training and Finetuning
+##### Feature Extraction
+###### VGG-16
+####### architecture
+######## ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222203652.png){:height 324, :width 509}
+####### take the output of the last layer (here: fc8) as a feature vector.
+##### **Pre-training**: train a generic source model (e.g., VGG-16) on a standard, large dataset (e.g., ImageNet).
+##### **Fine-tuning**: then take the resulting model, keep its parameters, and replace the output layer to suit the new task. Now train this target model on the dataset for the new task.
+###### Transfer learning by ﬁne-tuning.
+###### truncate the last layer
+##### **weight freezing**: only finetune a handful of final layers, you keep the other ones fixed
+###### Finetuning without weight freezing is normally too slow.
+##### **source model** is the neural language model (NLM)
+##### **target model** is often ver y diﬀerent from the NLM
+##### **target model** is often ver y diﬀerent from the NLM
+##### word embeddings as the input representations for a new task, then we're doing feature extraction.
+#### Word Embeddings
+##### word embeddings as the input representations for a new task, then we're doing feature extraction.
+##### contextualised word embeddings
+###### 原来每个单词自己编码成向量，比如word2vec
+###### 上下文词嵌入则是先过一层，把获得单词上下文，再对每个单词输出一个向量
+##### Overview
+###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222205625.png)
+###### Fast Text挺好的
+###### 之后会细讲Elmo，GPT，BERT
 ###### Static Word Embeddings
 ####### fixed vector to each word
 ####### used for feature extration
 ####### not designd for fine-tuning，但是也能用
-#### Static Word Embeddings
-##### Word2Vec
-###### architecture
-####### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222210337.png){:height 324, :width 253}
-###### Has only a single, linear hidden layer.
-##### Word2Vec: Skipgram
-###### architecture
-####### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222210620.png){:height 320, :width 234}
-###### uses the current word to predict the context words.
-###### Levy and Goldberg ( 2014 )
-###### word $w \in W$, vector $v_w \in \mathbb{R}^d$
-###### context $c \in C$, vector $v_c \in \mathbb{R}^d$
-###### $W$ word vocabulary, $C$ context vocabulary, $d$ embedding dimensionality
-###### Vector components are **latent** ( parameters to be learned )
-###### 目标函数
-#######
+###### Contextualised (or Dynamic) Word Embeddings
+####### a vector to a word that depends on its context
+####### Static Word Embeddings
+######## fixed vector to each word
+######## used for feature extration
+######## not designd for fine-tuning，但是也能用
+##### Static Word Embeddings
+###### Word2Vec
+####### architecture
+######## ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222210337.png){:height 324, :width 253}
+####### Has only a single, linear hidden layer.
+###### Word2Vec: Skipgram
+####### architecture
+######## ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222210620.png){:height 320, :width 234}
+####### uses the current word to predict the context words.
+####### Levy and Goldberg ( 2014 )
+####### word $w \in W$, vector $v_w \in \mathbb{R}^d$
+####### context $c \in C$, vector $v_c \in \mathbb{R}^d$
+####### $W$ word vocabulary, $C$ context vocabulary, $d$ embedding dimensionality
+####### Vector components are **latent** ( parameters to be learned )
+####### 目标函数
+########
 $$\underset{\theta}{\operatorname{argmax}} \prod_{(w, c) \in D} p(c \mid w ; \theta)$$
-###### basic skipgram formulation
-#######
+####### basic skipgram formulation
+########
 $$
 p(c \mid w ; \theta)=\frac{\exp \left(v_{c} \cdot v_{w}\right)}{\sum_{c^{\prime} \in C} \exp \left(v_{c^{\prime}} \cdot v_{w}\right)}
 $$
-####### 但分母没办法计算
-###### Traning，略
+######## 但分母没办法计算
+####### Traning，略
+###### Contextualised (or Dynamic) Word Embeddings
+####### a vector to a word that depends on its context
 ##### Contextualised (or Dynamic) Word Embeddings
-###### a vector to a word that depends on its context
-#### Contextualised (or Dynamic) Word Embeddings
-####### 但分母没办法计算，解决办法是Negative Sampling
-###### Negative Sampling
-## Lecture 12 Contextualised Word Embeddings
-### 复习
-#### In lecture 10, we saw how we can stack transformers and use them for **classification**. We apply mean pooling to the output and map it onto a class vector.
-#### We can also use transformers for **sequence prediction**. For this we need to mask some of the input.
-#### In lecture 11, we saw how we can derive **embeddings** from neural language models.
-#### Transformers are language model that can represent context
+######## 但分母没办法计算，解决办法是Negative Sampling
+####### Negative Sampling
+### Lecture 12 Contextualised Word Embeddings
+#### 复习
+##### In lecture 10, we saw how we can stack transformers and use them for **classification**. We apply mean pooling to the output and map it onto a class vector.
+##### We can also use transformers for **sequence prediction**. For this we need to mask some of the input.
+##### In lecture 11, we saw how we can derive **embeddings** from neural language models.
+##### Transformers are language model that can represent context
  very well: they can learn **contextualized embeddings**.
-#### Contextualized language models can be used for feature
+##### Contextualized language models can be used for feature
  extraction, but also in a **pre-training/finetuning** setup.
-### Bert ( Bidirectional Encoder Representations from Transformers ) :
-#### Basic Bert Architecture
-##### multi-layer bidirectional transformer (Vaswani et al. 2017); L: layers (transformer blocks); H: dimensionality of hidden
+#### Bert ( Bidirectional Encoder Representations from Transformers ) :
+##### Basic Bert Architecture
+###### multi-layer bidirectional transformer (Vaswani et al. 2017); L: layers (transformer blocks); H: dimensionality of hidden
  layer, A: number of self-attention heads;
-##### GPT 单向
-##### ELMo 不为fine tuning设计
-##### BERT 双向，fine tuning
+###### GPT 单向
+###### ELMo 不为fine tuning设计
+###### BERT 双向，fine tuning
 6, 340M parameters.
-##### Ber
-##### multi-layer bidirectional transformer (Vaswani et al. 2017);
-##### L: layers (transformer blocks);
-##### H: dimensionality of hidden layer,
-##### A: number of self-attention heads;
-#### Input sequence: can be (Question, Answer) pair, single sentence, or any other string of tokens;
-#### use WordPiece to do word embedding (token embedding), 30000 vocabulary
-#### [CL^^^^S], [SEP]
-#### plug Segment Embeddings and Position Embeddings
-### Masked Training
-#### 因为输入输出一样，可能网络什么都没学到，所以需要masking
-#### Solution: 随机 mask 15% of the tokens in the input sequence; train the model to predict these.
-#### 在fine tuning的时候，没有[MASK]
-##### 1. the [MASK] token 80% of the time;
-##### 2. a random token 10% of the time;
-##### 3. the unchanged i-th token 10% of the time.
-##### 原因
-###### if we always use [MASK] token, the model would not have to learn good representation for other words;
-###### if we only use [MASK] token or random word, model would learn that observed word is never correct;
-###### if we only use [MASK] token or observed word, model would just learn to trivially copy
-#### Secondary Task: Next Sentence Prediction
-##### generate training data: chose two sentences A and B, such that 50% of the time B is the actual next sentence of A, and 50% of the time a randomly selected sentence.
-### Pre-training and Finetuning Bert
-#### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222231336.png)
-## Lecture 13 Ethics in NLP
+###### Ber
+###### multi-layer bidirectional transformer (Vaswani et al. 2017);
+###### L: layers (transformer blocks);
+###### H: dimensionality of hidden layer,
+###### A: number of self-attention heads;
+##### Input sequence: can be (Question, Answer) pair, single sentence, or any other string of tokens;
+##### use WordPiece to do word embedding (token embedding), 30000 vocabulary
+##### [CL^^^^S], [SEP]
+##### plug Segment Embeddings and Position Embeddings
+#### Masked Training
+##### 因为输入输出一样，可能网络什么都没学到，所以需要masking
+##### Solution: 随机 mask 15% of the tokens in the input sequence; train the model to predict these.
+##### 在fine tuning的时候，没有[MASK]
+###### 1. the [MASK] token 80% of the time;
+###### 2. a random token 10% of the time;
+###### 3. the unchanged i-th token 10% of the time.
+###### 原因
+####### if we always use [MASK] token, the model would not have to learn good representation for other words;
+####### if we only use [MASK] token or random word, model would learn that observed word is never correct;
+####### if we only use [MASK] token or observed word, model would just learn to trivially copy
+##### Secondary Task: Next Sentence Prediction
+###### generate training data: chose two sentences A and B, such that 50% of the time B is the actual next sentence of A, and 50% of the time a randomly selected sentence.
+#### Pre-training and Finetuning Bert
+##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222231336.png)
+### Lecture 13 Ethics in NLP
 ## Lecture 14 Word Embeddings are Biased
 ## Lecture 15 The Environmental and Human Cost of NLP
 ## Lecture 16 Neural Parsing
