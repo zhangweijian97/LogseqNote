@@ -627,10 +627,9 @@ $$
 ###### he 和 职业
 ###### she 和 职业
 ###### she-he
-####### 定义上
-######## q ueen-kin g
-####### 刻板印象
-######## lovely-brilliant
+####### 定义上，queen-king，等
+####### 刻板印象，lovely-brilliant，等
+#####
 #### Bias in NLP systems
 
 #### What can you do?
