@@ -599,7 +599,7 @@ $$
 ###### Note: Our goal is not to balance benefits and harm! We want to have as much benefit as possible, with as few harms as possible. When benefits accrue mostly to the powerful, and harms happen mainly to the powerless, this increases social inequity.
 ###### Harms to **privacy and security**: data aggregation and inference can lead to many types of harm to individuals
 ###### Harms to **transparency and autonomy**: Deep learning systems cannot explain outcomes, and individuals may not be able to challenge outcomes that harm them.
-###### 。
+###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223144701.png)
 #####
 ### Lecture 14 Word Embeddings are Biased
 ### Lecture 15 The Environmental and Human Cost of NLP
