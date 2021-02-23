@@ -5,9 +5,10 @@ title: Inception Score
 ## Name
 ### [[Inception Score]]
 ## Type
-# #PermanentNote
+## #PermanentNote
+##
 ---
-Temporary notes 临时笔记
+## Temporary notes 临时笔记
 # 后续再整理
 ---
 Literature Notes
