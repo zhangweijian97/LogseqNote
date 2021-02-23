@@ -794,5 +794,7 @@ $$
 ##### Kitaev and Klein (2018):
 ###### tranformer
 ###### context aware summary vector
-###### word
+###### word，pos tag，position
+###### span scores
+######
 #####
