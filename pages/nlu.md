@@ -715,7 +715,10 @@ $$
 ##### 海洋气温
 #### The Carbon Cost of Al
 ##### kinds of costs
-######
+###### Costs to progress Research and development of new NLP models multiplies these costs by thousands, due to experimentation with model architectures, parameters, and different dataasets.
+###### Costs to access Many models require access to specialized hardware (many GPUs or TPUs) limiting access to the richest (Who benefits from this? How does it affect existing power imbalances?)
+###### Costs to the environment Computation requires energy, and not all of this energy is carbon-neutral. Where it is. training NLP may not be the best allocation of that energy
+#####
 #### 总结
 ##### 训练时间和超参数选择增加了碳排放，而这在SOTA中很常见
 ##### 对计算资源的掌控导致强者愈强
