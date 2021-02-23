@@ -759,7 +759,9 @@ $$
 ###### 更深的网络
 ###### 加注意力
 ###### 用预训练词嵌入模型
-###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223201534.png)
+###### Vinyals et al. (2015)
+####### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223201534.png)
+######
 #### Potential Problems
 #### Results
 #### Parsing with Transformers
