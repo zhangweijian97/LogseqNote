@@ -783,5 +783,5 @@ $$
 ###### Ensembling models helps. Which is almost always the case
 ###### If we have **a lot of training data**, we get a large boost. And even the simple model without attention starts to work.
 ###### A simple encoder-decoder model can match the performance of the Berkeley parser (a probabilistic chart parser; O(n3) complexity)
-###### Even though we use an LSTM, performance by sentence ength is same or better than the Berkeley parser.
+###### Even though we use an LSTM, performance by sentence length is same or better than the Berkeley parser.
 #### Parsing with Transformers
