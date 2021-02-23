@@ -631,7 +631,8 @@ $$
 ####### 刻板印象，lovely-brilliant，等
 ##### Job descriptions in 20th century (American) texts
 ###### 相似的工作 分别和 西班牙裔，亚裔，白人
-#####
+##### 性别联系，随时间改变
+######
 #### Bias in NLP systems
 
 #### What can you do?
