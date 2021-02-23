@@ -18,5 +18,5 @@ title: Template
 ---
 ### Literature Notes
 #### zotaro
-#### cite \cite{cite_name}
+#### cite \\cite{cite_name}
 ####
