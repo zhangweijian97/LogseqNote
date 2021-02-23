@@ -592,7 +592,7 @@ $$
 ####### of the language faculty and its social use-e.g. through use in computational psycholinguistics and computational sociolinguistics.
 ##### **How can my system harm people?**
 ##### Who is aﬀected
-######
+###### .
 ### Lecture 14 Word Embeddings are Biased
 ### Lecture 15 The Environmental and Human Cost of NLP
 ### Lecture 16 Neural Parsing
