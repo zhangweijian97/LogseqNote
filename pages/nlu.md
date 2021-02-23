@@ -719,7 +719,7 @@ $$
 ####### Research and development of new NLP models multiplies these costs by thousands, due to experimentation with model architectures, parameters, and different datasets.
 ###### 访问成本（模型运行在昂贵的硬件上）Costs to access
 ####### Many models require access to specialized hardware (many GPUs or TPUs) limiting access to the richest (Who benefits from this? How does it affect existing power imbalances?)
-###### Costs to the environment
+###### 环境成本 Costs to the environment
 ####### Computation requires energy, and not all of this energy is carbon-neutral. Where it is. training NLP may not be the best allocation of that energy
 #####
 #### 总结
