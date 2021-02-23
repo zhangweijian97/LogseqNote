@@ -753,6 +753,7 @@ $$
 ###### $(S ~(NP ~Pro)_{NP} (VP~ V (NP~ Det~ N (PP ~P~ Det~ N)_{PP} )_{NP} )_{VP} )_{S}$
 ##### An Encoder-Decoder for Parsing
 ###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223201250.png){:height 409, :width 557}
+##### EOS (end of sequence)
 #####
 #### Potential Problems
 #### Results
