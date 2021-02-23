@@ -577,6 +577,11 @@ $$
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222231336.png)
 ###
 ## Lecture 13 Ethics in NLP
+###
+#+BEGIN_QUOTE
+
+#+END_QUOTE
+###
 ## Lecture 14 Word Embeddings are Biased
 ## Lecture 15 The Environmental and Human Cost of NLP
 ## Lecture 16 Neural Parsing
