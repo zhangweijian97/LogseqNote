@@ -747,6 +747,7 @@ $$
 ##### 这里的输出是树
 ##### 可以 **linearize**
 ###### (S (NP (Pro You)) (VP (V saw ) (NP (Det a) (N man ) (PP (P with) (Det a) (N telescope))))).
+##### 删掉单词，化简
 ######
 #### Potential Problems
 #### Results
