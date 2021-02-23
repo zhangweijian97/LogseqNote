@@ -13,7 +13,8 @@ title: Template
 #### #PermanentNote
 ###
 ---
-### Temporary notes
+### Temporary notes 临时笔记
+####
 ###
 ---
 ### Literature Notes
