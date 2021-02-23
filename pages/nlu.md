@@ -742,8 +742,7 @@ $$
 ##### 输入输出都是符号序列
 #### Reading: Vinyals et al. ( 2015 )
 #### Neural Parsing
-##### Parsing is the task of turning a sequence of words:
-###### 1.  into a syntax tree:
+##### Parsing is the task of turning a sequence of words into a syntax tree:
 ###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223200644.png)
 ######
 #### Potential Problems
