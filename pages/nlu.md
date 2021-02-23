@@ -635,7 +635,7 @@ $$
 ###### 1910，1950，1990
 ##### text和种族联系，随时间变化
 #### Bias in NLP systems
-##### Case study: **219 automatic sentiment analysis systems**, submitted to a shared task intended to measure anger, fear, joy, sadness.
+##### Case study: **219 automatic sentiment analysis systems**, submitted to a shared task intended to measure **anger, fear, joy, sadness**.
 #####
 #### What can you do?
 ### Lecture 15 The Environmental and Human Cost of NLP
