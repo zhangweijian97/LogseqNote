@@ -770,8 +770,6 @@ $$
 ##### 输出的长度更长
 ###### 并不是问题
 ##### 如何确定是best overall sequence 而不是 best symbol at each time step
-######
-##### 解决方法
-###### 手动加括号
+###### Beam search
 #### Results
 #### Parsing with Transformers
