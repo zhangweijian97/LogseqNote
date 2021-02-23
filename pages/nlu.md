@@ -633,9 +633,9 @@ $$
 ###### 相似的工作 分别和 西班牙裔，亚裔，白人
 ##### 性别和形容词联系，随时间的变化
 ###### 1910，1950，1990
-#####
+##### text和种族联系，随时间变化
 #### Bias in NLP systems
-
+#####
 #### What can you do?
 ### Lecture 15 The Environmental and Human Cost of NLP
 ### Lecture 16 Neural Parsing
