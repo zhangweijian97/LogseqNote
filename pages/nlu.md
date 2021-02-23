@@ -792,6 +792,7 @@ $$
 ###### in some cases, the model skips words
 #### Parsing with Transformers
 ##### Kitaev and Klein (2018):
+###### 特点
 ###### tranformer
 ###### context aware summary vector
 ###### word，pos tag，position
