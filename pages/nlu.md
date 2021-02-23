@@ -593,6 +593,7 @@ $$
 ##### **How can my system harm people?**
 ##### Who is aﬀected
 ###### language data
+#####
 ### Lecture 14 Word Embeddings are Biased
 ### Lecture 15 The Environmental and Human Cost of NLP
 ### Lecture 16 Neural Parsing
