@@ -640,5 +640,74 @@ $$
 ####### 比如 Ebony made me feel angry .
 ######
 #### What can you do?
+#### Bias in NLP systems
+
+##### Case study: **219 automatic sentiment analysis systems**, submitted to a shared task intended to measure **anger, fear, joy, sadness**.
+
+###### 生成数据  (PERSON) made me feel (EMOTIONAL STATE WoRD).
+
+####### 比如 Ebony made me feel angry .
+
+###### 结论包括 Most systems associated European-American names more strongly with joy 等
+
+#### What can you do?
+
+##### gender subspace
+
+##### Debiasing
+
+###### 利用一部分词之间embed的关系（she-he）来去除其他词的bias
+
+###### 好像没啥用
+
+##### traps
+
+###### The Framing Trap
+
+####### Data is constrained by access and opportunity, and not all factors are captured in the data frame.
+
+###### The Portability Trap
+
+####### Algorithmic solutions designed for one social context may be misleading, inaccurate, or otherwise harmful in different contexts.
+
+###### The Formalism Trap
+
+####### Social concepts such as fairness-which can be procedural, contextual, and contestable-cannot be resolved mathematically.
+
+###### The Ripple Effect Trap
+
+####### Adding tech to existing social systems changes the behaviours and embedded values of existing systems.
+
+###### The Solutionism Trap
+
+####### The best solution to a problem may not involve technology.
+
+##### Ask questions of your data
+
+###### Why was the dataset created?
+
+###### Who funded the creation of the dataset?
+
+###### What preprocessing or cleaning was done?
+
+###### If it relates to people, were they told what the dataset would
+
+ be usef for, and did they consent?
+
+###### Will the dataset be updated?
+
+#### Summary 考点
+
+##### Word embeddings are a basic technology used in many NLP technologies; they are freely available and used by many developers large and small.
+
+##### Word embeddings empirically exhibit many cultural stereotypes and biases, with strong statistical effects: technology will reflect and can potentially amplify these biases.
+
+##### Who benefits? Who is harmed?
+
+##### Bias and unfairness is a deep sociotechnical problem. We do not know how to solve it with maths, and it's unlikely that we will.
+
+##### Be critical of your data. Does it fit your purpose?
+
+##### When building systems you need to consider social anc historical context, and involve people who will be affected.
 ### Lecture 15 The Environmental and Human Cost of NLP
 ### Lecture 16 Neural Parsing
