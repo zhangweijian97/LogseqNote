@@ -787,6 +787,7 @@ $$
 ##### 分析注意力
 ###### Attention matrix shows that the model focuses on one word as it produces the parse tree.
 ###### It moves through the input sequence monotonically (left to right)
-###### Model learns stack-like behavior when producing the output. Note that if model focuses on position i, that state has information for all words after i (input is reversed).
+###### Model learns stack-like behavior when producing the output.
+###### Note that if model focuses on position i, that state has information for all words after i (input is reversed).
 ###### in some cases, the model skips words
 #### Parsing with Transformers
