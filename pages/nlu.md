@@ -739,7 +739,7 @@ $$
 :END:
 #### 复习
 ##### ((603454d6-c59f-4b54-b1c0-ae31e4fa5334))
-#####
+##### 输入输出都是符号序列
 #### Reading: Vinyals et al. ( 2015 )
 #### Neural Parsing
 #### Potential Problems
