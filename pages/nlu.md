@@ -734,3 +734,6 @@ $$
 ###### relinquishment 放弃
 ###### restoration 恢复
 ### Lecture 16 Neural Parsing
+:PROPERTIES:
+:id: 60355745-cbce-4ca6-b644-c7a9a672b14d
+:END:
