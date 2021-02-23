@@ -17,10 +17,6 @@ title: Inception Score
 ## cite
 ### \\cite{cite_name}
 ## bib
-##
-##
----
-##
 ## Permanent Notes
 # 大段文字描述，不进行引用
 # 联想
