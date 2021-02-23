@@ -743,7 +743,7 @@ $$
 #### Reading: Vinyals et al. ( 2015 )
 #### Neural Parsing
 ##### Parsing is the task of turning a sequence of words into a syntax tree:
-###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223200644.png)
+###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223200644.png){:height 218, :width 261}
 ##### 这里的输出是树
 ##### 可以 **linearize**
 ###### (S (NP (Pro You)) (VP (V saw ) (NP (Det a) (N man ) (PP (P with) (Det a) (N telescope))))).
