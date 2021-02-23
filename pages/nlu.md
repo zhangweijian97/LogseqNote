@@ -777,5 +777,5 @@ $$
  annotated sentences.
 ###### BerkeleyParser corpus: 90k sentences from WSJ and several other treebanks, and 11M sentences parsed with Berkeley Parser.
 ###### High-confidence corpus: 90k sentences from WSJ from several treebanks, and 11M sentences for which two parsers produce the same tree (length resampled).
-#####
+##### 当时实现SOTA
 #### Parsing with Transformers
