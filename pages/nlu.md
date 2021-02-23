@@ -799,5 +799,10 @@ $$
 ####### span scores
 ####### attention blocks，attention head
 ####### factored attention head
+###### decoder
+#######
+$$
+s(T)=\sum_{(i, j, l) \in T} s(i, j, l)
+$$
 ######
 #####
