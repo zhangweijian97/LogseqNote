@@ -713,5 +713,6 @@ $$
 #### The Carbon Cost of Al
 #### 总结
 ##### 训练时间和超参数选择增加了碳排放，而这在SOTA中很常见
+##### 对计算资源的掌控导致强者愈强
 #####
 ### Lecture 16 Neural Parsing
