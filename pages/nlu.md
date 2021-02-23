@@ -773,6 +773,5 @@ $$
 ######
 ##### 解决方法
 ###### 手动加括号
-######
 #### Results
 #### Parsing with Transformers
