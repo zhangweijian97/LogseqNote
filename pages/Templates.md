@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Templates
 ---
 
 ## Research Note Template
