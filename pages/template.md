@@ -8,7 +8,7 @@ title: Template
 :including-parent: false
 :END:
 ### Name
-#### [[concept_name]]
+#### [[identical_concept_name]]
 ### Type
 #### #PermanentNote
 ###
