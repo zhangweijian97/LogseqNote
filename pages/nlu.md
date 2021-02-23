@@ -723,7 +723,6 @@ $$
 ####### Computation requires energy, and not all of this energy is carbon-neutral. Where it is. training NLP may not be the best allocation of that energy
 ##### Estimating the carbon cost of a model
 ###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223195330.png)
-#####
 #### 总结
 ##### 训练时间和超参数选择增加了碳排放，而这在SOTA中很常见
 ##### 对计算资源的掌控导致强者愈强
