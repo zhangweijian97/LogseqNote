@@ -636,7 +636,8 @@ $$
 ##### text和种族联系，随时间变化
 #### Bias in NLP systems
 ##### Case study: **219 automatic sentiment analysis systems**, submitted to a shared task intended to measure **anger, fear, joy, sadness**.
-###### 生成数据
+###### 生成数据  (PERSON) made me feel (EMOTIONAL STATE WoRD).
+######
 #### What can you do?
 ### Lecture 15 The Environmental and Human Cost of NLP
 ### Lecture 16 Neural Parsing
