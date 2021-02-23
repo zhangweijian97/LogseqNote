@@ -602,6 +602,7 @@ $$
 ###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223144701.png)
 #####
 ### Lecture 14 Word Embeddings are Biased
+#### Bias in representations
 ####
 ### Lecture 15 The Environmental and Human Cost of NLP
 ### Lecture 16 Neural Parsing
