@@ -761,7 +761,6 @@ $$
 ###### 用预训练词嵌入模型
 ###### Vinyals et al. (2015)
 ####### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223201534.png)
-######
 #### Potential Problems
 ##### 括号并不能完全配对上
 ###### 手动加括号
@@ -772,4 +771,5 @@ $$
 ##### 如何确定是best overall sequence 而不是 best symbol at each time step
 ###### Beam search
 #### Results
+#####
 #### Parsing with Transformers
