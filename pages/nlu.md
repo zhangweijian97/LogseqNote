@@ -784,5 +784,6 @@ $$
 ###### If we have **a lot of training data**, we get a large boost. And even the simple model without attention starts to work.
 ###### A simple encoder-decoder model can match the performance of the Berkeley parser (a probabilistic chart parser; O(n3) complexity)
 ###### Even though we use an LSTM, performance by sentence length is same or better than the Berkeley parser.
-#####
+##### 分析注意力
+######
 #### Parsing with Transformers
