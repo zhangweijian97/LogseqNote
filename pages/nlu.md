@@ -738,7 +738,7 @@ $$
 :id: 60355745-cbce-4ca6-b644-c7a9a672b14d
 :END:
 #### 复习
-#####
+##### ((603454d6-c59f-4b54-b1c0-ae31e4fa5334))
 #### Reading: Vinyals et al. ( 2015 )
 #### Neural Parsing
 #### Potential Problems
