@@ -581,6 +581,7 @@ $$
 :id: 60350bda-eb15-442e-8c85-04fdb69a9ab4
 :END:
 #### 语言真正相关的是人，而不是单词
+#### 这节课主要关于NLP的社会影响
 ####
 ### Lecture 14 Word Embeddings are Biased
 ### Lecture 15 The Environmental and Human Cost of NLP
