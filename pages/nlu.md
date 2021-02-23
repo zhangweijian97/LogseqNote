@@ -707,5 +707,8 @@ $$
 :PROPERTIES:
 :id: 60355745-fe08-426b-9e3b-10e2ae2a6e10
 :END:
-####
+#### Anatomy of an Al system
+#####
+#### Carbon and the Climate Crisis
+#### The Carbon Cost of Al
 ### Lecture 16 Neural Parsing
