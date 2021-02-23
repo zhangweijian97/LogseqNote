@@ -749,7 +749,7 @@ $$
 ###### (S (NP (Pro You)) (VP (V saw ) (NP (Det a) (N man ) (PP (P with) (Det a) (N telescope))))).
 ##### 删掉单词，化简
 ###### (S (NP Pro) (VP V (NP Det N (PP P Det N))))
-#####
+##### ![](https://cdn.mathpix.com/snip/images/ey5dir0P7SsHg8RO0EREvNfIT12y-v-PC1M-dViWb3U.original.fullsize.png)
 #### Potential Problems
 #### Results
 #### Parsing with Transformers
