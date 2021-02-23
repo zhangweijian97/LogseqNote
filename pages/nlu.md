@@ -637,6 +637,7 @@ $$
 #### Bias in NLP systems
 ##### Case study: **219 automatic sentiment analysis systems**, submitted to a shared task intended to measure **anger, fear, joy, sadness**.
 ###### 生成数据  (PERSON) made me feel (EMOTIONAL STATE WoRD).
+####### 比如 Ebony made me feel angry .
 ######
 #### What can you do?
 ### Lecture 15 The Environmental and Human Cost of NLP
