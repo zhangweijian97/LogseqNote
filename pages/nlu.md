@@ -584,8 +584,8 @@ $$
 #### 这节课主要关于NLP的社会影响
 #### The social impact of NLP
 ##### benefits
-##### Efficiency
-###### for individuals and institutions trying to understand and summarize information in many languages
+###### Efficiency
+####### for individuals and institutions trying to understand and summarize information in many languages
 ##### Personalization
 ###### for users, e.g. through digital assistants, tutoring agents, and other services.
 ##### Human understanding
