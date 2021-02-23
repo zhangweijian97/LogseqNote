@@ -754,7 +754,10 @@ $$
 ##### An Encoder-Decoder for Parsing
 ###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223201250.png){:height 409, :width 557}
 ##### EOS (end of sequence)
-#####
+##### 反转输入
+##### 更深的网络
+##### 加注意力
+##### 用预训练词嵌入模型
 #### Potential Problems
 #### Results
 #### Parsing with Transformers
