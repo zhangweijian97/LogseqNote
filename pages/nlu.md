@@ -704,4 +704,7 @@ $$
 
 ##### When building systems you need to consider social anc historical context, and involve people who will be affected.
 ### Lecture 15 The Environmental and Human Cost of NLP
+:PROPERTIES:
+:id: 60355745-fe08-426b-9e3b-10e2ae2a6e10
+:END:
 ### Lecture 16 Neural Parsing
