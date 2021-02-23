@@ -750,7 +750,7 @@ $$
 ##### 删掉单词，化简
 ###### (S (NP Pro) (VP V (NP Det N (PP P Det N))))
 #####
-###### ![](https://cdn.mathpix.com/snip/images/ey5dir0P7SsHg8RO0EREvNfIT12y-v-PC1M-dViWb3U.original.fullsize.png){:height 48, :width 580}
+######
 #### Potential Problems
 #### Results
 #### Parsing with Transformers
