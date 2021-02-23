@@ -751,6 +751,7 @@ $$
 ###### (S (NP Pro) (VP V (NP Det N (PP P Det N))))
 ##### 标记右括号
 ###### $(S ~(NP ~Pro)_{NP} (VP~ V (NP~ Det~ N (PP ~P~ Det~ N)_{PP} )_{NP} )_{VP} )_{S}$
+##### An Encoder-Decoder for Parsing
 ######
 #### Potential Problems
 #### Results
