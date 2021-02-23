@@ -593,6 +593,7 @@ $$
 ##### **How can my system harm people?**
 ##### Who is aﬀected
 ###### language data
+##### 阿拉伯例子
 #####
 ### Lecture 14 Word Embeddings are Biased
 ### Lecture 15 The Environmental and Human Cost of NLP
