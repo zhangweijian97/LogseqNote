@@ -623,7 +623,11 @@ $$
 
 ###### 男人和事业相关，女人和家庭相关
 ###### 其他略
-#####
+##### word2vec embedding
+###### he 和 职业
+###### she 和 职业
+###### she-he
+#######
 #### Bias in NLP systems
 
 #### What can you do?
