@@ -578,9 +578,9 @@ $$
 ###
 ## Lecture 13 Ethics in NLP
 ###
-#+BEGIN_QUOTE
+#+BEGIN_SRC 
 
-#+END_QUOTE
+#+END_SRC
 ###
 ## Lecture 14 Word Embeddings are Biased
 ## Lecture 15 The Environmental and Human Cost of NLP
