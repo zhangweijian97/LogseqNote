@@ -3,6 +3,7 @@ title: NLU
 ---
 
 ## #UoE
+## My Lecture Notes
 ## Lecture 1 Introduction
 ### Natural Language Understanding
 #### input is natural language
