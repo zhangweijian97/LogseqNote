@@ -583,6 +583,7 @@ $$
 #### 语言真正相关的是人，而不是单词
 #### 这节课主要关于NLP的社会影响
 #### The social impact of NLP
+##### ben fits
 ##### Efficiency
 ###### for individuals and institutions trying to understand and summarize information in many languages
 ##### Personalization
