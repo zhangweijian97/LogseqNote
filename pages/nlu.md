@@ -603,6 +603,7 @@ $$
 #####
 ### Lecture 14 Word Embeddings are Biased
 #### Bias in representations
+#### IAT Implicit-association test
 ####
 ### Lecture 15 The Environmental and Human Cost of NLP
 ### Lecture 16 Neural Parsing
