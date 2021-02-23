@@ -805,5 +805,6 @@ $$
 s(T)=\sum_{(i, j, l) \in T} s(i, j, l)
 $$
 ###### CYK
-######
+###### architecture
+###### transformer block
 #####
