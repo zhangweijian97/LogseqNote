@@ -630,7 +630,8 @@ $$
 ####### 定义上，queen-king，等
 ####### 刻板印象，lovely-brilliant，等
 ##### Job descriptions in 20th century (American) texts
-###### 工作 和 西班牙裔，亚裔，白人
+###### 相似的工作 分别和 西班牙裔，亚裔，白人
+#####
 #### Bias in NLP systems
 
 #### What can you do?
