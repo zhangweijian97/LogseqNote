@@ -712,5 +712,6 @@ $$
 #### Carbon and the Climate Crisis
 #### The Carbon Cost of Al
 #### 总结
-##### 训练时间和超参数选择增加了碳排放
+##### 训练时间和超参数选择增加了碳排放，而这在SOTA中很常见
+#####
 ### Lecture 16 Neural Parsing
