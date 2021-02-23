@@ -750,7 +750,7 @@ $$
 ##### 删掉单词，化简
 ###### (S (NP Pro) (VP V (NP Det N (PP P Det N))))
 ##### 标记右括号
-###### (S (NP Pro$)_{NP}$ (VP V (NP Det N (PP P Det N))))
+###### $(S (NP Pro)_{NP} (VP V (NP Det N (PP P Det N))))$
 #### Potential Problems
 #### Results
 #### Parsing with Transformers
