@@ -745,7 +745,8 @@ $$
 ##### Parsing is the task of turning a sequence of words into a syntax tree:
 ###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223200644.png)
 ##### 这里的输出是树
-#####
+##### 可以 **linearize**
+######
 #### Potential Problems
 #### Results
 #### Parsing with Transformers
