@@ -590,6 +590,7 @@ $$
 ####### for users, e.g. through digital assistants, tutoring agents, and other services.
 ###### Human understanding
 ####### of the language faculty and its social use-e.g. through use in computational psycholinguistics and computational sociolinguistics.
+##### **How can my system harm people?**
 #####
 ### Lecture 14 Word Embeddings are Biased
 ### Lecture 15 The Environmental and Human Cost of NLP
