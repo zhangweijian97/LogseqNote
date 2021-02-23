@@ -628,7 +628,9 @@ $$
 ###### she 和 职业
 ###### she-he
 ####### 定义上
+######## q ueen-kin g
 ####### 刻板印象
+######## lovely-brilliant
 #### Bias in NLP systems
 
 #### What can you do?
