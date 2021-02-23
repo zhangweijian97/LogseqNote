@@ -732,5 +732,5 @@ $$
 ##### deep adaptation
 ###### resilience 复原
 ###### relinquishment 放弃
-###### restoration
+###### restoration 恢复
 ### Lecture 16 Neural Parsing
