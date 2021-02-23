@@ -746,6 +746,7 @@ $$
 ###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223200644.png)
 ##### 这里的输出是树
 ##### 可以 **linearize**
+###### (S (NP (Pro You)) (VP (V saw ) (NP (Det a) (N man ) (PP (P with) (Det a) (N telescope))))).
 ######
 #### Potential Problems
 #### Results
