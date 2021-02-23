@@ -732,4 +732,5 @@ $$
 ##### deep adaptation
 ###### resilience
 ###### relinquishment
+###### restoration
 ### Lecture 16 Neural Parsing
