@@ -710,6 +710,9 @@ $$
 #### Anatomy of an Al system 解剖
 ##### smart speaker
 #### Carbon and the Climate Crisis
+##### 排放
+##### 碳含量
+##### 海洋气温
 #### The Carbon Cost of Al
 #### 总结
 ##### 训练时间和超参数选择增加了碳排放，而这在SOTA中很常见
