@@ -795,9 +795,9 @@ $$
 ###### 特点
 ####### tranformer
 ####### context aware summary vector
-######## word，pos tag，position
+####### word，pos tag，position
 ####### span scores
-###### attention blocks，attention head
-###### factored attention head
+####### attention blocks，attention head
+####### factored attention head
 ######
 #####
