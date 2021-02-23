@@ -779,7 +779,7 @@ $$
 ###### High-confidence corpus: 90k sentences from WSJ from several treebanks, and 11M sentences for which two parsers produce the same tree (length resampled).
 ##### 在当时实现SOTA
 ##### 结论
-###### The encoder-decoder model only works if attention is used.
+###### The **encoder-decoder model** only works if **attention** is used.
 ###### Ensembling models helps. Which is almost always the case
 ###### If we have **a lot of training data**, we get a large boost. And even the simple model without attention starts to work. A simple encoder-decoder model can match the performance
  of the Berkeley parser (a probabilistic chart parser; O(n3) complexity)
