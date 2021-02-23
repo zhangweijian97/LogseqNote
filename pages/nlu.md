@@ -604,6 +604,20 @@ $$
 ### Lecture 14 Word Embeddings are Biased
 #### Bias in representations
 #### IAT Implicit-association test
-####
+#### IAT for word embeddings
+
+###### 计算group和stereotype的相似度
+
+##### Sanity check 可行性检查
+
+###### 先试试计算“花和虫”（group），“幸福和不满”（stereotype）
+
+###### 果然花和幸福，虫和不满，强相关
+
+##### 正式实验
+
+###### 欧洲人名和非洲人名，舒服和不满。结果欧洲人名和舒服相关，非洲人名和不满相关
+
+###### 男人和事业相关，女人和家庭相关
 ### Lecture 15 The Environmental and Human Cost of NLP
 ### Lecture 16 Neural Parsing
