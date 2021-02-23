@@ -13,4 +13,7 @@ title: Template
 #### #PermanentNote
 ###
 ---
+### Temporary notes
+###
+---
 ###
