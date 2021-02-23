@@ -619,5 +619,8 @@ $$
 ###### 欧洲人名和非洲人名，舒服和不满。结果欧洲人名和舒服相关，非洲人名和不满相关
 
 ###### 男人和事业相关，女人和家庭相关
+#### Bias in NLP systems
+
+#### What can you do?
 ### Lecture 15 The Environmental and Human Cost of NLP
 ### Lecture 16 Neural Parsing
