@@ -116,6 +116,10 @@ $$\sum_{i=k+1}^d\lambda_i$$
 ##### singular value decomposition, 公式2.39
 ######
 $$\boldsymbol{X} = \boldsymbol{U}\boldsymbol{S}\boldsymbol{V}^\top$$
+###### U, d by d
+###### S, d by n
+###### V, n by n
+###### X, d by n
 #####
 #### 2.3.2 Approximating the Sample Covariance Matrix
 #### 2.3.3 Approximating the Gram Matrix
