@@ -82,7 +82,9 @@ $$\begin{array}{cl}
 \text { subject to } & \left\|w_{1}\right\|=1
 \end{array}$$
 ###### 解法在2.3到2.7
-#####
+##### Principal Component Score
+######
+$$z_i = $$
 #### 2.1.2 Subsequent Principal Component Directions，
 ##### 证明主成分是不相关的 The principal components are uncorrelated 2.16到2.22
 ##### m-th principal component direction 2.23
