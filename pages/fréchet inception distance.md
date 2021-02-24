@@ -14,7 +14,7 @@ title: Fréchet Inception Distance
 ### 溯源，从哪里产生的想法
 ## 入档
 ### 加合适的标签（归入对应的卡片盒）
-###
+### #EvaluationMethod #MachineLearning #GAN
 ## 索引
 ### 信息来源，如参考文献，书籍，论文，网络文章
 ### Github Repo [FID score for PyTorch](https://github.com/mseitzer/pytorch-fid)
