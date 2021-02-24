@@ -37,7 +37,8 @@ $$
 ## 联想
 ### 用来评估GANs的性能
 #### [[Generative adversarial network]]
-### 升级版
+### 升级版 FID
+#### [[Fréchet Inception Distance]]
 ###
 ### 溯源，从哪里产生的想法
 ## 入档
