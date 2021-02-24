@@ -26,4 +26,4 @@ title: MLP Machine Learning Practical
 ###### Text2FaceGAN论文就用了这个方案
 #### 问题
 ##### 要用tensorflow的还是pytorch的
-##### 要用gpu吗
+##### 要用gpu吗，看github，两个都可以用gpu
