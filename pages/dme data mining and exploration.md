@@ -69,7 +69,7 @@ $$
 ##### sample covarice matrix with certring matrix，1.66
 ###### $\Sigma=\frac{1}{n}XC_nX^T$
 #### 1.3.2 Outlier Detection and Removal
-#####
+##### Tukey’s fences
 ## 2 Principal Component Analysis
 ### 2.1 PCA by Variance Maximisation
 #### 2.1.1 First Principal Component Direction
