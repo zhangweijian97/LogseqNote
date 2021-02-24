@@ -7,7 +7,7 @@ title: Fréchet Inception Distance
 ## Type
 ### #PermanentNote
 ## Permanent Notes
-# 主要描述
+### 主要描述
 联想
 # 这条笔记的意义，作用
 # 与其他笔记的联系和区别，大量引用
