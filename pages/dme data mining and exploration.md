@@ -186,7 +186,7 @@ $$\boldsymbol{G} = \boldsymbol{X}^\top\boldsymbol{X}$$
 $$\boldsymbol{G} = \boldsymbol{V} \tilde\boldsymbol{\Lambda}\boldsymbol{V}^\top$$
 #######
 $$\tilde\boldsymbol{\Lambda}=\boldsymbol{S}^\top\boldsymbol{S}$$
-##### best rank k approximation of the Gram matrix
+##### best rank k approximation of the Gram matrix 公式2.54
 ######
 ### 2.4 Probabilistic PCA..
 #### 2.4.1 Probabilistic Model ...
