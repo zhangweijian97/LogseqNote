@@ -11,11 +11,6 @@ title: Templates
 #### [[concept_name_unique]]
 ### Type
 #### #PermanentNote
-### Literature Notes
-#### zotaro
-#### cite
-##### \\cite{cite_name}
-#### bib
 ### Permanent Notes
 #### 大段文字描述，不进行引用
 #### 联想
@@ -26,4 +21,9 @@ title: Templates
 ##### 加合适的标签（归入对应的卡片盒）
 #### 索引
 ##### 信息来源，如参考文献，书籍，论文，网络文章
+### Literature Notes
+#### zotaro
+#### cite
+##### \\cite{cite_name}
+#### bib
 ##
