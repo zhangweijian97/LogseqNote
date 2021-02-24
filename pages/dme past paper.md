@@ -10,7 +10,8 @@ title: DME past paper
 $$
 p(\boldsymbol{z})=\mathcal{N}(\boldsymbol{z} \mid \mathbf{0}, \boldsymbol{I})
 $$
-##### $\tilde\boldsymbol{z} = \boldsymbol{W} \boldsymbol{z}+\boldsymbol{\mu}$
+#####
+$$\tilde\boldsymbol{z} = \boldsymbol{W} \boldsymbol{z}+\boldsymbol{\mu}$$
 #####
 $$
 p(\tilde\boldsymbol{z})=\mathcal{N}(\boldsymbol{z} \mid \mathbf{0}, \boldsymbol{I})
