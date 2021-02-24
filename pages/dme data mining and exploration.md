@@ -120,7 +120,7 @@ $$\boldsymbol{X} = \boldsymbol{U}\boldsymbol{S}\boldsymbol{V}^\top$$
 ###### S, d $\times$ n
 ###### V, n $\times$ n
 ###### X, d $\times$ n
-#####
+#######
 #### 2.3.2 Approximating the Sample Covariance Matrix
 #### 2.3.3 Approximating the Gram Matrix
 ### 2.4 Probabilistic PCA..
