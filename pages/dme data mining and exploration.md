@@ -189,7 +189,12 @@ $$\tilde\boldsymbol{\Lambda}=\boldsymbol{S}^\top\boldsymbol{S}$$
 ##### best rank k approximation of the Gram matrix 公式2.54
 ######
 $$\hat\boldsymbol{G}=\sum_{i=1}^k \boldsymbol{v}_i s_i^2\boldsymbol{v}_i^\top = \sum_{i=1}^k \boldsymbol{z}_i \boldsymbol{z}_i^\top$$
-#####
+##### principal component scores, 公式2.57
+######
+$$
+Z=\sqrt{\tilde{\Lambda}_{k}} V_{k}^{\top}
+$$
+######
 ### 2.4 Probabilistic PCA..
 #### 2.4.1 Probabilistic Model ...
 #### 2.4.2 Joint, Conditional and Observation Distributions
