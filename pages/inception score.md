@@ -15,7 +15,10 @@ title: Inception Score
 #### diversity of the generated images
 ##### $p(y)$ 具有高熵，分布均匀，图像多样
 ### 公式
-#### 。
+####
+$$
+\mathbf{I S}(G)=\exp \left(\mathbb{E}_{\mathbf{x} \sim p_{g}} D_{K L}(p(y \mid \mathbf{x}) \| p(y))\right)
+$$
 ###
 #
 ---
