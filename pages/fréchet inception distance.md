@@ -3,10 +3,10 @@ title: Fréchet Inception Distance
 ---
 
 ## Name
-## [[concept_name_unique]]
-Type
-# #PermanentNote
-Permanent Notes
+### [[Fréchet Inception Distance]]
+## Type
+### #PermanentNote
+## Permanent Notes
 # 主要描述
 联想
 # 这条笔记的意义，作用
