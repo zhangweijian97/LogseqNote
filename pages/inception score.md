@@ -11,6 +11,7 @@ title: Inception Score
 ## Temporary notes 临时笔记
 ### 两个标准来衡量GAN的性能
 #### quality of the generated images
+##### $p(y|x)$
 #### diversity of the generated images
 #
 ---
