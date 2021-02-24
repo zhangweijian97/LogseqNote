@@ -17,7 +17,6 @@ title: Fréchet Inception Distance
 #+BEGIN_QUOTE
 FID并不使用Inception Net-V3的原本输出作为依据，它删除模型原本的输出层，于是输出层变为Inception Net-V3的最后一个池化层。这一层的输出是2048 维向量，因此，每个图像会被预测为2048个特征。
 #+END_QUOTE
-###
 ## 联想
 ### 用来评估GANs
 ### [[Inception Score]] 的升级版
