@@ -48,7 +48,9 @@ $$
 $$
 \tau(x, y)=\frac{n_{c}(x, y)-n_{d}(x, y)}{n(n-1) / 2}
 $$
-### 1.2 Data Visualisation
+### 1.2 Data Visualisation #+BEGIN_COMMENT
+
+#+END_COMMENT
 #### 1.2.1 Bar Plot
 #### 1.2.2 Box Plot
 #### 1.2.3 Scatter Plot
