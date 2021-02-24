@@ -75,7 +75,7 @@ $$
 ## 2 Principal Component Analysis
 ### 2.1 PCA by Variance Maximisation
 #### 2.1.1 First Principal Component Direction
-##### optimisation problem
+##### optimisation problem, 2.2
 ######
 $$\begin{array}{cl}
 \underset{w_{1}}{\operatorname{maximise}} & w_{1}^{\top} \mathbf{\Sigma} w_{1} \\
