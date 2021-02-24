@@ -111,7 +111,8 @@ $$\begin{array}{ll}
 #### 3.2.3 Example. .
 ### 3.3 Multidimensional Scaling
 #### 3.3.1 Metric MDS
-#####
+##### 优化问题
+######
 $$
 \operatorname{minimise}_{z_{1}, \ldots, z_{n}} \sum_{i<j} w_{i j}\left(\left\|z_{i}-z_{j}\right\|-\delta_{i j}\right)^{2}
 $$
