@@ -100,7 +100,7 @@ $$\cfrac{\sum_{m=1}^k\lambda_m}{\sum_{m=1}^d\lambda_m}$$
 #### 2.1.3 Simultaneous Variance Maximisation
 ##### 公式2.27
 ### 2.2 PCA by Minimisation of Approximation Error
-#### Projection Matrix
+#### Projection Matrix，公式2.28
 ### 2.3 PCA by Low Rank Matrix Approximation
 #### 2.3.1 Approximating the Data Matrix
 #### 2.3.2 Approximating the Sample Covariance Matrix
