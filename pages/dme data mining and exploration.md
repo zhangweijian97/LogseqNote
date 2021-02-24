@@ -139,7 +139,8 @@ $$
 $$
 ##### relate to principal component analysis
 ###### $\boldsymbol{u}_i$ 是 principal component directions
-###### $$
+###### $s_i$ 和 $\lambda_i
+#######
 #### 2.3.2 Approximating the Sample Covariance Matrix
 #### 2.3.3 Approximating the Gram Matrix
 ### 2.4 Probabilistic PCA..
