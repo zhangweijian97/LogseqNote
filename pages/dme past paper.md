@@ -21,4 +21,7 @@ $$
 \boldsymbol{x}=\tilde\boldsymbol{z}+\boldsymbol{\epsilon}
 $$
 #####
-$$$$
+$$
+p(\tilde\boldsymbol{x})=\mathcal{N}(\boldsymbol{z} \mid \mathbf{\mu}, \boldsymbol{WW^\top})
+$$
+#####
