@@ -19,7 +19,9 @@ title: Inception Score
 $$
 \mathbf{I S}(G)=\exp \left(\mathbb{E}_{\mathbf{x} \sim p_{g}} D_{K L}(p(y \mid \mathbf{x}) \| p(y))\right)
 $$
-###
+### 计算
+#### 生成N个图片
+#### 输入到Inception V3
 #
 ---
 # 大段文字描述，不进行引用
