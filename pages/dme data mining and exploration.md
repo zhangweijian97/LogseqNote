@@ -144,7 +144,7 @@ $$
 $$\lambda_i=\cfrac{s_i^2}{n}$$
 ###### principal component scores
 #######
-$$\boldsymbol{z}_i^\top=s_i\boldsymbol{v}_i^\top$$
+$$\boldsymbol{z}_i^\top=\boldsymbol{u}_i^\top\boldsymbol{X}=s_i\boldsymbol{v}_i^\top$$
 ######
 #### 2.3.2 Approximating the Sample Covariance Matrix
 #### 2.3.3 Approximating the Gram Matrix
