@@ -18,7 +18,8 @@ title: DME Data Mining and Exploration
 ##### IQR，Q3-Q1
 #### 1.1.3 Shape
 ##### skewness，1.13
-##### Galton’s measure of skewness
+##### Galton’s measure of skewness，1.14
+#####
 #####
 #### 1.1.4 Multivariate Measures
 ### 1.2 Data Visualisation
