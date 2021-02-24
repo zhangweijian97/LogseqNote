@@ -120,6 +120,7 @@ $$\boldsymbol{X} = \boldsymbol{U}\boldsymbol{S}\boldsymbol{V}^\top$$
 ###### S, d $\times$ n
 ###### V, n $\times$ n
 ###### X, d $\times$ n
+###### 公式2.41
 #######
 $$\boldsymbol{X}=\sum_{i=1}^r s_i \boldsymbol{u}_i\boldsymbol{v}_i^\top$$
 #######
