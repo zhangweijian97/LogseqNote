@@ -220,6 +220,10 @@ p(\boldsymbol{x}|\boldsymbol{z})=\mathcal{N}(\boldsymbol{x} \mid \boldsymbol{W}\
 $$
 ##### 联合概率分布 公式2.62
 ######
+$$
+p(\boldsymbol{z}, \boldsymbol{x})=\frac{1}{\text { const }} \exp \left(-\frac{1}{2}\left[(\boldsymbol{x}-\boldsymbol{W} \boldsymbol{z}-\boldsymbol{\mu})^{\top}\left(\frac{1}{\sigma^{2}} \boldsymbol{I}\right)(\boldsymbol{x}-\boldsymbol{W} \boldsymbol{z}-\boldsymbol{\mu})+\boldsymbol{z}^{\top} \boldsymbol{z}\right]\right)
+$$
+#####
 #### 2.4.2 Joint, Conditional and Observation Distributions
 #### 2.4.3 Maximum Likelihood
 #### 2.4.4 Relation to PCA
