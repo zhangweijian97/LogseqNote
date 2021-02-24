@@ -165,6 +165,14 @@ $$\hat\boldsymbol{X}=\sum_{i=1}^k \boldsymbol{u}_i\boldsymbol{z}_i^\top$$
 #### 2.3.2 Approximating the Sample Covariance Matrix
 ##### optimisation problem
 ######
+$$
+\begin{array}{cl}
+\underset{\boldsymbol{M}}{\operatorname{minimise}} & \|\boldsymbol{\Sigma}-\boldsymbol{M}\|_{F} \\
+\text { subject to } & \operatorname{rank}(\boldsymbol{M})=k \\
+& \boldsymbol{M}^{\top}=\boldsymbol{M}
+\end{array}
+$$
+######
 #### 2.3.3 Approximating the Gram Matrix
 ### 2.4 Probabilistic PCA..
 #### 2.4.1 Probabilistic Model ...
