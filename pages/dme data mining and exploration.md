@@ -54,7 +54,7 @@ $$
 #### 1.2.2 Box Plot
 #### 1.2.3 Scatter Plot
 #### 1.2.4 Histogram
-#### 1.2.5 Kernel Density Plo
+#### 1.2.5 Kernel Density Plot
 ##### kernel density estimate，1.47
 #### 1.2.6 Violin Plo
 ### 1.3 Data Pre-Processing
