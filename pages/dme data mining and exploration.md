@@ -67,7 +67,7 @@ $$
 $$
 ###### 左列右行
 ##### sample covarice matrix with certring matrix，1.66
-###### $\Sigma=\frac{1}{n}XC_nX^T$
+###### $\boldsymbol{\Sigma}=\frac{1}{n}XC_nX^T$
 #### 1.3.2 Outlier Detection and Removal
 ##### Tukey’s fences，1.68
 ###### $Q_1-k\text{IQR(x)}), Q_3+k\text{IQR(x)}]$
