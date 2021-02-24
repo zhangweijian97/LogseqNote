@@ -10,7 +10,8 @@ title: Fréchet Inception Distance
 ### Inception Score 缺少合成图像与真实图像的比较
 ### FID 越低，图像质量越好
 ### $d^2 =||\mu_1-\mu_2||^2 + Tr(C_1+ C_2 - 2 \times \sqrt{C_1 \times C_2})$
-###
+#### 「mu_1」和「mu_2」指的是真实图像和生成图像的特征均值
+#### C_1 和 C_2 是真实图像的和生成图像的特征向量的协方差矩阵
 ## 联想
 ### 用来评估GANs
 ### [[Inception Score]] 的升级版
