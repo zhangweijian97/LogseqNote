@@ -9,7 +9,8 @@ title: DME Data Mining and Exploration
 ###### 积分版
 ###### 向量版
 ##### median，公式略
-#####
+##### 公式1.7是上面两个的混合
+##### mode
 #### 1.1.2 Scale
 #### 1.1.3 Shape
 #### 1.1.4 Multivariate Measures
