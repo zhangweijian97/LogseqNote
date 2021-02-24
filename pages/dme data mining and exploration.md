@@ -81,6 +81,7 @@ $$\begin{array}{cl}
 \underset{w_{1}}{\operatorname{maximise}} & w_{1}^{\top} \mathbf{\Sigma} w_{1} \\
 \text { subject to } & \left\|w_{1}\right\|=1
 \end{array}$$
+###### 解法在2.3到2.7
 #### 2.1.2 Subsequent Principal Component Directions
 #####
 $$\begin{array}{ll}
