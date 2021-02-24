@@ -7,4 +7,8 @@ title: DME past paper
 ### 2
 #### b
 #####
+$$
+p(\boldsymbol{z})=\mathcal{N}(\boldsymbol{z} \mid \mathbf{0}, \boldsymbol{I})
+$$
+#####
 ##### $p( \tilde{z} ) = Wz + $
