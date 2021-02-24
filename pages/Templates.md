@@ -24,6 +24,5 @@ title: Templates
 ### Literature Notes
 #### zotaro
 #### cite
-##### \\cite{cite_name}
 #### bib
 ##
