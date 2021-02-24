@@ -15,7 +15,7 @@ title: DME Data Mining and Exploration
 #### 1.2.4 Histogram
 #### 1.2.5 Kernel Density Plo
 #### 1.2.6 Violin Plo
-## 1.3 Data Pre-Processing
-## 1.3.1 Standardisation
-## 1.3.2 Outlier Detection and Removal
+### 1.3 Data Pre-Processing
+#### 1.3.1 Standardisation
+#### 1.3.2 Outlier Detection and Removal
 ##
