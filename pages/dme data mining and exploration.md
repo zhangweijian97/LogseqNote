@@ -117,9 +117,9 @@ $$\sum_{i=k+1}^d\lambda_i$$
 ######
 $$\boldsymbol{X} = \boldsymbol{U}\boldsymbol{S}\boldsymbol{V}^\top$$
 ###### U, d $\times$ d
-###### S, d by n
-###### V, n by n
-###### X, d by n
+###### S, d $\times$ n
+###### V, n $\times$ n
+###### X, d $\times$ n
 #####
 #### 2.3.2 Approximating the Sample Covariance Matrix
 #### 2.3.3 Approximating the Gram Matrix
