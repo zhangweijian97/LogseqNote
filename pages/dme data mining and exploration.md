@@ -218,7 +218,8 @@ $$\boldsymbol{x} = \boldsymbol{W}\boldsymbol{z}+\boldsymbol{\mu}+\boldsymbol{\ep
 $$
 p(\boldsymbol{x}|\boldsymbol{z})=\mathcal{N}(\boldsymbol{x} \mid \boldsymbol{W}\boldsymbol{z}+\boldsymbol{\mu}, \sigma^2\boldsymbol{I})
 $$
-##### 联合概率
+##### 联合概率分布 公式2.62
+######
 #### 2.4.2 Joint, Conditional and Observation Distributions
 #### 2.4.3 Maximum Likelihood
 #### 2.4.4 Relation to PCA
