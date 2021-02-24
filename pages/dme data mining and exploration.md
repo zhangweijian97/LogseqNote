@@ -60,6 +60,11 @@ $$
 ### 1.3 Data Pre-Processing
 #### 1.3.1 Standardisation
 ##### certring matrix
+######
+$$
+\boldsymbol{C}_{n}=\boldsymbol{I}_{n}-\frac{1}{n} \mathbf{1}_{n} \mathbf{1}_{n}^{\top}
+$$
+#####
 #### 1.3.2 Outlier Detection and Removal
 ## 2 Principal Component Analysis
 ### 2.1 PCA by Variance Maximisation
