@@ -128,6 +128,7 @@ $$
 \text { subject to } & \operatorname{rank}(\boldsymbol{M})=k
 \end{array}
 $$
+###### Frobenius norm
 #####
 #### 2.3.2 Approximating the Sample Covariance Matrix
 #### 2.3.3 Approximating the Gram Matrix
