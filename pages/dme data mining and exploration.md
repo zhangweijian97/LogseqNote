@@ -82,8 +82,9 @@ $$\begin{array}{cl}
 \text { subject to } & \left\|w_{1}\right\|=1
 \end{array}$$
 ###### 解法在2.3到2.7
-#### 2.1.2 Subsequent Principal Component Directions，2.11
-#####
+#### 2.1.2 Subsequent Principal Component Directions，
+##### m-th principal component direction 2.23
+######
 $$\begin{array}{ll}
 \underset{\boldsymbol{w}_{m}}{\operatorname{maximise}} & \boldsymbol{w}_{m}^{\top} \boldsymbol{\Sigma} \boldsymbol{w}_{m} \\
 \text { subject to } & \left\|\boldsymbol{w}_{m}\right\|=1 \\
