@@ -163,7 +163,8 @@ $$\boldsymbol{z}_i^\top=\boldsymbol{u}_i^\top\boldsymbol{X}=s_i\boldsymbol{v}_i^
 $$\hat\boldsymbol{X}=\sum_{i=1}^k \boldsymbol{u}_i\boldsymbol{z}_i^\top$$
 ###### 证明在公式2.48 到 2.50（这里似乎有一道旧卷题考到？）
 #### 2.3.2 Approximating the Sample Covariance Matrix
-#####
+##### optimisation problem
+######
 #### 2.3.3 Approximating the Gram Matrix
 ### 2.4 Probabilistic PCA..
 #### 2.4.1 Probabilistic Model ...
