@@ -145,7 +145,8 @@ $$\lambda_i=\cfrac{s_i^2}{n}$$
 ###### principal component scores (**after scaling?**)，公式2.46
 #######
 $$\boldsymbol{z}_i^\top=\boldsymbol{u}_i^\top\boldsymbol{X}=s_i\boldsymbol{v}_i^\top$$
-######
+###### 公式2.47
+#######
 #### 2.3.2 Approximating the Sample Covariance Matrix
 #### 2.3.3 Approximating the Gram Matrix
 ### 2.4 Probabilistic PCA..
