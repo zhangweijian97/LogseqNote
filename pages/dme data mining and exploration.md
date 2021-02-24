@@ -17,6 +17,7 @@ title: DME Data Mining and Exploration
 ##### MAD，公式1.10
 ##### IQR，Q3-Q1
 #### 1.1.3 Shape
+##### skewness
 #### 1.1.4 Multivariate Measures
 ### 1.2 Data Visualisation
 #### 1.2.1 Bar Plot
