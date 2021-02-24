@@ -16,7 +16,7 @@ title: Fréchet Inception Distance
 ### 加合适的标签（归入对应的卡片盒）
 ## 索引
 ### 信息来源，如参考文献，书籍，论文，网络文章
-###
+### Arxiv [GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium](https://arxiv.org/abs/1706.08500)
 ## Literature Note
 ### Bib
 ####
