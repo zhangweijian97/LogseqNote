@@ -20,11 +20,10 @@ title: Fréchet Inception Distance
 ### 加合适的标签（归入对应的卡片盒）
 ### #EvaluationMethod #MachineLearning #GAN
 ## 索引
-### 信息来源，如参考文献，书籍，论文，网络文章
 ### Github Repo [Fréchet Inception Distance](https://github.com/tsc2017/Frechet-Inception-Distance)
 ### Github Repo [FID score for PyTorch](https://github.com/mseitzer/pytorch-fid)
 ### Arxiv [GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium ](https://arxiv.org/abs/1706.08500)
-###
+### 博客文章 机器之心
 ## Literature Note
 ### Bib
 ####
