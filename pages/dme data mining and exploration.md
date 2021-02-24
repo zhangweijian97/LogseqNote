@@ -26,6 +26,8 @@ title: DME Data Mining and Exploration
 ##### Pearson’s correlation coefficient，1.19
 ##### 标准差
 ##### sample covariance matrix，1.28
+##### eigenvalue decomposition
+###### $\Sigma = U\Lambda U^T$
 #####
 ### 1.2 Data Visualisation
 #### 1.2.1 Bar Plot
