@@ -28,6 +28,11 @@ $$
 $$
 \hat{p}(y)=\frac{1}{N} \sum_{i=1}^{N} p\left(y \mid \mathbf{x}^{(i)}\right)
 $$
+#### 计算KL散度
+#####
+$$
+D_{K L}(P \| Q)=\sum_{i} P(i) \log \frac{P(i)}{Q(i)}
+$$
 ####
 #
 ---
