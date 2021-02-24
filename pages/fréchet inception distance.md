@@ -18,7 +18,8 @@ title: Fréchet Inception Distance
 ### 信息来源，如参考文献，书籍，论文，网络文章
 ## Literature Note
 ### Bib
-#### @misc{Seitzer2020FID,
+####
+#### ``````@misc{Seitzer2020FID,
   author={Maximilian Seitzer},
   title={{pytorch-fid: FID Score for PyTorch}},
   month={August},
