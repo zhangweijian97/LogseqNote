@@ -89,7 +89,7 @@ $$z_i = \boldsymbol{w}_i^\top\boldsymbol{x}$$
 ######
 $$z_{ij} = \boldsymbol{w}_i^\top\boldsymbol{x}_j$$
 ######
-$$\boldsymbol{z} = \boldsymbol{w}_i^\top\boldsymbol{X}$$
+$$\boldsymbol{z}_i = \boldsymbol{w}_i^\top\boldsymbol{X}$$
 ######
 $$\boldsymbol{z} = \boldsymbol{w}_i^\top\boldsymbol{X}$$
 #### 2.1.2 Subsequent Principal Component Directions，
