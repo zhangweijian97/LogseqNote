@@ -8,7 +8,7 @@ title: Fréchet Inception Distance
 ### #PermanentNote
 ## Permanent Notes
 ### Inception Score 缺少合成图像与真实图像的比较
-###
+### FID 越低，图像质量越好
 ## 联想
 ### 用来评估GANs
 ### [[Inception Score]] 的升级版
