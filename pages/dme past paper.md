@@ -22,6 +22,6 @@ $$
 $$
 #####
 $$
-p(\tilde\boldsymbol{x})=\mathcal{N}(\boldsymbol{z} \mid \mathbf{\mu}, \boldsymbol{WW^\top})
+p(\tilde\boldsymbol{x})=\mathcal{N}(\tilde\boldsymbol{z} \mid \mathbf{\mu}, \boldsymbol{WW^\top})
 $$
 #####
