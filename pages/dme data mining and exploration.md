@@ -134,7 +134,7 @@ $$
 $$
 \|\boldsymbol{X}-\hat{\boldsymbol{X}}\|_{F}=\sum_{i=k+1}^{r} s_{i}^{2}
 $$
-######
+#####
 #### 2.3.2 Approximating the Sample Covariance Matrix
 #### 2.3.3 Approximating the Gram Matrix
 ### 2.4 Probabilistic PCA..
