@@ -17,6 +17,6 @@ title: MLP Machine Learning Practical
 #+BEGIN_QUOTE
 不能在一个数据集上训练分类模型，用来评估另一个数据集上训练的生成模型
 #+END_QUOTE
-##### Inception Score 是在 Inception Net V3上面
+##### Inception V3 是在 ImageNet 上训练的
 #### 方案二
 #####
