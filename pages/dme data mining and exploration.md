@@ -3,7 +3,7 @@ title: DME Data Mining and Exploration
 ---
 
 ## 1 First Steps in Exploratory Data Analysis
-## 1.1 Numerical Data Description
+### 1.1 Numerical Data Description
 ## 1.1.1 Location .
 ## 1.1.2 Scale
 ## 1.1.3 Shape
