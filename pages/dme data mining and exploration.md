@@ -26,7 +26,8 @@ title: DME Data Mining and Exploration
 ##### Pearson’s correlation coefficient，1.19
 ##### 标准差
 ##### sample covariance matrix，1.28
-###### $\Sigma=\frac{1}{n}XX^T$
+######
+$$\Sigma=\frac{1}{n}XX^T$$
 ###### eigenvalue decomposition
 #######
 $$\Sigma = U\Lambda U^T$$
