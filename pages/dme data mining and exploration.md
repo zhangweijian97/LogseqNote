@@ -71,7 +71,7 @@ $$
 #### 1.3.2 Outlier Detection and Removal
 ##### Tukey’s fences，1.68
 ###### $Q_1-k\text{IQR(x)}), Q_3+k\text{IQR(x)}]$
-######
+###### common $k=1.5$
 ## 2 Principal Component Analysis
 ### 2.1 PCA by Variance Maximisation
 #### 2.1.1 First Principal Component Direction
