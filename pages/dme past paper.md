@@ -11,4 +11,7 @@ $$
 p(\boldsymbol{z})=\mathcal{N}(\boldsymbol{z} \mid \mathbf{0}, \boldsymbol{I})
 $$
 #####
-##### $p( \tilde{z} ) = Wz + $
+$$
+p(\tilde\boldsymbol{z})=\mathcal{N}(\boldsymbol{z} \mid \mathbf{0}, \boldsymbol{I})
+$$
+#####
