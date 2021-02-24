@@ -85,6 +85,7 @@ $$\begin{array}{cl}
 ##### Principal Component Scores
 ######
 $$z_i = \boldsymbol{w}_i^\top\boldsymbol{x}$$
+###### 上面这个是原公式，下面是我自己写的
 ######
 ######
 $$\boldsymbol{z} = \boldsymbol{w}_i^\top\boldsymbol{X}$$
