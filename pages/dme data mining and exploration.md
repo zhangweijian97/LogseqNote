@@ -184,6 +184,8 @@ $$\boldsymbol{G} = \boldsymbol{X}^\top\boldsymbol{X}$$
 ###### by EV,
 #######
 $$\boldsymbol{G} = \boldsymbol{V} \tilde\boldsymbol{\Lambda}\boldsymbol{V}^\top$$
+#######
+$$\boldsymbol{\Lambda}=\boldsymbol{S}^\top\boldsymbol{S}$$
 ######
 ### 2.4 Probabilistic PCA..
 #### 2.4.1 Probabilistic Model ...
