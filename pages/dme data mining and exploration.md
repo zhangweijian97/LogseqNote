@@ -216,8 +216,9 @@ $$\boldsymbol{x} = \boldsymbol{W}\boldsymbol{z}+\boldsymbol{\mu}+\boldsymbol{\ep
 ##### 条件分布 公式2.61
 ######
 $$
-p(\boldsymbol{x}|\boldsymbol{z})=\mathcal{N}(\boldsymbol{z} \mid \mathbf{0}, \boldsymbol{I})
+p(\boldsymbol{x}|\boldsymbol{z})=\mathcal{N}(\boldsymbol{z} \mid \boldsymbol{W}\boldsymbol{z}+\boldsymbol{\mu}, \sigma^2\boldsymbol{I})
 $$
+#####
 #### 2.4.2 Joint, Conditional and Observation Distributions
 #### 2.4.3 Maximum Likelihood
 #### 2.4.4 Relation to PCA
