@@ -138,6 +138,7 @@ $$
 \|\boldsymbol{X}-\hat{\boldsymbol{X}}\|_{F}=\sum_{i=k+1}^{r} s_{i}^{2}
 $$
 ##### relate to principal component analysis
+###### $\boldsymbol{u}_i$ 是 principal component directions
 ######
 #### 2.3.2 Approximating the Sample Covariance Matrix
 #### 2.3.3 Approximating the Gram Matrix
