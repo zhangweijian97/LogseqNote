@@ -22,6 +22,6 @@ $$
 $$
 #####
 $$
-p(\tilde\boldsymbol{x})=\mathcal{N}(\tilde\boldsymbol{z} \mid \mathbf{0}, \boldsymbol{I})
+p(\tilde\boldsymbol{x})=\mathcal{N}(\tilde\boldsymbol{z} \mid \mathbf{0}, \sigma^2\boldsymbol{I})
 $$
 #####
