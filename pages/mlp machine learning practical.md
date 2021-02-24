@@ -8,6 +8,8 @@ title: MLP Machine Learning Practical
 :END:
 ### 前略
 ### 评估方法
-#### [[Inception Score]]
+#### 两个方法
+##### [[Inception Score]]
+##### [[Fréchet Inception Distance]]
 #### 方案一
 ##### 把我们的模型放在
