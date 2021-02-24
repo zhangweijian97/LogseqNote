@@ -17,6 +17,8 @@ title: MLP Machine Learning Practical
 #+BEGIN_QUOTE
 不能在一个数据集上训练分类模型，用来评估另一个数据集上训练的生成模型
 #+END_QUOTE
-##### Inception V3 是在 ImageNet 上训练的
+##### Inception V3 是在 ImageNet 上训练的判别模型
+##### 我们的模型是在F2T数据集上训练的生成模型
+##### 数据集不同，把我们生成的图像放进Inception V3是没有意义的
 #### 方案二
 #####
