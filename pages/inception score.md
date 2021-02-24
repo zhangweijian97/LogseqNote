@@ -10,8 +10,6 @@ title: Inception Score
 ---
 ## Temporary notes 临时笔记
 ###
-##
----
 #
 ---
 # 大段文字描述，不进行引用
