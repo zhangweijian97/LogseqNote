@@ -179,7 +179,8 @@ $$
 #### 2.3.3 Approximating the Gram Matrix
 ##### Gram matrix
 ######
-$$$$
+$$\boldsymbol{G} = \boldsymbol{X}^\top\boldsymbol{X}$$
+#####
 ### 2.4 Probabilistic PCA..
 #### 2.4.1 Probabilistic Model ...
 #### 2.4.2 Joint, Conditional and Observation Distributions
