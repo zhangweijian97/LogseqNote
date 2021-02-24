@@ -137,7 +137,8 @@ $$\hat\boldsymbol{X}=\sum_{i=1}^k s_i \boldsymbol{u}_i\boldsymbol{v}_i^\top$$
 $$
 \|\boldsymbol{X}-\hat{\boldsymbol{X}}\|_{F}=\sum_{i=k+1}^{r} s_{i}^{2}
 $$
-#####
+##### relate to principal component analysis
+######
 #### 2.3.2 Approximating the Sample Covariance Matrix
 #### 2.3.3 Approximating the Gram Matrix
 ### 2.4 Probabilistic PCA..
