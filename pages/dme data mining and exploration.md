@@ -147,7 +147,8 @@ $$\lambda_i=\cfrac{s_i^2}{n}$$
 $$\boldsymbol{z}_i^\top=\boldsymbol{u}_i^\top\boldsymbol{X}=s_i\boldsymbol{v}_i^\top$$
 ###### 公式2.47
 #######
-$$\hat\boldsymbol{X}=\sum_{i=1}^k s_i \boldsymbol{u}_i\boldsymbol{v}_i^\top$$
+$$\hat\boldsymbol{X}=\sum_{i=1}^k \boldsymbol{u}_i\boldsymbol{z}_i^\top$$
+######
 #### 2.3.2 Approximating the Sample Covariance Matrix
 #### 2.3.3 Approximating the Gram Matrix
 ### 2.4 Probabilistic PCA..
