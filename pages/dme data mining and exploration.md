@@ -131,6 +131,7 @@ $$
 ###### Frobenius norm
 ##### 公式2.43
 ######
+$$\hat\boldsymbol{X}=\sum_{i=1}^k s_i \boldsymbol{u}_i\boldsymbol{v}_i^\top$$
 ##### approximation error，公式2.44
 ######
 $$
