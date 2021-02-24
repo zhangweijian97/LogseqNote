@@ -13,7 +13,8 @@ title: Inception Score
 #### quality of the generated images
 ##### $p(y|x)$具有低熵 [[Entropy]]
 #### diversity of the generated images
-##### $p(y)
+##### $p(y)$ 具有高熵
+####
 #
 ---
 # 大段文字描述，不进行引用
