@@ -129,7 +129,8 @@ $$
 \end{array}
 $$
 ###### Frobenius norm
-#####
+##### approximation error
+######
 #### 2.3.2 Approximating the Sample Covariance Matrix
 #### 2.3.3 Approximating the Gram Matrix
 ### 2.4 Probabilistic PCA..
