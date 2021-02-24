@@ -83,6 +83,7 @@ $$\begin{array}{cl}
 \end{array}$$
 ###### 解法在2.3到2.7
 #### 2.1.2 Subsequent Principal Component Directions，
+#####
 ##### m-th principal component direction 2.23
 ######
 $$\begin{array}{ll}
@@ -90,7 +91,6 @@ $$\begin{array}{ll}
 \text { subject to } & \left\|\boldsymbol{w}_{m}\right\|=1 \\
 & \boldsymbol{w}_{m}^{\top} \boldsymbol{w}_{i}=0 \quad i=1, \ldots, m-1
 \end{array}$$
-#####
 #### 2.1.3 Simultaneous Variance Maximisation
 ### 2.2 PCA by Minimisation of Approximation Error
 ### 2.3 PCA by Low Rank Matrix Approximation
