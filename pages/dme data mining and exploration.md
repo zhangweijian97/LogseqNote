@@ -124,7 +124,7 @@ $$\begin{array}{ll}
 ### 4.2 Generalisation Performance
 #### 4.2.1 Generalisation for Prediction Functions and Algorithms
 #### 4.2.2 Overfitting and Underfitting
-#### 4.2.3 Example. ....
+#### 4.2.3 Example
 ### 4.3 Estimating the Generalisation Performance
 #### 4.3.1 Methods for Estimating the Generalisation Performance
 #### 4.3.2 Hyperparameter Selection and Performance Evaluation
