@@ -27,7 +27,7 @@ title: DME Data Mining and Exploration
 ##### 标准差
 ##### sample covariance matrix，1.28
 ######
-$$\boldsymbol{\Sigma}=\frac{1}{n}\boldsymbol{X}\boldsymbol{X}^T$$
+$$\boldsymbol{\Sigma}=\frac{1}{n}\boldsymbol{X}\boldsymbol{X}^\top$$
 ###### eigenvalue decomposition
 #######
 $$\operatorname{Cov}[\boldsymbol{x}]  = \boldsymbol{\Sigma} = \boldsymbol{U}\boldsymbol{\Lambda} \boldsymbol{U}^T$$
