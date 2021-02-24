@@ -142,7 +142,7 @@ $$
 ###### $s_i$ 和 $\lambda_i$
 #######
 $$\lambda_i=\cfrac{s_i^2}{n}$$
-###### principal component scores (after scaling?)
+###### principal component scores (**after scaling?**)
 #######
 $$\boldsymbol{z}_i^\top=\boldsymbol{u}_i^\top\boldsymbol{X}=s_i\boldsymbol{v}_i^\top$$
 ######
