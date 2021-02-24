@@ -197,7 +197,7 @@ $$
 ###### k $\times$ n matrix
 ### 2.4 Probabilistic PCA
 #### 2.4.1 Probabilistic Model
-##### 随机变量 $\boldsymbol{z}$
+##### 随机变量 $\boldsymbol{z}$ 统计独立，标准正太分布
 ######
 #### 2.4.2 Joint, Conditional and Observation Distributions
 #### 2.4.3 Maximum Likelihood
