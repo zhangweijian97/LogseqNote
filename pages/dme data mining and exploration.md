@@ -75,6 +75,7 @@ $$
 ## 2 Principal Component Analysis
 ### 2.1 PCA by Variance Maximisation
 #### 2.1.1 First Principal Component Direction
+##### optimisation
 #### 2.1.2 Subsequent Principal Component Directions
 #### 2.1.3 Simultaneous Variance Maximisation
 ### 2.2 PCA by Minimisation of Approximation Error
