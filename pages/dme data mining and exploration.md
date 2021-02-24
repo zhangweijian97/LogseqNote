@@ -22,6 +22,7 @@ title: DME Data Mining and Exploration
 ##### kurtosis，1.15
 ##### robust kurtosis，1.16
 #### 1.1.4 Multivariate Measures
+##### 协方差，1.17和1.18
 ### 1.2 Data Visualisation
 #### 1.2.1 Bar Plot
 #### 1.2.2 Box Plot
