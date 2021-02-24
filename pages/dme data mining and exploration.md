@@ -98,7 +98,12 @@ $$\sum_{m=1}^k\lambda_m$$
 #######
 $$\cfrac{\sum_{m=1}^k\lambda_m}{\sum_{m=1}^d\lambda_m}$$
 #### 2.1.3 Simultaneous Variance Maximisation
-##### 公式2.27
+##### 公式 2.27
+######
+$$
+\boldsymbol{P}=\sum_{i=1}^{k} \boldsymbol{w}_{i} \boldsymbol{w}_{i}^{\top}=\boldsymbol{W}_{k} \boldsymbol{W}_{k}^{\top}, \quad \boldsymbol{W}_{k}=\left(\boldsymbol{w}_{1}, \ldots, \boldsymbol{w}_{k}\right)
+$$
+#####
 ### 2.2 PCA by Minimisation of Approximation Error
 #### Projection Matrix，公式2.28
 ### 2.3 PCA by Low Rank Matrix Approximation
