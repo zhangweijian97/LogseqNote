@@ -35,7 +35,7 @@ $$
 ### 缺点
 #### 略
 ### 重新训练
-#### 因为研究使用的数据集
+#### 因为研究所使用的数据集往往不是ImageNet，所以需要fine turn
 ## 联想
 ### 用来评估GANs的性能
 #### [[Generative adversarial network]]
