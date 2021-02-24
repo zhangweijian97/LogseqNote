@@ -181,7 +181,7 @@ $$
 ######
 $$\boldsymbol{G} = \boldsymbol{X}^\top\boldsymbol{X}$$
 ###### n $\times$ n matrix
-###### by EV,
+###### by EV, 公式2.53
 #######
 $$\boldsymbol{G} = \boldsymbol{V} \tilde\boldsymbol{\Lambda}\boldsymbol{V}^\top$$
 #######
