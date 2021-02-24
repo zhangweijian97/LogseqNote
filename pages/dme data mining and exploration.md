@@ -81,8 +81,8 @@ $$\begin{array}{cl}
 \underset{w_{1}}{\operatorname{maximise}} & w_{1}^{\top} \mathbf{\Sigma} w_{1} \\
 \text { subject to } & \left\|w_{1}\right\|=1
 \end{array}$$
-#####
 #### 2.1.2 Subsequent Principal Component Directions
+#####
 #### 2.1.3 Simultaneous Variance Maximisation
 ### 2.2 PCA by Minimisation of Approximation Error
 ### 2.3 PCA by Low Rank Matrix Approximation
