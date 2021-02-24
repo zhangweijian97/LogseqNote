@@ -4,7 +4,7 @@ title: Templates
 
 ## Note Template
 :PROPERTIES:
-:template: Research Note Template
+:template: Note Template
 :including-parent: false
 :END:
 ### Name
