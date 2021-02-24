@@ -120,7 +120,7 @@ $$\boldsymbol{X} = \boldsymbol{U}\boldsymbol{S}\boldsymbol{V}^\top$$
 ###### S, d $\times$ n
 ###### V, n $\times$ n
 ###### X, d $\times$ n
-####### $\boldsymble{X}=\sum_{i=1}^r s_i \boldsymble{u}_i\boldsymble{v}_i^\top$
+####### $\boldsymbol{X}=\sum_{i=1}^r s_i \boldsymbol{u}_i\boldsymbol{v}_i^\top$
 #######
 #### 2.3.2 Approximating the Sample Covariance Matrix
 #### 2.3.3 Approximating the Gram Matrix
