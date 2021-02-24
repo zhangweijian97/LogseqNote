@@ -30,7 +30,7 @@ title: DME Data Mining and Exploration
 $$\boldsymbol{\Sigma}=\frac{1}{n}\boldsymbol{X}\boldsymbol{X}^\top$$
 ###### eigenvalue decomposition
 #######
-$$\operatorname{Cov}[\boldsymbol{x}]  = \boldsymbol{\Sigma} = \boldsymbol{U}\boldsymbol{\Lambda} \boldsymbol{U}^T$$
+$$\operatorname{Cov}[\boldsymbol{x}]  = \boldsymbol{\Sigma} = \boldsymbol{U}\boldsymbol{\Lambda} \boldsymbol{U}^\top$$
 ###### trace, 1.43
 ###### 性质，做线性变化之后
 #######
