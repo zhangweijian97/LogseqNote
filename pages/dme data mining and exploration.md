@@ -91,7 +91,7 @@ $$\begin{array}{ll}
 \text { subject to } & \left\|\boldsymbol{w}_{m}\right\|=1 \\
 & \boldsymbol{w}_{m}^{\top} \boldsymbol{w}_{i}=0 \quad i=1, \ldots, m-1
 \end{array}$$
-###### variance explained
+###### variance explained，2.24
 #######
 #### 2.1.3 Simultaneous Variance Maximisation
 ### 2.2 PCA by Minimisation of Approximation Error
