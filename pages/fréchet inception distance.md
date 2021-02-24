@@ -11,7 +11,6 @@ title: Fréchet Inception Distance
 ## 联想
 ### 这条笔记的意义，作用
 ### [[Inception Score]] 的升级版
-### 溯源，从哪里产生的想法
 ## 入档
 ### 加合适的标签（归入对应的卡片盒）
 ### #EvaluationMethod #MachineLearning #GAN
