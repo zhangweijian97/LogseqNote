@@ -26,6 +26,5 @@ author={Maximilian Seitzer},
   year={2020},
   note={Version 0.1.1},
   howpublished={\url{https://github.com/mseitzer/pytorch-fid}},
-}
-`
+}`
 ####
