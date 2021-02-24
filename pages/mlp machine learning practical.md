@@ -24,4 +24,4 @@ title: MLP Machine Learning Practical
 #### 方案二
 ##### 把预训练的Inception V3拿过来，在我们的F2T数据集上fine tuning一下，再评估。这样就是直接评估我们的数据集生成的图片的。
 ###### Text2FaceGAN论文就用了这个方案
-####
+#####
