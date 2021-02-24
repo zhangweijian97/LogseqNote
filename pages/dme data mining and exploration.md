@@ -129,7 +129,7 @@ $$
 \end{array}
 $$
 ###### Frobenius norm
-##### approximation error
+##### approximation error，公式2.44
 ######
 $$
 \|\boldsymbol{X}-\hat{\boldsymbol{X}}\|_{F}=\sum_{i=k+1}^{r} s_{i}^{2}
