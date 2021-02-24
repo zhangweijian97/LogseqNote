@@ -6,4 +6,4 @@ title: DME past paper
 
 ### 2
 #### b
-#####
+##### $p(\tilde z) = Wz + $
