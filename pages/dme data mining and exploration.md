@@ -59,6 +59,7 @@ $$
 #### 1.2.6 Violin Plo
 ### 1.3 Data Pre-Processing
 #### 1.3.1 Standardisation
+注意这一节中$x$表示没有中心化的，$\tilde x$表示中心化的，和
 ##### certring matrix
 ######
 $$
