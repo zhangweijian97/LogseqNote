@@ -180,7 +180,7 @@ $$
 ##### Gram matrix 2.52
 ######
 $$\boldsymbol{G} = \boldsymbol{X}^\top\boldsymbol{X}$$
-###### n $\times$ n
+###### n $\times$ n matrix
 #####
 ### 2.4 Probabilistic PCA..
 #### 2.4.1 Probabilistic Model ...
