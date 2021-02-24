@@ -105,8 +105,8 @@ $$\cfrac{\sum_{m=1}^k\lambda_m}{\sum_{m=1}^d\lambda_m}$$
 $$
 \boldsymbol{P}=\sum_{i=1}^{k} \boldsymbol{w}_{i} \boldsymbol{w}_{i}^{\top}=\boldsymbol{W}_{k} \boldsymbol{W}_{k}^{\top}, \quad \boldsymbol{W}_{k}=\left(\boldsymbol{w}_{1}, \ldots, \boldsymbol{w}_{k}\right)
 $$
-#### 投影的x，
-#####
+#### 投影的x，$\hat x = Px$
+####
 ### 2.3 PCA by Low Rank Matrix Approximation
 #### 2.3.1 Approximating the Data Matrix
 #### 2.3.2 Approximating the Sample Covariance Matrix
