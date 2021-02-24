@@ -110,6 +110,8 @@ $$
 #### 优化问题，公式2.29
 #### smallest expected approximation error，公式2.36
 #####
+$$\sum_{i=k+1}^d\lambda_i$$
+####
 ### 2.3 PCA by Low Rank Matrix Approximation
 #### 2.3.1 Approximating the Data Matrix
 #### 2.3.2 Approximating the Sample Covariance Matrix
