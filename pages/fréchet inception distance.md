@@ -9,7 +9,7 @@ title: Fréchet Inception Distance
 ## Permanent Notes
 ### Inception Score 缺少合成图像与真实图像的比较
 ### FID 越低，图像质量越好
-### $d^2 =||mu_1-mu_2||^2 + Tr(C_1+ C_2 - 2 \times \sqrt{C_1 \times C_2})$
+### $d^2 =||\mu_1-\mu_2||^2 + Tr(C_1+ C_2 - 2 \times \sqrt{C_1 \times C_2})$
 ###
 ## 联想
 ### 用来评估GANs
