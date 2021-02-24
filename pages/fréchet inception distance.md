@@ -8,8 +8,8 @@ title: Fréchet Inception Distance
 ### #PermanentNote
 ## Permanent Notes
 ### 主要描述
-联想
-# 这条笔记的意义，作用
+### 联想
+#### 这条笔记的意义，作用
 # 与其他笔记的联系和区别，大量引用
 # 溯源，从哪里产生的想法
 入档
