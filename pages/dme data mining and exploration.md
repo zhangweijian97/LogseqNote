@@ -120,7 +120,7 @@ $$\boldsymbol{X} = \boldsymbol{U}\boldsymbol{S}\boldsymbol{V}^\top$$
 ###### 公式2.41
 #######
 $$\boldsymbol{X}=\sum_{i=1}^r s_i \boldsymbol{u}_i\boldsymbol{v}_i^\top$$
-##### optimisation problem
+##### optimisation problem，公式2.42
 ######
 $$
 \begin{array}{ll}
