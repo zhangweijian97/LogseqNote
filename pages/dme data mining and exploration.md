@@ -117,7 +117,7 @@ $$\sum_{i=k+1}^d\lambda_i$$
 ######
 $$\boldsymbol{X} = \boldsymbol{U}\boldsymbol{S}\boldsymbol{V}^\top$$
 ###### U, d $\times$ d; S, d $\times$ n; V, n $\times$ n; X, d $\times$ n
-###### 公式2.41
+###### X又可以写作
 #######
 $$\boldsymbol{X}=\sum_{i=1}^r s_i \boldsymbol{u}_i\boldsymbol{v}_i^\top$$
 ##### optimisation problem，公式2.42
