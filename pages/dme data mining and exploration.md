@@ -39,6 +39,10 @@ $$
 $$
 ##### sample correlation matrix，1.41
 ######
+$$
+\rho(\boldsymbol{x})=\operatorname{diag}\left(\frac{1}{\operatorname{std}(\boldsymbol{x})}\right) \operatorname{cov}(\boldsymbol{x}) \operatorname{diag}\left(\frac{1}{\operatorname{std}(\boldsymbol{x})}\right)
+$$
+#####
 ### 1.2 Data Visualisation
 #### 1.2.1 Bar Plot
 #### 1.2.2 Box Plot
