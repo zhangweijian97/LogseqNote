@@ -3,7 +3,7 @@ title: Fréchet Inception Distance
 ---
 
 ## Name
-# [[concept_name_unique]]
+## [[concept_name_unique]]
 Type
 # #PermanentNote
 Permanent Notes
