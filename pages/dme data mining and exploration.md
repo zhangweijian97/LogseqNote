@@ -129,6 +129,8 @@ $$
 \end{array}
 $$
 ###### Frobenius norm
+##### 公式2.43
+######
 ##### approximation error，公式2.44
 ######
 $$
