@@ -113,7 +113,8 @@ $$
 $$\sum_{i=k+1}^d\lambda_i$$
 ### 2.3 PCA by Low Rank Matrix Approximation
 #### 2.3.1 Approximating the Data Matrix
-#####
+##### singular value decomposition, 公式2.39
+######
 #### 2.3.2 Approximating the Sample Covariance Matrix
 #### 2.3.3 Approximating the Gram Matrix
 ### 2.4 Probabilistic PCA..
