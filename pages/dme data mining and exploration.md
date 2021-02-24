@@ -86,7 +86,7 @@ $$\begin{array}{cl}
 ######
 $$z_i = \boldsymbol{w}_i^\top\boldsymbol{x}$$
 ######
-$$z_k = \boldsymbol{w}_i^\top\boldsymbol{x}$$
+$$\boldsymbol{z}_k = \boldsymbol{w}_i^\top\boldsymbol{x}$$
 #### 2.1.2 Subsequent Principal Component Directions，
 ##### 证明主成分是不相关的 The principal components are uncorrelated 2.16到2.22
 ##### m-th principal component direction 2.23
