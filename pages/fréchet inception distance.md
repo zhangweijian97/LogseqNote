@@ -22,8 +22,7 @@ title: Fréchet Inception Distance
 ####
 ```Bib
 @misc{Seitzer2020FID,
-isc{Seitzer2020FID,
-author={Maximilian Seitzer},
+  author={Maximilian Seitzer},
   title={{pytorch-fid: FID Score for PyTorch}},
   month={August},
   year={2020},
