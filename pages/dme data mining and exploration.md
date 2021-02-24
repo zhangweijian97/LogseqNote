@@ -91,7 +91,7 @@ $$z_{ij} = \boldsymbol{w}_i^\top\boldsymbol{x}_j$$
 ######
 $$\boldsymbol{z}_i^\top = \boldsymbol{w}_i^\top\boldsymbol{X}$$
 ######
-$$\boldsymbol{z}_j^ = \boldsymbol{U}_k^\top\boldsymbol{x}_j$$
+$$\boldsymbol{z}_j = \boldsymbol{U}_k^\top\boldsymbol{x}_j$$
 ######
 $$\boldsymbol{z} = \boldsymbol{U}_k^\top\boldsymbol{X}$$
 ####### z 的维度，k $\times$ n
