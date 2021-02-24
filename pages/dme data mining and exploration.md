@@ -115,7 +115,8 @@ $$\begin{array}{ll}
 $$
 \operatorname{minimise}_{z_{1}, \ldots, z_{n}} \sum_{i<j} w_{i j}\left(\left\|z_{i}-z_{j}\right\|-\delta_{i j}\right)^{2}
 $$
-#####
+##### solution
+######
 $$
 w_{i j}=1 / \delta_{i j}
 $$
