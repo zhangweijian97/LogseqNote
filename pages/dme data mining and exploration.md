@@ -29,7 +29,7 @@ title: DME Data Mining and Exploration
 ###### $\Sigma=\frac{1}{n}XX^T$
 ##### eigenvalue decomposition
 ###### $\Sigma = U\Lambda U^T$
-##### trace
+##### trace, 1.43
 #####
 ### 1.2 Data Visualisation
 #### 1.2.1 Bar Plot
