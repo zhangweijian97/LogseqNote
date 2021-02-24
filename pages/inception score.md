@@ -11,26 +11,26 @@ title: Inception Score
 #### $p(y|x)$具有低熵 [[Entropy]]，高预测性
 ### diversity of the generated images
 #### $p(y)$ 具有高熵，分布均匀，图像多样
-### 公式
-####
+## 公式
+###
 $$
 \mathbf{I S}(G)=\exp \left(\mathbb{E}_{\mathbf{x} \sim p_{g}} D_{K L}(p(y \mid \mathbf{x}) \| p(y))\right)
 $$
-### 计算
-#### 生成N个图片
-#### 输入到Inception V3
-#### 输出的向量（1000维）即图片属于各个类别的概率分布$p(y|x)$
-#### 求平均得到边缘分布 $p(y)$
-#####
+## 计算
+### 生成N个图片
+### 输入到Inception V3
+### 输出的向量（1000维）即图片属于各个类别的概率分布$p(y|x)$
+### 求平均得到边缘分布 $p(y)$
+####
 $$
 \hat{p}(y)=\frac{1}{N} \sum_{i=1}^{N} p\left(y \mid \mathbf{x}^{(i)}\right)
 $$
-#### 计算KL散度
-#####
+### 计算KL散度
+####
 $$
 D_{K L}(P \| Q)=\sum_{i} P(i) \log \frac{P(i)}{Q(i)}
 $$
-#### 上面公式的期望用 求和然后平均 来替代
+### 上面公式的期望用 求和然后平均 来替代
 ### 缺点
 #### 略
 # 联想
