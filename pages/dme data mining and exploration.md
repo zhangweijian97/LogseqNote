@@ -194,7 +194,7 @@ $$\hat\boldsymbol{G}=\sum_{i=1}^k \boldsymbol{v}_i s_i^2\boldsymbol{v}_i^\top = 
 $$
 \boldsymbol{Z}=\sqrt{\tilde{\boldsymbol{\Lambda}}_{k}} \boldsymbol{V}_{k}^{\top}
 $$
-######
+###### k $\times$ n matrix
 ### 2.4 Probabilistic PCA..
 #### 2.4.1 Probabilistic Model ...
 #### 2.4.2 Joint, Conditional and Observation Distributions
