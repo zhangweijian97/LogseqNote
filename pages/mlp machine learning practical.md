@@ -12,7 +12,7 @@ title: MLP Machine Learning Practical
 ##### [[Inception Score]]
 ##### [[Fréchet Inception Distance]]
 #### 方案一
-##### 把我们的模型丢去ImageNet，然后直接跑Inception Score
+##### 把我们的模型丢去ImageNet，然后跑Inception Score
 ##### 因为
 #+BEGIN_QUOTE
 不能在一个数据集上训练分类模型，用来评估另一个数据集上训练的生成模型
