@@ -37,6 +37,7 @@ $$
 \operatorname{Cov}[\boldsymbol{A} \boldsymbol{x}+\boldsymbol{b}] &=\boldsymbol{A} \operatorname{Cov}[\boldsymbol{x}] \boldsymbol{A}^{\top}
 \end{aligned}
 $$
+#####
 ### 1.2 Data Visualisation
 #### 1.2.1 Bar Plot
 #### 1.2.2 Box Plot
