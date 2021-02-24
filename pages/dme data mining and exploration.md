@@ -87,6 +87,7 @@ $$\begin{array}{cl}
 $$z_i = \boldsymbol{w}_i^\top\boldsymbol{x}$$
 ###### 上面这个是原公式，下面是我自己写的
 ######
+$$z_{i = \boldsymbol{w}_i^\top\boldsymbol{x}$$
 ######
 $$\boldsymbol{z} = \boldsymbol{w}_i^\top\boldsymbol{X}$$
 ######
