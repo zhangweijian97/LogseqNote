@@ -56,7 +56,7 @@ $$
 #### 1.2.4 Histogram
 #### 1.2.5 Kernel Density Plot
 ##### kernel density estimate，1.47
-#### 1.2.6 Violin Plo
+#### 1.2.6 Violin Plot
 ### 1.3 Data Pre-Processing
 #### 1.3.1 Standardisation
 ##### 注意这一节中$x$表示没有中心化的，$\tilde x$表示中心化的，和PCA那边的不一样
