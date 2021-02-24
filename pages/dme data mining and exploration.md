@@ -100,6 +100,7 @@ $$\cfrac{\sum_{m=1}^k\lambda_m}{\sum_{m=1}^d\lambda_m}$$
 #### 2.1.3 Simultaneous Variance Maximisation
 ##### 公式 2.27
 ### 2.2 PCA by Minimisation of Approximation Error
+#### 下面的W也是U
 #### Projection Matrix，公式2.28
 #####
 $$
