@@ -89,7 +89,7 @@ $$z_i = \boldsymbol{w}_i^\top\boldsymbol{x}$$
 ######
 $$z_{ij} = \boldsymbol{w}_i^\top\boldsymbol{x}_j$$
 ######
-$$\boldsymbol{z}_i = \boldsymbol{w}_i^\top\boldsymbol{X}$$
+$$\boldsymbol{z}_i^\top = \boldsymbol{w}_i^\top\boldsymbol{X}$$
 ######
 $$\boldsymbol{z}_j^\top = \boldsymbol{U}_k^\top\boldsymbol{x}_j$$
 ######
