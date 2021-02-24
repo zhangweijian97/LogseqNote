@@ -22,4 +22,4 @@ title: MLP Machine Learning Practical
 ###### 我们的模型是在F2T数据集上训练的生成模型
 ###### 数据集不同，把我们生成的图像放进Inception V3是没有意义的
 #### 方案二
-##### 把预训练的Inception V3拿过来，在我们的F2T数据集上fine tuning一下，再评估。这样就是直接评估我们的数据集生成的图片的
+##### 把预训练的Inception V3拿过来，在我们的F2T数据集上fine tuning一下，再评估。这样就是直接评估我们的数据集生成的图片的。
