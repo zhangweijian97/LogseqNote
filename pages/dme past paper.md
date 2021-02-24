@@ -14,7 +14,7 @@ $$
 $$\tilde\boldsymbol{z} = \boldsymbol{W} \boldsymbol{z}+\boldsymbol{\mu}$$
 #####
 $$
-p(\tilde\boldsymbol{z})=\mathcal{N}(\boldsymbol{z} \mid \mathbf{\mu}, \boldsymbol{WW^\top})
+p(\tilde\boldsymbol{z})=\mathcal{N}(\boldsymbol{z} \mid \boldsymbol{\mu}, \boldsymbol{WW^\top})
 $$
 #####
 $$
