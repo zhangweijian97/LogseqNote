@@ -28,7 +28,8 @@ title: DME Data Mining and Exploration
 ##### sample covariance matrix，1.28
 ###### $\Sigma=\frac{1}{n}XX^T$
 ###### eigenvalue decomposition
-####### $\Sigma = U\Lambda U^T$
+#######
+$$\Sigma = U\Lambda U^T$$
 ###### trace, 1.43
 ###### 性质，做线性变化之后
 #######
