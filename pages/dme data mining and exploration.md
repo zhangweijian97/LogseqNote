@@ -50,4 +50,15 @@ title: DME Data Mining and Exploration
 #### 3.3.4 Example
 ### 3.4 Isomap
 ### 3.5 UMAP
-##
+## 4 Predictive Modelling and Generalisation
+### 4.1 Prediction and Training Loss
+#### 4.1,1 Prediction Loss
+#### 4.1.2 Training Loss
+#### 4.1.3 Example
+### 4.2 Generalisation Performance
+#### 4.2.1 Generalisation for Prediction Functions and Algorithms 4.2.2 Overfitting and Underfitting
+ 4.2.3 Example. ....
+ 4.3 Estimating the Generalisation Performance
+ 4.3.1 Methods for Estimating the Generalisation Performance 4.3.2 Hyperparameter Selection and Performance Evaluation 4.4 Loss Functions in Predictive Modelling
+ 4.4.1 Loss Functions in Regression
+ 4.4.2 Loss Functions in Classification
