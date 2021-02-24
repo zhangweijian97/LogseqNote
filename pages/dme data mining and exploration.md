@@ -7,7 +7,8 @@ title: DME Data Mining and Exploration
 #### 1.1.1 Location
 ##### mean，公式略
 ###### 积分版
-######
+###### 向量版
+##### median，公式略
 #####
 #### 1.1.2 Scale
 #### 1.1.3 Shape
