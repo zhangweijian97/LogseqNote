@@ -19,8 +19,8 @@ title: Fréchet Inception Distance
 ### 信息来源，如参考文献，书籍，论文，网络文章
 ### Github Repo [Fréchet Inception Distance](https://github.com/tsc2017/Frechet-Inception-Distance)
 ### Github Repo [FID score for PyTorch](https://github.com/mseitzer/pytorch-fid)
-### Arxiv [GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium
-### ](https://arxiv.org/abs/1706.08500)
+### Arxiv [GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium ](https://arxiv.org/abs/1706.08500)
+###
 ## Literature Note
 ### Bib
 ####
