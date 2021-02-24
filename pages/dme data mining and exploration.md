@@ -199,6 +199,10 @@ $$
 #### 2.4.1 Probabilistic Model
 ##### 随机变量 $\boldsymbol{z}$ 统计独立，标准正太分布
 ######
+$$
+p(\boldsymbol{z})=\mathcal{N}(\boldsymbol{z} \mid \mathbf{0}, \boldsymbol{I})
+$$
+#####
 #### 2.4.2 Joint, Conditional and Observation Distributions
 #### 2.4.3 Maximum Likelihood
 #### 2.4.4 Relation to PCA
