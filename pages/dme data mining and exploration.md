@@ -116,7 +116,7 @@ $$\sum_{i=k+1}^d\lambda_i$$
 ##### singular value decomposition, 公式2.39
 ######
 $$\boldsymbol{X} = \boldsymbol{U}\boldsymbol{S}\boldsymbol{V}^\top$$
-###### U, d by d
+###### U, d $\times$ d $\times$
 ###### S, d by n
 ###### V, n by n
 ###### X, d by n
