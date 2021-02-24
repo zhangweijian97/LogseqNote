@@ -31,6 +31,17 @@ title: DME Data Mining and Exploration
 ####### $\Sigma = U\Lambda U^T$
 ###### trace, 1.43
 ###### 性质，做线性变化之后
+#######
+$$
+\begin{aligned}
+\operatorname{Cov}[\boldsymbol{A} \boldsymbol{x}+\boldsymbol{b}] &=\mathbb{E}\left[(\boldsymbol{A} \boldsymbol{x}+\boldsymbol{b}-\mathbb{E}[\boldsymbol{A} \boldsymbol{x}+\boldsymbol{b}])(\boldsymbol{A} \boldsymbol{x}+\boldsymbol{b}-\mathbb{E}[\boldsymbol{A} \boldsymbol{x}+\boldsymbol{b}])^{\top}\right] \\
+&=\mathbb{E}\left[(\boldsymbol{A} \boldsymbol{x}-\mathbb{E}[\boldsymbol{A} \boldsymbol{x}])(\boldsymbol{A} \boldsymbol{x}-\mathbb{E}[\boldsymbol{A} \boldsymbol{x}])^{\top}\right] \\
+&=\mathbb{E}\left[(\boldsymbol{A}(\boldsymbol{x}-\mathbb{E}[\boldsymbol{x}]))(\boldsymbol{A}(\boldsymbol{x}-\mathbb{E}[\boldsymbol{x}]))^{\top}\right] \\
+&=\mathbb{E}\left[\boldsymbol{A}(\boldsymbol{x}-\mathbb{E}[\boldsymbol{x}])(\boldsymbol{x}-\mathbb{E}[\boldsymbol{x}])^{\top} \boldsymbol{A}^{\top}\right] \\
+&=\boldsymbol{A} \mathbb{E}\left[(\boldsymbol{x}-\mathbb{E}[\boldsymbol{x}])(\boldsymbol{x}-\mathbb{E}[\boldsymbol{x}])^{\top}\right] \boldsymbol{A}^{\top} \\
+&=\boldsymbol{A} \operatorname{Cov}[\boldsymbol{x}] \boldsymbol{A}^{\top}
+\end{aligned}
+$$
 ### 1.2 Data Visualisation
 #### 1.2.1 Bar Plot
 #### 1.2.2 Box Plot
