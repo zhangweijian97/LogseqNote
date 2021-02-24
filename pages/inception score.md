@@ -39,12 +39,8 @@ $$
 ### 与其他笔记的联系和区别，大量引用
 ### 溯源，从哪里产生的想法
 ##
-## 联想
-### 这条笔记的意义，作用
-### 与其他笔记的联系和区别，大量引用
-### 溯源，从哪里产生的想法
-# 入档
-## #EvaluationMethod #MachineLearning #GAN
+## 入档
+### #EvaluationMethod #MachineLearning #GAN
 # 索引
 ## 博客文章 [Inception Score原理及其代码实现](https://zhuanlan.zhihu.com/p/263652288)
 ## Github Repo [Inception Score Pytorch](https://github.com/sbarratt/inception-score-pytorch)
