@@ -86,6 +86,7 @@ $$\begin{array}{cl}
 ######
 $$z_i = \boldsymbol{w}_i^\top\boldsymbol{x}$$
 ######
+######
 $$\boldsymbol{z} = \boldsymbol{w}_i^\top\boldsymbol{X}$$
 ######
 #### 2.1.2 Subsequent Principal Component Directions，
