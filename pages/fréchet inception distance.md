@@ -7,6 +7,7 @@ title: Fréchet Inception Distance
 ## Type
 ### #PermanentNote
 ## Permanent Notes
+### Inception Score 缺少合成图像与真实图像的比较
 ###
 ## 联想
 ### 用来评估GANs
