@@ -6,7 +6,6 @@ title: Inception Score
 ### [[Inception Score]]
 ## Type
 ### #PermanentNote
-## Temporary notes 临时笔记
 ### 两个标准来衡量GAN的性能
 #### quality of the generated images
 ##### $p(y|x)$具有低熵 [[Entropy]]，高预测性
