@@ -21,7 +21,4 @@ $$
 \boldsymbol{x}=\tilde\boldsymbol{z}+\boldsymbol{\epsilon}
 $$
 #####
-$$
-p(\boldsymbol{x})=\mathcal{N}(\tilde\boldsymbol{z} \mid \mathbf{0}, \sigma^2\boldsymbol{I})
-$$
 #####
