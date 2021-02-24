@@ -34,12 +34,7 @@ title: DME Data Mining and Exploration
 #######
 $$
 \begin{aligned}
-\operatorname{Cov}[\boldsymbol{A} \boldsymbol{x}+\boldsymbol{b}] &=\mathbb{E}\left[(\boldsymbol{A} \boldsymbol{x}+\boldsymbol{b}-\mathbb{E}[\boldsymbol{A} \boldsymbol{x}+\boldsymbol{b}])(\boldsymbol{A} \boldsymbol{x}+\boldsymbol{b}-\mathbb{E}[\boldsymbol{A} \boldsymbol{x}+\boldsymbol{b}])^{\top}\right] \\
-&=\mathbb{E}\left[(\boldsymbol{A} \boldsymbol{x}-\mathbb{E}[\boldsymbol{A} \boldsymbol{x}])(\boldsymbol{A} \boldsymbol{x}-\mathbb{E}[\boldsymbol{A} \boldsymbol{x}])^{\top}\right] \\
-&=\mathbb{E}\left[(\boldsymbol{A}(\boldsymbol{x}-\mathbb{E}[\boldsymbol{x}]))(\boldsymbol{A}(\boldsymbol{x}-\mathbb{E}[\boldsymbol{x}]))^{\top}\right] \\
-&=\mathbb{E}\left[\boldsymbol{A}(\boldsymbol{x}-\mathbb{E}[\boldsymbol{x}])(\boldsymbol{x}-\mathbb{E}[\boldsymbol{x}])^{\top} \boldsymbol{A}^{\top}\right] \\
-&=\boldsymbol{A} \mathbb{E}\left[(\boldsymbol{x}-\mathbb{E}[\boldsymbol{x}])(\boldsymbol{x}-\mathbb{E}[\boldsymbol{x}])^{\top}\right] \boldsymbol{A}^{\top} \\
-&=\boldsymbol{A} \operatorname{Cov}[\boldsymbol{x}] \boldsymbol{A}^{\top}
+\operatorname{Cov}[\boldsymbol{A} \boldsymbol{x}+\boldsymbol{b}] &=\boldsymbol{A} \operatorname{Cov}[\boldsymbol{x}] \boldsymbol{A}^{\top}
 \end{aligned}
 $$
 ### 1.2 Data Visualisation
