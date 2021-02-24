@@ -39,7 +39,7 @@ $$
 #### [[Generative adversarial network]]
 ### 升级版 FID
 #### [[Fréchet Inception Distance]]
-### 用来做
+### 用来做 ((6036865a-0182-4f5d-b3ed-7c4a243beefc))
 ## 入档
 ### #EvaluationMethod #MachineLearning #GAN
 ## 索引
