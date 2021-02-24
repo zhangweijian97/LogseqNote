@@ -33,4 +33,21 @@ title: DME Data Mining and Exploration
 #### 2.4.2 Joint, Conditional and Observation Distributions
 #### 2.4.3 Maximum Likelihood
 #### 2.4.4 Relation to PCA
+## 3 Dimensionality Reduction
+### 3.1 Linear Dimensionality Reduction
+### 3.1.1 From Data Points
+### 3.1.2 From Inner Products
+### 3.1.3 From Distances
+### 3.1.4 Example
+## 3.2 Dimensionality Reduction by Kernel PCA
+### 3.2.1 Idea ..
+### 3.2.2 Kernel Trick
+### 3.2.3 Example. .
+## 3.3 Multidimensional Scaling
+### 3.3.1 Metric MDS
+### 3.3.2 Nonmetric MDS
+### 3.3.3 Classical MDS
+### 3.3.4 Example
+## 3.4 Isomap
+## 3.5 UMAP
 ##
