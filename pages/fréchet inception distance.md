@@ -19,7 +19,8 @@ title: Fréchet Inception Distance
 ## Literature Note
 ### Bib
 ####
-#### ```code
+####
+```code
 @misc{Seitzer2020FID,
 author={Maximilian Seitzer},
   title={{pytorch-fid: FID Score for PyTorch}},
@@ -27,7 +28,8 @@ author={Maximilian Seitzer},
   year={2020},
   note={Version 0.1.1},
   howpublished={\url{https://github.com/mseitzer/pytorch-fid}},
-}```
+}
+```
 ####
 ```markdown
 asb
