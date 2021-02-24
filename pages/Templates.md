@@ -11,8 +11,6 @@ title: Templates
 #### [[concept_name_unique]]
 ### Type
 #### #PermanentNote
-###
----
 ### Temporary notes 临时笔记
 #### 后续再整理
 ###
