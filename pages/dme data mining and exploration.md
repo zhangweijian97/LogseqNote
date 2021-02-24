@@ -83,7 +83,7 @@ $$\begin{array}{cl}
 \end{array}$$
 ###### 解法在2.3到2.7
 #### 2.1.2 Subsequent Principal Component Directions，
-#####
+##### 证明主成分是不相关的 The principal components are uncorrelated 2.16到2.22
 ##### m-th principal component direction 2.23
 ######
 $$\begin{array}{ll}
