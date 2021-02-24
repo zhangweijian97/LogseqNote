@@ -12,11 +12,11 @@ title: Inception Score
 ## 后续再整理
 #
 ---
-# Literature Notes
-## zotaro
-## cite
-### \\cite{cite_name}
-## bib
+## Literature Notes
+### zotaro
+### cite
+#### \\cite{cite_name}
+### bib
 #
 ---
 # 大段文字描述，不进行引用
