@@ -44,6 +44,10 @@ $$
 $$
 ##### non linear relationship，1.42
 ##### Kendall’s $\tau$，1.43
+######
+$$
+\tau(x, y)=\frac{n_{c}(x, y)-n_{d}(x, y)}{n(n-1) / 2}
+$$
 #####
 ### 1.2 Data Visualisation
 #### 1.2.1 Bar Plot
