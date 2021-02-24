@@ -183,6 +183,8 @@ $$\boldsymbol{G} = \boldsymbol{X}^\top\boldsymbol{X}$$
 ###### n $\times$ n matrix
 ###### by EV,
 #######
+$$\boldsymbol{G} = \boldsymbol{V} \tilde\boldsymbol{\Lambda}\boldsymbol{V}^\top$$
+######
 ### 2.4 Probabilistic PCA..
 #### 2.4.1 Probabilistic Model ...
 #### 2.4.2 Joint, Conditional and Observation Distributions
