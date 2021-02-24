@@ -10,8 +10,6 @@ title: Inception Score
 ---
 ## Temporary notes 临时笔记
 ## 后续再整理
-#
----
 ## Literature Notes
 ### zotaro
 ### cite
