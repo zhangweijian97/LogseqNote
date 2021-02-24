@@ -12,4 +12,6 @@ title: MLP Machine Learning Practical
 ##### [[Inception Score]]
 ##### [[Fréchet Inception Distance]]
 #### 方案一
-##### 把我们的模型放在
+##### 把我们的模型丢去Inception Net V3，然后直接跑Inception Score
+#### 方案二
+#####
