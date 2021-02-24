@@ -209,8 +209,10 @@ $$
 $$
 ##### 数据 $\boldsymbol{x}$ 2.60
 ######
-$$\boldsymbol{x} = \boldsymbol{W}\boldsymbol{z}+\boldsymbol{\mu}+\boldsymbol{\eplison}$$
-#####
+$$\boldsymbol{x} = \boldsymbol{W}\boldsymbol{z}+\boldsymbol{\mu}+\boldsymbol{\epsilon}$$
+###### W, $d \times k$
+###### $\mu$, $d$-dimension
+###### $\epsilon$, $d$-dimension
 #### 2.4.2 Joint, Conditional and Observation Distributions
 #### 2.4.3 Maximum Likelihood
 #### 2.4.4 Relation to PCA
