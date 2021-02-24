@@ -6,8 +6,6 @@ title: Inception Score
 ### [[Inception Score]]
 ## Type
 ### #PermanentNote
-##
----
 ## Temporary notes 临时笔记
 ### 两个标准来衡量GAN的性能
 #### quality of the generated images
