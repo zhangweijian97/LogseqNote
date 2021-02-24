@@ -17,8 +17,5 @@ title: Fréchet Inception Distance
 #### 索引
 ##### 信息来源，如参考文献，书籍，论文，网络文章
 #### Literature Notes
-# zotaro
-# cite
-# bib
 #
 #
