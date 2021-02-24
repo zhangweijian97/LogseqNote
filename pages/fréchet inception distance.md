@@ -20,7 +20,7 @@ title: Fréchet Inception Distance
 ### Bib
 ####
 ####
-```code
+```Bib
 @misc{Seitzer2020FID,
 isc{Seitzer2020FID,
 author={Maximilian Seitzer},
