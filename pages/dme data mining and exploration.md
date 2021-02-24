@@ -94,7 +94,8 @@ $$\begin{array}{ll}
 ###### variance explained，2.24
 #######
 $$\sum_{m=1}^k\lambda_m$$
-######
+###### fraction of variance explained
+#######
 #### 2.1.3 Simultaneous Variance Maximisation
 ### 2.2 PCA by Minimisation of Approximation Error
 ### 2.3 PCA by Low Rank Matrix Approximation
