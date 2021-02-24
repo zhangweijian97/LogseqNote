@@ -82,7 +82,7 @@ $$\begin{array}{cl}
 \text { subject to } & \left\|w_{1}\right\|=1
 \end{array}$$
 ###### 解法在2.3到2.7
-##### Principal Component Score
+##### Principal Component Scores
 ######
 $$z_i = \boldsymbol{w}_i^\top\boldsymbol{x}$$
 #### 2.1.2 Subsequent Principal Component Directions，
