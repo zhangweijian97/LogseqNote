@@ -39,8 +39,7 @@ $$
 #### [[Generative adversarial network]]
 ### 升级版 FID
 #### [[Fréchet Inception Distance]]
-###
-### 溯源，从哪里产生的想法
+### 用来做
 ## 入档
 ### #EvaluationMethod #MachineLearning #GAN
 ## 索引
