@@ -39,7 +39,6 @@ $$
 ## 与其他笔记的联系和区别，大量引用
 ## 溯源，从哪里产生的想法
 # 入档
-## 加合适的标签（归入对应的卡片盒）
 ## #EvaluationMethod #MachineLearning #GAN
 # 索引
 ## 博客文章 [Inception Score原理及其代码实现](https://zhuanlan.zhihu.com/p/263652288)
