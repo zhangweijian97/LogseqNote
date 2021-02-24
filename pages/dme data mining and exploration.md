@@ -48,6 +48,6 @@ title: DME Data Mining and Exploration
 #### 3.3.2 Nonmetric MDS
 #### 3.3.3 Classical MDS
 #### 3.3.4 Example
-## 3.4 Isomap
-## 3.5 UMAP
+### 3.4 Isomap
+### 3.5 UMAP
 ##
