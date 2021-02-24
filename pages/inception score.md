@@ -15,7 +15,8 @@ title: Inception Score
 #### diversity of the generated images
 ##### $p(y)$ 具有高熵，分布均匀，图像多样
 ### 公式
-####
+#### 。
+###
 #
 ---
 # 大段文字描述，不进行引用
