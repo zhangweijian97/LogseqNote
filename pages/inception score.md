@@ -36,6 +36,8 @@ $$
 #### 略
 ### 重新训练
 #### 因为研究所使用的数据集往往不是ImageNet，所以需要fine-turning Inception V3
+#### https://github.com/tensorflow/hub/blob/master/examples/image_retraining/retrain.py
+##### 升级版 https://github.com/tensorflow/hub/tree/master/tensorflow_hub/tools/make_image_classifier
 ####
 ## 联想
 ### 用来评估GANs的性能
