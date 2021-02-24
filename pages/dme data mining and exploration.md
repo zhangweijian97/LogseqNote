@@ -139,7 +139,7 @@ $$
 $$
 ##### relate to principal component analysis
 ###### $\boldsymbol{u}_i$ 是 principal component directions
-###### $s_i$ 和 $\lambda_i$
+###### $s_i$ 和 $\lambda_i$ 公式2.45
 #######
 $$\lambda_i=\cfrac{s_i^2}{n}$$
 ###### principal component scores (**after scaling?**)
