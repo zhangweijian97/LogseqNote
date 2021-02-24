@@ -42,6 +42,6 @@ $$
 ### #EvaluationMethod #MachineLearning #GAN
 ## 索引
 ### 博客文章 [Inception Score原理及其代码实现](https://zhuanlan.zhihu.com/p/263652288)
-#### Github Repo [Inception Score Pytorch](https://github.com/sbarratt/inception-score-pytorch)
-#### Arxiv [Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498)
+### Github Repo [Inception Score Pytorch](https://github.com/sbarratt/inception-score-pytorch)
+### Arxiv [Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498)
 ####
