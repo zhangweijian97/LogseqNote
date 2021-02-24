@@ -18,4 +18,12 @@ title: DME Data Mining and Exploration
 ### 1.3 Data Pre-Processing
 #### 1.3.1 Standardisation
 #### 1.3.2 Outlier Detection and Removal
-##
+## 2 Principal Component Analysis
+## 2.1 PCA by Variance Maximisation
+ 2.1.1 First Principal Component Direction 2.1.2 Subsequent Principal Component Directions
+ 2.1.3 Simultaneous Variance Maximisation 2.2 PCA by Minimisation of Approximation Error 2.3 PCA by Low Rank Matrix Approximation 2.3.1 Approximating the Data Matrix 2.3.2 Approximating the Sample Covariance Matrix
+ 2.3.3 Approximating the Gram Matrix
+ 2.4 Probabilistic PCA..
+ 2.4.1 Probabilistic Model ...
+ 2.4.2 Joint, Conditional and Observation Distributions 2.4.3 Maximum Likelihood
+ 2.4.4 Relation to PCA
