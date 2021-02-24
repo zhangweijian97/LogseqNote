@@ -20,7 +20,7 @@ title: DME Data Mining and Exploration
 ##### skewness，1.13
 ##### Galton’s measure of skewness，1.14
 ##### kurtosis，1.15
-#####
+##### robust kurtosis，1.16
 #### 1.1.4 Multivariate Measures
 ### 1.2 Data Visualisation
 #### 1.2.1 Bar Plot
