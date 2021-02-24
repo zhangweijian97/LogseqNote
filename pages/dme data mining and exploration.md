@@ -197,12 +197,12 @@ $$
 ###### k $\times$ n matrix
 ### 2.4 Probabilistic PCA
 #### 2.4.1 Probabilistic Model
-##### 随机变量 $\boldsymbol{z}$ 统计独立，标准正太分布
+##### 随机变量 $\boldsymbol{z}$ 统计独立，标准正太分布 2.58
 ######
 $$
 p(\boldsymbol{z})=\mathcal{N}(\boldsymbol{z} \mid \mathbf{0}, \boldsymbol{I})
 $$
-##### 正太分布
+##### 正太分布 2.59
 ######
 $$
 \mathcal{N}(\boldsymbol{x} \mid \boldsymbol{\mu}, \mathbf{\Sigma})=\frac{1}{\sqrt{(2 \pi)^{d}|\operatorname{det}(\mathbf{\Sigma})|}} \exp \left(-\frac{1}{2}(\boldsymbol{x}-\boldsymbol{\mu})^{\top} \boldsymbol{\Sigma}^{-1}(\boldsymbol{x}-\boldsymbol{\mu})\right)
