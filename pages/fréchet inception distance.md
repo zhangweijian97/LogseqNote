@@ -13,7 +13,7 @@ title: Fréchet Inception Distance
 #### 「mu_1」和「mu_2」指的是真实图像和生成图像的特征均值
 #### C_1 和 C_2 是真实图像的和生成图像的特征向量的协方差矩阵
 ### 和Inception Score都基于Inception V3，分类器相同，计算分数的过程不同
-### 有个[文章](https://blog.csdn.net/qq_37189298/article/details/108115284) 说
+### 有个[文章](https://blog.csdn.net/qq_37189298/article/details/108115284)说
 #+BEGIN_QUOTE
 FID并不使用Inception Net-V3的原本输出作为依据，它删除模型原本的输出层，于是输出层变为Inception Net-V3的最后一个池化层。这一层的输出是2048 维向量，因此，每个图像会被预测为2048个特征。
 #+END_QUOTE
