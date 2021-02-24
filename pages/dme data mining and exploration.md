@@ -177,7 +177,7 @@ $$
 \end{array}
 $$
 #### 2.3.3 Approximating the Gram Matrix
-##### Gram matrix
+##### Gram matrix 2.52
 ######
 $$\boldsymbol{G} = \boldsymbol{X}^\top\boldsymbol{X}$$
 #####
