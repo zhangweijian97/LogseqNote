@@ -65,7 +65,7 @@ $$
 \boldsymbol{C}_{n}=\boldsymbol{I}_{n}-\frac{1}{n} \mathbf{1}_{n} \mathbf{1}_{n}^{\top}
 $$
 ###### 左列右行
-##### sample covarice matrix with certring matrix
+##### sample covarice matrix with certring matrix，1.66
 ######
 #### 1.3.2 Outlier Detection and Removal
 ## 2 Principal Component Analysis
