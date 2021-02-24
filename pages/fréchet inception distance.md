@@ -9,7 +9,7 @@ title: Fréchet Inception Distance
 ## Permanent Notes
 ### 主要描述
 ## 联想
-### 这条笔记的意义，作用
+### 用来评估GANs
 ### [[Inception Score]] 的升级版
 ### 用来做 ((6036865a-0182-4f5d-b3ed-7c4a243beefc))
 ## 入档
