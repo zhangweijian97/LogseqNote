@@ -120,6 +120,14 @@ $$\boldsymbol{X} = \boldsymbol{U}\boldsymbol{S}\boldsymbol{V}^\top$$
 ###### 公式2.41
 #######
 $$\boldsymbol{X}=\sum_{i=1}^r s_i \boldsymbol{u}_i\boldsymbol{v}_i^\top$$
+##### optimisation problem
+######
+$$
+\begin{array}{ll}
+\underset{M}{\operatorname{minimise}} & \sum_{i j}\left((\boldsymbol{X})_{i j}-(\boldsymbol{M})_{i j}\right)^{2} \\
+\text { subject to } & \operatorname{rank}(\boldsymbol{M})=k
+\end{array}
+$$
 #####
 #### 2.3.2 Approximating the Sample Covariance Matrix
 #### 2.3.3 Approximating the Gram Matrix
