@@ -192,7 +192,7 @@ $$\hat\boldsymbol{G}=\sum_{i=1}^k \boldsymbol{v}_i s_i^2\boldsymbol{v}_i^\top = 
 ##### principal component scores, 公式2.57
 ######
 $$
-Z=\sqrt{\tilde{\Lambda}_{k}} V_{k}^{\top}
+\boldsymbol{Z}=\sqrt{\tilde{\boldsymbol{\Lambda}}_{k}} V_{k}^{\top}
 $$
 ######
 ### 2.4 Probabilistic PCA..
