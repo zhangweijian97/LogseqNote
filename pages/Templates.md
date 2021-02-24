@@ -2,7 +2,7 @@
 title: Templates
 ---
 
-## Research Note Template
+## Note Template
 :PROPERTIES:
 :template: Research Note Template
 :including-parent: false
