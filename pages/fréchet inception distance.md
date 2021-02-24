@@ -19,7 +19,6 @@ title: Fréchet Inception Distance
 ## Literature Note
 ### Bib
 ####
-####
 ```Bib
 @misc{Seitzer2020FID,
 isc{Seitzer2020FID,
