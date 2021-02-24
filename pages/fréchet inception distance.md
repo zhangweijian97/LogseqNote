@@ -24,7 +24,6 @@ title: Fréchet Inception Distance
 ### Github Repo PyTorch [FID score for PyTorch](https://github.com/mseitzer/pytorch-fid)
 ### Arxiv [GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium ](https://arxiv.org/abs/1706.08500)
 ### 博客文章 机器之心 [学习GAN模型量化评价，先从掌握FID开始吧](https://www.jiqizhixin.com/articles/2019-10-14-13)
-###
 ## Literature Note
 ### Bib
 ####
