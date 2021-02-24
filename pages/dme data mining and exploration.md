@@ -109,6 +109,7 @@ $$
 #### 投影的x，$\hat x = Px = \sum_{i=1}^{k} \boldsymbol{w}_{i} \boldsymbol{w}_{i}^{\top}x =\boldsymbol{W}_{k} \boldsymbol{W}_{k}^{\top}x = \sum_{i=1}^k\boldsymbol{w}_{i}z_i$
 #### 优化问题，公式2.29
 #### smallest expected approximation error
+#####
 ### 2.3 PCA by Low Rank Matrix Approximation
 #### 2.3.1 Approximating the Data Matrix
 #### 2.3.2 Approximating the Sample Covariance Matrix
