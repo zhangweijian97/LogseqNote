@@ -12,7 +12,7 @@ title: MLP Machine Learning Practical
 ##### [[Inception Score]]
 ##### [[Fréchet Inception Distance]]
 #### 方案一
-##### 把我们的模型丢去ImageNet，然后跑Inception Score
+##### 把我们的模型丢去ImageNet训练，然后跑Inception Score
 ##### 原因
 ######
 #+BEGIN_QUOTE
