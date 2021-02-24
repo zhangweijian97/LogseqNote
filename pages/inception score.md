@@ -11,9 +11,9 @@ title: Inception Score
 ## Temporary notes 临时笔记
 ### 两个标准来衡量GAN的性能
 #### quality of the generated images
-##### $p(y|x)$具有低熵 [[Entropy]]，
+##### $p(y|x)$具有低熵 [[Entropy]]，高预测性
 #### diversity of the generated images
-##### $p(y)$ 具有高熵
+##### $p(y)$ 具有高熵，分布
 ####
 #
 ---
