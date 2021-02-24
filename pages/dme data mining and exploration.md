@@ -12,7 +12,8 @@ title: DME Data Mining and Exploration
 ##### 公式1.7是上面两个的混合
 ##### mode
 #### 1.1.2 Scale
-#####
+##### 方差，公式略
+###### 积分版
 #### 1.1.3 Shape
 #### 1.1.4 Multivariate Measures
 ### 1.2 Data Visualisation
