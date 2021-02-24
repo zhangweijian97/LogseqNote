@@ -19,7 +19,7 @@ title: DME Data Mining and Exploration
 #### 1.1.3 Shape
 ##### skewness，1.13
 ##### Galton’s measure of skewness，1.14
-#####
+##### kurtosis
 #####
 #### 1.1.4 Multivariate Measures
 ### 1.2 Data Visualisation
