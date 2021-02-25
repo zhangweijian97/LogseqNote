@@ -360,7 +360,7 @@ $$
 ##### 先中心化，公式3.10
 ######
 $$\boldsymbol{G} = \boldsymbol{C}_n\tilde\boldsymbol{G}\boldsymbol{C}_n$$
-##### 重复上面
+##### 重复前面
 #### 3.1.3 From Distances
 ##### 已知未中心化的数据，之间的距离 $\delta_{ij}^2$, 或表示为$\boldsymbol{\Delta}$
 ##### 公式3.12到公式3.21一通推导，得到公式3.22，用$\boldsymbol{\Delta}$ 计算 G
