@@ -514,7 +514,7 @@ $$
 ##### 把上面的最优参数代回去，得到最小训练损失minimal training loss 公式 4.8
 ######
 $$J_{\boldsymbol{\lambda}}^*=\min_{\boldsymbol{\theta}}J_{\boldsymbol{\lambda}}(\boldsymbol{\theta})$$
-##### 不能选产生最小训练损失的超参数，因为
+##### 不能选产生最小训练损失的超参数，因为过拟合训练集，没有足够的泛化性能
 #### 4.1.3 Example
 ### 4.2 Generalisation Performance
 #### 4.2.1 Generalisation for Prediction Functions and Algorithms
