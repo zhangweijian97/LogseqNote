@@ -625,7 +625,7 @@ L(K, 1) & L(K, 2) & \cdots & L(K, K)
 \end{array}\right)
 $$
 ##### TP，TN，FP，FN
-######
+###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210225034337.png)
 ##### misclassiﬁcation or error rate 公式 4.58
 ######
 $$
