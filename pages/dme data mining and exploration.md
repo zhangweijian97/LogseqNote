@@ -291,7 +291,8 @@ $$
 \boldsymbol{W}_{\mathrm{ML}}=\boldsymbol{U}_{k}\left(\boldsymbol{\Lambda}_{k}-\sigma^{2} \boldsymbol{I}\right)^{1 / 2} \boldsymbol{R}
 $$
 ###### 对$\hat\boldsymbol{\Sigma}$ 求EV，得到 $\boldsymbol{U}_{k}$ 和 $\boldsymbol{\Lambda}_{k}$
-###### R不唯一，
+###### R不唯一，可以取I
+######
 #### 2.4.4 Relation to PCA
 ## 3 Dimensionality Reduction
 ### 3.1 Linear Dimensionality Reduction
