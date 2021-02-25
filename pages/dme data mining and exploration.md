@@ -620,7 +620,7 @@ $$
 $$
 \hat{\boldsymbol{\lambda}}=\underset{\boldsymbol{\lambda}}{\operatorname{argmin}} \mathrm{PL}(\boldsymbol{\lambda})
 $$
-###### 合并Dtrain和Dval，重新跑一次得到
+###### 合并Dtrain和Dval，重新优化一次得到新的
 ##### Cross-validation and Hold-out
 ######
 ### 4.4 Loss Functions in Predictive Modelling
