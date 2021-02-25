@@ -524,7 +524,7 @@ $$J_{\boldsymbol{\lambda}}^*=\min_{\boldsymbol{\theta}}J_{\boldsymbol{\lambda}}(
 $$
 \mathcal{J}(\hat h)=\mathbb{E}_{\boldsymbol{x}, y}[\mathcal{L}(\hat h(\boldsymbol{x}), y)]]
 $$
-#####
+##### 预测损失 又称作泛化损失
 #### 4.2.2 Overfitting and Underfitting
 #### 4.2.3 Example
 ### 4.3 Estimating the Generalisation Performance
