@@ -228,14 +228,14 @@ $$
 #######
 $$
 \operatorname{Cov}\left[\left(\begin{array}{l}
-z \\
-x
+\boldsymbol{z} \\
+\boldsymbol{x}
 \end{array}\right)\right]=\left(\begin{array}{cc}
-I+W^{\top} \frac{1}{\sigma^{2}} W & -W^{\top} \frac{1}{\sigma^{2}} \\
--\frac{1}{\sigma^{2}} W & \frac{1}{\sigma^{2}} I
+\boldsymbol{I}+\boldsymbol{W}^{\top} \frac{1}{\sigma^{2}} \boldsymbol{W} & -\boldsymbol{W}^{\top} \frac{1}{\sigma^{2}} \\
+-\frac{1}{\sigma^{2}} \boldsymbol{W} & \frac{1}{\sigma^{2}} \boldsymbol{I}
 \end{array}\right)^{-1}=\left(\begin{array}{cc}
-I & W^{\top} \\
-W & W W^{\top}+\sigma^{2} I
+\boldsymbol{I} & \boldsymbol{W}^{\top} \\
+\boldsymbol{W} & \boldsymbol{W} \boldsymbol{W}^{\top}+\sigma^{2} \boldsymbol{I}
 \end{array}\right)
 $$
 ###### 平均值 mean 公式2.70
