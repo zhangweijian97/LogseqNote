@@ -584,7 +584,7 @@ $$
 $$
 ###### 计算泛化性能 公式 4.34
 #######
-$$\hat{\mathcal{J}}_k(\hat{h}_k ; \mathcal{D}_k^{\text{val}})$$
+$$\hat{\mathcal{J}}_k = \hat{\mathcal{J}}_k(\hat{h}_k ; \mathcal{D}_k^{\text{val}})$$
 ######
 #### 4.3.2 Hyperparameter Selection and Performance Evaluation
 ### 4.4 Loss Functions in Predictive Modelling
