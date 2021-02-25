@@ -526,11 +526,14 @@ $$
 $$
 ##### 预测损失 $\mathcal{J}(\hat h)$ 又称作泛化损失 generalisation loss 或 测试损失 test loss
 ##### 但上面这玩意儿也是不能算的，因为并不知道数据的真实分布
-#####
+##### 用 ((603645b8-d154-41bf-b0e3-3c0bd80d3cb2)) 的方法 held-out data 来估计
 #### 4.2.2 Overfitting and Underfitting
 #### 4.2.3 Example
 ### 4.3 Estimating the Generalisation Performance
 #### 4.3.1 Methods for Estimating the Generalisation Performance
+:PROPERTIES:
+:id: 603645b8-d154-41bf-b0e3-3c0bd80d3cb2
+:END:
 #### 4.3.2 Hyperparameter Selection and Performance Evaluation
 ### 4.4 Loss Functions in Predictive Modelling
 #### 4.4.1 Loss Functions in Regression
