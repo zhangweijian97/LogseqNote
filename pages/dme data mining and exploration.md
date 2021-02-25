@@ -371,6 +371,11 @@ $$\boldsymbol{G} = -\cfrac{1}{2} \boldsymbol{C}_n\boldsymbol{\Delta}\boldsymbol{
 ##### 无公式，跳过
 ### 3.2 Dimensionality Reduction by Kernel PCA
 #### 3.2.1 Idea
+##### 把x的feature混合得到更高dimension的特征，公式3.23
+######
+$$
+\phi(\boldsymbol{x})=\left(x_{1}, \cdots, x_{d}, x_{1} x_{2}, \cdots, x_{1} x_{d}, \cdots, x_{d} x_{d}\right)^{\top}
+$$
 #####
 #### 3.2.2 Kernel Trick
 #### 3.2.3 Example. .
