@@ -376,7 +376,9 @@ $$\boldsymbol{G} = -\cfrac{1}{2} \boldsymbol{C}_n\boldsymbol{\Delta}\boldsymbol{
 $$
 \phi(\boldsymbol{x})=\left(x_{1}, \cdots, x_{d}, x_{1} x_{2}, \cdots, x_{1} x_{d}, \cdots, x_{d} x_{d}\right)^{\top}
 $$
-#####
+##### data matrix 公式3.24
+######
+$$\Phi = (\phi_1, \cdots, \phi_n)$$
 #### 3.2.2 Kernel Trick
 #### 3.2.3 Example. .
 ### 3.3 Multidimensional Scaling
