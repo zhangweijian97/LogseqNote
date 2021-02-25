@@ -416,8 +416,8 @@ $$
 $$
 ##### 用回归的方法解，课本只给了论文链接 Izenman, 2008
 ###### Modern Multivariate Statistical Techniques: Regression, Classiﬁcation, and Manifold Learning
-#####
 #### 3.3.3 Classical MDS
+#####
 #### 3.3.4 Example
 ### 3.4 Isomap
 ### 3.5 UMAP
