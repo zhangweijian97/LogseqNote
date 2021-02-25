@@ -205,6 +205,9 @@ $$
 $$\boldsymbol{G} = \boldsymbol{X}^\top\boldsymbol{X}$$
 ####### n $\times$ n matrix
 ###### by EV, 公式2.53
+:PROPERTIES:
+:id: 6036c5b3-1d6f-478d-8cc6-90251b30da71
+:END:
 #######
 $$\boldsymbol{G} = \boldsymbol{V} \tilde\boldsymbol{\Lambda}\boldsymbol{V}^\top$$
 #######
