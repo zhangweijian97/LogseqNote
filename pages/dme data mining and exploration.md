@@ -596,6 +596,7 @@ $$
 $$
 ##### leave-one-out cross-validation (LOOCV)，CV的升级版，K取n
 #### 4.3.2 Hyperparameter Selection and Performance Evaluation
+##### 7 步
 ##### Two Times Hold-out
 ######
 ##### Cross-validation and Hold-out
