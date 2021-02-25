@@ -511,7 +511,8 @@ $$
 $$
 \hat{h}_{\boldsymbol{\lambda}}(\boldsymbol{x})=h_{\boldsymbol{\lambda}}\left(\boldsymbol{x} ; \hat{\boldsymbol{\theta}}_{\boldsymbol{\lambda}}\right), \quad \hat{\boldsymbol{\theta}}_{\boldsymbol{\lambda}}=\underset{\boldsymbol{\theta}}{\operatorname{argmin}} J_{\boldsymbol{\lambda}}(\boldsymbol{\theta})
 $$
-##### 把上面的最优参数代回去，得到最小训练损失
+##### 把上面的最优参数代回去，得到最小训练损失minimal training loss 公式 4.8
+######
 #### 4.1.3 Example
 ### 4.2 Generalisation Performance
 #### 4.2.1 Generalisation for Prediction Functions and Algorithms
