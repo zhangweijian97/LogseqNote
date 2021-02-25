@@ -366,6 +366,7 @@ $$\boldsymbol{G} = \boldsymbol{C}_n\tilde\boldsymbol{G}\boldsymbol{C}_n$$
 ##### 公式3.12到公式3.21一通推导，得到公式3.22，用$\boldsymbol{\Delta}$ 计算 G
 ######
 $$\boldsymbol{G} = -\cfrac{1}{2} \boldsymbol{C}_n\boldsymbol{\Delta}\boldsymbol{C}_n$$
+##### 重复前面
 #### 3.1.4 Example
 ### 3.2 Dimensionality Reduction by Kernel PCA
 #### 3.2.1 Idea ..
