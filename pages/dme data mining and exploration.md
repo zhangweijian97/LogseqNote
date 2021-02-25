@@ -317,6 +317,8 @@ $$
 ## 3 Dimensionality Reduction
 ### 3.1 Linear Dimensionality Reduction
 #### 3.1.1 From Data Points
+##### 已知未中心话的 $\tilde\boldsymbol{X}$
+#####
 #### 3.1.2 From Inner Products
 #### 3.1.3 From Distances
 #### 3.1.4 Example
