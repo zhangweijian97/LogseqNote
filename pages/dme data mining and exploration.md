@@ -199,6 +199,9 @@ $$
 #### 2.3.3 Approximating the Gram Matrix
 ##### Gram matrix 2.52
 ######
+:PROPERTIES:
+:id: 6036c587-f200-48ec-9866-3189543f2c77
+:END:
 $$\boldsymbol{G} = \boldsymbol{X}^\top\boldsymbol{X}$$
 ###### n $\times$ n matrix
 ###### by EV, 公式2.53
