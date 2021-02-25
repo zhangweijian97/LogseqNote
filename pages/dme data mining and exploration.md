@@ -393,6 +393,7 @@ $$
 ##### 既然得到未中心化的$\tilde{\boldsymbol{G}}$，可以用3.1.2节的方法来计算Scores
 ###### ((6036458f-8df4-428c-b2b3-7ba60689e716))
 #### 3.2.3 Example
+#####
 ### 3.3 Multidimensional Scaling
 #### 3.3.1 Metric MDS
 ##### 优化问题
