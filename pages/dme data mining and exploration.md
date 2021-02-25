@@ -582,7 +582,7 @@ $$
 $$
 \hat{h}_k=\mathcal{A}\left(\mathcal{D}_k^{\text {train }}\right)
 $$
-######
+###### 计算
 #### 4.3.2 Hyperparameter Selection and Performance Evaluation
 ### 4.4 Loss Functions in Predictive Modelling
 #### 4.4.1 Loss Functions in Regression
