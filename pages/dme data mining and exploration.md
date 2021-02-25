@@ -637,7 +637,7 @@ $$
 $$
 ##### Cross-validation and Hold-out
 ###### 1同上
-###### 2. k-fold 分割
+###### 2. k-fold 分割 得到k个Dtran和k个Dval
 ###### 3
 ###### 4
 ###### 5同上
