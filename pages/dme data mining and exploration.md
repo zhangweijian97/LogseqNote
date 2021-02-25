@@ -486,9 +486,10 @@ $$
 ######
 $$
 \begin{array}{ll}
-\underset{h}{\operatorname{minimise}} & C\left(\boldsymbol{W}^{(\tilde{\boldsymbol{X}})}, \boldsymbol{W}^{(M)}\right) 
+\underset{h}{\operatorname{minimise}} & \mathcal{J}(h) 
 \end{array}
 $$
+######
 #### 4.1.2 Training Loss
 #### 4.1.3 Example
 ### 4.2 Generalisation Performance
