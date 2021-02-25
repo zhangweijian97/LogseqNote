@@ -225,6 +225,19 @@ p(\boldsymbol{z}, \boldsymbol{x})=\frac{1}{\text { const }} \exp \left(-\frac{1}
 $$
 ###### 协方差矩阵 公式2.68
 #######
+$$
+\operatorname{Cov}\left[\left(\begin{array}{l}
+z \\
+x
+\end{array}\right)\right]=\left(\begin{array}{cc}
+I+W^{\top} \frac{1}{\sigma^{2}} W & -W^{\top} \frac{1}{\sigma^{2}} \\
+-\frac{1}{\sigma^{2}} W & \frac{1}{\sigma^{2}} I
+\end{array}\right)^{-1}=\left(\begin{array}{cc}
+I & W^{\top} \\
+W & W W^{\top}+\sigma^{2} I
+\end{array}\right)
+$$
+#####
 #### 2.4.2 Joint, Conditional and Observation Distributions
 #### 2.4.3 Maximum Likelihood
 #### 2.4.4 Relation to PCA
