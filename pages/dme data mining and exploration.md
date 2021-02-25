@@ -429,6 +429,7 @@ $$
 \text { subject to } & \operatorname{rank}\left(\boldsymbol{M}^{\top} \boldsymbol{M}\right)=k
 \end{array}
 $$
+####
 #### 3.3.4 Example
 #####
 ### 3.4 Isomap
