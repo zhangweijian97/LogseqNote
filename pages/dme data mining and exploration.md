@@ -585,7 +585,7 @@ $$
 ###### 计算泛化性能 公式 4.34
 #######
 $$\hat{\mathcal{J}}_k = \hat{\mathcal{J}}(\hat{h}_k ; \mathcal{D}_k^{\text{val}})$$
-######
+###### 计算 CV score 公式 4.35
 #### 4.3.2 Hyperparameter Selection and Performance Evaluation
 ### 4.4 Loss Functions in Predictive Modelling
 #### 4.4.1 Loss Functions in Regression
