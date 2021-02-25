@@ -477,6 +477,10 @@ $$
 ##### 只能寻找到一个预测函数 $$h(\boldsymbol{x})$$
 ##### 预测函数的输出是我们对目标 $$y$$ 的估计 $$\hat y=h(\boldsymbol{x})$$
 ##### 目标的真实值和我们的预测值之间存在一个损失loss $$\mathscr{L}$$
+#####
+$$
+\mathcal{J}(h)=\mathbb{E}_{\hat{y}, y}[\mathcal{L}(\hat{y}, y)]=\mathbb{E}_{\boldsymbol{x}, y}[\mathcal{L}(h(\boldsymbol{x}), y)]
+$$
 #### 4.1.2 Training Loss
 #### 4.1.3 Example
 ### 4.2 Generalisation Performance
