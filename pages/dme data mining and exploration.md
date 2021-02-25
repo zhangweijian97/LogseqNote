@@ -584,6 +584,7 @@ $$
 $$
 ###### 计算泛化性能 公式 4.34
 #######
+$$\hat{\mathcal{J}}(\hat{h} ; \tilde{\mathcal{D}})$$
 #### 4.3.2 Hyperparameter Selection and Performance Evaluation
 ### 4.4 Loss Functions in Predictive Modelling
 #### 4.4.1 Loss Functions in Regression
