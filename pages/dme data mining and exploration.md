@@ -638,7 +638,7 @@ $$
 &=\mathbb{P}(y \neq \hat{y})
 \end{aligned}
 $$
-###### loss function that penalises false-positive and false-negative rates
+###### loss function that penalises false-positive and false-negative rates 公式 4.68
 #######
 $$
 \begin{aligned}
