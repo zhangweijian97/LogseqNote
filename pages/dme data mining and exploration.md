@@ -666,6 +666,8 @@ $$
 $$
 ###### margin $$yh(x)$$
 ###### logistic regression
+####### 公式
+####### 最大化
 ## [[DME past paper]]
 ## Reference
 ### DME lecture notes
