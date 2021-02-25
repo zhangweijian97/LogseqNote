@@ -293,6 +293,10 @@ $$
 ####### 对$\hat\boldsymbol{\Sigma}$ 求EV，得到 $\boldsymbol{U}_{k}$ 和 $\boldsymbol{\Lambda}_{k}$
 ####### R不唯一，可以取I
 ######
+$$
+\sigma_{\mathrm{ML}}^{2}=\frac{1}{d-k} \sum_{i=k+1}^{d} \lambda_{i}
+$$
+#######
 #### 2.4.4 Relation to PCA
 ## 3 Dimensionality Reduction
 ### 3.1 Linear Dimensionality Reduction
