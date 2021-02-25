@@ -500,6 +500,7 @@ $$
 ##### 重新定义预测函数为 $$h(\boldsymbol{x}) = h_{\boldsymbol{\lambda}}(\boldsymbol{x};\boldsymbol{\theta})$$
 ###### $\boldsymbol{\theta}$ 是函数内参数
 ###### $\boldsymbol{\lambda}$ 是超参数
+#####
 #### 4.1.3 Example
 ### 4.2 Generalisation Performance
 #### 4.2.1 Generalisation for Prediction Functions and Algorithms
