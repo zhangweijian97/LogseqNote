@@ -421,8 +421,14 @@ $$
 #### 3.3.3 Classical MDS
 ##### 数据的维数未知，数值也未知
 ##### 已知不相似矩阵，用 ((6036458f-c6f3-4d1d-b854-a86ee25e7d47)) 的方法可以计算Z
-##### 优化问题
+##### 优化问题 公式 3.36
 ######
+$$
+\begin{array}{ll}
+\underset{M}{\operatorname{minimise}} & \left\|\left(-\frac{1}{2} \boldsymbol{C}_{n} \boldsymbol{\Delta} \boldsymbol{C}_{n}\right)-\boldsymbol{M}^{\top} \boldsymbol{M}\right\|_{F} \\
+\text { subject to } & \operatorname{rank}\left(\boldsymbol{M}^{\top} \boldsymbol{M}\right)=k
+\end{array}
+$$
 #### 3.3.4 Example
 #####
 ### 3.4 Isomap
