@@ -322,6 +322,8 @@ $$
 ##### 然后计算协方差
 ##### 做EV得到Uk
 ##### 计算scores
+##### 或者计算G
+##### 再机选score
 #### 3.1.2 From Inner Products
 #### 3.1.3 From Distances
 #### 3.1.4 Example
