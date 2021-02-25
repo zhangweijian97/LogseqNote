@@ -497,7 +497,7 @@ $$
 \mathcal{J}(h)\approx \cfrac{1}{n} \sum_{i=1}^n\mathcal{L}(h(\boldsymbol{x}_i), y_i)
 $$
 ##### 训练集定义为 $$\mathcal{D}^{\text{train}}$$
-#####
+##### 预测函数
 #### 4.1.3 Example
 ### 4.2 Generalisation Performance
 #### 4.2.1 Generalisation for Prediction Functions and Algorithms
