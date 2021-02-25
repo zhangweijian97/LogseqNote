@@ -334,6 +334,7 @@ $$
 ##### 已知未中心化的数据，之间的距离 $\delta_{ij}^2$, 或表示为$\boldsymbol{\Delta}$
 ##### 公式3.12到公式3.21一通推导，得到公式3.22，用$\boldsymbol{\Delta}$ 计算 G
 ######
+$$\boldsymbol{G} = -\cfrac{1}{2} \boldsymbol{C}_n\boldsymbol{\Delta}\boldsymbol{C}_n$$
 #### 3.1.4 Example
 ### 3.2 Dimensionality Reduction by Kernel PCA
 #### 3.2.1 Idea ..
