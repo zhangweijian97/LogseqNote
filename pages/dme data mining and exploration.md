@@ -504,8 +504,9 @@ $$
 ##### training loss 训练损失 公式 4.6
 ######
 $$
-J(h)\approx \cfrac{1}{n} \sum_{i=1}^n L(h(\boldsymbol{x}_i), y_i)
+J(h)_{\boldsymbol{\lambda}}\approx \cfrac{1}{n} \sum_{i=1}^n L(h_{\boldsymbol{\lambda}}(\boldsymbol{x}_i), y_i)
 $$
+######
 #### 4.1.3 Example
 ### 4.2 Generalisation Performance
 #### 4.2.1 Generalisation for Prediction Functions and Algorithms
