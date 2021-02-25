@@ -356,6 +356,9 @@ $$
 ##### 计算scores
 ###### {{embed ((((6036c688-04a1-4c3b-ae7f-6293217ca49e))))}}
 #### 3.1.2 From Inner Products
+:PROPERTIES:
+:id: 6036458f-8df4-428c-b2b3-7ba60689e716
+:END:
 ##### 已知未中心化的 $\tilde\boldsymbol{G}$
 ##### 先中心化，公式3.10
 ######
