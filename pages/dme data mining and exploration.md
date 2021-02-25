@@ -601,6 +601,18 @@ $$
 ### 4.4 Loss Functions in Predictive Modelling
 #### 4.4.1 Loss Functions in Regression
 ##### 公式 4.50 4.51 4.52
+######
+$$
+\begin{array}{lll}
+L(\hat{y}, y) & =\frac{1}{2}(\hat{y}-y)^{2} & \text { (square loss) } \\
+L(\hat{y}, y) & =|\hat{y}-y| & \\
+L(\hat{y}, y) & =\left\{\begin{array}{ll}
+\frac{1}{2}(\hat{y}-y)^{2} & \text { if }|\hat{y}-y|<\delta \\
+\delta|y-\hat{y}|-\frac{1}{2} \delta^{2} & \text { otherwise }
+\end{array}\right. & \text { (absolute loss) } \\
+& & \text { (Huber loss) }
+\end{array}
+$$
 #### 4.4.2 Loss Functions in Classification
 ## [[DME past paper]]
 ## Reference
