@@ -354,6 +354,7 @@ $$
 ##### 做SVD的到A，V
 ###### {{embed ((6036c5b3-1d6f-478d-8cc6-90251b30da71))}}
 ##### 计算scores
+###### {{embed ((((6036c688-04a1-4c3b-ae7f-6293217ca49e))))}}
 ##### 公式略
 #### 3.1.2 From Inner Products
 ##### 已知未中心化的 $\tilde\boldsymbol{G}$
