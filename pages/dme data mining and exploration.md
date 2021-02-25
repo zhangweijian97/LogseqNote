@@ -584,7 +584,7 @@ $$
 $$
 ###### 计算泛化性能 公式 4.34
 #######
-$$\hat{\mathcal{J}}_k = \hat{\mathcal{J}}(\hat{h}_k ; \mathcal{D}_k^{\text{val}}) = \hat{\mathcal{J}}(\hat{h}_k ; \mathcal{D}_k^{\text{val}}) $$
+$$\hat{\mathcal{J}}_k = \hat{\mathcal{J}}(\hat{h}_k ; \mathcal{D}_k^{\text{val}}) = \hat{\mathcal{J}}(\mathcal{A}\left(\mathcal{D}_k^{\text {train }}\right) ; \mathcal{D}_k^{\text{val}}) $$
 ###### 计算 CV score 公式 4.35
 #######
 $$\text{CV} = \cfrac{1}{K}\sum_{i=1}^K\hat{\mathcal{J}}_k$$
