@@ -626,7 +626,11 @@ $$
 \hat{h}=\mathcal{A}_{\hat{\lambda}}\left(\mathcal{D}^{\text {train }} \cup \mathcal{D}^{\mathrm{val}}\right)
 $$
 ###### 6. 用Dtest估计预测损失
-###### 7.
+#######
+$$
+\hat{\mathcal{J}}=\hat{\mathcal{J}}\left(\hat{h} ; \mathcal{D}^{\text {test }}\right)
+$$
+###### 7. 合并所有数据集，重新优化一次得到
 ##### Cross-validation and Hold-out
 ######
 ### 4.4 Loss Functions in Predictive Modelling
