@@ -365,6 +365,9 @@ $$
 $$\boldsymbol{G} = \boldsymbol{C}_n\tilde\boldsymbol{G}\boldsymbol{C}_n$$
 ##### 重复前面
 #### 3.1.3 From Distances
+:PROPERTIES:
+:id: 6036458f-c6f3-4d1d-b854-a86ee25e7d47
+:END:
 ##### 已知未中心化的数据，之间的距离 $\delta_{ij}^2$, 或表示为$\boldsymbol{\Delta}$
 ##### 公式3.12到公式3.21一通推导，得到公式3.22，用$\boldsymbol{\Delta}$ 计算 G
 ######
@@ -417,7 +420,9 @@ $$
 ##### 用回归的方法解，课本只给了论文链接 Izenman, 2008
 ###### Modern Multivariate Statistical Techniques: Regression, Classiﬁcation, and Manifold Learning
 #### 3.3.3 Classical MDS
-##### 数据的维数未知，数值也未知，已知不相似矩阵
+##### 数据的维数未知，数值也未知
+##### 已知不相似矩阵，用 ((6036458f-c6f3-4d1d-b854-a86ee25e7d47)) 的方法
+#####
 #### 3.3.4 Example
 ### 3.4 Isomap
 ### 3.5 UMAP
