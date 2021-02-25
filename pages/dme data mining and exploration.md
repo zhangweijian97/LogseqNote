@@ -571,7 +571,8 @@ $$
 \hat{\mathcal{J}}(\hat{h} ; \tilde{\mathcal{D}})=\frac{1}{\tilde{n}} \sum_{i=1}^{\tilde{n}} \mathcal{L}\left(\hat{h}\left(\tilde{\boldsymbol{x}}_{i}\right), \tilde{y}_{i}\right)
 $$
 ##### Cross-validation
-###### Divide into K subsets
+###### Divide $$\mathcal{D}$$  into $K$ subsets $$\mathcal{D}_1,\cdots\mathcal{D}_1_K$$
+######
 #### 4.3.2 Hyperparameter Selection and Performance Evaluation
 ### 4.4 Loss Functions in Predictive Modelling
 #### 4.4.1 Loss Functions in Regression
