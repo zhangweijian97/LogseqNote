@@ -603,7 +603,7 @@ $$
 ###### 固定超参数$\lambda$，运行算法，求最优训练函数
 #######
 $$
-\hat{h}_k=\mathcal{A}\left(\mathcal{D}_k^{\text {train }}\right)
+\hat{h}_{\boldsymbol{\lambda}}=\mathcal{A}_{\boldsymbol{\lambda}}\left(\mathcal{D}_k^{\text {train }}\right)
 $$
 ######
 ##### Cross-validation and Hold-out
