@@ -213,7 +213,7 @@ $$\boldsymbol{x} = \boldsymbol{W}\boldsymbol{z}+\boldsymbol{\mu}+\boldsymbol{\ep
 ###### W, $d \times k$
 ###### $\mu$, $d$-dimension
 ###### $\epsilon$, $d$-dimension zero-mean Gaussian-distributed noise **variable**
-#####
+####
 ##### 条件概率分布 公式2.61
 ######
 $$
