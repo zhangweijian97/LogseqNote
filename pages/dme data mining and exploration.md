@@ -492,7 +492,7 @@ $$
 ##### 但期望没法直接计算，所以就近似为 公式 4.4
 ######
 $$
-\mathcal{J}(h)=\boldsymbol{x}, y[\mathcal{L}(h(\boldsymbol{x}), y)]
+\mathcal{J}(h)\approx \cfrac{1}{n} \mathcal{L}(h(\boldsymbol{x}), y)
 $$
 #####
 #### 4.1.2 Training Loss
