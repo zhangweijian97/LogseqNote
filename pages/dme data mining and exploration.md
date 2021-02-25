@@ -533,7 +533,7 @@ $$
 $$
 \hat{h}=\mathcal{A}\left(\mathcal{D}^{\text {train }}\right)
 $$
-##### 可以得到损失的期望
+##### 可以得到期望预测损失
 #### 4.2.2 Overfitting and Underfitting
 #### 4.2.3 Example
 ### 4.3 Estimating the Generalisation Performance
