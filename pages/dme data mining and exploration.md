@@ -605,7 +605,8 @@ $$
 $$
 \hat{h}_{\boldsymbol{\lambda}}=\mathcal{A}_{\boldsymbol{\lambda}}\left(\mathcal{D}_k^{\text {train }}\right)
 $$
-######
+###### 用Dval评估，得到预测损失
+#######
 ##### Cross-validation and Hold-out
 ######
 ### 4.4 Loss Functions in Predictive Modelling
