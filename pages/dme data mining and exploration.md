@@ -430,6 +430,7 @@ $$
 \end{array}
 $$
 ##### 解就是Z
+##### M来自Frobenius norm，就别管是啥了
 #### 3.3.4 Example
 #####
 ### 3.4 Isomap
