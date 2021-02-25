@@ -494,7 +494,7 @@ $$
 $$
 \mathcal{J}(h)\approx \cfrac{1}{n} \sum_{i=1}^n\mathcal{L}(h(\boldsymbol{x}_i), y_i)
 $$
-##### 训练集定义为 $$\mathcal{D}^{\text{train}}$
+##### 训练集定义为 $$\mathcal{D}^{\text{train}}$$$$
 #####
 #### 4.1.2 Training Loss
 #### 4.1.3 Example
