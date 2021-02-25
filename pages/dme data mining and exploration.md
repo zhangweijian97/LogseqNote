@@ -239,6 +239,22 @@ W & W W^{\top}+\sigma^{2} I
 $$
 ###### 平均值 mean 公式2.70
 #######
+$$
+\mathbb{E}\left[\left(\begin{array}{l}
+z \\
+x
+\end{array}\right)\right]=\left(\begin{array}{cc}
+I & W^{\top} \\
+W & \sigma^{2} I+W W^{\top}
+\end{array}\right)\left(\begin{array}{c}
+-W^{\top} \frac{1}{\sigma^{2}} \mu \\
+\frac{1}{\sigma^{2}} \mu
+\end{array}\right)=\left(\begin{array}{c}
+0 \\
+\mu
+\end{array}\right)
+$$
+######
 #### 2.4.2 Joint, Conditional and Observation Distributions
 #### 2.4.3 Maximum Likelihood
 #### 2.4.4 Relation to PCA
