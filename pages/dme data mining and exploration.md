@@ -601,6 +601,10 @@ $$
 ###### 分割D，得到Dtest，20%
 ###### 再2/8分剩下的，得到Dtrain和Dval
 ###### 固定超参数$\lambda$，运行算法，求最优训练函数
+#######
+$$
+\hat{h}_k=\mathcal{A}\left(\mathcal{D}_k^{\text {train }}\right)
+$$
 ######
 ##### Cross-validation and Hold-out
 ######
