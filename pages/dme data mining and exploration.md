@@ -636,6 +636,7 @@ $$
 \hat{h}(\boldsymbol{x})=\mathcal{A}_{\hat{\boldsymbol{\lambda}}}(\mathcal{D})
 $$
 ##### Cross-validation and Hold-out
+###### 1. 分割D，得到Dtest，20%
 ######
 ### 4.4 Loss Functions in Predictive Modelling
 #### 4.4.1 Loss Functions in Regression
