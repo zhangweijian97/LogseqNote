@@ -273,7 +273,7 @@ with $\boldsymbol{\mu}=\mathbf{0}$ and
 $$
 \boldsymbol{\Sigma}=\boldsymbol{W} \boldsymbol{W}^{\top}+\sigma^{2} \boldsymbol{I}
 $$
-######
+#####
 #### 2.4.4 Relation to PCA
 ## 3 Dimensionality Reduction
 ### 3.1 Linear Dimensionality Reduction
