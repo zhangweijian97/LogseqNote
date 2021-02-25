@@ -370,7 +370,7 @@ $$\boldsymbol{G} = -\cfrac{1}{2} \boldsymbol{C}_n\boldsymbol{\Delta}\boldsymbol{
 #### 3.1.4 Example
 ##### 无公式，跳过
 ### 3.2 Dimensionality Reduction by Kernel PCA
-#### 3.2.1 Idea ..
+#### 3.2.1 Idea
 #### 3.2.2 Kernel Trick
 #### 3.2.3 Example. .
 ### 3.3 Multidimensional Scaling
