@@ -625,10 +625,10 @@ L(2,1) & L(2,2) & \cdots & L(2, K) \\
 L(K, 1) & L(K, 2) & \cdots & L(K, K)
 \end{array}\right)
 $$
-##### TP，TN，FP，FN
-###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210225034337.png)
-##### misclassiﬁcation or error rate 公式 4.58
-######
+###### TP，TN，FP，FN
+####### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210225034337.png)
+###### misclassiﬁcation or error rate 公式 4.58
+#######
 $$
 \begin{aligned}
 \mathcal{J}(h) &=\mathbb{E}_{\boldsymbol{x}, y} L(h(\boldsymbol{x}), y) \\
@@ -638,8 +638,8 @@ $$
 &=\mathbb{P}(y \neq \hat{y})
 \end{aligned}
 $$
-##### loss function that penalises false-positive and false-negative rates
-######
+###### loss function that penalises false-positive and false-negative rates
+#######
 $$
 \begin{aligned}
 \mathcal{J}(h) &=\mathbb{E}_{\boldsymbol{x}, y} L(h(\boldsymbol{x}), y) \\
@@ -649,8 +649,8 @@ $$
 &=\mathbb{P}(\hat{y}=1 \mid y=-1)+\mathbb{P}(\hat{y}=-1 \mid y=1)
 \end{aligned}
 $$
-###### where
-#######
+####### where
+########
 $$
 \boldsymbol{L}=\left(\begin{array}{cc}
 0 & \frac{1}{\mathbb{P}(y=1)} \\
