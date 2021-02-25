@@ -263,6 +263,17 @@ $$
 #### 2.4.3 Maximum Likelihood
 ##### log-likelihood
 ######
+$$
+\begin{aligned}
+\log p\left(\boldsymbol{X} \mid \boldsymbol{W}, \sigma^{2}\right) &=\sum_{i=1}^{n} \log p\left(\boldsymbol{x}_{i} \mid \boldsymbol{\mu}, \boldsymbol{W}, \sigma^{2}\right) \\
+&=\sum_{i=1}^{n} \log \mathcal{N}\left(\boldsymbol{x}_{i} \mid \boldsymbol{\mu}, \mathbf{\Sigma}\right)
+\end{aligned}
+$$
+with $\boldsymbol{\mu}=\mathbf{0}$ and
+$$
+\boldsymbol{\Sigma}=\boldsymbol{W} \boldsymbol{W}^{\top}+\sigma^{2} \boldsymbol{I}
+$$
+######
 #### 2.4.4 Relation to PCA
 ## 3 Dimensionality Reduction
 ### 3.1 Linear Dimensionality Reduction
