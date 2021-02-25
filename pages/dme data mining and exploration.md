@@ -608,7 +608,7 @@ $$
 $$
 \hat{h}_{\boldsymbol{\lambda}}=\mathcal{A}_{\boldsymbol{\lambda}}\left(\mathcal{D}_k^{\text {train }}\right)
 $$
-###### 用Dval评估，得到预测损失
+###### 用Dval评估，求预测损失
 #######
 $$
 \mathrm{PL}(\boldsymbol{\lambda})=\hat{\mathcal{J}}\left(\hat{h}_{\boldsymbol{\lambda}} ; \mathcal{D}^{\mathrm{val}}\right)
