@@ -332,8 +332,8 @@ $$
 ##### 重复上面
 #### 3.1.3 From Distances
 ##### 已知未中心化的数据，之间的距离 $\delta_{ij}^2$, 或表示为$\boldsymbol{\Delta}$
-##### 公式3.12到公式3.21一通推导，得到公式3.22，用$\boldsymbol{\Delta}$ 计算 g
-#####
+##### 公式3.12到公式3.21一通推导，得到公式3.22，用$\boldsymbol{\Delta}$ 计算 G
+######
 #### 3.1.4 Example
 ### 3.2 Dimensionality Reduction by Kernel PCA
 #### 3.2.1 Idea ..
