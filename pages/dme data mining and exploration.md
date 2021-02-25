@@ -444,6 +444,11 @@ $$
 w_{i}^{(\boldsymbol{Y})}\left(\boldsymbol{y}_{i}, \boldsymbol{y}_{j}\right)=\exp \left(-\frac{\left\|\boldsymbol{y}_{i}-\boldsymbol{y}_{j}\right\|-\rho_{i}}{\sigma_{i}}\right)
 $$
 ###### where ρi denotes the distance to the nearest neighbour and σi is a measure of the size of the neightbourhood around yi
+#### To symmetrise，设置距离为 公式3.38
+#####
+$$
+w^{(\boldsymbol{Y})}\left(\boldsymbol{y}_{i}, \boldsymbol{y}_{j}\right)=w_{i}^{(\boldsymbol{Y})}\left(\boldsymbol{y}_{i}, \boldsymbol{y}_{j}\right)+w_{j}^{(\boldsymbol{Y})}\left(\boldsymbol{y}_{j}, \boldsymbol{y}_{i}\right)-w_{i}^{(\boldsymbol{Y})}\left(\boldsymbol{y}_{i}, \boldsymbol{y}_{j}\right) w_{j}^{(\boldsymbol{Y})}\left(\boldsymbol{y}_{j}, \boldsymbol{y}_{i}\right)
+$$
 ####
 ## 4 Predictive Modelling and Generalisation
 ### 4.1 Prediction and Training Loss
