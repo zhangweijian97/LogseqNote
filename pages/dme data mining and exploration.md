@@ -330,7 +330,7 @@ $$
 ##### 已知未中心化的 $\tilde\boldsymbol{G}$
 ##### 先中心化，公式3.10
 ######
-$$\boldsymbol{G} = -\cfrac{1}{2} \boldsymbol{C}_n\boldsymbol{\Delta}\boldsymbol{C}_n$$
+$$\boldsymbol{G} = \boldsymbol{C}_n\tilde\boldsymbol{G}\boldsymbol{C}_n$$
 ##### 重复上面
 #### 3.1.3 From Distances
 ##### 已知未中心化的数据，之间的距离 $\delta_{ij}^2$, 或表示为$\boldsymbol{\Delta}$
