@@ -301,7 +301,7 @@ $$
 $$
 ####### represents the average lost variance per residual dimension
 #### 2.4.4 Relation to PCA
-##### PCA计算
+##### PCA计算 principal component scores
 ###### {{embed ((6036c287-de39-431b-9627-474b3ce79e80))}}
 ## 3 Dimensionality Reduction
 ### 3.1 Linear Dimensionality Reduction
