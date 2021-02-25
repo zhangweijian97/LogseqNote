@@ -550,7 +550,7 @@ $$
 $$
 \underset{\boldsymbol{\theta}}{\operatorname{minimise}} J_{\boldsymbol{\lambda}}(\boldsymbol{\theta})+\lambda_{\mathrm{reg}} R(\boldsymbol{\theta})
 $$
-#####
+###### $R(\boldsymbol{\theta})$ 惩罚项
 #### 4.2.3 Example
 ### 4.3 Estimating the Generalisation Performance
 #### 4.3.1 Methods for Estimating the Generalisation Performance
