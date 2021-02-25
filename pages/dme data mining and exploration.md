@@ -261,7 +261,7 @@ $$
 p(\boldsymbol{x})=\mathcal{N}\left(\boldsymbol{x} \mid \boldsymbol{\mu}, \boldsymbol{W} \boldsymbol{W}^{\top}+\sigma^{2} \boldsymbol{I}\right)
 $$
 #### 2.4.3 Maximum Likelihood
-##### log-likelihood
+##### log-likelihood 公式 2.73 到 2.75
 ######
 $$
 \begin{aligned}
