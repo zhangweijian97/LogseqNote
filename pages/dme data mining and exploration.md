@@ -522,7 +522,7 @@ $$J_{\boldsymbol{\lambda}}^*=\min_{\boldsymbol{\theta}}J_{\boldsymbol{\lambda}}(
 ##### 说一个模型具有好的泛化性能，就是说对于最优预测函数 $\hat{h}$ ，它的预测损失 $\mathcal{J}(\hat h)$ 很小 公式 4.21
 ######
 $$
-\mathcal{J}(\hat h)=\mathbb{E}_{\hat{y}, y}[\mathcal{L}(\hat h(\boldsymbol{x}), y)]]
+\mathcal{J}(\hat h)=\mathbb{E}_{\boldsymbol{x}, y}[\mathcal{L}(\hat h(\boldsymbol{x}), y)]]
 $$
 ######
 #### 4.2.2 Overfitting and Underfitting
