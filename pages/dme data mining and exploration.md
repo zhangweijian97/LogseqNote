@@ -564,7 +564,7 @@ $$
 :id: 603645b8-d154-41bf-b0e3-3c0bd80d3cb2
 :END:
 ##### Hold-out Approach
-###### Divide $$\mathcal{D}$$ into training set $$\mathcal{D}^{\text{train}}$$ and test or validation set $$\mathcal{D}^{\text{val}}$$
+###### Divide $$\mathcal{D}$$ into training set $$\mathcal{D}^{\text{train}}$$ and test or validation set $$\tilde\mathcal{D}$$
 ###### estimate the prediction loss
 #######
 $$
