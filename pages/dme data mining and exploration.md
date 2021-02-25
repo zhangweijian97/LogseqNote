@@ -497,7 +497,6 @@ $$
 $$
 ##### 训练集定义为 $$\mathcal{D}^{\text{train}}$$
 #####
-#### 4.1.2 Training Loss
 #### 4.1.3 Example
 ### 4.2 Generalisation Performance
 #### 4.2.1 Generalisation for Prediction Functions and Algorithms
