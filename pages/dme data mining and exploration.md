@@ -625,7 +625,7 @@ $$
 $$
 \hat{h}=\mathcal{A}_{\hat{\lambda}}\left(\mathcal{D}^{\text {train }} \cup \mathcal{D}^{\mathrm{val}}\right)
 $$
-###### 6.
+###### 6. 用Dtest估计预测损失
 ###### 7.
 ##### Cross-validation and Hold-out
 ######
