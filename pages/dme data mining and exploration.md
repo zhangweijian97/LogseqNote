@@ -598,6 +598,8 @@ $$
 #### 4.3.2 Hyperparameter Selection and Performance Evaluation
 ##### 7 步
 ##### Two Times Hold-out
+###### 分割D，得到Dtest，20%
+###### 再2/8分剩下的，得到Dtrain和Dval
 ######
 ##### Cross-validation and Hold-out
 ######
