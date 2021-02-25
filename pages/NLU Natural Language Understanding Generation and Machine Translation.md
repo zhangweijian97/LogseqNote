@@ -566,7 +566,7 @@ $$
 ###### A: number of self-attention heads;
 ##### Input sequence: can be (Question, Answer) pair, single sentence, or any other string of tokens;
 ##### use WordPiece to do word embedding (token embedding), 30000 vocabulary
-##### [CL^^^^S], [SEP]
+##### [CLS], [SEP]
 ##### plug Segment Embeddings and Position Embeddings
 #### Masked Training
 ##### 因为输入输出一样，可能网络什么都没学到，所以需要masking
