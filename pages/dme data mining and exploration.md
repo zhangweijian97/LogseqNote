@@ -313,7 +313,7 @@ $$
 ##### 上面的方法需要知道W
 ##### PCA 计算 x 的 projection
 ###### {{embed ((6036bb2f-90a3-4763-8761-b3f704307e42))}}
-######
+###### 公式2.93到2.99略，证明了PCA can be seen as a special case of probabilistic PCA when the noise variance σ2 is negligibly small
 ## 3 Dimensionality Reduction
 ### 3.1 Linear Dimensionality Reduction
 #### 3.1.1 From Data Points
