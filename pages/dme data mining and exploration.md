@@ -69,7 +69,7 @@ $$
 $$
 ###### 左列右行
 ######
-$$\boldsymbol{X}=\boldsymbol{X}\boldsymbol{C}_n$$
+$$\boldsymbol{X}=\tilde\boldsymbol{X}\boldsymbol{C}_n$$
 ##### sample covarice matrix with certring matrix，1.66
 ######
 $$\boldsymbol{\Sigma}=\frac{1}{n}\boldsymbol{X}\boldsymbol{C}_n\boldsymbol{X}^\top$$
