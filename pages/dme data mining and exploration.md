@@ -565,6 +565,7 @@ $$
 :END:
 ##### Hold-out Approach
 ###### Divide $$\mathcal{D}$$ into training set $$\mathcal{D}^{\text{train}}$$ and test or validation set $$\mathcal{D}^{\text{val}}$$
+######
 ##### Cross-validation
 #### 4.3.2 Hyperparameter Selection and Performance Evaluation
 ### 4.4 Loss Functions in Predictive Modelling
