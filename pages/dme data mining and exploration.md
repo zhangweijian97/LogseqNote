@@ -111,6 +111,9 @@ $$\boldsymbol{z}_i^\top = \boldsymbol{w}_i^\top\boldsymbol{X}$$
 :END:
 $$\boldsymbol{z}_j = \boldsymbol{U}_k^\top\boldsymbol{x}_j$$
 ######
+:PROPERTIES:
+:id: 6036c30d-feb4-4f88-87c3-c257a5f75363
+:END:
 $$\boldsymbol{Z} = \boldsymbol{U}_k^\top\boldsymbol{X}$$
 ####### Z 的维度，k $\times$ n
 #### 2.1.2 Subsequent Principal Component Directions，
