@@ -95,6 +95,9 @@ $$z_{ij} = \boldsymbol{w}_i^\top\boldsymbol{x}_j$$
 ######
 $$\boldsymbol{z}_i^\top = \boldsymbol{w}_i^\top\boldsymbol{X}$$
 ######
+:PROPERTIES:
+:id: 6036c287-de39-431b-9627-474b3ce79e80
+:END:
 $$\boldsymbol{z}_j = \boldsymbol{U}_k^\top\boldsymbol{x}_j$$
 ######
 $$\boldsymbol{z} = \boldsymbol{U}_k^\top\boldsymbol{X}$$
