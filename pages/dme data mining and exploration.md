@@ -528,6 +528,5 @@ $$J_{\boldsymbol{\lambda}}^*=\min_{\boldsymbol{\theta}}J_{\boldsymbol{\lambda}}(
 #### 4.4.1 Loss Functions in Regression
 #### 4.4.2 Loss Functions in Classification
 ## [[DME past paper]]
-##
 ## Reference
 ### DME lecture notes
