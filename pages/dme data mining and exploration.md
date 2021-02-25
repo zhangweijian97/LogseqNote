@@ -508,6 +508,9 @@ J_{\boldsymbol{\lambda}}(h)= \cfrac{1}{n} \sum_{i=1}^n L(h_{\boldsymbol{\lambda}
 $$
 ##### 固定住超参数$\boldsymbol{\lambda}$，最小化训练损失，得到最优参数 $\hat\boldsymbol{\theta}_{\boldsymbol{\lambda}}$ 和最优预测函数 $\hat\boldsymbol{h}_{\boldsymbol{\lambda}}(\boldsymbol{x})$ 公式 4.7
 ######
+:PROPERTIES:
+:id: 60370999-8dd7-4c7d-b72c-f935dcfe772e
+:END:
 $$
 \hat{h}_{\boldsymbol{\lambda}}(\boldsymbol{x})=h_{\boldsymbol{\lambda}}\left(\boldsymbol{x} ; \hat{\boldsymbol{\theta}}_{\boldsymbol{\lambda}}\right), \quad \hat{\boldsymbol{\theta}}_{\boldsymbol{\lambda}}=\underset{\boldsymbol{\theta}}{\operatorname{argmin}} J_{\boldsymbol{\lambda}}(\boldsymbol{\theta})
 $$
