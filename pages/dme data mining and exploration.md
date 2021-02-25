@@ -572,7 +572,8 @@ $$
 $$
 ##### Cross-validation
 ###### Divide $$\mathcal{D}$$  into $K$ subsets $$\mathcal{D}_1,\cdots,\mathcal{D}_K$$
-######
+###### 得到训练集和测试集 公式 4.32
+#######
 $$
 \mathcal{D}_{k}^{\text {train }}=\bigcup_{i \neq k} \mathcal{D}_{i}, \quad \mathcal{D}_{k}^{\text {val }}=\mathcal{D}_{k},
 $$
