@@ -223,7 +223,7 @@ $$
 $$
 p(\boldsymbol{z}, \boldsymbol{x})=\frac{1}{\text { const }} \exp \left(-\frac{1}{2}\left[(\boldsymbol{x}-\boldsymbol{W} \boldsymbol{z}-\boldsymbol{\mu})^{\top}\left(\frac{1}{\sigma^{2}} \boldsymbol{I}\right)(\boldsymbol{x}-\boldsymbol{W} \boldsymbol{z}-\boldsymbol{\mu})+\boldsymbol{z}^{\top} \boldsymbol{z}\right]\right)
 $$
-###### 协方差矩阵 公式2.68
+###### 协方差矩阵 covariance 公式2.68
 #######
 $$
 \operatorname{Cov}\left[\left(\begin{array}{l}
