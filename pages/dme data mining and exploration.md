@@ -72,7 +72,7 @@ $$
 $$\boldsymbol{X}=\boldsymbol{X}\boldsymbol{C}_n$$
 ##### sample covarice matrix with certring matrix，1.66
 ######
-$$\boldsymbol{\Sigma}=\frac{1}{n}\boldsymbol{X}\boldsymbol{C}_n\boldsymbol{X}^T$$
+$$\boldsymbol{\Sigma}=\frac{1}{n}\boldsymbol{X}\boldsymbol{C}_n\boldsymbol{X}^\top$$
 #### 1.3.2 Outlier Detection and Removal
 ##### Tukey’s fences，1.68
 ######
