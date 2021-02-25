@@ -254,6 +254,7 @@ W & \sigma^{2} I+W W^{\top}
 \mu
 \end{array}\right)
 $$
+##### 边缘概率分布 公式 2.71
 ######
 #### 2.4.2 Joint, Conditional and Observation Distributions
 #### 2.4.3 Maximum Likelihood
