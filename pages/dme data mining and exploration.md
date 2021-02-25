@@ -500,7 +500,7 @@ $$
 ##### 重新定义预测函数为 $$h(\boldsymbol{x}) = h_{\boldsymbol{\lambda}}(\boldsymbol{x};\boldsymbol{\theta})$$
 ###### $\boldsymbol{\theta}$ 是函数内参数
 ###### $\boldsymbol{\lambda}$ 是超参数
-##### 上面的损失函数 $$\mathcal{L}$$ 也算不了，用一个 代理损失函数 $$\math{L}$$  替代
+##### 上面的损失函数 $$\mathcal{L}$$ 也算不了，用一个 代理损失函数 $$L$$  替代
 #####
 #### 4.1.3 Example
 ### 4.2 Generalisation Performance
