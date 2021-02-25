@@ -325,6 +325,7 @@ $$
 ##### 或者计算G
 ##### 做SVD的到A，V
 ##### 计算scores
+##### 公式略
 #### 3.1.2 From Inner Products
 #### 3.1.3 From Distances
 #### 3.1.4 Example
