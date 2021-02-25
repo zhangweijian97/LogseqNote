@@ -414,7 +414,7 @@ $$
 $$
 \underset{z_{1}, \ldots, z_{n}, f}{\operatorname{minimise}} \sum_{i<i} w_{i j}\left(\left\|z_{i}-z_{j}\right\|-f\left(\delta_{i j}\right)\right)^{2}
 $$
-##### 用回归的方法解，课本只给了论文链接Izenman, 2008
+##### 用回归的方法解，课本只给了论文链接 Izenman, 2008
 ###### Modern Multivariate Statistical Techniques: Regression, Classiﬁcation, and Manifold Learning
 #####
 #### 3.3.3 Classical MDS
