@@ -393,7 +393,7 @@ $$
 $$
 ###### can be used to compute the (**uncentred**) Gram matrix of $\Phi$
 ##### 公式3.27是两个k的举例
-##### 既然得到未中心化的$\tilde{\boldsymbol{G}}$，可以用3.1.2节的方法来计算Scores
+##### 既然得到未中心化的$\tilde{\boldsymbol{G}}$，可以用((6036458f-8df4-428c-b2b3-7ba60689e716))的方法来计算Scores
 ######
 #### 3.2.3 Example
 ##### 略
