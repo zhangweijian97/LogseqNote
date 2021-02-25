@@ -256,6 +256,10 @@ W & \sigma^{2} I+W W^{\top}
 $$
 ##### 边缘概率分布 公式 2.71
 ######
+$$
+p(\boldsymbol{x})=\mathcal{N}\left(\boldsymbol{x} \mid \boldsymbol{\mu}, \boldsymbol{W} \boldsymbol{W}^{\top}+\sigma^{2} \boldsymbol{I}\right)
+$$
+#####
 #### 2.4.2 Joint, Conditional and Observation Distributions
 #### 2.4.3 Maximum Likelihood
 #### 2.4.4 Relation to PCA
