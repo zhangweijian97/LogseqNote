@@ -508,6 +508,10 @@ J_{\boldsymbol{\lambda}}(h)= \cfrac{1}{n} \sum_{i=1}^n L(h_{\boldsymbol{\lambda}
 $$
 ##### 固定住超参数$\boldsymbol{\lambda}$，最小化训练损失，得到最优的参数 $\hat\boldsymbol{\theta}_{\boldsymbol{\lambda}}$ 和模型 $\hat\boldsymbol{h}_{\boldsymbol{\lambda}}(\boldsymbol{x})$ 公式 4.7
 ######
+$$
+\hat{h}_{\boldsymbol{\lambda}}(\boldsymbol{x})=h_{\boldsymbol{\lambda}}\left(\boldsymbol{x} ; \hat{\boldsymbol{\theta}}_{\boldsymbol{\lambda}}\right), \quad \hat{\boldsymbol{\theta}}_{\boldsymbol{\lambda}}=\underset{\boldsymbol{\theta}}{\operatorname{argmin}} J_{\boldsymbol{\lambda}}(\boldsymbol{\theta})
+$$
+#####
 #### 4.1.3 Example
 ### 4.2 Generalisation Performance
 #### 4.2.1 Generalisation for Prediction Functions and Algorithms
