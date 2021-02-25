@@ -469,7 +469,7 @@ $$
 ## 4 Predictive Modelling and Generalisation
 ### 4.1 Prediction and Training Loss
 #### 4.1.1 Prediction Loss
-##### predictor $$\mathbf{x}$$
+##### predictor $$\boldsymbol{x}$$
 ##### target $$y$$
 #####
 #### 4.1.2 Training Loss
