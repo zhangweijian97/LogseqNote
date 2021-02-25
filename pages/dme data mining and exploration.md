@@ -331,7 +331,8 @@ $$
 ##### 先中心化，公式3.10
 ##### 重复上面
 #### 3.1.3 From Distances
-##### 已知未中心化的数据，之间的距离 $\delta_{ij}^2$
+##### 已知未中心化的数据，之间的距离 $\delta_{ij}^2$, 或表示为$\boldsymbol{\Delta}$
+#####
 #### 3.1.4 Example
 ### 3.2 Dimensionality Reduction by Kernel PCA
 #### 3.2.1 Idea ..
