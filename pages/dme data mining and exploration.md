@@ -203,7 +203,7 @@ $$
 :id: 6036c587-f200-48ec-9866-3189543f2c77
 :END:
 $$\boldsymbol{G} = \boldsymbol{X}^\top\boldsymbol{X}$$
-###### n $\times$ n matrix
+####### n $\times$ n matrix
 ###### by EV, 公式2.53
 #######
 $$\boldsymbol{G} = \boldsymbol{V} \tilde\boldsymbol{\Lambda}\boldsymbol{V}^\top$$
