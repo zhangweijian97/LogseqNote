@@ -507,10 +507,6 @@ $$
 ####### not designd for fine-tuning，但是也能用
 ###### Contextualised (or Dynamic) Word Embeddings
 ####### a vector to a word that depends on its context
-####### Static Word Embeddings
-######## fixed vector to each word
-######## used for feature extration
-######## not designd for fine-tuning，但是也能用
 ##### Static Word Embeddings
 ###### Word2Vec
 ####### architecture
