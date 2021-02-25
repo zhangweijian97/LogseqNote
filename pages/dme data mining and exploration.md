@@ -451,7 +451,7 @@ w^{(\boldsymbol{Y})}\left(\boldsymbol{y}_{i}, \boldsymbol{y}_{j}\right)=w_{i}^{(
 $$
 ##### 得到权重矩阵W
 #### 已知观察数据 $\tilde{\boldsymbol{X}}$ 和 lower dimensional representation $\boldsymbol{M}$
-#### 计算
+#### 计算cross entropy 公式
 ## 4 Predictive Modelling and Generalisation
 ### 4.1 Prediction and Training Loss
 #### 4.1.1 Prediction Loss
