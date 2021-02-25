@@ -296,7 +296,7 @@ $$
 $$
 \sigma_{\mathrm{ML}}^{2}=\frac{1}{d-k} \sum_{i=k+1}^{d} \lambda_{i}
 $$
-#######
+####### represents the average lost variance per residual dimension
 #### 2.4.4 Relation to PCA
 ## 3 Dimensionality Reduction
 ### 3.1 Linear Dimensionality Reduction
