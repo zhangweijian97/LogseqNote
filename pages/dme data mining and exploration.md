@@ -449,6 +449,7 @@ $$
 $$
 w^{(\boldsymbol{Y})}\left(\boldsymbol{y}_{i}, \boldsymbol{y}_{j}\right)=w_{i}^{(\boldsymbol{Y})}\left(\boldsymbol{y}_{i}, \boldsymbol{y}_{j}\right)+w_{j}^{(\boldsymbol{Y})}\left(\boldsymbol{y}_{j}, \boldsymbol{y}_{i}\right)-w_{i}^{(\boldsymbol{Y})}\left(\boldsymbol{y}_{i}, \boldsymbol{y}_{j}\right) w_{j}^{(\boldsymbol{Y})}\left(\boldsymbol{y}_{j}, \boldsymbol{y}_{i}\right)
 $$
+##### 得到权重矩阵W
 ####
 ## 4 Predictive Modelling and Generalisation
 ### 4.1 Prediction and Training Loss
