@@ -315,7 +315,7 @@ $$
 a_{i, j}=\mathbf{s}_{i} \mathbf{V} \mathbf{h}_{j}
 \end{array}
 $$
-###### FNN
+###### FFN
 #######
 $$a_{i, j}=\operatorname{FFN}\left(\mathbf{s}_{i}, \mathbf{h}_{j}\right)$$
 #### bidirectional RNN
