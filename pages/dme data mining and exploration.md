@@ -432,9 +432,11 @@ $$
 ##### 解就是Z
 ##### M来自Frobenius norm，就别管是啥了
 #### 3.3.4 Example
-#####
+##### 略
 ### 3.4 Isomap
+#### 没公式，略
 ### 3.5 UMAP
+####
 ## 4 Predictive Modelling and Generalisation
 ### 4.1 Prediction and Training Loss
 #### 4.1.1 Prediction Loss
