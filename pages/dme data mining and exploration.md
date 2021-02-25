@@ -237,7 +237,7 @@ I & W^{\top} \\
 W & W W^{\top}+\sigma^{2} I
 \end{array}\right)
 $$
-###### 平均值 mean 公式2.69
+###### 平均值 mean 公式2.70
 #######
 #### 2.4.2 Joint, Conditional and Observation Distributions
 #### 2.4.3 Maximum Likelihood
