@@ -624,7 +624,7 @@ L(2,1) & L(2,2) & \cdots & L(2, K) \\
 L(K, 1) & L(K, 2) & \cdots & L(K, K)
 \end{array}\right)
 $$
-##### misclassiﬁcation or error rate
+##### misclassiﬁcation or error rate 公式 4.58
 ######
 $$
 \begin{aligned}
