@@ -63,6 +63,9 @@ $$
 #### 1.3.1 Standardisation
 ##### 注意这一节中$x$表示没有中心化的，$\tilde x$表示中心化的，和PCA那边的不一样
 ##### certring matrix
+:PROPERTIES:
+:id: 60364b4a-32fb-4ab7-997b-fb38423e1061
+:END:
 ######
 $$
 \boldsymbol{C}_{n}=\boldsymbol{I}_{n}-\frac{1}{n} \mathbf{1}_{n} \mathbf{1}_{n}^{\top}
