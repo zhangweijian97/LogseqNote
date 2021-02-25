@@ -649,7 +649,7 @@ $$
 &=\mathbb{P}(\hat{y}=1 \mid y=-1)+\mathbb{P}(\hat{y}=-1 \mid y=1)
 \end{aligned}
 $$
-####### where
+####### where 公式 4.63
 ########
 $$
 \boldsymbol{L}=\left(\begin{array}{cc}
