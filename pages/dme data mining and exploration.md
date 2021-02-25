@@ -149,47 +149,47 @@ $$
 ##### smallest expected approximation error，公式2.36
 ######
 $$\sum_{i=k+1}^d\lambda_i$$
-##### 2.3 PCA by Low Rank Matrix Approximation
-###### 2.3.1 Approximating the Data Matrix
-####### singular value decomposition, 公式2.39
-########
+#### 2.3 PCA by Low Rank Matrix Approximation
+##### 2.3.1 Approximating the Data Matrix
+###### singular value decomposition, 公式2.39
+#######
 $$\boldsymbol{X} = \boldsymbol{U}\boldsymbol{S}\boldsymbol{V}^\top$$
-######## U, d $\times$ d; S, d $\times$ n; V, n $\times$ n; X, d $\times$ n
-######## X又可以写作
-#########
-$$\boldsymbol{X}=\sum_{i=1}^r s_i \boldsymbol{u}_i\boldsymbol{v}_i^\top$$
-####### optimisation problem，公式2.42
+####### U, d $\times$ d; S, d $\times$ n; V, n $\times$ n; X, d $\times$ n
+####### X又可以写作
 ########
+$$\boldsymbol{X}=\sum_{i=1}^r s_i \boldsymbol{u}_i\boldsymbol{v}_i^\top$$
+###### optimisation problem，公式2.42
+#######
 $$
 \begin{array}{ll}
 \underset{M}{\operatorname{minimise}} & \sum_{i j}\left((\boldsymbol{X})_{i j}-(\boldsymbol{M})_{i j}\right)^{2} \\
 \text { subject to } & \operatorname{rank}(\boldsymbol{M})=k
 \end{array}
 $$
-######## Frobenius norm
-####### 公式2.43
-########
+####### Frobenius norm
+###### 公式2.43
+#######
 $$\hat\boldsymbol{X}=\sum_{i=1}^k s_i \boldsymbol{u}_i\boldsymbol{v}_i^\top$$
-####### approximation error，公式2.44
-########
+###### approximation error，公式2.44
+#######
 $$
 \|\boldsymbol{X}-\hat{\boldsymbol{X}}\|_{F}=\sum_{i=k+1}^{r} s_{i}^{2}
 $$
-####### relate to principal component analysis
-######## $\boldsymbol{u}_i$ 是 principal component directions
-######## $s_i$ 和 $\lambda_i$ 公式2.45
-#########
-$$\lambda_i=\cfrac{s_i^2}{n}$$
-######## principal component scores (**after scaling?**)，公式2.46
-#########
-$$\boldsymbol{z}_i^\top=\boldsymbol{u}_i^\top\boldsymbol{X}=s_i\boldsymbol{v}_i^\top$$
-######## 公式2.47
-#########
-$$\hat\boldsymbol{X}=\sum_{i=1}^k \boldsymbol{u}_i\boldsymbol{z}_i^\top$$
-######## 证明在公式2.48 到 2.50（这里似乎有一道旧卷题考到？）
-###### 2.3.2 Approximating the Sample Covariance Matrix
-####### optimisation problem 2.51
+###### relate to principal component analysis
+####### $\boldsymbol{u}_i$ 是 principal component directions
+####### $s_i$ 和 $\lambda_i$ 公式2.45
 ########
+$$\lambda_i=\cfrac{s_i^2}{n}$$
+####### principal component scores (**after scaling?**)，公式2.46
+########
+$$\boldsymbol{z}_i^\top=\boldsymbol{u}_i^\top\boldsymbol{X}=s_i\boldsymbol{v}_i^\top$$
+####### 公式2.47
+########
+$$\hat\boldsymbol{X}=\sum_{i=1}^k \boldsymbol{u}_i\boldsymbol{z}_i^\top$$
+####### 证明在公式2.48 到 2.50（这里似乎有一道旧卷题考到？）
+##### 2.3.2 Approximating the Sample Covariance Matrix
+###### optimisation problem 2.51
+#######
 $$
 \begin{array}{cl}
 \underset{\boldsymbol{M}}{\operatorname{minimise}} & \|\boldsymbol{\Sigma}-\boldsymbol{M}\|_{F} \\
@@ -197,34 +197,34 @@ $$
 & \boldsymbol{M}^{\top}=\boldsymbol{M}
 \end{array}
 $$
-###### 2.3.3 Approximating the Gram Matrix
-####### Gram matrix 2.52
-########
+##### 2.3.3 Approximating the Gram Matrix
+###### Gram matrix 2.52
+#######
 :PROPERTIES:
 :id: 6036c587-f200-48ec-9866-3189543f2c77
 :END:
 $$\boldsymbol{G} = \boldsymbol{X}^\top\boldsymbol{X}$$
-######### n $\times$ n matrix
-######## 用SVD得到G的EVD, 公式2.53
+######## n $\times$ n matrix
+####### 用SVD得到G的EVD, 公式2.53
 :PROPERTIES:
 :id: 6036c5b3-1d6f-478d-8cc6-90251b30da71
 :END:
-#########
-$$\boldsymbol{G} = \boldsymbol{V} \tilde\boldsymbol{\Lambda}\boldsymbol{V}^\top$$
-#########
-$$\tilde\boldsymbol{\Lambda}=\boldsymbol{S}^\top\boldsymbol{S}$$
-####### best rank k approximation of the Gram matrix 公式2.54
 ########
+$$\boldsymbol{G} = \boldsymbol{V} \tilde\boldsymbol{\Lambda}\boldsymbol{V}^\top$$
+########
+$$\tilde\boldsymbol{\Lambda}=\boldsymbol{S}^\top\boldsymbol{S}$$
+###### best rank k approximation of the Gram matrix 公式2.54
+#######
 $$\hat\boldsymbol{G}=\sum_{i=1}^k \boldsymbol{v}_i s_i^2\boldsymbol{v}_i^\top = \sum_{i=1}^k \boldsymbol{z}_i \boldsymbol{z}_i^\top$$
-####### principal component scores, 公式2.57
+###### principal component scores, 公式2.57
 :PROPERTIES:
 :id: 6036c688-04a1-4c3b-ae7f-6293217ca49e
 :END:
-########
+#######
 $$
 \boldsymbol{Z}=\sqrt{\tilde{\boldsymbol{\Lambda}}_{k}} \boldsymbol{V}_{k}^{\top}
 $$
-######## k $\times$ n matrix
+####### k $\times$ n matrix
 ##### 2.4 Probabilistic PCA
 ###### 2.4.1 Probabilistic Model
 ####### 随机变量 $\boldsymbol{z}$ 统计独立，标准正太分布 2.58
