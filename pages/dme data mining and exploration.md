@@ -664,6 +664,8 @@ $$
 $$
 \hat{y}(\boldsymbol{x})=\operatorname{sign}(h(\boldsymbol{x}))
 $$
+###### margin $$yh(x)$$
+######
 ## [[DME past paper]]
 ## Reference
 ### DME lecture notes
