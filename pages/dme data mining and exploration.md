@@ -436,6 +436,7 @@ $$
 ### 3.4 Isomap
 #### 没公式，略
 #### 就是把classical MDS的距离用geodesic距离表示
+#### 用m-nearest neighbours计算
 ### 3.5 UMAP
 ####
 ## 4 Predictive Modelling and Generalisation
