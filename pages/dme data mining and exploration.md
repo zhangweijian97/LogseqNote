@@ -564,8 +564,8 @@ $$
 :id: 603645b8-d154-41bf-b0e3-3c0bd80d3cb2
 :END:
 ##### Hold-out Approach
-###### Divide $$\mathcal{D}$$ into training set $$\mathcal{D}^{\text{train}}$$ and test or validation set $$\tilde\mathcal{D}$$ (也可以写作)
-###### estimate the prediction loss
+###### Divide $$\mathcal{D}$$ into training set $$\mathcal{D}^{\text{train}}$$ and test or validation set $$\tilde\mathcal{D}$$ (也可以写作 $$\mathcal{D}^{\text{val}}$$ )
+###### estimate the prediction loss 公式 4.31
 #######
 $$
 \hat{\mathcal{J}}(\hat{h} ; \tilde{\mathcal{D}})=\frac{1}{\tilde{n}} \sum_{i=1}^{\tilde{n}} \mathcal{L}\left(\hat{h}\left(\tilde{\boldsymbol{x}}_{i}\right), \tilde{y}_{i}\right)
