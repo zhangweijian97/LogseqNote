@@ -640,6 +640,10 @@ $$
 ###### 2. k-fold 分割 得到k个Dtrain和k个Dval
 ###### 3同上，在k个Dtrain上，算出k个最优预测函数（后面平均）
 ###### 4计算cv score
+#######
+$$
+\operatorname{EPL}(\boldsymbol{\lambda})=\mathrm{CV}=\hat{\mathcal{J}}\left(\mathcal{A}_{\lambda}\right)
+$$
 ###### 5同上
 ###### 6同上
 ###### 7同上
