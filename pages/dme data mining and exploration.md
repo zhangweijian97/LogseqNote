@@ -324,6 +324,7 @@ $$
 #### 3.1.1 From Data Points
 ##### 已知未中心化的 $\tilde\boldsymbol{X}$
 ##### 先中心化
+###### {{embed ((60364b4a-32fb-4ab7-997b-fb38423e1061))}}
 ##### 然后计算协方差
 ##### 做EV得到Uk
 ##### 计算scores
