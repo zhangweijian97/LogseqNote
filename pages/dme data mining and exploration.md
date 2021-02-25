@@ -489,7 +489,8 @@ $$
 \underset{h}{\operatorname{minimise}} & \mathcal{J}(h) 
 \end{array}
 $$
-##### 但期望没法直接计算，所以可以
+##### 但期望没法直接计算，所以就近似为 公式 4.4
+######
 #####
 #### 4.1.2 Training Loss
 #### 4.1.3 Example
