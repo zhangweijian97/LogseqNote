@@ -216,6 +216,9 @@ $$\tilde\boldsymbol{\Lambda}=\boldsymbol{S}^\top\boldsymbol{S}$$
 ######
 $$\hat\boldsymbol{G}=\sum_{i=1}^k \boldsymbol{v}_i s_i^2\boldsymbol{v}_i^\top = \sum_{i=1}^k \boldsymbol{z}_i \boldsymbol{z}_i^\top$$
 ##### principal component scores, 公式2.57
+:PROPERTIES:
+:id: 6036c688-04a1-4c3b-ae7f-6293217ca49e
+:END:
 ######
 $$
 \boldsymbol{Z}=\sqrt{\tilde{\boldsymbol{\Lambda}}_{k}} \boldsymbol{V}_{k}^{\top}
