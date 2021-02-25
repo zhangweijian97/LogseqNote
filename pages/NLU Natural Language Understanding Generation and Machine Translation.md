@@ -491,8 +491,7 @@ $$
 ##### **weight freezing**: only finetune a handful of final layers, you keep the other ones fixed
 ###### Finetuning without weight freezing is normally too slow.
 ##### **source model** is the neural language model (NLM)
-##### **target model** is often ver y diﬀerent from the NLM
-##### **target model** is often ver y diﬀerent from the NLM
+##### **target model** is often very diﬀerent from the NLM
 ##### word embeddings as the input representations for a new task, then we're doing feature extraction.
 #### Word Embeddings
 ##### word embeddings as the input representations for a new task, then we're doing feature extraction.
