@@ -625,7 +625,8 @@ $$
 $$
 \hat{h}=\mathcal{A}_{\hat{\lambda}}\left(\mathcal{D}^{\text {train }} \cup \mathcal{D}^{\mathrm{val}}\right)
 $$
-######
+###### 6.
+###### 7.
 ##### Cross-validation and Hold-out
 ######
 ### 4.4 Loss Functions in Predictive Modelling
