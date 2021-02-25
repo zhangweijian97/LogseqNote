@@ -467,191 +467,191 @@ $$
 ##### 求解得到 lower dimensional representation Z
 ##### 解法在 McInnes, Healy, and Melville, 2018, Sections 2, 3
 ###### Umap: Uniform manifold approximation and projection for dimension reduction
-## 4 Predictive Modelling and Generalisation
-### 4.1 Prediction and Training Loss
-#### 4.1.1 Prediction Loss
-##### predictor $$\boldsymbol{x}$$
-##### target $$y$$
-##### 不论是回归任务或者分类任务
-##### 理想目标，得到 条件概率分布 $$p(y|\boldsymbol{x})$$
-##### 但理想是丰满的，现实是骨感的
-##### 只能寻找到一个预测函数 $$h(\boldsymbol{x})$$
-##### 预测函数的输出是我们对目标 $$y$$ 的估计 $$\hat y=h(\boldsymbol{x})$$
-##### 目标的真实值和我们的预测值之间存在一个损失loss函数 $$\mathcal{L}(\hat y, y)$$
-##### prediction loss 预测损失，是损失的期望 公式 4.1
-######
+### 4 Predictive Modelling and Generalisation
+#### 4.1 Prediction and Training Loss
+##### 4.1.1 Prediction Loss
+###### predictor $$\boldsymbol{x}$$
+###### target $$y$$
+###### 不论是回归任务或者分类任务
+###### 理想目标，得到 条件概率分布 $$p(y|\boldsymbol{x})$$
+###### 但理想是丰满的，现实是骨感的
+###### 只能寻找到一个预测函数 $$h(\boldsymbol{x})$$
+###### 预测函数的输出是我们对目标 $$y$$ 的估计 $$\hat y=h(\boldsymbol{x})$$
+###### 目标的真实值和我们的预测值之间存在一个损失loss函数 $$\mathcal{L}(\hat y, y)$$
+###### prediction loss 预测损失，是损失的期望 公式 4.1
+#######
 $$
 \mathcal{J}(h)=\mathbb{E}_{\hat{y}, y}[\mathcal{L}(\hat{y}, y)]=\mathbb{E}_{\boldsymbol{x}, y}[\mathcal{L}(h(\boldsymbol{x}), y)]
 $$
-##### 模型的优化问题是最小化期望损失 公式 4.2
-######
+###### 模型的优化问题是最小化期望损失 公式 4.2
+#######
 $$
 \begin{array}{ll}
 \underset{h}{\operatorname{minimise}} & \mathcal{J}(h) 
 \end{array}
 $$
-##### （画外音：所以预测损失是指在整个数据集上算出来的，下面的训练损失就是指在训练集上算出来的）
+###### （画外音：所以预测损失是指在整个数据集上算出来的，下面的训练损失就是指在训练集上算出来的）
 :PROPERTIES:
 :id: 6037059e-7f8b-4e5f-99c7-3d4a1e3c591c
 :END:
-#### 4.1.2 Training Loss
-##### 但期望没法直接计算，所以就近似为 公式 4.4
-######
+##### 4.1.2 Training Loss
+###### 但期望没法直接计算，所以就近似为 公式 4.4
+#######
 $$
 \mathcal{J}(h)\approx \cfrac{1}{n} \sum_{i=1}^n\mathcal{L}(h(\boldsymbol{x}_i), y_i)
 $$
-##### 训练集定义为 $$\mathcal{D}^{\text{train}}$$
-##### 重新定义预测函数为 $$h(\boldsymbol{x}) = h_{\boldsymbol{\lambda}}(\boldsymbol{x};\boldsymbol{\theta})$$
-###### $\boldsymbol{\theta}$ 是函数内参数
-###### $\boldsymbol{\lambda}$ 是超参数
-##### 上面的损失函数 $$\mathcal{L}$$ 也算不了，用一个 proxy loss function 代理损失函数 $$L$$  替代
-##### training loss 训练损失 $$J_{\boldsymbol{\lambda}}(h)$$，是预测损失 $\mathcal{J}(h)$ 的代理 公式 4.6
-######
+###### 训练集定义为 $$\mathcal{D}^{\text{train}}$$
+###### 重新定义预测函数为 $$h(\boldsymbol{x}) = h_{\boldsymbol{\lambda}}(\boldsymbol{x};\boldsymbol{\theta})$$
+####### $\boldsymbol{\theta}$ 是函数内参数
+####### $\boldsymbol{\lambda}$ 是超参数
+###### 上面的损失函数 $$\mathcal{L}$$ 也算不了，用一个 proxy loss function 代理损失函数 $$L$$  替代
+###### training loss 训练损失 $$J_{\boldsymbol{\lambda}}(h)$$，是预测损失 $\mathcal{J}(h)$ 的代理 公式 4.6
+#######
 $$
 J_{\boldsymbol{\lambda}}(h)= \cfrac{1}{n} \sum_{i=1}^n L(h_{\boldsymbol{\lambda}}(\boldsymbol{x}_i;\boldsymbol{\theta}), y_i)
 $$
-##### 固定住超参数$\boldsymbol{\lambda}$，最小化训练损失，得到最优参数 $\hat\boldsymbol{\theta}_{\boldsymbol{\lambda}}$ 和最优预测函数 $\hat\boldsymbol{h}_{\boldsymbol{\lambda}}(\boldsymbol{x})$ 公式 4.7
-######
+###### 固定住超参数$\boldsymbol{\lambda}$，最小化训练损失，得到最优参数 $\hat\boldsymbol{\theta}_{\boldsymbol{\lambda}}$ 和最优预测函数 $\hat\boldsymbol{h}_{\boldsymbol{\lambda}}(\boldsymbol{x})$ 公式 4.7
+#######
 :PROPERTIES:
 :id: 60370999-8dd7-4c7d-b72c-f935dcfe772e
 :END:
 $$
 \hat{h}_{\boldsymbol{\lambda}}(\boldsymbol{x})=h_{\boldsymbol{\lambda}}\left(\boldsymbol{x} ; \hat{\boldsymbol{\theta}}_{\boldsymbol{\lambda}}\right), \quad \hat{\boldsymbol{\theta}}_{\boldsymbol{\lambda}}=\underset{\boldsymbol{\theta}}{\operatorname{argmin}} J_{\boldsymbol{\lambda}}(\boldsymbol{\theta})
 $$
-##### 把上面的最优参数代回去，得到最小训练损失minimal training loss 公式 4.8
-######
+###### 把上面的最优参数代回去，得到最小训练损失minimal training loss 公式 4.8
+#######
 $$J_{\boldsymbol{\lambda}}^*=\min_{\boldsymbol{\theta}}J_{\boldsymbol{\lambda}}(\boldsymbol{\theta})$$
-##### 不能选产生最小训练损失的超参数，因为过拟合训练集，没有足够的泛化性能
-#### 4.1.3 Example
-##### 做题推导可以参考这里
-### 4.2 Generalisation Performance
-#### 4.2.1 Generalisation for Prediction Functions and Algorithms
-##### 说一个模型具有好的泛化性能，就是说对于最优预测函数 $\hat{h}$ ，它的预测损失 $\mathcal{J}(\hat h)$ 很小 公式 4.21
-######
+###### 不能选产生最小训练损失的超参数，因为过拟合训练集，没有足够的泛化性能
+##### 4.1.3 Example
+###### 做题推导可以参考这里
+#### 4.2 Generalisation Performance
+##### 4.2.1 Generalisation for Prediction Functions and Algorithms
+###### 说一个模型具有好的泛化性能，就是说对于最优预测函数 $\hat{h}$ ，它的预测损失 $\mathcal{J}(\hat h)$ 很小 公式 4.21
+#######
 $$
 \mathcal{J}(\hat h)=\mathbb{E}_{\boldsymbol{x}, y}[\mathcal{L}(\hat h(\boldsymbol{x}), y)]]
 $$
-###### measures the performance of a specific $\hat{h}$
-##### 预测损失 $\mathcal{J}(\hat h)$ 又称作泛化损失 generalisation loss 或 测试损失 test loss
-##### 但上面这玩意儿也是不能算的，因为并不知道数据的真实分布
-##### 用 ((603645b8-d154-41bf-b0e3-3c0bd80d3cb2)) 的方法 held-out data 来估计损失 $\mathcal{L}(\hat h(\boldsymbol{x}), y)$ 的期望值
-##### 预测损失 $\mathcal{J}(\hat h)$ 可以视为随机变量（训练集的选取视为一个随机过程），那么它的期望值记为 $\bar \mathcal{J}$
-##### 定义一个算法 $\mathcal{A}$ ，从训练数据 $\mathcal{D}^{\text {train }}$ 中学习到最优预测函数 $\hat{h}$ 公式 4.22
-######
+####### measures the performance of a specific $\hat{h}$
+###### 预测损失 $\mathcal{J}(\hat h)$ 又称作泛化损失 generalisation loss 或 测试损失 test loss
+###### 但上面这玩意儿也是不能算的，因为并不知道数据的真实分布
+###### 用 ((603645b8-d154-41bf-b0e3-3c0bd80d3cb2)) 的方法 held-out data 来估计损失 $\mathcal{L}(\hat h(\boldsymbol{x}), y)$ 的期望值
+###### 预测损失 $\mathcal{J}(\hat h)$ 可以视为随机变量（训练集的选取视为一个随机过程），那么它的期望值记为 $\bar \mathcal{J}$
+###### 定义一个算法 $\mathcal{A}$ ，从训练数据 $\mathcal{D}^{\text {train }}$ 中学习到最优预测函数 $\hat{h}$ 公式 4.22
+#######
 $$
 \hat{h}=\mathcal{A}\left(\mathcal{D}^{\text {train }}\right)
 $$
-##### 可以得到期望预测损失 expeted prediction loss $\bar \mathcal{J}$ 写作 公式 4.23
-######
+###### 可以得到期望预测损失 expeted prediction loss $\bar \mathcal{J}$ 写作 公式 4.23
+#######
 $$
 \bar{\mathcal{J}}(\mathcal{A})=\mathbb{E}_{\mathcal{D}^{\text {train }}}[\mathcal{J}(\hat{h})]=\mathbb{E}_{\mathcal{D}^{\text {train }}}\left[\mathcal{J}\left(\mathcal{A}\left(\mathcal{D}^{\text {train }}\right)\right)\right]
 $$
-###### measures the performance of the algorithm $\mathcal{A}$
-###### 这玩意儿也是个期望，不能直接算。用交叉验证法 cross-validation 方法来估计 ((603645b8-d154-41bf-b0e3-3c0bd80d3cb2))
-#### 4.2.2 Overfitting and Underfitting
-##### 修改 公式 4.7 的优化目标，加一个正则项，解决过拟合和欠拟合的问题 公式4.26
-######
+####### measures the performance of the algorithm $\mathcal{A}$
+####### 这玩意儿也是个期望，不能直接算。用交叉验证法 cross-validation 方法来估计 ((603645b8-d154-41bf-b0e3-3c0bd80d3cb2))
+##### 4.2.2 Overfitting and Underfitting
+###### 修改 公式 4.7 的优化目标，加一个正则项，解决过拟合和欠拟合的问题 公式4.26
+#######
 $$
 \underset{\boldsymbol{\theta}}{\operatorname{minimise}} J_{\boldsymbol{\lambda}}(\boldsymbol{\theta})+\lambda_{\mathrm{reg}} R(\boldsymbol{\theta})
 $$
-###### $R(\boldsymbol{\theta})$ 惩罚项
-###### $\lambda_{\mathrm{reg}}$ 正则化的强度（系数）
-#### 4.2.3 Example
-##### 预测损失和训练损失不同，正如前面所说
-###### {{embed ((6037059e-7f8b-4e5f-99c7-3d4a1e3c591c))}}
-### 4.3 Estimating the Generalisation Performance
-#### 4.3.1 Methods for Estimating the Generalisation Performance
+####### $R(\boldsymbol{\theta})$ 惩罚项
+####### $\lambda_{\mathrm{reg}}$ 正则化的强度（系数）
+##### 4.2.3 Example
+###### 预测损失和训练损失不同，正如前面所说
+####### {{embed ((6037059e-7f8b-4e5f-99c7-3d4a1e3c591c))}}
+#### 4.3 Estimating the Generalisation Performance
+##### 4.3.1 Methods for Estimating the Generalisation Performance
 :PROPERTIES:
 :id: 603645b8-d154-41bf-b0e3-3c0bd80d3cb2
 :END:
-##### Hold-out Approach
-###### Divide $$\mathcal{D}$$ into training set $$\mathcal{D}^{\text{train}}$$ and test or validation set $$\tilde\mathcal{D}$$ (也可以写作 $$\mathcal{D}^{\text{val}}$$ )
-###### estimate the prediction loss 公式 4.31
-#######
+###### Hold-out Approach
+####### Divide $$\mathcal{D}$$ into training set $$\mathcal{D}^{\text{train}}$$ and test or validation set $$\tilde\mathcal{D}$$ (也可以写作 $$\mathcal{D}^{\text{val}}$$ )
+####### estimate the prediction loss 公式 4.31
+########
 :PROPERTIES:
 :id: 6037159d-bc32-4e58-aed3-830849834ac1
 :END:
 $$
 \hat{\mathcal{J}}(\hat{h} ; \tilde{\mathcal{D}})=\frac{1}{\tilde{n}} \sum_{i=1}^{\tilde{n}} \mathcal{L}\left(\hat{h}\left(\tilde{\boldsymbol{x}}_{i}\right), \tilde{y}_{i}\right)
 $$
-##### Cross-validation
-###### Divide $$\mathcal{D}$$  into $K$ subsets $$\mathcal{D}_1,\cdots,\mathcal{D}_K$$
-###### 得到训练集和测试集 公式 4.32
-#######
+###### Cross-validation
+####### Divide $$\mathcal{D}$$  into $K$ subsets $$\mathcal{D}_1,\cdots,\mathcal{D}_K$$
+####### 得到训练集和测试集 公式 4.32
+########
 $$
 \mathcal{D}_{k}^{\text {train }}=\bigcup_{i \neq k} \mathcal{D}_{i}, \quad \mathcal{D}_{k}^{\text {val }}=\mathcal{D}_{k},
 $$
-###### 计算训练损失 公式 4.33
-#######
+####### 计算训练损失 公式 4.33
+########
 $$
 \hat{h}_k=\mathcal{A}\left(\mathcal{D}_k^{\text {train }}\right)
 $$
-###### 计算泛化性能 公式 4.34 公式 4.36
-#######
+####### 计算泛化性能 公式 4.34 公式 4.36
+########
 $$\hat{\mathcal{J}}_k = \hat{\mathcal{J}}(\hat{h}_k ; \mathcal{D}_k^{\text{val}}) = \hat{\mathcal{J}}(\mathcal{A}\left(\mathcal{D}_k^{\text {train }}\right) ; \mathcal{D}_k^{\text{val}}) $$
-###### 计算 CV score 公式 4.35 公式 4.37
-#######
+####### 计算 CV score 公式 4.35 公式 4.37
+########
 $$\text{CV} = \cfrac{1}{K}\sum_{i=1}^K\hat{\mathcal{J}}_k = \cfrac{1}{K}\sum_{i=1}^K \hat{\mathcal{J}}(\mathcal{A}\left(\mathcal{D}_k^{\text {train }}\right) ; \mathcal{D}_k^{\text{val}}) $$
-###### cv score 是对 期望预测损失 $\bar{\mathcal{J}}(\mathcal{A})$ 的估计，记为 $\hat{\bar{\mathcal{J}}}(\mathcal{A})$
-###### 公式2.39 计算 cv 的 方差，开个平方，变成 standard error of the cv-score
-#######
+####### cv score 是对 期望预测损失 $\bar{\mathcal{J}}(\mathcal{A})$ 的估计，记为 $\hat{\bar{\mathcal{J}}}(\mathcal{A})$
+####### 公式2.39 计算 cv 的 方差，开个平方，变成 standard error of the cv-score
+########
 $$
 \operatorname{Var}(\mathrm{CV}) \approx \frac{1}{K} \operatorname{Var}(\hat{\mathcal{J}}), \quad \operatorname{Var}(\hat{\mathcal{J}}) \approx \frac{1}{K} \sum_{k=1}^{K}\left(\hat{\mathcal{J}}_{k}-\mathrm{CV}\right)^{2}
 $$
-##### leave-one-out cross-validation (LOOCV)，CV的升级版，K取n
-#### 4.3.2 Hyperparameter Selection and Performance Evaluation
-##### 7 步
-##### Two Times Hold-out
-###### 1. 分割D，得到Dtest，20%
-###### 2. 再2/8分剩下的，得到Dtrain和Dval
-###### 3. 固定超参数$\lambda$，运行算法，求最优训练函数（最优内部参数组$$\boldsymbol{\theta}$$）
-#######
+###### leave-one-out cross-validation (LOOCV)，CV的升级版，K取n
+##### 4.3.2 Hyperparameter Selection and Performance Evaluation
+###### 7 步
+###### Two Times Hold-out
+####### 1. 分割D，得到Dtest，20%
+####### 2. 再2/8分剩下的，得到Dtrain和Dval
+####### 3. 固定超参数$\lambda$，运行算法，求最优训练函数（最优内部参数组$$\boldsymbol{\theta}$$）
+########
 $$
 \hat{h}_{\boldsymbol{\lambda}}=\mathcal{A}_{\boldsymbol{\lambda}}\left(\mathcal{D}_k^{\text {train }}\right)
 $$
-###### 4. 用Dval评估，求预测损失
-#######
+####### 4. 用Dval评估，求预测损失
+########
 $$
 \mathrm{PL}(\boldsymbol{\lambda})=\hat{\mathcal{J}}\left(\hat{h}_{\boldsymbol{\lambda}} ; \mathcal{D}^{\mathrm{val}}\right)
 $$
-####### where
-######## {{embed ((6037159d-bc32-4e58-aed3-830849834ac1))}}
-####### 得到最优超参数组 $$\hat\boldsymbol{\lambda}$$
-########
+######## where
+######### {{embed ((6037159d-bc32-4e58-aed3-830849834ac1))}}
+######## 得到最优超参数组 $$\hat\boldsymbol{\lambda}$$
+#########
 $$
 \hat{\boldsymbol{\lambda}}=\underset{\boldsymbol{\lambda}}{\operatorname{argmin}} \mathrm{PL}(\boldsymbol{\lambda})
 $$
-###### 5. 合并Dtrain和Dval，重新优化一次得到新的 $$\boldsymbol{\theta}$$
-#######
+####### 5. 合并Dtrain和Dval，重新优化一次得到新的 $$\boldsymbol{\theta}$$
+########
 $$
 \hat{h}=\mathcal{A}_{\hat{\lambda}}\left(\mathcal{D}^{\text {train }} \cup \mathcal{D}^{\mathrm{val}}\right)
 $$
-###### 6. 用Dtest估计预测损失
-#######
+####### 6. 用Dtest估计预测损失
+########
 $$
 \hat{\mathcal{J}}=\hat{\mathcal{J}}\left(\hat{h} ; \mathcal{D}^{\text {test }}\right)
 $$
-###### 7. 合并所有数据集，重新优化一次得到预测函数
-#######
+####### 7. 合并所有数据集，重新优化一次得到预测函数
+########
 $$
 \hat{h}(\boldsymbol{x})=\mathcal{A}_{\hat{\boldsymbol{\lambda}}}(\mathcal{D})
 $$
-##### Cross-validation and Hold-out
-###### 1同上
-###### 2. k-fold 分割 得到k个Dtrain和k个Dval
-###### 3同上，在k个Dtrain上，算出k个最优预测函数（后面平均）
-###### 4计算cv score，目标最小化，求得最优参数数组 公式 4.46
-#######
+###### Cross-validation and Hold-out
+####### 1同上
+####### 2. k-fold 分割 得到k个Dtrain和k个Dval
+####### 3同上，在k个Dtrain上，算出k个最优预测函数（后面平均）
+####### 4计算cv score，目标最小化，求得最优参数数组 公式 4.46
+########
 $$
 \operatorname{EPL}(\boldsymbol{\lambda})=\mathrm{CV}=\hat{\mathcal{J}}\left(\mathcal{A}_{\lambda}\right)
 $$
-###### 5同上，即用除了Dtest之外的数据计算
-###### 6同上
-###### 7同上
-### 4.4 Loss Functions in Predictive Modelling
-#### 4.4.1 Loss Functions in Regression
-##### 公式 4.50 4.51 4.52
-######
+####### 5同上，即用除了Dtest之外的数据计算
+####### 6同上
+####### 7同上
+#### 4.4 Loss Functions in Predictive Modelling
+##### 4.4.1 Loss Functions in Regression
+###### 公式 4.50 4.51 4.52
+#######
 $$
 \begin{array}{lll}
 L(\hat{y}, y) & =\frac{1}{2}(\hat{y}-y)^{2} & \text { (square loss) } \\
@@ -663,10 +663,10 @@ L(\hat{y}, y) & =\left\{\begin{array}{ll}
 & & \text { (Huber loss) }
 \end{array}
 $$
-#### 4.4.2 Loss Functions in Classification
-##### Non-diﬀerentiable Loss Functions
-###### 损失矩阵 公式 4.53
-#######
+##### 4.4.2 Loss Functions in Classification
+###### Non-diﬀerentiable Loss Functions
+####### 损失矩阵 公式 4.53
+########
 $$
 \boldsymbol{L}=\left(\begin{array}{cccc}
 L(1,1) & L(1,2) & \cdots & L(1, K) \\
@@ -675,10 +675,10 @@ L(2,1) & L(2,2) & \cdots & L(2, K) \\
 L(K, 1) & L(K, 2) & \cdots & L(K, K)
 \end{array}\right)
 $$
-###### TP，TN，FP，FN
-####### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210225034337.png)
-###### misclassiﬁcation or error rate 公式 4.58
-#######
+####### TP，TN，FP，FN
+######## ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210225034337.png)
+####### misclassiﬁcation or error rate 公式 4.58
+########
 $$
 \begin{aligned}
 \mathcal{J}(h) &=\mathbb{E}_{\boldsymbol{x}, y} L(h(\boldsymbol{x}), y) \\
@@ -688,8 +688,8 @@ $$
 &=\mathbb{P}(y \neq \hat{y})
 \end{aligned}
 $$
-###### loss function that penalises false-positive and false-negative rates 公式 4.68
-#######
+####### loss function that penalises false-positive and false-negative rates 公式 4.68
+########
 $$
 \begin{aligned}
 \mathcal{J}(h) &=\mathbb{E}_{\boldsymbol{x}, y} L(h(\boldsymbol{x}), y) \\
@@ -699,27 +699,27 @@ $$
 &=\mathbb{P}(\hat{y}=1 \mid y=-1)+\mathbb{P}(\hat{y}=-1 \mid y=1)
 \end{aligned}
 $$
-####### where 公式 4.63
-########
+######## where 公式 4.63
+#########
 $$
 \boldsymbol{L}=\left(\begin{array}{cc}
 0 & \frac{1}{\mathbb{P}(y=1)} \\
 \frac{1}{\mathbb{P}(y=-1)} & 0
 \end{array}\right)
 $$
-###### ROC，TP，FP
-##### Diﬀerentiable Loss Functions in Classiﬁcation
-###### trick 公式 4.69
-#######
+####### ROC，TP，FP
+###### Diﬀerentiable Loss Functions in Classiﬁcation
+####### trick 公式 4.69
+########
 $$
 \hat{y}(\boldsymbol{x})=\operatorname{sign}(h(\boldsymbol{x}))
 $$
-###### margin $$yh(x)$$
-###### logistic regression
-####### 公式
-######## ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210225034805.png)
-####### 最大化
-######## ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210225034818.png)
+####### margin $$yh(x)$$
+####### logistic regression
+######## 公式
+######### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210225034805.png)
+######## 最大化
+######### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210225034818.png)
 ## [[DME past paper]]
 ## Reference
 ### DME lecture notes
