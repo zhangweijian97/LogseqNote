@@ -669,6 +669,7 @@ $$
 ####### 公式
 ######## ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210225034805.png)
 ####### 最大化
+######## ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210225034818.png)
 ## [[DME past paper]]
 ## Reference
 ### DME lecture notes
