@@ -380,7 +380,8 @@ $$
 ######
 $$\Phi = (\phi_1, \cdots, \phi_n)$$
 #### 3.2.2 Kernel Trick
-#### 3.2.3 Example. .
+#####
+#### 3.2.3 Example
 ### 3.3 Multidimensional Scaling
 #### 3.3.1 Metric MDS
 ##### 优化问题
