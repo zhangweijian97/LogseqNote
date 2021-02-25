@@ -380,7 +380,12 @@ $$
 ######
 $$\Phi = (\phi_1, \cdots, \phi_n)$$
 #### 3.2.2 Kernel Trick
-#####
+##### 公式 3.26
+######
+$$
+(\tilde{\boldsymbol{G}})_{i j}=\boldsymbol{\phi}_{i}^{\top} \boldsymbol{\phi}_{j}=\phi\left(\boldsymbol{x}_{i}\right)^{\top} \phi\left(\boldsymbol{x}_{j}\right)=k\left(\boldsymbol{x}_{i}, \boldsymbol{x}_{j}\right)
+$$
+###### can be used to compute the (uncentred) Gram matrix of $\Phi$
 #### 3.2.3 Example
 ### 3.3 Multidimensional Scaling
 #### 3.3.1 Metric MDS
