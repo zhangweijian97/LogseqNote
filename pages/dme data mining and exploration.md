@@ -275,6 +275,15 @@ $$
 $$
 ##### 利用公式2.78 到 2.80，继续推导上式 2.81 到 2.84
 ######
+$$
+\begin{aligned}
+\log p\left(\boldsymbol{X} \mid \boldsymbol{W}, \sigma^{2}\right) &=\sum_{i=1}^{n} \log \mathcal{N}\left(\boldsymbol{x}_{i} \mid \mathbf{0}, \boldsymbol{\Sigma}\right) \\
+& \stackrel{(2.59)}{=} \sum_{i=1}^{n}\left[-\frac{1}{2} d \log (2 \pi)-\frac{1}{2} \log (|\operatorname{det}(\boldsymbol{\Sigma})|)-\frac{1}{2} \boldsymbol{x}_{i}^{\top} \boldsymbol{\Sigma}^{-1} \boldsymbol{x}_{i}\right] \\
+&=-\frac{n}{2}[d \log (2 \pi)+\log (|\operatorname{det}(\boldsymbol{\Sigma})|)]-\frac{1}{2} \sum_{i=1}^{n} \boldsymbol{x}_{i}^{\top} \boldsymbol{\Sigma}^{-1} \boldsymbol{x}_{i} \\
+& \stackrel{(2.79)}{=}-\frac{n}{2}\left[d \log (2 \pi)+\log (|\operatorname{det}(\boldsymbol{\Sigma})|)+\operatorname{trace}\left(\boldsymbol{\Sigma}^{-1} \hat{\boldsymbol{\Sigma}}\right)\right]
+\end{aligned}
+$$
+#####
 #### 2.4.4 Relation to PCA
 ## 3 Dimensionality Reduction
 ### 3.1 Linear Dimensionality Reduction
