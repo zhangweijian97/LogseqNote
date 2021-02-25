@@ -531,8 +531,6 @@ p(c \mid w ; \theta)=\frac{\exp \left(v_{c} \cdot v_{w}\right)}{\sum_{c^{\prime}
 $$
 ######## 但分母没办法计算
 ####### Traning，略
-###### Contextualised (or Dynamic) Word Embeddings
-####### a vector to a word that depends on its context
 ##### Contextualised (or Dynamic) Word Embeddings
 ######## 但分母没办法计算，解决办法是Negative Sampling
 ####### Negative Sampling
