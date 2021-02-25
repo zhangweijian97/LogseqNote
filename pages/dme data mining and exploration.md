@@ -27,6 +27,9 @@ title: DME Data Mining and Exploration
 ##### 标准差
 ##### sample covariance matrix，1.28
 ######
+:PROPERTIES:
+:id: 60364900-cd28-4b19-87e1-40d3a4549ea9
+:END:
 $$\boldsymbol{\Sigma}=\frac{1}{n}\boldsymbol{X}\boldsymbol{X}^\top$$
 ###### eigenvalue decomposition
 #######
