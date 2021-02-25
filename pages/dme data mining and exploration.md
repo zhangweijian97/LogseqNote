@@ -463,7 +463,9 @@ $$
 \underset{M}{\operatorname{minimise}} & C\left(\boldsymbol{W}^{(\tilde{\boldsymbol{X}})}, \boldsymbol{W}^{(M)}\right) 
 \end{array}
 $$
-####
+#### 求解得到 lower dimensional representation Z
+#### 解法在 McInnes, Healy, and Melville, 2018, Sections 2, 3
+##### Umap: Uniform manifold approximation and projection for dimension reduction
 ## 4 Predictive Modelling and Generalisation
 ### 4.1 Prediction and Training Loss
 #### 4.1.1 Prediction Loss
