@@ -607,6 +607,10 @@ $$
 $$
 ###### 用Dval评估，得到预测损失
 #######
+$$
+\mathrm{PL}(\boldsymbol{\lambda})=\hat{\mathcal{J}}\left(\hat{h}_{\boldsymbol{\lambda}} ; \mathcal{D}^{\mathrm{val}}\right)
+$$
+######
 ##### Cross-validation and Hold-out
 ######
 ### 4.4 Loss Functions in Predictive Modelling
