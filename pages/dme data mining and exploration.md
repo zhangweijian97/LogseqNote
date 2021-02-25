@@ -566,6 +566,10 @@ $$
 ##### Hold-out Approach
 ###### Divide $$\mathcal{D}$$ into training set $$\mathcal{D}^{\text{train}}$$ and test or validation set $$\mathcal{D}^{\text{val}}$$
 ###### estimate the prediction loss
+#######
+$$
+\hat{\mathcal{J}}(\hat{h} ; \tilde{\mathcal{D}})=\frac{1}{\tilde{n}} \sum_{i=1}^{\tilde{n}} \mathcal{L}\left(\hat{h}\left(\tilde{\boldsymbol{x}}_{i}\right), \tilde{y}_{i}\right)
+$$
 ##### Cross-validation
 #### 4.3.2 Hyperparameter Selection and Performance Evaluation
 ### 4.4 Loss Functions in Predictive Modelling
