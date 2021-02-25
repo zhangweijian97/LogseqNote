@@ -665,7 +665,7 @@ $$
 \hat{y}(\boldsymbol{x})=\operatorname{sign}(h(\boldsymbol{x}))
 $$
 ###### margin $$yh(x)$$
-######
+###### logistic regression
 ## [[DME past paper]]
 ## Reference
 ### DME lecture notes
