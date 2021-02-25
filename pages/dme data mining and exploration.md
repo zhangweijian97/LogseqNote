@@ -422,6 +422,7 @@ $$
 ##### 数据的维数未知，数值也未知
 ##### 已知不相似矩阵，用 ((6036458f-c6f3-4d1d-b854-a86ee25e7d47)) 的方法可以计算Z
 #### 3.3.4 Example
+#####
 ### 3.4 Isomap
 ### 3.5 UMAP
 ## 4 Predictive Modelling and Generalisation
