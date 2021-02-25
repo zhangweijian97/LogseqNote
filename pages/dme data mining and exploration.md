@@ -285,7 +285,7 @@ $$
 $$
 ######
 $$\hat\boldsymbol{\Sigma}=\frac{1}{n}\boldsymbol{X}\boldsymbol{X}^\top$$
-##### 最大化上式，解得 公式 2.85
+##### 最大化上式，解得 公式 2.85 和 公式 2.86
 ######
 $$
 \boldsymbol{W}_{\mathrm{ML}}=\boldsymbol{U}_{k}\left(\boldsymbol{\Lambda}_{k}-\sigma^{2} \boldsymbol{I}\right)^{1 / 2} \boldsymbol{R}
