@@ -283,6 +283,7 @@ $$
 & \stackrel{(2.79)}{=}-\frac{n}{2}\left[d \log (2 \pi)+\log (|\operatorname{det}(\boldsymbol{\Sigma})|)+\operatorname{trace}\left(\boldsymbol{\Sigma}^{-1} \hat{\boldsymbol{\Sigma}}\right)\right]
 \end{aligned}
 $$
+#####
 ##### 最大化上式，解得 公式 2.85
 ######
 $$
