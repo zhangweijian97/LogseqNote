@@ -489,7 +489,7 @@ $$
 \underset{h}{\operatorname{minimise}} & \mathcal{J}(h) 
 \end{array}
 $$
-######
+#####
 #### 4.1.2 Training Loss
 #### 4.1.3 Example
 ### 4.2 Generalisation Performance
