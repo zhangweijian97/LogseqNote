@@ -171,7 +171,7 @@ $$0 < \eta \leq 1$$
 :PROPERTIES:
 :id: 6033f4e0-afdc-4f7b-8097-f76d3ee3dd20
 :END:
-##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222181532.png){:height 189, :width 286}
+##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222181532.png){:height 183, :width 286}
 #####
 $$
 \begin{aligned}
