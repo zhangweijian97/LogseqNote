@@ -503,6 +503,9 @@ $$
 ##### 上面的损失函数 $$\mathcal{L}$$ 也算不了，用一个 proxy loss function 代理损失函数 $$L$$  替代
 ##### training loss 训练损失 公式 4.6
 ######
+$$
+\mathcal{J}(h)\approx \cfrac{1}{n} \sum_{i=1}^n\mathcal{L}(h(\boldsymbol{x}_i), y_i)
+$$
 #### 4.1.3 Example
 ### 4.2 Generalisation Performance
 #### 4.2.1 Generalisation for Prediction Functions and Algorithms
