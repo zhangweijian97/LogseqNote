@@ -438,7 +438,7 @@ $$
 #### 就是把classical MDS的距离用geodesic距离表示
 #### 用m-nearest neighbours算法计算距离
 ### 3.5 UMAP
-#### 类似Isomap，分割加权图 公式3.37
+#### 类似Isomap，分割加权图，权重的计算公式 公式3.37
 #####
 $$
 w_{i}^{(\boldsymbol{Y})}\left(\boldsymbol{y}_{i}, \boldsymbol{y}_{j}\right)=\exp \left(-\frac{\left\|\boldsymbol{y}_{i}-\boldsymbol{y}_{j}\right\|-\rho_{i}}{\sigma_{i}}\right)
