@@ -616,6 +616,10 @@ $$
 ####### where
 ######## {{embed ((6037159d-bc32-4e58-aed3-830849834ac1))}}
 ####### 得到最优超参数组 $$\hat\boldsymbol{\lambda}$$
+########
+$$
+\hat{\boldsymbol{\lambda}}=\underset{\boldsymbol{\lambda}}{\operatorname{argmin}} \mathrm{PL}(\boldsymbol{\lambda})
+$$
 ######
 ##### Cross-validation and Hold-out
 ######
