@@ -516,6 +516,7 @@ $$
 $$J_{\boldsymbol{\lambda}}^*=\min_{\boldsymbol{\theta}}J_{\boldsymbol{\lambda}}(\boldsymbol{\theta})$$
 ##### 不能选产生最小训练损失的超参数，因为过拟合训练集，没有足够的泛化性能
 #### 4.1.3 Example
+##### 略
 ### 4.2 Generalisation Performance
 #### 4.2.1 Generalisation for Prediction Functions and Algorithms
 #### 4.2.2 Overfitting and Underfitting
