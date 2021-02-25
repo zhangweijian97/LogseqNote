@@ -482,7 +482,8 @@ $$
 $$
 \mathcal{J}(h)=\mathbb{E}_{\hat{y}, y}[\mathcal{L}(\hat{y}, y)]=\mathbb{E}_{\boldsymbol{x}, y}[\mathcal{L}(h(\boldsymbol{x}), y)]
 $$
-#####
+##### 模型的优化问题 公式 4.2
+######
 #### 4.1.2 Training Loss
 #### 4.1.3 Example
 ### 4.2 Generalisation Performance
