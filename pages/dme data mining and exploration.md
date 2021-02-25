@@ -458,6 +458,11 @@ C\left(\boldsymbol{W}^{(\tilde{\boldsymbol{X}})}, \boldsymbol{W}^{(M)}\right)=\s
 $$
 #### 优化函数
 #####
+$$
+\begin{array}{ll}
+\underset{M}{\operatorname{minimise}} & \left\|\left(-\frac{1}{2} \boldsymbol{C}_{n} \boldsymbol{\Delta} \boldsymbol{C}_{n}\right)-\boldsymbol{M}^{\top} \boldsymbol{M}\right\|_{F} 
+\end{array}
+$$
 ## 4 Predictive Modelling and Generalisation
 ### 4.1 Prediction and Training Loss
 #### 4.1.1 Prediction Loss
