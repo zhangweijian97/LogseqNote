@@ -408,7 +408,13 @@ $$
 w_{i j}=1 / \delta_{i j}
 $$
 #### 3.3.2 Nonmetric MDS
-##### 不相似矩阵未知，但是rank已知
+##### 不相似矩阵未知，但是rank函数已知
+##### 优化问题 公式3.33
+######
+$$
+\underset{z_{1}, \ldots, z_{n}, f}{\operatorname{minimise}} \sum_{i<i} w_{i j}\left(\left\|z_{i}-z_{j}\right\|-f\left(\delta_{i j}\right)\right)^{2}
+$$
+#####
 #### 3.3.3 Classical MDS
 #### 3.3.4 Example
 ### 3.4 Isomap
