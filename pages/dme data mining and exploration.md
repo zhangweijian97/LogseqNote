@@ -567,6 +567,9 @@ $$
 ###### Divide $$\mathcal{D}$$ into training set $$\mathcal{D}^{\text{train}}$$ and test or validation set $$\tilde\mathcal{D}$$ (也可以写作 $$\mathcal{D}^{\text{val}}$$ )
 ###### estimate the prediction loss 公式 4.31
 #######
+:PROPERTIES:
+:id: 6037159d-bc32-4e58-aed3-830849834ac1
+:END:
 $$
 \hat{\mathcal{J}}(\hat{h} ; \tilde{\mathcal{D}})=\frac{1}{\tilde{n}} \sum_{i=1}^{\tilde{n}} \mathcal{L}\left(\hat{h}\left(\tilde{\boldsymbol{x}}_{i}\right), \tilde{y}_{i}\right)
 $$
