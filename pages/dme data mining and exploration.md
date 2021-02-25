@@ -482,7 +482,7 @@ $$
 $$
 \mathcal{J}(h)=\mathbb{E}_{\hat{y}, y}[\mathcal{L}(\hat{y}, y)]=\mathbb{E}_{\boldsymbol{x}, y}[\mathcal{L}(h(\boldsymbol{x}), y)]
 $$
-##### 模型的优化问题 公式 4.2
+##### 模型的优化问题是最小化期望损失 公式 4.2
 ######
 $$
 \begin{array}{ll}
