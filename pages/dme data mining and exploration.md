@@ -573,6 +573,10 @@ $$
 ##### Cross-validation
 ###### Divide $$\mathcal{D}$$  into $K$ subsets $$\mathcal{D}_1,\cdots,\mathcal{D}_K$$
 ######
+$$
+\mathcal{D}_{k}^{\text {train }}=\bigcup_{i \neq k} \mathcal{D}_{i}, \quad \mathcal{D}_{k}^{\text {val }}=\mathcal{D}_{k},
+$$
+######
 #### 4.3.2 Hyperparameter Selection and Performance Evaluation
 ### 4.4 Loss Functions in Predictive Modelling
 #### 4.4.1 Loss Functions in Regression
