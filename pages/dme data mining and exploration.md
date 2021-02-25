@@ -290,7 +290,7 @@ $$\hat\boldsymbol{\Sigma}=\frac{1}{n}\boldsymbol{X}\boldsymbol{X}^\top$$
 $$
 \boldsymbol{W}_{\mathrm{ML}}=\boldsymbol{U}_{k}\left(\boldsymbol{\Lambda}_{k}-\sigma^{2} \boldsymbol{I}\right)^{1 / 2} \boldsymbol{R}
 $$
-#####
+##### 对
 #### 2.4.4 Relation to PCA
 ## 3 Dimensionality Reduction
 ### 3.1 Linear Dimensionality Reduction
