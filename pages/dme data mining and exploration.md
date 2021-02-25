@@ -504,7 +504,7 @@ $$
 ##### training loss 训练损失 公式 4.6
 ######
 $$
-J_{\boldsymbol{\lambda}}(h)= \cfrac{1}{n} \sum_{i=1}^n L(h_{\boldsymbol{\lambda}}(\boldsymbol{x}_i), y_i)
+J_{\boldsymbol{\lambda}}(h)= \cfrac{1}{n} \sum_{i=1}^n L(h_{\boldsymbol{\lambda}}(\boldsymbol{x}_i;\boldsymbol{\theta}), y_i)
 $$
 ######
 #### 4.1.3 Example
