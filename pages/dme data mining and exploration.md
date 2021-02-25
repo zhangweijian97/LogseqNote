@@ -307,6 +307,7 @@ $$
 ###### 公式2.87是 p(z|x) 的协方差
 ###### 公式2.90是 p(z|x) 的均值
 ###### 公式2.91是 p(z|x) 的分布，可以用x来计算z
+##### 上面的方法需要知道W
 #####
 ## 3 Dimensionality Reduction
 ### 3.1 Linear Dimensionality Reduction
