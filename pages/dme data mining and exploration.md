@@ -625,6 +625,17 @@ L(K, 1) & L(K, 2) & \cdots & L(K, K)
 \end{array}\right)
 $$
 ##### misclassiﬁcation or error rate
+######
+$$
+\begin{aligned}
+\mathcal{J}(h) &=\mathbb{E}_{\boldsymbol{x}, y} L(h(\boldsymbol{x}), y) \\
+&=\mathbb{E}_{\hat{y}, y} L(\hat{y}, y) \\
+&=\sum_{i, j} L(i, j) p(i, j) \\
+&=\sum_{i \neq j} p(i, j) \\
+&=\mathbb{P}(y \neq \hat{y})
+\end{aligned}
+$$
+#####
 ## [[DME past paper]]
 ## Reference
 ### DME lecture notes
