@@ -557,6 +557,7 @@ $$
 ###### $\lambda_{\mathrm{reg}}$ 正则化的强度（系数）
 #### 4.2.3 Example
 ##### 预测损失和训练损失不同，正如前面所说
+###### {{embed ((6037059e-7f8b-4e5f-99c7-3d4a1e3c591c))}}
 #####
 ### 4.3 Estimating the Generalisation Performance
 #### 4.3.1 Methods for Estimating the Generalisation Performance
