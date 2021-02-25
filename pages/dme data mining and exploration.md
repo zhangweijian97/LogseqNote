@@ -368,6 +368,7 @@ $$\boldsymbol{G} = \boldsymbol{C}_n\tilde\boldsymbol{G}\boldsymbol{C}_n$$
 $$\boldsymbol{G} = -\cfrac{1}{2} \boldsymbol{C}_n\boldsymbol{\Delta}\boldsymbol{C}_n$$
 ##### 重复前面
 #### 3.1.4 Example
+##### 无公式，跳过
 ### 3.2 Dimensionality Reduction by Kernel PCA
 #### 3.2.1 Idea ..
 #### 3.2.2 Kernel Trick
