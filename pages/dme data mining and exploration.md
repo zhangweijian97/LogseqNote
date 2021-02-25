@@ -519,7 +519,8 @@ $$J_{\boldsymbol{\lambda}}^*=\min_{\boldsymbol{\theta}}J_{\boldsymbol{\lambda}}(
 ##### 做题推导可以参考这里
 ### 4.2 Generalisation Performance
 #### 4.2.1 Generalisation for Prediction Functions and Algorithms
-##### 说一个模型具有好的泛化性能，就是说对于最优预测函数 $\hat{h}_{\boldsymbol{\lambda}}$ ，它的预测损失
+##### 说一个模型具有好的泛化性能，就是说对于最优预测函数 $\hat{h}_{\boldsymbol{\lambda}}$ ，它的预测损失 $\mathcal{J}(h)$ 很小 公式 4.21
+######
 #### 4.2.2 Overfitting and Underfitting
 #### 4.2.3 Example
 ### 4.3 Estimating the Generalisation Performance
