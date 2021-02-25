@@ -475,7 +475,8 @@ $$
 ##### 理想目标，得到 条件概率分布 $$p(y|\boldsymbol{x})$$
 ##### 但理想是丰满的，现实是骨感的
 ##### 只能寻找到一个预测函数 $$h(\boldsymbol{x})$$
-##### 预测函数的输出是我们对目标 $$y$$ 的估计 $$\hat y=$$
+##### 预测函数的输出是我们对目标 $$y$$ 的估计 $$\hat y=h(\boldsymbol{x})$$
+#####
 #### 4.1.2 Training Loss
 #### 4.1.3 Example
 ### 4.2 Generalisation Performance
