@@ -242,17 +242,17 @@ $$
 #######
 $$
 \mathbb{E}\left[\left(\begin{array}{l}
-z \\
-x
+\boldsymbol{z} \\
+\boldsymbol{x}
 \end{array}\right)\right]=\left(\begin{array}{cc}
-I & W^{\top} \\
-W & \sigma^{2} I+W W^{\top}
+\boldsymbol{I} & \boldsymbol{W}^{\top} \\
+\boldsymbol{W} & \sigma^{2} \boldsymbol{I}+\boldsymbol{W} \boldsymbol{W}^{\top}
 \end{array}\right)\left(\begin{array}{c}
--W^{\top} \frac{1}{\sigma^{2}} \mu \\
-\frac{1}{\sigma^{2}} \mu
-\end{array}\right)=\left(\begin{array}{c}
-0 \\
-\mu
+-\boldsymbol{W}^{\top} \frac{1}{\sigma^{2}} \boldsymbol{\mu} \\
+\frac{1}{\sigma^{2}} \boldsymbol{\mu}
+\end{array}\right)=\left(\begin{array}{l}
+\mathbf{0} \\
+\boldsymbol{\mu}
 \end{array}\right)
 $$
 ##### 边缘概率分布 公式 2.71
