@@ -501,7 +501,8 @@ $$
 ###### $\boldsymbol{\theta}$ 是函数内参数
 ###### $\boldsymbol{\lambda}$ 是超参数
 ##### 上面的损失函数 $$\mathcal{L}$$ 也算不了，用一个 proxy loss function 代理损失函数 $$L$$  替代
-#####
+##### training loss 训练损失 公式 4.6
+######
 #### 4.1.3 Example
 ### 4.2 Generalisation Performance
 #### 4.2.1 Generalisation for Prediction Functions and Algorithms
