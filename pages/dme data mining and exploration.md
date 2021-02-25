@@ -639,7 +639,7 @@ $$
 ###### 1同上
 ###### 2. k-fold 分割 得到k个Dtrain和k个Dval
 ###### 3同上，在k个Dtrain上，算出k个最优预测函数（后面平均）
-###### 4计算cv score
+###### 4计算cv score，目标最小化，求得最优参数数组 公式 4.46
 #######
 $$
 \operatorname{EPL}(\boldsymbol{\lambda})=\mathrm{CV}=\hat{\mathcal{J}}\left(\mathcal{A}_{\lambda}\right)
