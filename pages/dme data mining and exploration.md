@@ -525,7 +525,7 @@ $$
 \mathcal{J}(\hat h)=\mathbb{E}_{\boldsymbol{x}, y}[\mathcal{L}(\hat h(\boldsymbol{x}), y)]]
 $$
 ##### 预测损失 $\mathcal{J}(\hat h)$ 又称作泛化损失 generalisation loss 或 测试损失 test loss
-##### 但上面这玩意儿也是不能算的，因为
+##### 但上面这玩意儿也是不能算的，因为并不知道数据的真实分布
 #####
 #### 4.2.2 Overfitting and Underfitting
 #### 4.2.3 Example
