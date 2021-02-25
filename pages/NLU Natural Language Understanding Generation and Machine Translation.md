@@ -1,5 +1,7 @@
 ---
 title: NLU Natural Language Understanding Generation and Machine Translation
+published: true
+permalink: nlu%20natural%20language%20understanding%20generation%20and%20machine%20translation
 ---
 
 ## #UoE
