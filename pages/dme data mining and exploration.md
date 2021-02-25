@@ -582,7 +582,7 @@ $$
 $$
 \hat{h}_k=\mathcal{A}\left(\mathcal{D}_k^{\text {train }}\right)
 $$
-###### 计算泛化性能 公式 4.34
+###### 计算泛化性能 公式 4.34 公式 4.36
 #######
 $$\hat{\mathcal{J}}_k = \hat{\mathcal{J}}(\hat{h}_k ; \mathcal{D}_k^{\text{val}}) = \hat{\mathcal{J}}(\mathcal{A}\left(\mathcal{D}_k^{\text {train }}\right) ; \mathcal{D}_k^{\text{val}}) $$
 ###### 计算 CV score 公式 4.35 公式 4.37
