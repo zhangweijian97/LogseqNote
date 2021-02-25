@@ -327,7 +327,7 @@ $$
 ##### 计算scores
 ##### 公式略
 #### 3.1.2 From Inner Products
-##### 已知G
+##### 已知未中心化的 $\tilde\boldsymbol{G}$
 #### 3.1.3 From Distances
 #### 3.1.4 Example
 ### 3.2 Dimensionality Reduction by Kernel PCA
