@@ -615,7 +615,7 @@ $$
 $$
 ####### where
 ######## {{embed ((6037159d-bc32-4e58-aed3-830849834ac1))}}
-######
+#######
 ##### Cross-validation and Hold-out
 ######
 ### 4.4 Loss Functions in Predictive Modelling
