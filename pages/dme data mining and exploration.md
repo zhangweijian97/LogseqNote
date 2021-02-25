@@ -644,7 +644,7 @@ $$
 $$
 \operatorname{EPL}(\boldsymbol{\lambda})=\mathrm{CV}=\hat{\mathcal{J}}\left(\mathcal{A}_{\lambda}\right)
 $$
-###### 5同上
+###### 5同上，即用除了Dtest之外的数据计算
 ###### 6同上
 ###### 7同上
 ### 4.4 Loss Functions in Predictive Modelling
