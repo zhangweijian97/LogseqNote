@@ -613,7 +613,8 @@ $$
 $$
 \mathrm{PL}(\boldsymbol{\lambda})=\hat{\mathcal{J}}\left(\hat{h}_{\boldsymbol{\lambda}} ; \mathcal{D}^{\mathrm{val}}\right)
 $$
-####### {{embed ((6037159d-bc32-4e58-aed3-830849834ac1))}}
+####### where
+######## {{embed ((6037159d-bc32-4e58-aed3-830849834ac1))}}
 ######
 ##### Cross-validation and Hold-out
 ######
