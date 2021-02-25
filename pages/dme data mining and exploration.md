@@ -396,7 +396,7 @@ $$
 ##### 略
 ### 3.3 Multidimensional Scaling
 #### 3.3.1 Metric MDS
-##### 优化问题
+##### 优化问题 公式3.31
 ######
 $$
 \operatorname{minimise}_{z_{1}, \ldots, z_{n}} \sum_{i<j} w_{i j}\left(\left\|z_{i}-z_{j}\right\|-\delta_{i j}\right)^{2}
