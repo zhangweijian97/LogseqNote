@@ -547,6 +547,10 @@ $$
 #### 4.2.2 Overfitting and Underfitting
 ##### 修改 公式 4.7 的优化目标，加一个正则项，解决过拟合和欠拟合的问题 公式4.26
 ######
+$$
+\underset{\boldsymbol{\theta}}{\operatorname{minimise}} J_{\boldsymbol{\lambda}}(\boldsymbol{\theta})+\lambda_{\mathrm{reg}} R(\boldsymbol{\theta})
+$$
+#####
 #### 4.2.3 Example
 ### 4.3 Estimating the Generalisation Performance
 #### 4.3.1 Methods for Estimating the Generalisation Performance
