@@ -630,7 +630,11 @@ $$
 $$
 \hat{\mathcal{J}}=\hat{\mathcal{J}}\left(\hat{h} ; \mathcal{D}^{\text {test }}\right)
 $$
-###### 7. 合并所有数据集，重新优化一次得到
+###### 7. 合并所有数据集，重新优化一次得到预测函数
+#######
+$$
+\hat{h}(\boldsymbol{x})=\mathcal{A}_{\hat{\boldsymbol{\lambda}}}(\mathcal{D})
+$$
 ##### Cross-validation and Hold-out
 ######
 ### 4.4 Loss Functions in Predictive Modelling
