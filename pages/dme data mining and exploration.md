@@ -312,6 +312,7 @@ $$
 ###### 公式2.91是 p(z|x) 的分布，可以用x来计算z
 ##### 上面的方法需要知道W
 ##### PCA 计算 x 的投影
+###### {{embed ((6036bb2f-90a3-4763-8761-b3f704307e42))}}
 ######
 ## 3 Dimensionality Reduction
 ### 3.1 Linear Dimensionality Reduction
