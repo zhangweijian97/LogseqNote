@@ -391,6 +391,10 @@ classes
 #### 复习
 ##### {{embed ((603454d6-c59f-4b54-b1c0-ae31e4fa5334))}}
 ##### {{embed ((603455ce-8391-481e-b4a6-cf0964921958))}}
+#### RNN 的问题
+##### the hidden representation is a bottleneck: it has to represent a sentence of any length, but its size is fixed;
+##### RNNs and their variants suffer from vanishing gradients; the encoder representation also has a recency bias: mostly represents final words of the input;
+ target words whose corresponding source words are at the beginning therefore more difficult to generate correctly.
 #### self-attention
 ##### input $$\boldsymbol{x}_{1}, \ldots, \boldsymbol{x}_{t}$$
 ##### output $$\boldsymbol{y}_{1}, \ldots, \boldsymbol{y}_{t}$$
