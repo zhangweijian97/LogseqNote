@@ -213,7 +213,7 @@ $$\boldsymbol{x} = \boldsymbol{W}\boldsymbol{z}+\boldsymbol{\mu}+\boldsymbol{\ep
 ###### W, $d \times k$
 ###### $\mu$, $d$-dimension
 ###### $\epsilon$, $d$-dimension zero-mean Gaussian-distributed noise **variable**
-####
+#### 2.4.2 Joint, Conditional and Observation Distributions
 ##### 条件概率分布 公式2.61
 ######
 $$
@@ -261,7 +261,7 @@ $$
 p(\boldsymbol{x})=\mathcal{N}\left(\boldsymbol{x} \mid \boldsymbol{\mu}, \boldsymbol{W} \boldsymbol{W}^{\top}+\sigma^{2} \boldsymbol{I}\right)
 $$
 #####
-#### 2.4.2 Joint, Conditional and Observation Distributions
+####
 #### 2.4.3 Maximum Likelihood
 #### 2.4.4 Relation to PCA
 ## 3 Dimensionality Reduction
