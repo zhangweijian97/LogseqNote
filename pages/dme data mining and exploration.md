@@ -501,7 +501,7 @@ $$
 ###### $\boldsymbol{\theta}$ 是函数内参数
 ###### $\boldsymbol{\lambda}$ 是超参数
 ##### 上面的损失函数 $$\mathcal{L}$$ 也算不了，用一个 proxy loss function 代理损失函数 $$L$$  替代
-##### training loss 训练损失 $$J_{\boldsymbol{\lambda}}(h)$$，是预测损失的代理 公式 4.6
+##### training loss 训练损失 $$J_{\boldsymbol{\lambda}}(h)$$，是预测损失 $\mathcal{J}(h)$ 的代理 公式 4.6
 ######
 $$
 J_{\boldsymbol{\lambda}}(h)= \cfrac{1}{n} \sum_{i=1}^n L(h_{\boldsymbol{\lambda}}(\boldsymbol{x}_i;\boldsymbol{\theta}), y_i)
