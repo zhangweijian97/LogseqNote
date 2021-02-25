@@ -460,7 +460,7 @@ $$
 #####
 $$
 \begin{array}{ll}
-\underset{M}{\operatorname{minimise}} & C 
+\underset{M}{\operatorname{minimise}} & C\left(\boldsymbol{W}^{(\tilde{\boldsymbol{X}})}, \boldsymbol{W}^{(M)}\right) 
 \end{array}
 $$
 ## 4 Predictive Modelling and Generalisation
