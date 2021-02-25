@@ -70,9 +70,9 @@ $$
 $$
 \boldsymbol{C}_{n}=\boldsymbol{I}_{n}-\frac{1}{n} \mathbf{1}_{n} \mathbf{1}_{n}^{\top}
 $$
-###### 左列右行
 ######
 $$\boldsymbol{X}=\tilde\boldsymbol{X}\boldsymbol{C}_n$$
+###### 左列右行
 ##### sample covarice matrix with certring matrix，1.66
 ######
 $$\boldsymbol{\Sigma}=\frac{1}{n}\boldsymbol{X}\boldsymbol{C}_n\boldsymbol{X}^\top$$
