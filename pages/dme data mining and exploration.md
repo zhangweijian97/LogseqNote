@@ -443,6 +443,7 @@ $$
 $$
 w_{i}^{(\boldsymbol{Y})}\left(\boldsymbol{y}_{i}, \boldsymbol{y}_{j}\right)=\exp \left(-\frac{\left\|\boldsymbol{y}_{i}-\boldsymbol{y}_{j}\right\|-\rho_{i}}{\sigma_{i}}\right)
 $$
+#####
 ## 4 Predictive Modelling and Generalisation
 ### 4.1 Prediction and Training Loss
 #### 4.1.1 Prediction Loss
@@ -458,8 +459,6 @@ $$
 ### 4.4 Loss Functions in Predictive Modelling
 #### 4.4.1 Loss Functions in Regression
 #### 4.4.2 Loss Functions in Classification
-##
-##
 ## [[DME past paper]]
 ##
 ## Reference
