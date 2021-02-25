@@ -460,7 +460,7 @@ $$
 #####
 $$
 \begin{array}{ll}
-\underset{M}{\operatorname{minimise}} & \left\|\left(-\frac{1}{2} \boldsymbol{C}_{n} \boldsymbol{\Delta} \boldsymbol{C}_{n}\right)-\boldsymbol{M}^{\top} \boldsymbol{M}\right\|_{F} 
+\underset{M}{\operatorname{minimise}} & C 
 \end{array}
 $$
 ## 4 Predictive Modelling and Generalisation
