@@ -615,6 +615,15 @@ L(\hat{y}, y) & =\left\{\begin{array}{ll}
 $$
 #### 4.4.2 Loss Functions in Classification
 ##### 损失矩阵 公式 4.53
+######
+$$
+\boldsymbol{L}=\left(\begin{array}{cccc}
+L(1,1) & L(1,2) & \cdots & L(1, K) \\
+L(2,1) & L(2,2) & \cdots & L(2, K) \\
+\vdots & \vdots & & \vdots \\
+L(K, 1) & L(K, 2) & \cdots & L(K, K)
+\end{array}\right)
+$$
 #####
 ## [[DME past paper]]
 ## Reference
