@@ -476,7 +476,8 @@ $$
 ##### 但理想是丰满的，现实是骨感的
 ##### 只能寻找到一个预测函数 $$h(\boldsymbol{x})$$
 ##### 预测函数的输出是我们对目标 $$y$$ 的估计 $$\hat y=h(\boldsymbol{x})$$
-##### 目标的真实值和我们的预测值之间存在一个损失loss $$\mathscr{L}$$
+##### 目标的真实值和我们的预测值之间存在一个损失loss $$\mathcal{L}$$
+#####
 #####
 $$
 \mathcal{J}(h)=\mathbb{E}_{\hat{y}, y}[\mathcal{L}(\hat{y}, y)]=\mathbb{E}_{\boldsymbol{x}, y}[\mathcal{L}(h(\boldsymbol{x}), y)]
