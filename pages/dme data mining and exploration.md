@@ -32,6 +32,9 @@ title: DME Data Mining and Exploration
 :END:
 $$\boldsymbol{\Sigma}=\frac{1}{n}\boldsymbol{X}\boldsymbol{X}^\top$$
 ###### eigenvalue decomposition
+:PROPERTIES:
+:id: 603648e7-1114-436c-8b9e-258da79f3fc9
+:END:
 #######
 $$\operatorname{Cov}[\boldsymbol{x}]  = \boldsymbol{\Sigma} = \boldsymbol{U}\boldsymbol{\Lambda} \boldsymbol{U}^\top$$
 ###### trace, 1.43
