@@ -536,7 +536,7 @@ $$
 ##### 可以得到期望预测损失 expeted prediction loss $\bar \mathcal{J}$ 写作 公式 4.23
 ######
 $$
-\overline{\mathcal{J}}(\mathcal{A})=\mathbb{E}_{\mathcal{D}^{\text {train }}}[\mathcal{J}(\hat{h})]=\mathbb{E}_{\mathcal{D}^{\text {train }}}\left[\mathcal{J}\left(\mathcal{A}\left(\mathcal{D}^{\text {train }}\right)\right)\right]
+\bar{\mathcal{J}}(\mathcal{A})=\mathbb{E}_{\mathcal{D}^{\text {train }}}[\mathcal{J}(\hat{h})]=\mathbb{E}_{\mathcal{D}^{\text {train }}}\left[\mathcal{J}\left(\mathcal{A}\left(\mathcal{D}^{\text {train }}\right)\right)\right]
 $$
 #####
 #### 4.2.2 Overfitting and Underfitting
