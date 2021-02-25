@@ -273,7 +273,8 @@ with $\boldsymbol{\mu}=\mathbf{0}$ and
 $$
 \boldsymbol{\Sigma}=\boldsymbol{W} \boldsymbol{W}^{\top}+\sigma^{2} \boldsymbol{I}
 $$
-#####
+##### 利用公式2.78 到 2.80，继续推导上式
+######
 #### 2.4.4 Relation to PCA
 ## 3 Dimensionality Reduction
 ### 3.1 Linear Dimensionality Reduction
