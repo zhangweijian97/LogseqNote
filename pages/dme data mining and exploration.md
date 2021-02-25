@@ -134,20 +134,20 @@ $$\sum_{m=1}^k\lambda_m$$
 $$\cfrac{\sum_{m=1}^k\lambda_m}{\sum_{m=1}^d\lambda_m}$$
 ###### 2.1.3 Simultaneous Variance Maximisation
 ####### 公式 2.27
-##### 2.2 PCA by Minimisation of Approximation Error
-###### 下面的W也是U
-###### Projection Matrix，公式2.28
-#######
+#### 2.2 PCA by Minimisation of Approximation Error
+##### 下面的W也是U
+##### Projection Matrix，公式2.28
+######
 $$
 \boldsymbol{P}=\sum_{i=1}^{k} \boldsymbol{w}_{i} \boldsymbol{w}_{i}^{\top}=\boldsymbol{W}_{k} \boldsymbol{W}_{k}^{\top}, \quad \boldsymbol{W}_{k}=\left(\boldsymbol{w}_{1}, \ldots, \boldsymbol{w}_{k}\right)
 $$
-###### 投影的x 公式2.30，$\hat x = Px = \sum_{i=1}^{k} \boldsymbol{w}_{i} \boldsymbol{w}_{i}^{\top}x =\boldsymbol{W}_{k} \boldsymbol{W}_{k}^{\top}x = \sum_{i=1}^k\boldsymbol{w}_{i}z_i$
+##### 投影的x 公式2.30，$\hat x = Px = \sum_{i=1}^{k} \boldsymbol{w}_{i} \boldsymbol{w}_{i}^{\top}x =\boldsymbol{W}_{k} \boldsymbol{W}_{k}^{\top}x = \sum_{i=1}^k\boldsymbol{w}_{i}z_i$
 :PROPERTIES:
 :id: 6036bb2f-90a3-4763-8761-b3f704307e42
 :END:
-###### 优化问题，公式2.29
-###### smallest expected approximation error，公式2.36
-#######
+##### 优化问题，公式2.29
+##### smallest expected approximation error，公式2.36
+######
 $$\sum_{i=k+1}^d\lambda_i$$
 ##### 2.3 PCA by Low Rank Matrix Approximation
 ###### 2.3.1 Approximating the Data Matrix
