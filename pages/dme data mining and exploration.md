@@ -516,11 +516,14 @@ $$
 :id: 60370999-8dd7-4c7d-b72c-f935dcfe772e
 :END:
 $$
-\hat{h}_{\boldsymbol{\lambda}}(\boldsymbol{x})=h_{\boldsymbol{\lambda}}\left(\boldsymbol{x} ; \hat{\boldsymbol{\theta}}_{\boldsymbol{\lambda}}\right), \quad \hat{\boldsymbol{\theta}}_{\boldsymbol{\lambda}}=\underset{\boldsymbol{\theta}}{\operatorname{argmin}} J_{\boldsymbol{\lambda}}(\boldsymbol{\theta})
-$$
-###### 把上面的最优参数代回去，得到最小训练损失minimal training loss 公式 4.8
-#######
-$$J_{\boldsymbol{\lambda}}^*=\min_{\boldsymbol{\theta}}J_{\boldsymbol{\lambda}}(\boldsymbol{\theta})$$
+\hat{h}_{\boldsymbol{\lambda}}(\boldsymbol{x})=h_{\boldsymbol{\lambda}}\left(\boldsymbol{x} ; \hat{\boldsymbol{\theta}}_{\boldsymbol{\lambda}}\right), \quad \hat{\boldsymbol{\theta}}_{\boldsymbol{\lambda}}=\underset{\boldsymbol{\theta}}{\operatorname{a
+##### 投影的x 公式2.30，
+:PROPERTIES:
+:id: 6036bb2f-90a3-4763-8761-b3f704307e42
+:END:
+######
+$$\hat x = Px = \sum_{i=1}^{k} \boldsymbol{w}_{i} \boldsymbol{w}_{i}^{\top}x =\boldsymbol{W}_{k} \boldsymbol{W}_{k}^{\top}x = \sum_{i=1}^k\boldsymbol{w}_{i}z_i$$
+ymbol{\theta})$$
 ###### 不能选产生最小训练损失的超参数，因为过拟合训练集，没有足够的泛化性能
 ##### 4.1.3 Example
 ###### 做题推导可以参考这里
