@@ -608,7 +608,7 @@ $$
 $$
 \hat{h}_{\boldsymbol{\lambda}}=\mathcal{A}_{\boldsymbol{\lambda}}\left(\mathcal{D}_k^{\text {train }}\right)
 $$
-###### 用Dval评估，求预测损失
+###### 4. 用Dval评估，求预测损失
 #######
 $$
 \mathrm{PL}(\boldsymbol{\lambda})=\hat{\mathcal{J}}\left(\hat{h}_{\boldsymbol{\lambda}} ; \mathcal{D}^{\mathrm{val}}\right)
@@ -620,7 +620,7 @@ $$
 $$
 \hat{\boldsymbol{\lambda}}=\underset{\boldsymbol{\lambda}}{\operatorname{argmin}} \mathrm{PL}(\boldsymbol{\lambda})
 $$
-###### 合并Dtrain和Dval，重新优化一次得到新的 $$\boldsymbol{\theta}$$
+###### 5. 合并Dtrain和Dval，重新优化一次得到新的 $$\boldsymbol{\theta}$$
 #######
 $$
 \hat{h}=\mathcal{A}_{\hat{\lambda}}\left(\mathcal{D}^{\text {train }} \cup \mathcal{D}^{\mathrm{val}}\right)
