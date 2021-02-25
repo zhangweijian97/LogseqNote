@@ -551,7 +551,6 @@ $$
 ###### ELMo 不为fine tuning设计
 ###### BERT 双向，fine tuning
 6, 340M parameters.
-###### Ber
 ###### multi-layer bidirectional transformer (Vaswani et al. 2017);
 ###### L: layers (transformer blocks);
 ###### H: dimensionality of hidden layer,
