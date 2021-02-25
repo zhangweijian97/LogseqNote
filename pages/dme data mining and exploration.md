@@ -225,37 +225,37 @@ $$
 \boldsymbol{Z}=\sqrt{\tilde{\boldsymbol{\Lambda}}_{k}} \boldsymbol{V}_{k}^{\top}
 $$
 ####### k $\times$ n matrix
-##### 2.4 Probabilistic PCA
-###### 2.4.1 Probabilistic Model
-####### 随机变量 $\boldsymbol{z}$ 统计独立，标准正太分布 2.58
-########
+#### 2.4 Probabilistic PCA
+##### 2.4.1 Probabilistic Model
+###### 随机变量 $\boldsymbol{z}$ 统计独立，标准正太分布 2.58
+#######
 $$
 p(\boldsymbol{z})=\mathcal{N}(\boldsymbol{z} \mid \mathbf{0}, \boldsymbol{I})
 $$
-####### 正太分布 2.59
-########
+###### 正太分布 2.59
+#######
 $$
 \mathcal{N}(\boldsymbol{x} \mid \boldsymbol{\mu}, \mathbf{\Sigma})=\frac{1}{\sqrt{(2 \pi)^{d}|\operatorname{det}(\mathbf{\Sigma})|}} \exp \left(-\frac{1}{2}(\boldsymbol{x}-\boldsymbol{\mu})^{\top} \boldsymbol{\Sigma}^{-1}(\boldsymbol{x}-\boldsymbol{\mu})\right)
 $$
-####### 数据 $\boldsymbol{x}$ 2.60
-########
+###### 数据 $\boldsymbol{x}$ 2.60
+#######
 $$\boldsymbol{x} = \boldsymbol{W}\boldsymbol{z}+\boldsymbol{\mu}+\boldsymbol{\epsilon}$$
-######## W, $d \times k$
-######## $\mu$, $d$-dimension
-######## $\epsilon$, $d$-dimension zero-mean Gaussian-distributed noise **variable**
-###### 2.4.2 Joint, Conditional and Observation Distributions
-####### 条件概率分布 公式2.61
-########
+####### W, $d \times k$
+####### $\mu$, $d$-dimension
+####### $\epsilon$, $d$-dimension zero-mean Gaussian-distributed noise **variable**
+##### 2.4.2 Joint, Conditional and Observation Distributions
+###### 条件概率分布 公式2.61
+#######
 $$
 p(\boldsymbol{x}|\boldsymbol{z})=\mathcal{N}(\boldsymbol{x} \mid \boldsymbol{W}\boldsymbol{z}+\boldsymbol{\mu}, \sigma^2\boldsymbol{I})
 $$
-####### 联合概率分布 公式2.62
-########
+###### 联合概率分布 公式2.62
+#######
 $$
 p(\boldsymbol{z}, \boldsymbol{x})=\frac{1}{\text { const }} \exp \left(-\frac{1}{2}\left[(\boldsymbol{x}-\boldsymbol{W} \boldsymbol{z}-\boldsymbol{\mu})^{\top}\left(\frac{1}{\sigma^{2}} \boldsymbol{I}\right)(\boldsymbol{x}-\boldsymbol{W} \boldsymbol{z}-\boldsymbol{\mu})+\boldsymbol{z}^{\top} \boldsymbol{z}\right]\right)
 $$
-######## 协方差矩阵 covariance 公式2.68
-#########
+####### 协方差矩阵 covariance 公式2.68
+########
 $$
 \operatorname{Cov}\left[\left(\begin{array}{l}
 \boldsymbol{z} \\
@@ -268,8 +268,8 @@ $$
 \boldsymbol{W} & \boldsymbol{W} \boldsymbol{W}^{\top}+\sigma^{2} \boldsymbol{I}
 \end{array}\right)
 $$
-######## 平均值 mean 公式2.70
-#########
+####### 平均值 mean 公式2.70
+########
 $$
 \mathbb{E}\left[\left(\begin{array}{l}
 \boldsymbol{z} \\
@@ -285,14 +285,14 @@ $$
 \boldsymbol{\mu}
 \end{array}\right)
 $$
-####### 边缘概率分布 公式 2.71
-########
+###### 边缘概率分布 公式 2.71
+#######
 $$
 p(\boldsymbol{x})=\mathcal{N}\left(\boldsymbol{x} \mid \boldsymbol{\mu}, \boldsymbol{W} \boldsymbol{W}^{\top}+\sigma^{2} \boldsymbol{I}\right)
 $$
-###### 2.4.3 Maximum Likelihood
-####### log-likelihood 公式 2.73 到 2.75
-########
+##### 2.4.3 Maximum Likelihood
+###### log-likelihood 公式 2.73 到 2.75
+#######
 $$
 \begin{aligned}
 \log p\left(\boldsymbol{X} \mid \boldsymbol{W}, \sigma^{2}\right) &=\sum_{i=1}^{n} \log p\left(\boldsymbol{x}_{i} \mid \boldsymbol{\mu}, \boldsymbol{W}, \sigma^{2}\right) \\
@@ -303,8 +303,8 @@ with $\boldsymbol{\mu}=\mathbf{0}$ and
 $$
 \boldsymbol{\Sigma}=\boldsymbol{W} \boldsymbol{W}^{\top}+\sigma^{2} \boldsymbol{I}
 $$
-####### 利用公式2.78 到 2.80，继续推导上式 2.81 到 2.84
-########
+###### 利用公式2.78 到 2.80，继续推导上式 2.81 到 2.84
+#######
 $$
 \begin{aligned}
 \log p\left(\boldsymbol{X} \mid \boldsymbol{W}, \sigma^{2}\right) &=\sum_{i=1}^{n} \log \mathcal{N}\left(\boldsymbol{x}_{i} \mid \mathbf{0}, \boldsymbol{\Sigma}\right) \\
@@ -313,31 +313,31 @@ $$
 & \stackrel{(2.79)}{=}-\frac{n}{2}\left[d \log (2 \pi)+\log (|\operatorname{det}(\boldsymbol{\Sigma})|)+\operatorname{trace}\left(\boldsymbol{\Sigma}^{-1} \hat{\boldsymbol{\Sigma}}\right)\right]
 \end{aligned}
 $$
-########
+#######
 $$\hat\boldsymbol{\Sigma}=\frac{1}{n}\boldsymbol{X}\boldsymbol{X}^\top$$
-####### 最大化上式，解得 公式 2.85 和 公式 2.86
-########
+###### 最大化上式，解得 公式 2.85 和 公式 2.86
+#######
 $$
 \boldsymbol{W}_{\mathrm{ML}}=\boldsymbol{U}_{k}\left(\boldsymbol{\Lambda}_{k}-\sigma^{2} \boldsymbol{I}\right)^{1 / 2} \boldsymbol{R}
 $$
-######### 对$\hat\boldsymbol{\Sigma}$ 求EVD，得到 $\boldsymbol{U}_{k}$ 和 $\boldsymbol{\Lambda}_{k}$
-######### R不唯一，可以取I
-########
+######## 对$\hat\boldsymbol{\Sigma}$ 求EVD，得到 $\boldsymbol{U}_{k}$ 和 $\boldsymbol{\Lambda}_{k}$
+######## R不唯一，可以取I
+#######
 $$
 \sigma_{\mathrm{ML}}^{2}=\frac{1}{d-k} \sum_{i=k+1}^{d} \lambda_{i}
 $$
-######### represents the average lost variance per residual dimension
-###### 2.4.4 Relation to PCA
-####### PCA计算 principal component scores
-######## {{embed ((6036c287-de39-431b-9627-474b3ce79e80))}}
-####### PPCA
-######## 公式2.87是 p(z|x) 的协方差
-######## 公式2.90是 p(z|x) 的均值
-######## 公式2.91是 p(z|x) 的分布，可以用x来计算z
-####### 上面的方法需要知道W
-####### PCA 计算 x 的 projection
-######## {{embed ((6036bb2f-90a3-4763-8761-b3f704307e42))}}
-######## 公式2.93到2.99略，证明了PCA can be seen as a special case of probabilistic PCA when the noise variance σ2 is negligibly small
+######## represents the average lost variance per residual dimension
+##### 2.4.4 Relation to PCA
+###### PCA计算 principal component scores
+####### {{embed ((6036c287-de39-431b-9627-474b3ce79e80))}}
+###### PPCA
+####### 公式2.87是 p(z|x) 的协方差
+####### 公式2.90是 p(z|x) 的均值
+####### 公式2.91是 p(z|x) 的分布，可以用x来计算z
+###### 上面的方法需要知道W
+###### PCA 计算 x 的 projection
+####### {{embed ((6036bb2f-90a3-4763-8761-b3f704307e42))}}
+####### 公式2.93到2.99略，证明了PCA can be seen as a special case of probabilistic PCA when the noise variance σ2 is negligibly small
 ### 3 Dimensionality Reduction
 #### 3.1 Linear Dimensionality Reduction
 ##### 3.1.1 From Data Points
