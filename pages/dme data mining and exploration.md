@@ -659,7 +659,11 @@ $$
 $$
 ###### ROC，TP，FP
 ##### Diﬀerentiable Loss Functions in Classiﬁcation
-######
+###### trick 公式 4.69
+#######
+$$
+\hat{y}(\boldsymbol{x})=\operatorname{sign}(h(\boldsymbol{x}))
+$$
 ## [[DME past paper]]
 ## Reference
 ### DME lecture notes
