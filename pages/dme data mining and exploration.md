@@ -112,7 +112,7 @@ $$\boldsymbol{z}_i^\top = \boldsymbol{w}_i^\top\boldsymbol{X}$$
 $$\boldsymbol{z}_j = \boldsymbol{U}_k^\top\boldsymbol{x}_j$$
 ######
 $$\boldsymbol{Z} = \boldsymbol{U}_k^\top\boldsymbol{X}$$
-####### z 的维度，k $\times$ n
+####### Z 的维度，k $\times$ n
 #### 2.1.2 Subsequent Principal Component Directions，
 ##### 证明主成分是不相关的 The principal components are uncorrelated 2.16到2.22
 ##### m-th principal component direction 2.23
