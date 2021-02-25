@@ -456,7 +456,7 @@ $$
 $$
 C\left(\boldsymbol{W}^{(\tilde{\boldsymbol{X}})}, \boldsymbol{W}^{(M)}\right)=\sum_{i<j} w_{i j}^{(\tilde{\boldsymbol{X}})} \log \left(\frac{w_{i j}^{(\tilde{\boldsymbol{X}})}}{w_{i j}^{(M)}}\right)+\left(1-w_{i j}^{(\tilde{\boldsymbol{X}})}\right) \log \left(\frac{\left(1-w_{i j}^{(\tilde{\boldsymbol{X}})}\right)}{\left(1-w_{i j}^{(\boldsymbol{M})}\right)}\right)
 $$
-####
+#### 优化函数
 ## 4 Predictive Modelling and Generalisation
 ### 4.1 Prediction and Training Loss
 #### 4.1.1 Prediction Loss
