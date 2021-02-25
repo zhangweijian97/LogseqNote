@@ -614,8 +614,9 @@ L(\hat{y}, y) & =\left\{\begin{array}{ll}
 \end{array}
 $$
 #### 4.4.2 Loss Functions in Classification
-##### 损失矩阵 公式 4.53
-######
+##### Non-diﬀerentiable Loss Functions
+###### 损失矩阵 公式 4.53
+#######
 $$
 \boldsymbol{L}=\left(\begin{array}{cccc}
 L(1,1) & L(1,2) & \cdots & L(1, K) \\
