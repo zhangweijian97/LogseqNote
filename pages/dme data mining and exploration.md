@@ -639,6 +639,24 @@ $$
 $$
 ##### loss function that penalises false-positive and false-negative rates
 ######
+$$
+\begin{aligned}
+\mathcal{J}(h) &=\mathbb{E}_{\boldsymbol{x}, y} L(h(\boldsymbol{x}), y) \\
+&=\mathbb{E}_{\hat{y}, y} L(\hat{y}, y) \\
+&=\sum_{i, j} L(i, j) p(i, j) \\
+&=\frac{p(1,-1)}{\mathbb{P}(y=-1)}+\frac{p(-1,1)}{\mathbb{P}(y=1)} \\
+&=\mathbb{P}(\hat{y}=1 \mid y=-1)+\mathbb{P}(\hat{y}=-1 \mid y=1)
+\end{aligned}
+$$
+###### where
+#######
+$$
+\boldsymbol{L}=\left(\begin{array}{cc}
+0 & \frac{1}{\mathbb{P}(y=1)} \\
+\frac{1}{\mathbb{P}(y=-1)} & 0
+\end{array}\right)
+$$
+#####
 ## [[DME past paper]]
 ## Reference
 ### DME lecture notes
