@@ -657,6 +657,7 @@ $$
 \end{array}\right)
 $$
 ##### ROC，TP，FP
+##### Diﬀerentiable Loss Functions in Classiﬁcation
 ## [[DME past paper]]
 ## Reference
 ### DME lecture notes
