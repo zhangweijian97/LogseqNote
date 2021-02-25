@@ -590,6 +590,10 @@ $$\hat{\mathcal{J}}_k = \hat{\mathcal{J}}(\hat{h}_k ; \mathcal{D}_k^{\text{val}}
 $$\text{CV} = \cfrac{1}{K}\sum_{i=1}^K\hat{\mathcal{J}}_k = \cfrac{1}{K}\sum_{i=1}^K \hat{\mathcal{J}}(\mathcal{A}\left(\mathcal{D}_k^{\text {train }}\right) ; \mathcal{D}_k^{\text{val}}) $$
 ###### cv score 是对 期望预测损失 $\bar{\mathcal{J}}(\mathcal{A})$ 的估计，记为 $\hat{\bar{\mathcal{J}}}(\mathcal{A})$
 ###### 公式2.39 计算 cv 的 方差，开个平方，变成 standard error of the cv-score
+#######
+$$
+\operatorname{Var}(\mathrm{CV}) \approx \frac{1}{K} \operatorname{Var}(\hat{\mathcal{J}}), \quad \operatorname{Var}(\hat{\mathcal{J}}) \approx \frac{1}{K} \sum_{k=1}^{K}\left(\hat{\mathcal{J}}_{k}-\mathrm{CV}\right)^{2}
+$$
 ##### leave-one-out cross-validation (LOOCV)，CV的升级版，K取n
 #### 4.3.2 Hyperparameter Selection and Performance Evaluation
 ### 4.4 Loss Functions in Predictive Modelling
