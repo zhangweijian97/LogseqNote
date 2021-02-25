@@ -328,6 +328,8 @@ $$
 ##### 公式略
 #### 3.1.2 From Inner Products
 ##### 已知未中心化的 $\tilde\boldsymbol{G}$
+##### 先中心化，公式3.10
+#####
 #### 3.1.3 From Distances
 #### 3.1.4 Example
 ### 3.2 Dimensionality Reduction by Kernel PCA
