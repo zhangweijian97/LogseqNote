@@ -2,92 +2,92 @@
 title: DME Data Mining and Exploration
 ---
 
-## DME 公式整合
-## 1 First Steps in Exploratory Data Analysis
-### 1.1 Numerical Data Description
-#### 1.1.1 Location
-##### mean，公式略
-###### 积分版
-###### 向量版
-##### median，公式略
-##### 公式1.7是上面两个的混合
-##### mode
-#### 1.1.2 Scale
-##### 方差，公式略
-###### 积分版
-##### MAD，公式1.10
-##### IQR，Q3-Q1
-#### 1.1.3 Shape
-##### skewness，1.13
-##### Galton’s measure of skewness，1.14
-##### kurtosis，1.15
-##### robust kurtosis，1.16
-#### 1.1.4 Multivariate Measures
-##### 协方差，1.17和1.18
-##### Pearson’s correlation coefficient，1.19
-##### 标准差
-##### sample covariance matrix，1.28
-######
+## 公式整合
+### 1 First Steps in Exploratory Data Analysis
+#### 1.1 Numerical Data Description
+##### 1.1.1 Location
+###### mean，公式略
+####### 积分版
+####### 向量版
+###### median，公式略
+###### 公式1.7是上面两个的混合
+###### mode
+##### 1.1.2 Scale
+###### 方差，公式略
+####### 积分版
+###### MAD，公式1.10
+###### IQR，Q3-Q1
+##### 1.1.3 Shape
+###### skewness，1.13
+###### Galton’s measure of skewness，1.14
+###### kurtosis，1.15
+###### robust kurtosis，1.16
+##### 1.1.4 Multivariate Measures
+###### 协方差，1.17和1.18
+###### Pearson’s correlation coefficient，1.19
+###### 标准差
+###### sample covariance matrix，1.28
+#######
 :PROPERTIES:
 :id: 60364900-cd28-4b19-87e1-40d3a4549ea9
 :END:
 $$\boldsymbol{\Sigma}=\frac{1}{n}\boldsymbol{X}\boldsymbol{X}^\top$$
-###### eigenvalue decomposition
+####### eigenvalue decomposition
 :PROPERTIES:
 :id: 603648e7-1114-436c-8b9e-258da79f3fc9
 :END:
-#######
+########
 $$\operatorname{Cov}[\boldsymbol{x}]  = \boldsymbol{\Sigma} = \boldsymbol{U}\boldsymbol{\Lambda} \boldsymbol{U}^\top$$
-###### trace, 1.43
-###### 性质，做线性变化之后
-#######
+####### trace, 1.43
+####### 性质，做线性变化之后
+########
 $$
 \begin{aligned}
 \operatorname{Cov}[\boldsymbol{A} \boldsymbol{x}+\boldsymbol{b}] &=\boldsymbol{A} \operatorname{Cov}[\boldsymbol{x}] \boldsymbol{A}^{\top}
 \end{aligned}
 $$
-##### sample correlation matrix，1.41
-######
+###### sample correlation matrix，1.41
+#######
 $$
 \rho(\boldsymbol{x})=\operatorname{diag}\left(\frac{1}{\operatorname{std}(\boldsymbol{x})}\right) \operatorname{cov}(\boldsymbol{x}) \operatorname{diag}\left(\frac{1}{\operatorname{std}(\boldsymbol{x})}\right)
 $$
-##### non linear relationship，1.42
-##### Kendall’s $\tau$，1.43
-######
+###### non linear relationship，1.42
+###### Kendall’s $\tau$，1.43
+#######
 $$
 \tau(x, y)=\frac{n_{c}(x, y)-n_{d}(x, y)}{n(n-1) / 2}
 $$
-### 1.2 Data Visualisation
-#### 这节看lab，研究一下参数变化
-#### 1.2.1 Bar Plot
-#### 1.2.2 Box Plot
-#### 1.2.3 Scatter Plot
-#### 1.2.4 Histogram
-#### 1.2.5 Kernel Density Plot
-##### kernel density estimate，1.47
-#### 1.2.6 Violin Plot
-### 1.3 Data Pre-Processing
-#### 1.3.1 Standardisation
-##### 注意这一节中$x$表示没有中心化的，$\tilde x$表示中心化的，和PCA那边的不一样
-##### certring matrix
+#### 1.2 Data Visualisation
+##### 这节看lab，研究一下参数变化
+##### 1.2.1 Bar Plot
+##### 1.2.2 Box Plot
+##### 1.2.3 Scatter Plot
+##### 1.2.4 Histogram
+##### 1.2.5 Kernel Density Plot
+###### kernel density estimate，1.47
+##### 1.2.6 Violin Plot
+#### 1.3 Data Pre-Processing
+##### 1.3.1 Standardisation
+###### 注意这一节中$x$表示没有中心化的，$\tilde x$表示中心化的，和PCA那边的不一样
+###### certring matrix
 :PROPERTIES:
 :id: 60364b4a-32fb-4ab7-997b-fb38423e1061
 :END:
-######
+#######
 $$
 \boldsymbol{C}_{n}=\boldsymbol{I}_{n}-\frac{1}{n} \mathbf{1}_{n} \mathbf{1}_{n}^{\top}
 $$
-######
+#######
 $$\boldsymbol{X}=\tilde\boldsymbol{X}\boldsymbol{C}_n$$
-###### 左列右行
-##### sample covarice matrix with certring matrix，1.66
-######
+####### 左列右行
+###### sample covarice matrix with certring matrix，1.66
+#######
 $$\boldsymbol{\Sigma}=\frac{1}{n}\boldsymbol{X}\boldsymbol{C}_n\boldsymbol{X}^\top$$
-#### 1.3.2 Outlier Detection and Removal
-##### Tukey’s fences，1.68
-######
+##### 1.3.2 Outlier Detection and Removal
+###### Tukey’s fences，1.68
+#######
 $$[Q_1-k\text{IQR(x)}, Q_3+k\text{IQR(x)}]$$
-###### common $k=1.5$
+####### common $k=1.5$
 ## 2 Principal Component Analysis
 ### 2.1 PCA by Variance Maximisation
 #### 2.1.1 First Principal Component Direction
