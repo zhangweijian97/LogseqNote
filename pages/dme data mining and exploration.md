@@ -443,7 +443,8 @@ $$
 $$
 w_{i}^{(\boldsymbol{Y})}\left(\boldsymbol{y}_{i}, \boldsymbol{y}_{j}\right)=\exp \left(-\frac{\left\|\boldsymbol{y}_{i}-\boldsymbol{y}_{j}\right\|-\rho_{i}}{\sigma_{i}}\right)
 $$
-#####
+###### where ρi denotes the distance to the nearest neighbour and σi is a measure of the size of the neightbourhood around yi
+####
 ## 4 Predictive Modelling and Generalisation
 ### 4.1 Prediction and Training Loss
 #### 4.1.1 Prediction Loss
