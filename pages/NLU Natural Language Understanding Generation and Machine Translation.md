@@ -682,10 +682,7 @@ $$
 
 ###### What preprocessing or cleaning was done?
 
-###### If it relates to people, were they told what the dataset would
-
- be usef for, and did they consent?
-
+###### If it relates to people, were they told what the dataset would be used for, and did they consent?
 ###### Will the dataset be updated?
 
 #### Summary 考点
