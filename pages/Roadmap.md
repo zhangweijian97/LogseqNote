@@ -7,5 +7,5 @@ title: Roadmap
 ## Todo:
 ## Doing:
 ## Done:
-## Pause:
+## Stalled:
 ## Cancel:
