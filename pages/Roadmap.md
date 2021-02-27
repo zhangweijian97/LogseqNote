@@ -2,8 +2,8 @@
 title: Roadmap
 ---
 
+## Long Term:
 ## Now:
 ## Later:
 ## Short Term:
-## Long Term:
 ## Cancel
