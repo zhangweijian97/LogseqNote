@@ -5,7 +5,7 @@ title: Roadmap
 ## Long Term:
 ## Short Term:
 ## Todo:
-## Doing:
 ## Done:
+## Doing:
 ## Stalled:
 ## Cancel:
