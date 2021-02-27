@@ -2,8 +2,8 @@
 title: Roadmap
 ---
 
-## Todo:
-## Doing:
-## Short Term
-## Long Term
+## Now:
+## Later:
+## Short Term:
+## Long Term:
 ## Cancel
