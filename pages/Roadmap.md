@@ -4,8 +4,8 @@ title: Roadmap
 
 ## Long Term:
 ## Short Term:
-## Now:
-## Later:
+## Todo:
+## Doing:
 ## Done:
 ## Pause:
 ## Cancel:
