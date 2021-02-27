@@ -7,6 +7,6 @@ title: Roadmap
 ## Now:
 ## Later:
 ## Done:
-## Pulse:
+## Pause:
 ###
 ## Cancel:
