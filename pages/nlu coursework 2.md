@@ -7,8 +7,8 @@ title: NLU Coursework 2
 #### question 1  补comment，跑baseline
 #### question 2 5个问题，用linux命令
 ### part 2 扩展baseline
-#### Question 3: Improved Decoding，3个思考问题
-#### Question 4: Adding Layers，增加层数（命令行），重新训练，分析结果
+#### Question 3 改进解码器，3个思考问题
+#### Question 4 增加层数（命令行），重新训练，分析结果
 ### part 3 lexical attention model，写代码
 #### Question 5 Lexical Model 看论文，实现，重新训练，小数据集调试，分析结果
 ### part 4 Transformer，add the Multi-Head attention code
