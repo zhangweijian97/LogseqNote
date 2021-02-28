@@ -13,7 +13,7 @@ title: NLU Coursework 2
 #### Question 5 Lexical Model 看论文，实现，重新训练，小数据集调试，分析结果
 ### part 4 Transformer，add the Multi-Head attention code
 #### Question 6 补注释
-#### Question 7 实现Multi-Head Attention
+#### Question 7 实现Multi-Head Attention 重新训练，
 ### submission，document，files，不包含个人信息
 #### <UUN>.pdf
 #### <UUN>.zip
