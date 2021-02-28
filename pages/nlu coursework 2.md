@@ -10,6 +10,7 @@ title: NLU Coursework 2
 #### Question 3: Improved Decoding，3个思考问题
 #### Question 4: Adding Layers，增加层数，重新训练，分析结果
 ### part 3 lexical attention model，写代码
+#### Question 5: Implementing the Lexical Model
 ### part 4 Transformer，add the Multi-Head attention code
 ### submission，document，files，不包含个人信息
 #### <UUN>.pdf
