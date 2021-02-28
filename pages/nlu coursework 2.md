@@ -7,4 +7,5 @@ title: NLU Coursework 2
 ### part 2 扩展baseline
 ### part 3 lexical attention model，写代码
 ### part 4 Transformer，add the Multi-Head attention code
-### submission，document，files
+### submission，document，files，不包含个人信息
+####
