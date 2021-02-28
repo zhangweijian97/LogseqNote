@@ -4,7 +4,7 @@ title: NLU Coursework 2
 
 ## 描述
 ### part 1 补comment，跑baseline
-#### question 1  补comment，跑baseline
+#### question 1  补注释，跑baseline
 #### question 2 5个问题，用linux命令
 ### part 2 扩展baseline
 #### Question 3 改进解码器，3个思考问题
