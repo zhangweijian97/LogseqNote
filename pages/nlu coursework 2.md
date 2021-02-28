@@ -9,6 +9,6 @@ title: NLU Coursework 2
 ### part 4 Transformer，add the Multi-Head attention code
 ### submission，document，files，不包含个人信息
 #### <UUN>.pdf
-#### 压缩包
+#### <UUN>.zip
 ##### lstm.py, train.py, transformer.py and transformer_helper.py
 ####
