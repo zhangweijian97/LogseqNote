@@ -23,3 +23,5 @@ title: NLU Coursework 2
 ## 进度
 ### question 1 模型跑了一遍，忘记记录时间，估计一两个小时
 ### 新建overleaf项目
+### 申请延期
+###
