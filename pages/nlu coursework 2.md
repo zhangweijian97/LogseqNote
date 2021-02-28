@@ -4,7 +4,7 @@ title: NLU Coursework 2
 
 ## 描述
 ### part 1 补comment，跑baseline
-#### question 1
+#### question 1  补comment，跑baseline
 ####
 ### part 2 扩展baseline
 ### part 3 lexical attention model，写代码
