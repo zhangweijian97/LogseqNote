@@ -24,7 +24,7 @@ title: NLU Coursework 2
 ### question 1 模型跑了一遍，忘记记录时间，估计一两个小时
 ### 新建overleaf项目
 ### 申请延期
-### NOW 看question 1 
+### NOW question 1
 :PROPERTIES:
 :now: 1614531022334
 :END:
