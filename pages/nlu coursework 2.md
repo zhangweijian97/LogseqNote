@@ -18,5 +18,6 @@ title: NLU Coursework 2
 #### <UUN>.pdf
 #### <UUN>.zip
 ##### lstm.py, train.py, transformer.py and transformer_helper.py
-##
-## question 1 模型跑完
+## 进度
+### question 1 模型跑了一遍，忘记记录时间，估计一两个小时
+###
