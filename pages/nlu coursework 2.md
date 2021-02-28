@@ -10,4 +10,5 @@ title: NLU Coursework 2
 ### submission，document，files，不包含个人信息
 #### <UUN>.pdf
 #### 压缩包
-##### lstm.py, train.py, transformer.py and transformer helper.py
+##### lstm.py, train.py, transformer.py and transformer_helper.py
+####
