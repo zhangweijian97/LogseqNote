@@ -7,6 +7,7 @@ title: dice常用命令
 ### source ~/miniconda3/etc/profile.d/conda.sh
 ### conda activate mlp
 ### cd mlpcw2/mlpractical/
+### nice -n 19 jupyter notebook --no-browser --port 23344
 ## longjob
 ### longjob -28day -nobackground -c "bash xxxx.sh"
 ### bash run_vgg_38_0_0.sh
