@@ -29,4 +29,5 @@ title: NLU Coursework 2
 #### [Incremental decoding](https://fairseq.readthedocs.io/en/latest/models.html?highlight=incremental#incremental-decoding)
 #### [teacher forcing](https://zhuanlan.zhihu.com/p/93030328)
 #### [TensorFlow教程翻译 | Neural Machine Translation(seq2seq) Tutorial](https://zhuanlan.zhihu.com/p/33319933)
-####
+#### [seq2seq 中的 beam search 算法过程是怎样的](https://www.zhihu.com/question/54356960/answer/138990060)
+###
