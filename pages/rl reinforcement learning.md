@@ -8,7 +8,7 @@ title: RL Reinforcement Learning
 ## 笔记
 ### [[价值函数近似]]
 ### [[RL Chapter 3 Finite Markov Decision Processes]]
-### RL Chapter 4 Dynamic Programming
+### [[RL Chapter 4 Dynamic Programming]]
 ### RL Chapter 5 Monte Carlo Methods
 ### RL Chapter 6 Temporal-Difference Learning
 ### RL Chapter 7 n-step Bootstrapping
