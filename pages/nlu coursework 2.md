@@ -30,4 +30,5 @@ title: NLU Coursework 2
 #### [teacher forcing](https://zhuanlan.zhihu.com/p/93030328)
 #### [TensorFlow教程翻译 | Neural Machine Translation(seq2seq) Tutorial](https://zhuanlan.zhihu.com/p/33319933)
 #### [seq2seq 中的 beam search 算法过程是怎样的](https://www.zhihu.com/question/54356960/answer/138990060)
+#### [五）通俗易懂理解——BiLSTM](https://zhuanlan.zhihu.com/p/40119926)
 ####
