@@ -28,4 +28,5 @@ title: NLU Coursework 2
 #### [Incremental Decoding during Inference](https://www.telesens.co/2019/04/21/understanding-incremental-decoding-in-fairseq/#Incremental_Decoding_during_Inference)
 #### [Incremental decoding](https://fairseq.readthedocs.io/en/latest/models.html?highlight=incremental#incremental-decoding)
 #### [teacher forcing](https://zhuanlan.zhihu.com/p/93030328)
-###
+#### [TensorFlow教程翻译 | Neural Machine Translation(seq2seq) Tutorial](https://zhuanlan.zhihu.com/p/33319933)
+####
