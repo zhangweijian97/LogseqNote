@@ -7,6 +7,8 @@ title: MSc Project
 ### https://dpmt.inf.ed.ac.uk/msc/allocation-mode
 ### https://dpmt.inf.ed.ac.uk/msc/project/4972
 ### http://www.inf.ed.ac.uk/teaching/courses/diss/guide.html#Dissertation
+### https://github.com/thunlp/KRLPapers
+###
 ## Supervisor
 ### Jeff Z Pan j.z.pan@ed.ac.uk
 #### http://knowledge-representation.org/j.z.pan/
