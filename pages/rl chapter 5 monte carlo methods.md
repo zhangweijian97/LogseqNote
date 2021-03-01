@@ -10,9 +10,9 @@ title: RL Chapter 5 Monte Carlo Methods
 ## off-policy
 ## π 是目标策略，b 是行为策略
 ## 重要性采样率和v
-##
+###
 $$\rho_{t:T-1}=\prod^{T-1}_{k=t}\frac{\pi(A_k|S_k)}{b(A_k|S_k)}$$
-##
+###
 $$\mathbb{E}[\rho_{t:T-1}G_t|S_t=s]=v_\pi(s)$$
 ## 对于off-policy，回报是在行为策略下产生的，所以用重要性采样率$\rho$乘上回报修正回去
 ## 修正后的回报的期望就是状态值v
