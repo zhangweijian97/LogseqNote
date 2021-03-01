@@ -24,6 +24,7 @@ title: NLU Coursework 2
 ### question 1 模型跑了一遍，忘记记录时间，估计一两个小时
 ### 新建overleaf项目
 ### 申请延期
+### q1A
 ### q1D
 #### [Incremental Decoding during Inference](https://www.telesens.co/2019/04/21/understanding-incremental-decoding-in-fairseq/#Incremental_Decoding_during_Inference)
 #### [Incremental decoding](https://fairseq.readthedocs.io/en/latest/models.html?highlight=incremental#incremental-decoding)
