@@ -25,8 +25,7 @@ title: NLU Coursework 2
 ### 新建overleaf项目
 ### 申请延期
 ### q1D
-#### Incremental Decoding during Inference
-##### https://www.telesens.co/2019/04/21/understanding-incremental-decoding-in-fairseq/#Incremental_Decoding_during_Inference
+#### [Incremental Decoding during Inference](https://www.telesens.co/2019/04/21/understanding-incremental-decoding-in-fairseq/#Incremental_Decoding_during_Inference)
 #### [Incremental decoding](https://fairseq.readthedocs.io/en/latest/models.html?highlight=incremental#incremental-decoding)
 #### [teacher forcing](https://zhuanlan.zhihu.com/p/93030328)
 #####
