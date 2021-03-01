@@ -6,7 +6,7 @@ title: dice常用命令
 ### kinit s2119299@INF.ED.AC.UK -r 7d -l 15h -f && aklog
 ### source ~/miniconda3/etc/profile.d/conda.sh
 ### conda activate nlu
-### cd mlpcw2/mlpractical/
+### cd nlu/cw2/nlu_cw2/
 ### nice -n 19 jupyter notebook --no-browser --port 23344
 ## longjob
 ### longjob -28day -nobackground -c "bash xxxx.sh"
