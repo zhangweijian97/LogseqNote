@@ -21,10 +21,10 @@ $$\mathbb{E}[\rho_{t:T-1}G_t|S_t=s]=v_\pi(s)$$
 ###
 $$V(s)=\frac{\sum_{v\in \mathcal{T}(s)}\rho_{t:T(t)-1}G_t}{|\mathcal{T}(s)|}$$
 ## 加权重要性采样
-##
+###
 $$V(s)=\frac{\sum_{v\in \mathcal{T}(s)}\rho_{t:T(t)-1}G_t}{\sum_{v\in \mathcal{T}(s)}\rho_{t:T(t)-1}}$$
 ## 增量的加权重要性采样
-##
+###
 $$V_{n+1}=V_n+\frac{W_n}{C_n}[G_n-V_n]$$
 ##
 $$C_{n+1}=C_n+W_{n+1}$$
