@@ -9,3 +9,5 @@ title: RL Reinforcement Learning
 ### [[价值函数近似]]
 ### Chapter 3 Finite Markov Decision Processes
 ### Chapter 4 Dynamic Programming
+### Chapter 5 Monte Carlo Methods
+### Chapter 6 Temporal-Di↵erence Learning
