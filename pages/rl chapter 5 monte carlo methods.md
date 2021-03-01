@@ -2,7 +2,8 @@
 title: RL Chapter 5 Monte Carlo Methods
 ---
 
-## 首次访问蒙特卡罗预测
+## 首次访问蒙特卡罗预测 first-visit Monte Carlo Prediction
+### 图略
 ## 蒙特卡罗探索起点
 ## on-policy
 ## off-policy
