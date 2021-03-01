@@ -11,4 +11,4 @@ title: RL Reinforcement Learning
 ### [[RL Chapter 4 Dynamic Programming]]
 ### [[RL Chapter 5 Monte Carlo Methods]]
 ### [[RL Chapter 6 Temporal-Difference Learning]]
-### RL Chapter 7 n-step Bootstrapping
+### [[RL Chapter 7 n-step Bootstrapping]]
