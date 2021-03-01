@@ -25,11 +25,11 @@ title: NLU Coursework 2
 ### 新建overleaf项目
 ### 申请延期
 ### q1A
+#### [五）通俗易懂理解——BiLSTM](https://zhuanlan.zhihu.com/p/40119926)
 ### q1D
 #### [Incremental Decoding during Inference](https://www.telesens.co/2019/04/21/understanding-incremental-decoding-in-fairseq/#Incremental_Decoding_during_Inference)
 #### [Incremental decoding](https://fairseq.readthedocs.io/en/latest/models.html?highlight=incremental#incremental-decoding)
 #### [teacher forcing](https://zhuanlan.zhihu.com/p/93030328)
 #### [TensorFlow教程翻译 | Neural Machine Translation(seq2seq) Tutorial](https://zhuanlan.zhihu.com/p/33319933)
 #### [seq2seq 中的 beam search 算法过程是怎样的](https://www.zhihu.com/question/54356960/answer/138990060)
-#### [五）通俗易懂理解——BiLSTM](https://zhuanlan.zhihu.com/p/40119926)
-####
+###
