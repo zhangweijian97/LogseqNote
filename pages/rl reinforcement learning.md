@@ -10,4 +10,5 @@ title: RL Reinforcement Learning
 ### Chapter 3 Finite Markov Decision Processes
 ### Chapter 4 Dynamic Programming
 ### Chapter 5 Monte Carlo Methods
-### Chapter 6 Temporal-Di↵erence Learning
+### Chapter 6 Temporal-Difference Learning
+### Chapter 7 n-step Bootstrapping
