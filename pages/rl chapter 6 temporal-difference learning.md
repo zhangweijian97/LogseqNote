@@ -10,7 +10,7 @@ $$V(S_t)=V(S_t)+\alpha [R_{t+1}+\gamma V(S_{t+1})-V(S_t)]$$
 ###
 $$\delta_t=R_{t+1}+\gamma V(S_{t+1})-V(S_t)$$
 ## off-policy的版本
-##
+###
 $$V(S_t)=V(S_t)+\alpha [\rho_{t:t}R_{t+1}+\rho_{t:t}V(S_{t+1})-V(S_t)]$$
 ## Sarsa，on-policy TD 控制，估计Q
 ## on-policy的动作值增量更新公式
@@ -26,6 +26,15 @@ $$Q(S_t,A_t)=Q(S_t,A_t)+\alpha [R_{t+1}+\gamma \sum_a\pi(a|S_{t+1})Q(S_{t+1},a)-
 :PROPERTIES:
 :later: 1614611635616
 :END:
+##
+$$V(S_t)=V(S_t)+\alpha [R_{t+1}+\gamma V(S_{t+1})-V(S_t)]$$
+## TD 误差
+##
+$$\delta_t=R_{t+1}+\gamma V(S_{t+1})-V(S_t)$$
+## off-policy的版本
+##
+$$V(S_t)=V(S_t)+\alpha [\rho_{t:t}R_{t+1}+\rho_{t:t}V(S_{t+1})-V(S_t)]$$
+## Sarsa，on-policy TD 控制，估计Q
 ##
 $$V(S_t)=V(S_t)+\alpha [R_{t+1}+\gamma V(S_{t+1})-V(S_t)]$$
 ## TD 误差
