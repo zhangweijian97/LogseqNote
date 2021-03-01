@@ -10,6 +10,5 @@ title: PicGo配置
 ## Github
 ### BlackCatGithubPicBed/PicGO
 ### main
-### {{embed [[Github Personal access tokens]] }}
 ### {{embed ((603afc79-2ac0-4835-abb2-4c09442466b3))}}
 ###
