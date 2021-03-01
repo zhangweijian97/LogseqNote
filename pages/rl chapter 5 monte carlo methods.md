@@ -4,7 +4,8 @@ title: RL Chapter 5 Monte Carlo Methods
 
 ## 首次访问蒙特卡罗预测 first-visit Monte Carlo Prediction
 ### 图略
-## 蒙特卡罗探索起点
+## 蒙特卡罗探索起点 Explore Start
+### 图略
 ## on-policy
 ## off-policy
 ## π 是目标策略，b 是行为策略
