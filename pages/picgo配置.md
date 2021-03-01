@@ -10,4 +10,4 @@ title: PicGo配置
 ## Github
 ### BlackCatGithubPicBed/PicGO
 ### main
-### /block
+### /page
