@@ -8,4 +8,4 @@ title: RL Reinforcement Learning
 ## 笔记
 ### [[价值函数近似]]
 ### Chapter 3 Finite Markov Decision Processes
-###
+### Chapter 4 Dynamic Programming
