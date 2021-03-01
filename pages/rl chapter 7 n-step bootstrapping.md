@@ -12,6 +12,6 @@ $$G_{t:t+1} = R_{t+1}+\gamma V_t(S_{t+1})$$
 ###
 $$G_{t:t+1} = R_{t+1}+\gamma R_{t+2} + \cdots + \gamma^n V_{t-n-1}(S_{t+n})$$
 ## 使用n步回报的状态值更新公式
-##
+###
 $$V_{t+n}(S_t)=V_{t+n-1}(S_t)+\alpha [G_{t:t+n}-V_{t+n-1}(S_t)]$$
 ##
