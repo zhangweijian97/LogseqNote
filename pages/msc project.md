@@ -8,6 +8,7 @@ title: MSc Project
 ### https://dpmt.inf.ed.ac.uk/msc/project/4972
 ### http://www.inf.ed.ac.uk/teaching/courses/diss/guide.html#Dissertation
 ### https://github.com/thunlp/KRLPapers
+### https://github.com/xinguoxia/KGE
 ## Supervisor
 ### Jeff Z Pan j.z.pan@ed.ac.uk
 #### http://knowledge-representation.org/j.z.pan/
