@@ -21,7 +21,9 @@ title: MSc Project
 ### http://knowledge-representation.org/j.z.pan/
 ### 照片 [[Mar 2nd, 2021]]
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302165217.png)
-##
+## 队友 黄文禹
+### 照片 [[Mar 2nd, 2021]]
+#### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302204346.png)
 ## [[IPP Tutorial 3]]
 
  Tutorial 3]]
