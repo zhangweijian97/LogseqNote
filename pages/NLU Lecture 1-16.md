@@ -6,7 +6,7 @@ permalink: nlu%20natural%20language%20understanding%20generation%20and%20machine
 
 ## #UoE
 ## My Lecture Notes
-### Lecture 2 Machine Translation
+### [[NLU Lecture 2 Machine Translation]]
 #### 略
 #### Key points to remember
 ##### Very simple cues are very helpful in translation.
