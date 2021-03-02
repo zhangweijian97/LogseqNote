@@ -6,7 +6,7 @@ permalink: nlu%20natural%20language%20understanding%20generation%20and%20machine
 
 ## #UoE
 ## My Lecture Notes
-### Lecture 3 Machine translation with n-grams
+### [[Lecture 3 Machine translation with n-grams]]
 #### words conditioned on some input
 ##### speech recognition: condition on speech signal
 ##### machine translation: condition on text in another language
