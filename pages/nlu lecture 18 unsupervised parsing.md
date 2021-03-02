@@ -15,8 +15,8 @@ title: NLU Lecture 18 Unsupervised Parsing
 ## Unsupervised Parsing
 ### 现状
 #### old problem Gold’s theorem
-#### treebanks for a few dozen languages
-#####
+#### treebanks for a few dozen languages，out of the world’s around 6,000
+####
 ## Unsupervised Parsing via Constituency Tests
 ## Grammaticality Model
 ## Results
