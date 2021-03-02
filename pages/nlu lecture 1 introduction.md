@@ -2,6 +2,7 @@
 title: NLU Lecture 1 Introduction
 ---
 
+## [[NLU Lecture 1 Introduction]]
 ## 
 
 ## Natural Language Understanding
@@ -12,7 +13,6 @@ title: NLU Lecture 1 Introduction
 ### Output: A natural language description of that data
 ## Machine Translation
 ### Both input and output are text that convey the same meaning, but written in a different language or style.
-## [[NLU Lecture 1 Introduction]]
 ## Objective
 ### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222235327.png)
 ## Methods
