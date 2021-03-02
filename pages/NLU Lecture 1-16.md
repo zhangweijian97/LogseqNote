@@ -6,7 +6,7 @@ permalink: nlu%20natural%20language%20understanding%20generation%20and%20machine
 
 ## #UoE
 ## My Lecture Notes
-### Lecture 8 Evaluating Machine Translation Systems
+### [[NLU Lecture 8 Evaluating Machine Translation Systems]]
 #### good translation
 ##### Adequacy:
 ###### Does the output convey the same meaning as the input sentence? Is part of the message lost, added, or distorted?
