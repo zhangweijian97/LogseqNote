@@ -35,4 +35,5 @@ title: NLU Coursework 2
 ### q7 implementation
 ### q7 debug
 ### mask
-####
+#### [Transformer & Self-Attention (多头) 自注意力编码](https://congchan.github.io/NLP-attention-03-self-attention/)
+#####
