@@ -10,7 +10,7 @@ title: NLU Natural Language Understanding, Generation, and Machine Translation
 ### [[NLU Lecture 3 Machine translation with n-grams]]
 ### [[NLU Lecture 4 Perceptrons]]
 ### [[NLU Lecture 5 n-gram language modelling with feedforward neural networks]]
-###
+### [[NLU Lecture 6 Recurrent Neural Networks and LSTMs]]
 ###
 ###
 ###
