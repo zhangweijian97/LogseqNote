@@ -24,7 +24,7 @@ title: NLU Lecture 18 Unsupervised Parsing
 #### long constituents often have short equivalents (pro-forms)
 ##### NP替换为pronoun，比如戴着帽子的男孩，替换为他
 #### **spans** ( sequences of words ) should be **phrases**
-###
+### Constituent Context Model ( CCM )
 ## Unsupervised Parsing via Constituency Tests
 ## Grammaticality Model
 ## Results
