@@ -20,7 +20,8 @@ title: NLU Lecture 18 Unsupervised Parsing
 #### unsupervised parsing can be used as the first stage in constructing larger treebanks.
 ### constituency tests
 #### constituent
-#####
+##### a sequence of words is a constituent if it appears in the context specific for this constituent;
+####
 ## Unsupervised Parsing via Constituency Tests
 ## Grammaticality Model
 ## Results
