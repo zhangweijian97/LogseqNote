@@ -29,8 +29,7 @@ title: NLU Lecture 17 Recurrent Neural Network Grammars
 ### 用RNN来预测下一个action
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302212030.png)
 #### 1. Previous terminal symbols
-
-2. Previous actions
+#### 2. Previous actions
 #### 3. Current stack contents
 ### 图
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302211852.png)
