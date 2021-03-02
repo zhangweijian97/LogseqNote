@@ -33,11 +33,11 @@ title: MSc Project
 ### 最好和队友多协作
 ### 最后要能出一两篇能发表的论文
 ### 外部导师，来自华为（爱丁堡），很严格，会提供一些实践上的支持
-### 本周任务，阅读三篇论文
-### 1. K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters: https://arxiv.org/pdf/2002.01808
-### 2. ERNIE: En-hanced Language Representation with InformativeEntities
+### 本周任务，阅读三篇论文 [[看板]]
+#### 1. K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters: https://arxiv.org/pdf/2002.01808
+#### 2. ERNIE: En-hanced Language Representation with InformativeEntities
  https://arxiv.org/pdf/1905.07129.pdf
-### 3. KEPLER: A unified model for knowledge embedding and pre-trained lan- guage representation
+#### 3. KEPLER: A unified model for knowledge embedding and pre-trained lan- guage representation
  https://arxiv.org/pdf/1911.06136.pdf
 ###
 ## 协作资源
