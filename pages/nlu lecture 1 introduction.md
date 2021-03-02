@@ -13,14 +13,14 @@ title: NLU Lecture 1 Introduction
 ## Machine Translation
 ### Both input and output are text that convey the same meaning, but written in a different language or style.
 ## [[NLU Lecture 1 Introduction]]
-### Objective
-#### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222235327.png)
-### Methods
-#### **probabilistic models** parameterised by **deep learning architectures**
-##### feed-forward neural networks
-##### recurrent neural networks
-##### transformers
-##### convolutional networks
+## Objective
+### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222235327.png)
+## Methods
+### **probabilistic models** parameterised by **deep learning architectures**
+#### feed-forward neural networks
+#### recurrent neural networks
+#### transformers
+#### convolutional networks
 ### Why deep learning
 #### universal function approximators
 #### representation learning
