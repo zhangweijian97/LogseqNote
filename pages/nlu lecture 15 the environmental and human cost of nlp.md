@@ -2,10 +2,6 @@
 title: NLU Lecture 15 The Environmental and Human Cost of NLP
 ---
 
-## [[NLU Lecture 15 The Environmental and Human Cost of NLP]]
-:PROPERTIES:
-:id: 60355745-fe08-426b-9e3b-10e2ae2a6e10
-:END:
 ### Anatomy of an Al system 解剖
 #### smart speaker
 ### Carbon and the Climate Crisis
