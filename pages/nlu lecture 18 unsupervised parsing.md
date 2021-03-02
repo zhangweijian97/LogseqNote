@@ -10,6 +10,7 @@ title: NLU Lecture 18 Unsupervised Parsing
 ### parser transitions [[NLU Lecture 17 Recurrent Neural Network Grammars]]
 #### the actions that are required to build a syntax tree.
 #### Recurrent Neural Network Grammars (RNNGs)
+####
 ## Unsupervised Parsing
 ## Unsupervised Parsing via Constituency Tests
 ## Grammaticality Model
