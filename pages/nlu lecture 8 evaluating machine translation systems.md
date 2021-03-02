@@ -2,7 +2,6 @@
 title: NLU Lecture 8 Evaluating Machine Translation Systems
 ---
 
-## [[NLU Lecture 8 Evaluating Machine Translation Systems]]
 ### good translation
 #### Adequacy:
 ##### Does the output convey the same meaning as the input sentence? Is part of the message lost, added, or distorted?

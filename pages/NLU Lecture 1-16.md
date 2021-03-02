@@ -6,7 +6,7 @@ permalink: nlu%20natural%20language%20understanding%20generation%20and%20machine
 
 ## #UoE
 ## My Lecture Notes
-### Lecture 9 Open-Vocabulary Models
+### [[NLU Lecture 9 Open-Vocabulary Models]]
 #### 之前提到的模型都需要一个固定的vocabulary size
 #### 问题是
 ##### many training corpora contain millions of word types
