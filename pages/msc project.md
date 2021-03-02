@@ -16,11 +16,13 @@ title: MSc Project
 534
 ## 资源
 ### https://github.com/thunlp/KRLPapers
-### https://github.com/## 导师 Jeff Z Pan
+### https://github.com/
+## 导师 Jeff Z Pan
 ### j.z.pan@ed.ac.uk
 ### http://knowledge-representation.org/j.z.pan/
 ### 照片 [[Mar 2nd, 2021]]
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302165217.png)
+## 共享文档 [Overleaf](https://www.overleaf.com/project/603e65c135d959aa06335871)
 ## [[IPP Tutorial 3]]
 
  Tutorial 3]]
@@ -47,7 +49,6 @@ title: MSc Project
 #### 找新的论文？
 #### 和黄文禹一起学？
 ## 协作资源
-### 共享文档 [Overleaf](https://www.overleaf.com/project/603e65c135d959aa06335871)
 ##
 utorial 4]]
 ##
