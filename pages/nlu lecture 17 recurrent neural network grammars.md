@@ -8,5 +8,10 @@ title: NLU Lecture 17 Recurrent Neural Network Grammars
 #### condition on a sequence (encode)
 #### recency bias
 #### 这节课大概就是要研究recency bias
-### LSTM
-####
+### LSTM for parsing
+#### linearlize the tree
+#### no explicit grammar
+#### no encoding of hierarchical structure
+#### recency bias
+#### can't guarantee tree is well formed
+##
