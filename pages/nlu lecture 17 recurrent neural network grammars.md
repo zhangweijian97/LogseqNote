@@ -50,4 +50,5 @@ title: NLU Lecture 17 Recurrent Neural Network Grammars
 ## Stack RNNs
 ### push
 ### pop
+### 图例，略
 ###
