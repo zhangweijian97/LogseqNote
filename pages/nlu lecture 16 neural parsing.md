@@ -74,7 +74,7 @@ $$
 :PROPERTIES:
 :id: 603cffc5-abff-49eb-b5ad-4dbddcca69e4
 :END:
-###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302233316.png)
+###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302233316.png){:height 264, :width 297}
 ##### transformer block
 ##### Factored Attention Head
 ##### 结果，略
