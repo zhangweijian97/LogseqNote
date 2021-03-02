@@ -14,4 +14,5 @@ title: NLU Lecture 17 Recurrent Neural Network Grammars
 #### no encoding of hierarchical structure
 #### recency bias
 #### can't guarantee tree is well formed
-##
+## hierarchy
+###
