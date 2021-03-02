@@ -6,7 +6,7 @@ permalink: nlu%20natural%20language%20understanding%20generation%20and%20machine
 
 ## #UoE
 ## My Lecture Notes
-### Lecture 11 Word Embeddings
+### [[NLU Lecture 11 Word Embeddings]]
 #### Recall Lecture 5, n-gram probabilities:
 ##### {{embed ((((6033f4e0-afdc-4f7b-8097-f76d3ee3dd20))))}}
 ##### C 和 word embedding 最相关
