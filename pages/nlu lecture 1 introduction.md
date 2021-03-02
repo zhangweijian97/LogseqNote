@@ -21,20 +21,20 @@ title: NLU Lecture 1 Introduction
 #### recurrent neural networks
 #### transformers
 #### convolutional networks
-### Why deep learning
-#### universal function approximators
-#### representation learning
-#### multi-task learning
-### Ethical concerns
-### supervised, unsupervised, transfer learning
-### Second part of this course
-#### Problems
-##### morphological analysis
-##### syntactic parsing
-##### semantic parsing
-#### applications
-##### question answering
-##### paraphrasing
-##### summarization
-##### data-to-text generation
-##### sentiment analysis
+## Why deep learning
+### universal function approximators
+### representation learning
+## multi-task learning
+## Ethical concerns
+## supervised, unsupervised, transfer learning
+## Second part of this course
+### Problems
+#### morphological analysis
+#### syntactic parsing
+#### semantic parsing
+### applications
+#### question answering
+#### paraphrasing
+#### summarization
+#### data-to-text generation
+#### sentiment analysis
