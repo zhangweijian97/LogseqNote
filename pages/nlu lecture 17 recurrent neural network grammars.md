@@ -17,5 +17,5 @@ title: NLU Lecture 17 Recurrent Neural Network Grammars
 ## hierarchy
 ### generate symbols sequentially
 ### "control symbols"
-## RNN grammars
+## RNN grammars (RNNGs)
 ##
