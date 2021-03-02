@@ -18,8 +18,8 @@ title: NLU Lecture 18 Unsupervised Parsing
 #### treebanks for a few dozen languages，out of the world’s around 6,000
 #### SotA F-score is around 60，for supervised parsing >95
 #### unsupervised parsing can be used as the first stage in constructing larger treebanks.
-### constituency tests
-#### constituent
+### constituency tests 句子成分测试
+#### constituent 句子成分
 ##### a sequence of words is a constituent if it appears in the context specific for this constituent;
 ####
 ## Unsupervised Parsing via Constituency Tests
