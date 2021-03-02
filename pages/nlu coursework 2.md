@@ -37,3 +37,4 @@ title: NLU Coursework 2
 ### mask
 #### [Transformer & Self-Attention (多头) 自注意力编码](https://congchan.github.io/NLP-attention-03-self-attention/)
 ##### 需要有一个 mask 来防止当前位置 i 的生成任务看到后续 > i 位置的信息
+#### [transformer中自注意力和多头注意力的pytorch实现]()
