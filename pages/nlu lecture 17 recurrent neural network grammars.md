@@ -8,4 +8,5 @@ title: NLU Lecture 17 Recurrent Neural Network Grammars
 #### condition on a sequence (encode)
 #### recency bias
 #### 这节课大概就是要研究recency bias
-###
+### LSTM
+####
