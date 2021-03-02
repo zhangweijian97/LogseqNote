@@ -57,5 +57,6 @@ title: NLU Lecture 17 Recurrent Neural Network Grammars
 ### complete model
 #### 略
 ### train
-### RNNG for parsing
+## RNNG for parsing
 ## summary
+###
