@@ -36,4 +36,4 @@ title: NLU Coursework 2
 ### q7 debug
 ### mask
 #### [Transformer & Self-Attention (多头) 自注意力编码](https://congchan.github.io/NLP-attention-03-self-attention/)
-#####
+##### 需要有一个 mask 来防止当前位置 i 的生成任务看到后续 > i 位置的信息
