@@ -47,4 +47,7 @@ title: NLU Lecture 17 Recurrent Neural Network Grammars
 ### 递归的情况
 #### 略
 ## Stack encodes top-down syntactic recency
-##
+## Stack RNNs
+### push
+### pop
+###
