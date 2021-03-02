@@ -35,4 +35,5 @@ title: NLU Lecture 17 Recurrent Neural Network Grammars
 ### 图
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302211852.png){:height 251, :width 332}
 ### Final stack symbol is (a vector representation of) the complete tree.
-##
+## Syntactic Composition
+###
