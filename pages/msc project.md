@@ -12,17 +12,16 @@ title: MSc Project
 #### 2.  Muhao Chen, Yingtao Tian, Kai-Wei Chang, Steven Skiena and Carlo Zaniolo. Co-training Embeddings of Knowledge Graphs and Entity Descriptions for Cross-lingual Entity Alignment. IJCAI 2018.
 #### 3.  Théo Trouillon, Johannes Welbl, Sebastian Riedel, Eric Gaussier, Guillaume Bouchard. Complex Embeddings for Simple Link Prediction. ICML 2016.
 #### 4.  Chang Xu, Dachend Tao and Chao Xu. 2013. A Survey on Multi-View Learning. arXiv 1304.5534
-## ��
-534
 ## 资源
 ### https://github.com/thunlp/KRLPapers
-### https://github.com/
+### https://github.com/xinguoxia/KGE
+## 共享文档 [Overleaf](https://www.overleaf.com/project/603e65c135d959aa06335871)
+
 ## 导师 Jeff Z Pan
 ### j.z.pan@ed.ac.uk
 ### http://knowledge-representation.org/j.z.pan/
 ### 照片 [[Mar 2nd, 2021]]
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302165217.png)
-## 共享文档 [Overleaf](https://www.overleaf.com/project/603e65c135d959aa06335871)
 ## [[IPP Tutorial 3]]
 
  Tutorial 3]]
