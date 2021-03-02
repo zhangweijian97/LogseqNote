@@ -7,9 +7,6 @@ permalink: nlu%20natural%20language%20understanding%20generation%20and%20machine
 ## #UoE
 ## My Lecture Notes
 ### [[NLU Lecture 1 Introduction]]
-#### Natural Language Understanding
-##### input is natural language
-##### output is structured information
 #### Natural Language Generation
 ##### input is some form of non-linguistic data
 ##### Output: A natural language description of that data
