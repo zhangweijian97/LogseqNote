@@ -2,10 +2,6 @@
 title: NLU Lecture 2 Machine Translation
 ---
 
-## 
-
-##
-## [[NLU Lecture 2 Machine Translation]]
 ### 略
 ### Key points to remember
 #### Very simple cues are very helpful in translation.
