@@ -17,8 +17,9 @@ title: NLU Natural Language Understanding, Generation, and Machine Translation
 ### [[NLU Lecture 10 Transformer]]
 ### [[NLU Lecture 11 Word Embeddings]]
 ### [[NLU Lecture 12 Contextualised Word Embeddings]]
-###
-###
+### [[NLU Lecture 14 Word Embeddings are Biased]]
+### [[NLU Lecture 15 The Environmental and Human Cost of NLP]]
+### [[NLU Lecture 16 Neural Parsing]]
 ### [[NLU Lecture 17 Recurrent Neural Network Grammars]]
 ### [[NLU Lecture 18 Unsupervised Parsing]]
 ##
