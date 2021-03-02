@@ -23,6 +23,8 @@ title: NLU Lecture 18 Unsupervised Parsing
 ##### a sequence of words is a constituent if it appears in the context specific for this constituent;
 #### long constituents often have short equivalents (pro-forms)
 ##### NP替换为pronoun，比如戴着帽子的男孩，替换为他
+#### **spans** ( sequences of words ) should be **phrases**
+###
 ## Unsupervised Parsing via Constituency Tests
 ## Grammaticality Model
 ## Results
