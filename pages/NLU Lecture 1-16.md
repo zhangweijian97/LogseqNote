@@ -6,36 +6,6 @@ permalink: nlu%20natural%20language%20understanding%20generation%20and%20machine
 
 ## #UoE
 ## My Lecture Notes
-### [[NLU Lecture 15 The Environmental and Human Cost of NLP]]
-:PROPERTIES:
-:id: 60355745-fe08-426b-9e3b-10e2ae2a6e10
-:END:
-#### Anatomy of an Al system 解剖
-##### smart speaker
-#### Carbon and the Climate Crisis
-##### 排放
-##### 碳含量
-##### 海洋气温
-#### The Carbon Cost of Al
-##### kinds of costs
-###### 开发成本 Costs to progress
-####### Research and development of new NLP models multiplies these costs by thousands, due to experimentation with model architectures, parameters, and different datasets.
-###### 访问成本（模型运行在昂贵的硬件上）Costs to access
-####### Many models require access to specialized hardware (many GPUs or TPUs) limiting access to the richest (Who benefits from this? How does it affect existing power imbalances?)
-###### 环境成本 Costs to the environment
-####### Computation requires energy, and not all of this energy is carbon-neutral. Where it is. training NLP may not be the best allocation of that energy
-##### Estimating the carbon cost of a model
-###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223195330.png)
-#### 总结
-##### 训练时间和超参数选择增加了碳排放，而这在SOTA中很常见
-##### 对计算资源的掌控导致强者愈强
-##### 效率高的算法降低了碳排放，但是 rebound eﬀect 导致更高消耗
-###### 便宜的东西，用的人更多
-##### 使用已有的模型（预训练）更环保
-##### deep adaptation
-###### resilience 复原
-###### relinquishment 放弃
-###### restoration 恢复
 ### Lecture 16 Neural Parsing
 :PROPERTIES:
 :id: 60355745-cbce-4ca6-b644-c7a9a672b14d
