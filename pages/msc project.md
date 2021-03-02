@@ -15,7 +15,7 @@ title: MSc Project
 ## 资源
 ### https://github.com/thunlp/KRLPapers
 ### https://github.com/xinguoxia/KGE
-### 共享文档 [Overleaf](https://www.overleaf.com/project/603e65c135d959aa06335871)
+### **共享文档** [Overleaf](https://www.overleaf.com/project/603e65c135d959aa06335871)
 ## 导师 Jeff Z Pan
 ### j.z.pan@ed.ac.uk
 ### http://knowledge-representation.org/j.z.pan/
