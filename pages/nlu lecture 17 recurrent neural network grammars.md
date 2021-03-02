@@ -41,8 +41,8 @@ title: NLU Lecture 17 Recurrent Neural Network Grammars
 ## Syntactic Composition
 ### 一般情况
 #### 要如何压缩这个
-### {{embed ((603eac32-ce6e-4927-8fa5-e10d239d6075)) }}
-### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302213155.png){:height 178, :width 241}
-### BiRNN
+#### {{embed ((603eac32-ce6e-4927-8fa5-e10d239d6075)) }}
+#### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302213155.png){:height 178, :width 241}
+#### BiRNN
 ### 递归的情况
 ###
