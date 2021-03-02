@@ -55,3 +55,4 @@ title: NLU Lecture 17 Recurrent Neural Network Grammars
 #### 图
 ##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302231507.png)
 ### complete model
+####
