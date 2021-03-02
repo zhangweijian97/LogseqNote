@@ -22,5 +22,5 @@ title: NLU Lecture 17 Recurrent Neural Network Grammars
 ### **Second** type of operation: generate (GEN) a new **terminal symbol** (in this case, “The”)
 ### **Third** type of operation: **REDUCE** or complete the most recent (non-reduced) nonterminal.
 ### 图
-#### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302211624.png)
-###
+#### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302211624.png){:height 189, :width 342}
+## pushdown automaton
