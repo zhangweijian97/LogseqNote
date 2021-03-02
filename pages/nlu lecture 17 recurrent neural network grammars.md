@@ -30,6 +30,9 @@ title: NLU Lecture 17 Recurrent Neural Network Grammars
 #### 1. Previous terminal symbols
 #### 2. Previous actions
 #### 3. Current stack contents
+:PROPERTIES:
+:id: 603eac32-ce6e-4927-8fa5-e10d239d6075
+:END:
 #### 图
 ##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302212030.png){:height 176, :width 316}
 ### 图
