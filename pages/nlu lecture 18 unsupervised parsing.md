@@ -13,7 +13,8 @@ title: NLU Lecture 18 Unsupervised Parsing
 #### {{embed ((603eae91-072d-4975-96ab-8ac30333db47))}}
 ### 以上都需要labeled data
 ## Unsupervised Parsing
-###
+### 现状
+#### old problem
 ## Unsupervised Parsing via Constituency Tests
 ## Grammaticality Model
 ## Results
