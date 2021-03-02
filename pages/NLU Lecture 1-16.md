@@ -6,32 +6,6 @@ permalink: nlu%20natural%20language%20understanding%20generation%20and%20machine
 
 ## #UoE
 ## My Lecture Notes
-### [[NLU Lecture 1 Introduction]]
-#### Objective
-##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222235327.png)
-#### Methods
-##### **probabilistic models** parameterised by **deep learning architectures**
-###### feed-forward neural networks
-###### recurrent neural networks
-###### transformers
-###### convolutional networks
-#### Why deep learning
-##### universal function approximators
-##### representation learning
-##### multi-task learning
-#### Ethical concerns
-#### supervised, unsupervised, transfer learning
-#### Second part of this course
-##### Problems
-###### morphological analysis
-###### syntactic parsing
-###### semantic parsing
-##### applications
-###### question answering
-###### paraphrasing
-###### summarization
-###### data-to-text generation
-###### sentiment analysis
 ### Lecture 2 Machine Translation
 #### 略
 #### Key points to remember
