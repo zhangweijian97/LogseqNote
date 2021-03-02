@@ -2,10 +2,6 @@
 title: NLU Lecture 16 Neural Parsing
 ---
 
-## [[NLU Lecture 16 Neural Parsing]]
-:PROPERTIES:
-:id: 60355745-cbce-4ca6-b644-c7a9a672b14d
-:END:
 ### 复习
 #### ((603454d6-c59f-4b54-b1c0-ae31e4fa5334))
 #### 输入输出都是符号序列
