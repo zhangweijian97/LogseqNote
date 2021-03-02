@@ -12,7 +12,7 @@ title: NLU Natural Language Understanding, Generation, and Machine Translation
 ### [[NLU Lecture 5 n-gram language modelling with feedforward neural networks]]
 ### [[NLU Lecture 6 Recurrent Neural Networks and LSTMs]]
 ### [[NLU Lecture 7 Sequence-to-sequence models with attention]]
-###
+### [[NLU Lecture 8 Evaluating Machine Translation Systems]]
 ###
 ###
 ###
