@@ -15,4 +15,5 @@ title: NLU Lecture 17 Recurrent Neural Network Grammars
 #### recency bias
 #### can't guarantee tree is well formed
 ## hierarchy
-###
+### generate symbols sequentially
+### "control symbols"
