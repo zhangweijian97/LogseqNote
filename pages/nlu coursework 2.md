@@ -41,3 +41,4 @@ title: NLU Coursework 2
 #### [多头注意力机制（Multi-head Attention）及其在PyTorch中的使用方法分析](https://blog.csdn.net/HappyCtest/article/details/109847449)
 ##### mask掉序列中pad的位置
 ##### 限制attention中每个位置能看到的内容
+### [](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
