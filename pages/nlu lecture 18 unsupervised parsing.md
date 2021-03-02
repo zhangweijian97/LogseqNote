@@ -16,7 +16,8 @@ title: NLU Lecture 18 Unsupervised Parsing
 ### 现状
 #### old problem Gold’s theorem
 #### treebanks for a few dozen languages，out of the world’s around 6,000
-#### SotA F-score is around 60，>95 for supervised parsing
+#### SotA F-score is around 60，for supervised parsing >95
+####
 ## Unsupervised Parsing via Constituency Tests
 ## Grammaticality Model
 ## Results
