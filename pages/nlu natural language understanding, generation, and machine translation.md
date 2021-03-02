@@ -16,6 +16,8 @@ title: NLU Natural Language Understanding, Generation, and Machine Translation
 ### [[NLU Lecture 9 Open-Vocabulary Models]]
 ### [[NLU Lecture 10 Transformer]]
 ### [[NLU Lecture 11 Word Embeddings]]
+### [[NLU Lecture 12 Contextualised Word Embeddings]]
+###
 ###
 ### [[NLU Lecture 17 Recurrent Neural Network Grammars]]
 ### [[NLU Lecture 18 Unsupervised Parsing]]
