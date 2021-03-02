@@ -1,5 +1,5 @@
 ---
-title: Lecture 3 Machine translation with n-grams
+title: NLU Lecture 3 Machine translation with n-grams
 ---
 
 ### words conditioned on some input
