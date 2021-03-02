@@ -6,7 +6,7 @@ permalink: nlu%20natural%20language%20understanding%20generation%20and%20machine
 
 ## #UoE
 ## My Lecture Notes
-### Lecture 14 Word Embeddings are Biased
+### [[NLU Lecture 14 Word Embeddings are Biased]]
 :PROPERTIES:
 :id: 6035493a-910e-432e-bb80-4973bfde4149
 :END:
