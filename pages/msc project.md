@@ -24,6 +24,8 @@ title: MSc Project
  Tutorial 3]]
 ## [[IP
 ## ((603e4851-2342-45f2-9c73-a70b67e70a77)) 总结
+### 用到语言模型
+### 用到pretrain model
 ###
 utorial 4]]
 ##
