@@ -8,7 +8,7 @@ title: MSc Project
 ### https://dpmt.inf.ed.ac.uk/msc/project/4972
 ### http://www.inf.ed.ac.uk/teaching/courses/diss/guide.html#Dissertation
 ###
-## Useful resource
+## 资源
 ### https://github.com/thunlp/KRLPapers
 ### https://github.com/xinguoxia/KGE
 ## Supervisor
