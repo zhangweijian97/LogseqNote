@@ -18,4 +18,5 @@ title: NLU Lecture 17 Recurrent Neural Network Grammars
 ### generate symbols sequentially
 ### "control symbols"
 ## RNN grammars (RNNGs)
-##
+### First type of operation: introduce a new NT symbol (in this case, of type S)
+### Second type of operation: generate (GEN) a new terminal symbol (in this case, “The”)
