@@ -6,7 +6,7 @@ permalink: nlu%20natural%20language%20understanding%20generation%20and%20machine
 
 ## #UoE
 ## My Lecture Notes
-### Lecture 16 Neural Parsing
+### [[NLU Lecture 16 Neural Parsing]]
 :PROPERTIES:
 :id: 60355745-cbce-4ca6-b644-c7a9a672b14d
 :END:
