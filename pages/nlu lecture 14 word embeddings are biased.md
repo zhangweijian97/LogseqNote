@@ -2,13 +2,6 @@
 title: NLU Lecture 14 Word Embeddings are Biased
 ---
 
-## 
-
-##
-## [[NLU Lecture 14 Word Embeddings are Biased]]
-:PROPERTIES:
-:id: 6035493a-910e-432e-bb80-4973bfde4149
-:END:
 ### Bias in representations
 ### IAT Implicit-association test
 ### IAT for word embeddings
