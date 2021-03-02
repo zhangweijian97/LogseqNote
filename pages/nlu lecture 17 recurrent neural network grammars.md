@@ -24,4 +24,4 @@ title: NLU Lecture 17 Recurrent Neural Network Grammars
 ### 图
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302211624.png){:height 189, :width 342}
 ## pushdown automaton 下推自动机，概率下推自动机
-##
+###
