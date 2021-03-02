@@ -34,6 +34,4 @@ title: NLU Coursework 2
 #### [seq2seq 中的 beam search 算法过程是怎样的](https://www.zhihu.com/question/54356960/answer/138990060)
 ### q7 implementation
 ### q7 debuging
-#### 'encoder_embed_dim': 128, 'encoder_ffn_embed_dim': 512, 'encoder_layers': 2, 'encoder_attention_heads': 2, 'decoder_embed_dim': 128, 'decoder_ffn_embed_dim': 512, 'decoder_layers': 2, 'decoder_attention_heads': 2, 'dropout': 0.1, 'attention_dropout': 0.2, 'activation_dropout': 0.1, 'no_scale_embedding': False,
-####
 ###
