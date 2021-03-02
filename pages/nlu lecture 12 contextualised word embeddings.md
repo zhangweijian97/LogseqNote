@@ -2,7 +2,6 @@
 title: NLU Lecture 12 Contextualised Word Embeddings
 ---
 
-## [[NLU Lecture 12 Contextualised Word Embeddings]]
 ### 复习
 #### In lecture 10, we saw how we can stack transformers and use them for **classification**. We apply mean pooling to the output and map it onto a class vector.
 #### We can also use transformers for **sequence prediction**. For this we need to mask some of the input.

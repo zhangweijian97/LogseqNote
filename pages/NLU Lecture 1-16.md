@@ -6,7 +6,7 @@ permalink: nlu%20natural%20language%20understanding%20generation%20and%20machine
 
 ## #UoE
 ## My Lecture Notes
-### Lecture 13 Ethics in NLP
+### [[NLU Lecture 13 Ethics in NLP]]
 :PROPERTIES:
 :id: 60350bda-eb15-442e-8c85-04fdb69a9ab4
 :END:
