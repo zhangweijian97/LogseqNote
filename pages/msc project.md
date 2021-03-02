@@ -2,6 +2,8 @@
 title: MSc Project
 ---
 
+## 开始之前
+###
 ## Useful resource
 ### MSc Project FAQ http://www.inf.ed.ac.uk/teaching/courses/diss/faqstudent.html
 ### https://dpmt.inf.ed.ac.uk/msc/allocation-mode
