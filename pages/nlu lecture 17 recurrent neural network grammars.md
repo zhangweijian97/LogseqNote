@@ -26,7 +26,7 @@ title: NLU Lecture 17 Recurrent Neural Network Grammars
 ## pushdown automaton 下推自动机，概率下推自动机
 ### Compress
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302211941.png)
-###
+### 用RNN来预测下一个action
 ### 图
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302211852.png)
 ####
