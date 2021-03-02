@@ -61,4 +61,4 @@ title: NLU Lecture 17 Recurrent Neural Network Grammars
 ## summary
 ### RNNGs simulate a tree traversal—like a pushdown automaton, but with continuous rather than finite history.
 ### stack LSTM
-### top-down recency bias,
+### top-down recency bias
