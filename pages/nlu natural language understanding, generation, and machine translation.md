@@ -13,8 +13,8 @@ title: NLU Natural Language Understanding, Generation, and Machine Translation
 ### [[NLU Lecture 6 Recurrent Neural Networks and LSTMs]]
 ### [[NLU Lecture 7 Sequence-to-sequence models with attention]]
 ### [[NLU Lecture 8 Evaluating Machine Translation Systems]]
-###
-###
+### [[NLU Lecture 9 Open-Vocabulary Models]]
+### [[NLU Lecture 10 Transformer]]
 ###
 ###
 ### [[NLU Lecture 17 Recurrent Neural Network Grammars]]
