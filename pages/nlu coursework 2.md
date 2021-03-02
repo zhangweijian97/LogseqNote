@@ -43,4 +43,4 @@ title: NLU Coursework 2
 ##### 限制attention中每个位置能看到的内容
 ### [Transformer模型的PyTorch实现](https://luozhouyang.github.io/transformer/)
 #### 这篇内容很全
-###
+### q7实现完成，感谢冷文翔同学
