@@ -35,12 +35,16 @@ title: MSc Project
 ### 外部导师，来自华为（爱丁堡），很严格，会提供一些实践上的支持
 ### 本周任务，
 #### 阅读三篇论文 [[看板]]
-#### 1. K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters: https://arxiv.org/pdf/2002.01808
-#### 2. ERNIE: En-hanced Language Representation with InformativeEntities
+##### 1. K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters: https://arxiv.org/pdf/2002.01808
+##### 2. ERNIE: En-hanced Language Representation with InformativeEntities
  https://arxiv.org/pdf/1905.07129.pdf
-#### 3. KEPLER: A unified model for knowledge embedding and pre-trained lan- guage representation
+##### 3. KEPLER: A unified model for knowledge embedding and pre-trained lan- guage representation
  https://arxiv.org/pdf/1911.06136.pdf
-###
+#### 查询GPU资源
+##### 信院 李沛泽
+###### 可以通过导师批准申请Eddie
+###### https://www.wiki.ed.ac.uk/display/ResearchServices/Who+can+use+Eddie
+####
 ## 协作资源
 ### 共享文档 [Overleaf](https://www.overleaf.com/project/603e65c135d959aa06335871)
 ###
