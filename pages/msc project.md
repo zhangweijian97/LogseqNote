@@ -19,6 +19,7 @@ title: MSc Project
 ### https://github.com/## 导师 Jeff Z Pan
 ### j.z.pan@ed.ac.uk
 ### http://knowledge-representation.org/j.z.pan/
+### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302165217.png)
 ## [[IPP Tutorial 3]]
 
  Tutorial 3]]
