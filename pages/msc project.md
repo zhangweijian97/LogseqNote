@@ -28,7 +28,9 @@ title: MSc Project
 ### 用到pretrain model
 ### 理论上，导师先提供一些论文
 ### 实践上，先了解benchmark，了解一些，之后选择其中的改进
-### 会高强度协作
+### 最好和队友多协作
+### 最后要能出一两篇能发表的论文
+### 外部导师，来自华为（爱丁堡）
 ## 协作资源
 ### 共享文档 [Overleaf](https://www.overleaf.com/project/603e65c135d959aa06335871)
 ###
