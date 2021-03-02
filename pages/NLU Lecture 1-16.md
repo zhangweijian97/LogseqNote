@@ -7,8 +7,6 @@ permalink: nlu%20natural%20language%20understanding%20generation%20and%20machine
 ## #UoE
 ## My Lecture Notes
 ### [[NLU Lecture 1 Introduction]]
-#### Machine Translation
-##### Both input and output are text that convey the same meaning, but written in a different language or style.
 #### Objective
 ##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222235327.png)
 #### Methods
