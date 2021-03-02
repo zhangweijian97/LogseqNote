@@ -7,7 +7,9 @@ title: NLU Lecture 18 Unsupervised Parsing
 #### RNNs or transformers
 #### beam search or CYK
 #### {{embed ((603cffc5-abff-49eb-b5ad-4dbddcca69e4))}}
-### parser transitions
+### parser transitions [[NLU Lecture 17 Recurrent Neural Network Grammars]]
+#### the actions that are re q uired to build a s y ntax tree.
+#### Recurrent Neural Network Grammars ( RNNGs )
 ## Unsupervised Parsing
 ## Unsupervised Parsing via Constituency Tests
 ## Grammaticality Model
