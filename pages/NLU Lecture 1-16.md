@@ -6,7 +6,7 @@ permalink: nlu%20natural%20language%20understanding%20generation%20and%20machine
 
 ## #UoE
 ## My Lecture Notes
-### Lecture 1 Introduction
+### [[NLU Lecture 1 Introduction]]
 #### Natural Language Understanding
 ##### input is natural language
 ##### output is structured information
