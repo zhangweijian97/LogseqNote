@@ -7,7 +7,7 @@ title: NLU Natural Language Understanding, Generation, and Machine Translation
 ### [[NLU Lecture 1-16]]
 ### [[NLU Lecture 1 Introduction]]
 ### [[NLU Lecture 2 Machine Translation]]
-###
+### [[NLU Lecture 3 Machine translation with n-grams]]
 ### [[NLU Lecture 17 Recurrent Neural Network Grammars]]
 ### [[NLU Lecture 18 Unsupervised Parsing]]
 ##
