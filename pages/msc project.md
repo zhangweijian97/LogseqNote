@@ -29,6 +29,7 @@ title: MSc Project
 ### 理论上，导师先提供一些论文
 ### 实践上，先了解benchmark，了解一些
 ## 协作资源
-### 共享文档 [Overleaf]()
+### 共享文档 [Overleaf](https://www.overleaf.com/project/603e65c135d959aa06335871)
+###
 utorial 4]]
 ##
