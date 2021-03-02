@@ -5,10 +5,10 @@ title: MSc Project
 ## 开始之前
 ### MSc Project FAQ http://www.inf.ed.ac.uk/teaching/courses/diss/faqstudent.html
 ### https://dpmt.inf.ed.ac.uk/msc/allocation-mode
-###
-## Useful resource
 ### https://dpmt.inf.ed.ac.uk/msc/project/4972
 ### http://www.inf.ed.ac.uk/teaching/courses/diss/guide.html#Dissertation
+###
+## Useful resource
 ### https://github.com/thunlp/KRLPapers
 ### https://github.com/xinguoxia/KGE
 ## Supervisor
