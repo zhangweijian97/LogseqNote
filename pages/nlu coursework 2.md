@@ -40,4 +40,4 @@ title: NLU Coursework 2
 #### [transformer中自注意力和多头注意力的pytorch实现](https://www.cnblogs.com/xiximayou/p/13343856.html)
 #### [多头注意力机制（Multi-head Attention）及其在PyTorch中的使用方法分析](https://blog.csdn.net/HappyCtest/article/details/109847449)
 ##### mask掉序列中pad的位置
-#####
+##### 限制attention中每个位置能看到的内容
