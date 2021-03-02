@@ -26,6 +26,7 @@ title: MSc Project
 ## ((603e4851-2342-45f2-9c73-a70b67e70a77)) 总结
 ### 用到语言模型
 ### 用到pretrain model
-### 理论上，
+### 理论上，导师先提供一些论文
+### 实践上，先了解benchmark，了解一些
 utorial 4]]
 ##
