@@ -14,7 +14,9 @@ title: NLU Lecture 18 Unsupervised Parsing
 ### 以上都需要labeled data
 ## Unsupervised Parsing
 ### 现状
-#### old problem
+#### old problem Gold’s theorem
+#### treebanks for a few dozen languages
+#####
 ## Unsupervised Parsing via Constituency Tests
 ## Grammaticality Model
 ## Results
