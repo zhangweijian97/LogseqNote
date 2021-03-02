@@ -34,4 +34,5 @@ title: NLU Coursework 2
 #### [seq2seq 中的 beam search 算法过程是怎样的](https://www.zhihu.com/question/54356960/answer/138990060)
 ### q7 implementation
 ### q7 debug
-###
+### mask
+####
