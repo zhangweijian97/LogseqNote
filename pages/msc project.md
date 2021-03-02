@@ -44,7 +44,7 @@ title: MSc Project
 ##### 信院 李沛泽
 ###### 可以通过导师批准申请Eddie
 ###### https://www.wiki.ed.ac.uk/display/ResearchServices/Who+can+use+Eddie
-####
+#### 找新的论文？
 ## 协作资源
 ### 共享文档 [Overleaf](https://www.overleaf.com/project/603e65c135d959aa06335871)
 ###
