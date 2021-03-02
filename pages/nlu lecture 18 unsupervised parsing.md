@@ -19,7 +19,8 @@ title: NLU Lecture 18 Unsupervised Parsing
 #### SotA F-score is around 60，for supervised parsing >95
 #### unsupervised parsing can be used as the first stage in constructing larger treebanks.
 ### constituency tests
-###
+#### constituent
+#####
 ## Unsupervised Parsing via Constituency Tests
 ## Grammaticality Model
 ## Results
