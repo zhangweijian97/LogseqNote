@@ -71,6 +71,9 @@ s(T)=\sum_{(i, j, l) \in T} s(i, j, l)
 $$
 ##### CYK
 ##### overall architecture
+:PROPERTIES:
+:id: 603cffc5-abff-49eb-b5ad-4dbddcca69e4
+:END:
 ###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302233316.png)
 ##### transformer block
 ##### Factored Attention Head
