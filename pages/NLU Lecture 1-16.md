@@ -6,7 +6,7 @@ permalink: nlu%20natural%20language%20understanding%20generation%20and%20machine
 
 ## #UoE
 ## My Lecture Notes
-### Lecture 7 Sequence-to-sequence models with attention
+### [[NLU Lecture 7 Sequence-to-sequence models with attention]]
 #### Encoding and decoding sequences
 ##### use RNN
 ##### problem

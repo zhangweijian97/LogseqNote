@@ -2,10 +2,6 @@
 title: NLU Lecture 6 Recurrent Neural Networks and LSTMs
 ---
 
-## 
-
-##
-## [[NLU Lecture 6 Recurrent Neural Networks and LSTMs]]
 ### Recurrent networks for language modelling
 #### RNN Architecture
 :PROPERTIES:
