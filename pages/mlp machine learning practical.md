@@ -42,4 +42,4 @@ title: MLP Machine Learning Practical
 :now: 1614795158561
 :later: 1614795157062
 :END:
-#####
+##### 注意inception_v3的输入大小为(299,299）
