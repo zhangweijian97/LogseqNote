@@ -35,3 +35,9 @@ title: MLP Machine Learning Practical
 :END:
 ##### Inception V3是可选模型的一种
 ##### 微调
+##### NOW 部署dice环境
+:PROPERTIES:
+:now: 1614795158561
+:later: 1614795157062
+:END:
+#####
