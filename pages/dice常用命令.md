@@ -13,3 +13,4 @@ title: dice常用命令
 ### bash run_vgg_38_0_0.sh
 ## {{embed [[tmux常用命令]] }}
 ## {{embed [[conda 常用命令]] }}
+##
