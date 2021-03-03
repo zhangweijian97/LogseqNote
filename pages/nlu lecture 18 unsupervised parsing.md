@@ -66,5 +66,7 @@ $$
 t^{*}(\text { sent })=\underset{t \in T(\text { len }(\text { sent }))}{\operatorname{argmax}} \sum_{(i, j) \in t} s_{\theta}(\text { sent }, i, j)
 $$
 ## Grammaticality Model
+### 如何得到上面的 $$g_{\theta}$$
+###
 ## Results
 ##
