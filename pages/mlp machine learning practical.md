@@ -33,4 +33,5 @@ title: MLP Machine Learning Practical
 :PROPERTIES:
 :now: 1614792290134
 :END:
-##### Inception V3是
+##### Inception V3是可选模型的一种
+#####
