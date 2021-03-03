@@ -85,6 +85,7 @@ $$
 $$
 \sum_{(i, j) \in t^{*}(\text { sent })} \log \left(s_{\theta}(\text { sent }, i, j)\right)+\sum_{(i, j) \notin t^{*}(\text { sent })} \log \left(1-s_{\theta}(\text { sent }, i, j)\right)
 $$
+##### score $$s_{\theta}(\text { sent }, i, j)$$ only depends on the grammaticality model,
 #####
 ## Results
 ##
