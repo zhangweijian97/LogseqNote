@@ -58,7 +58,11 @@ $$
 $$
 s_{\theta}(\text { sent }, i, j)=\frac{1}{|C|} \sum_{c \in C} g_{\theta}(c(\text { sent }, i, j))
 $$
+#### choose the tree with the best total score.
 #####
+$$
+t^{*}(\text { sent })=\underset{t \in T(\text { len }(\text { sent }))}{\operatorname{argmax}} \sum_{(i, j) \in t} s_{\theta}(\text { sent }, i, j)
+$$
 ## Grammaticality Model
 ## Results
 ##
