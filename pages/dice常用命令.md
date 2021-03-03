@@ -14,6 +14,8 @@ title: dice常用命令
 ## longjob
 ### longjob -28day -nobackground -c "bash xxxx.sh"
 ### bash run_vgg_38_0_0.sh
+## lsof -ti:24641 | xargs kill -9
+## ssh -N -f -L localhost:24641:localhost:23344 s2119299@starship
 ## {{embed [[tmux常用命令]] }}
 ## {{embed [[conda常用命令]] }}
 ## {{embed [[GPU常用命令]] }}
