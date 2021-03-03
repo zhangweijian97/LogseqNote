@@ -90,4 +90,9 @@ $$
 ### 略，p16
 ### Combination with Unsupervised RNNG
 ## Summary
-###
+### We don't have treebanks for most of the world's language, so we can't train supervised parsers.
+### Instead, use unsupervised parsing models, which learn syntax trees from unlabeled text.
+### Use constituency tests from linguistic theory: transformation applied to a sentence span that preserves grammaticality.
+### Requires a model to judge grammaticality. Obtained by fine-tuning RoBERTa
+### Select the parse tree that maximizes the grammaticality scores of its spans.
+### Performs well, but requires with refinement (self-training); can be combined with Unsupervised RNNG.
