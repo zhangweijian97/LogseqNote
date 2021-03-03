@@ -70,7 +70,7 @@ $$
 ### 通常来说，need a corpus of grammatical and ungrammatical sentences as training data。但是这算是监督
 ### 所以，用real/fake task
 #### an unlabeled corpus of sentences and a set of **corruptions**
-#### predict whether a sentence is real or corrupted.
+#### **predict whether a sentence is real or corrupted.**
 ### not trained from scratch
 ### by ﬁne-tuning RoBERTa
 ### set of corruptions
