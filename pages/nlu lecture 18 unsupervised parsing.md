@@ -47,6 +47,8 @@ $$
 #### Assumption: the span is a constituent if the transformed sentence is grammatical.
 #### We need a set of transformations (manually specified) and a grammaticality model (learned).
 #### inductive bias.
+#### 例子，p11，略
+### Parsing Algorithm
 ####
 ## Grammaticality Model
 ## Results
