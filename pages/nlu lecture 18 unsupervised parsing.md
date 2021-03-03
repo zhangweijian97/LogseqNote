@@ -71,8 +71,7 @@ $$
 ### 所以，用real/fake task
 #### an unlabeled corpus of sentences and a set of **corruptions**
 #### predict whether a sentence is real or corrupted.
-###
-###
-###
+### not trained from scratch
+### by ﬁne-tuning RoBERTa
 ## Results
 ##
