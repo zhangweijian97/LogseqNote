@@ -46,5 +46,8 @@ title: MLP Machine Learning Practical
 ##### 初始化模型
 ##### 加载数据
 ##### 创建优化器
-##### 试一下换成gpu
+##### LATER 试一下换成gpu
+:PROPERTIES:
+:later: 1614806106013
+:END:
 #####
