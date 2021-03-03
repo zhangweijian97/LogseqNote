@@ -11,3 +11,4 @@ title: tmux常用命令
 ## tmux kill-session -t 0 杀死
 ## tmux ls 查看
 ## tmux switch -t 0
+##
