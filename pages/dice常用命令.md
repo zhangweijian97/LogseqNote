@@ -12,4 +12,5 @@ title: dice常用命令
 ### longjob -28day -nobackground -c "bash xxxx.sh"
 ### bash run_vgg_38_0_0.sh
 ## {{embed [[tmux常用命令]] }}
+## [[conda常用命令]]
 ##
