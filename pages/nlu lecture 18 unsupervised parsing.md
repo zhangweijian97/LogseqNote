@@ -36,7 +36,15 @@ title: NLU Lecture 18 Unsupervised Parsing
 ### constituency tests
 #### Transformation function
 #####
+$$
+c:(\text { sent }, i, j) \mapsto \text { sent }^{\prime}
+$$
 #### Judgment function
+#####
+$$
+g: \text { sent } \mapsto\{0,1\}
+$$
+####
 ## Grammaticality Model
 ## Results
 ##
