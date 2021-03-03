@@ -19,4 +19,5 @@ title: dice常用命令
 ### print(torch.__version__)
 ### print(torch.version.cuda)
 ### print(torch.backends.cudnn.version())
+## {{embed [[GPU常用命令]] }}
 ##
