@@ -80,7 +80,11 @@ $$
 #### 2. Use these trees as pseudo-gold labels to update the span judgments.
 #### 3. Repeat for the next batch of sentences.
 #### Updating span judgments
-##### minimize binar y cross-entro py
+##### minimize binary cross-entropy
+#####
+$$
+\sum_{(i, j) \in t^{*}(\text { sent })} \log \left(s_{\theta}(\text { sent }, i, j)\right)+\sum_{(i, j) \notin t^{*}(\text { sent })} \log \left(1-s_{\theta}(\text { sent }, i, j)\right)
+$$
 #####
 ## Results
 ##
