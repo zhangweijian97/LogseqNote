@@ -33,7 +33,8 @@ title: NLU Lecture 18 Unsupervised Parsing
 #### check if the result is grammatical
 #### aggregating
 #### highest score
-###
+### constituency tests
+####
 ## Grammaticality Model
 ## Results
 ##
