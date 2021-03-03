@@ -79,5 +79,7 @@ $$
 #### 1. Using the span-based algorithm, parse a batch B of sentences.
 #### 2. Use these trees as pseudo-gold labels to update the span judgments.
 #### 3. Repeat for the next batch of sentences.
+#### Updating span judgments
+#####
 ## Results
 ##
