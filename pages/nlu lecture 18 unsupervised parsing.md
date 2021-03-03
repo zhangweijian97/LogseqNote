@@ -29,6 +29,7 @@ title: NLU Lecture 18 Unsupervised Parsing
 ### 2020年，combines constituency tests with pre-trained language models
 ## Unsupervised Parsing via Constituency Tests
 ### constituency tests
+### check if the result is grammatical
 ###
 ## Grammaticality Model
 ## Results
