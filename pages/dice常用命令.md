@@ -9,12 +9,11 @@ title: dice常用命令
 ### conda activate mlp
 ## 进入文件夹
 ### cd nlu/cw2/nlu_cw2/
-##
+## Jupyter Notebook
 ### nice -n 19 jupyter notebook --no-browser --port 23344
 ## longjob
 ### longjob -28day -nobackground -c "bash xxxx.sh"
 ### bash run_vgg_38_0_0.sh
-## nice -n 19 jupyter notebook --no-browser --port 23344
 ## {{embed [[tmux常用命令]] }}
 ## {{embed [[conda常用命令]] }}
 ## {{embed [[GPU常用命令]] }}
