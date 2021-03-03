@@ -45,7 +45,8 @@ $$
 g: \text { sent } \mapsto\{0,1\}
 $$
 #### Assumption: the span is a constituent if the transformed sentence is grammatical.
-#### 需要
+#### We need a set of transformations (manually specified) and a grammaticality model (learned).
+####
 ## Grammaticality Model
 ## Results
 ##
