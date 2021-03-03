@@ -30,8 +30,7 @@ title: MLP Machine Learning Practical
 ##### 要用tensorflow的还是pytorch的
 ###### 我先试试pytorch，我比较熟悉
 ##### 要用gpu吗，看github，两个都可以用gpu
-###### 先试试cpu的，看看速度和效果如何
-######
+###### 先试试cpu，看看速度和效果如何
 #### 阅读 [Torchvision模型微调](https://pytorch.apachecn.org/docs/1.0/finetuning_torchvision_models_tutorial.html)
 :PROPERTIES:
 :now: 1614792290134
