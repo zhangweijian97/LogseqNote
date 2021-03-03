@@ -10,6 +10,7 @@ title: GPU常用命令
 ### print(torch.__version__)
 ### print(torch.version.cuda)
 ### print(torch.backends.cudnn.version())
+### torch.cuda.is_available()
 ### torch.cuda.device_count()
 ### torch.cuda.get_device_name(0)
 ### torch.cuda.current_device()
