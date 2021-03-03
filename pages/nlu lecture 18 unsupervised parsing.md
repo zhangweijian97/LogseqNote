@@ -49,7 +49,7 @@ $$
 #### inductive bias.
 #### 例子，p11，略
 ### Parsing Algorithm
-#### score each span
+#### score each span，
 ## Grammaticality Model
 ## Results
 ##
