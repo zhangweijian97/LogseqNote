@@ -13,7 +13,7 @@ title: dice常用命令
 ### bash run_vgg_38_0_0.sh
 ## nice -n 19 jupyter notebook --no-browser --port 23344
 ## {{embed [[tmux常用命令]] }}
-## {{embed [[conda 常用命令]] }}
+## {{embed [[conda常用命令]] }}
 ## pytorch 显卡
 ### import torch
 ### print(torch.__version__)
