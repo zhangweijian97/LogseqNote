@@ -7,6 +7,7 @@ title: dice常用命令
 ## 激活环境
 ### source ~/miniconda3/etc/profile.d/conda.sh
 ### conda activate mlp
+##
 ### cd nlu/cw2/nlu_cw2/
 ### nice -n 19 jupyter notebook --no-browser --port 23344
 ## longjob
