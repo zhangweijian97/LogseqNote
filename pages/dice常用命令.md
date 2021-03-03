@@ -11,6 +11,7 @@ title: dice常用命令
 ## longjob
 ### longjob -28day -nobackground -c "bash xxxx.sh"
 ### bash run_vgg_38_0_0.sh
+## nice -n 19 jupyter notebook --no-browser --port 23344
 ## {{embed [[tmux常用命令]] }}
 ## {{embed [[conda 常用命令]] }}
 ##
