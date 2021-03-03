@@ -54,7 +54,11 @@ $$
 $$
 g_{\theta}: \text { sent } \mapsto[0,1]
 $$
-####
+#####
+$$
+s_{\theta}(\text { sent }, i, j)=\frac{1}{|C|} \sum_{c \in C} g_{\theta}(c(\text { sent }, i, j))
+$$
+#####
 ## Grammaticality Model
 ## Results
 ##
