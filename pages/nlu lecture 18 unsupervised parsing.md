@@ -68,6 +68,7 @@ $$
 ## Grammaticality Model
 ### 如何得到上面的 $$g_{\theta}$$
 ### need a corpus of grammatical and ungrammatical sentences as training data
-###
+### 但是这算是监督
+### 所以
 ## Results
 ##
