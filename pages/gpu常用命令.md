@@ -3,7 +3,7 @@ title: GPU常用命令
 ---
 
 ## nvidia-smi
-## pytorch 显卡
+## 和 pytorch
 ### import torch
 ### print(torch.__version__)
 ### print(torch.version.cuda)
