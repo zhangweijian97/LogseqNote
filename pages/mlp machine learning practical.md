@@ -26,5 +26,7 @@ title: MLP Machine Learning Practical
 ###### **问题**是我们的数据集太小了，微调需要足够的数据集，Text2FaceGAN说要50M，网上则说每类至少100张
 #### 问题
 ##### 要用tensorflow的还是pytorch的
+###### 我先试试pytorch，我比较熟悉
 ##### 要用gpu吗，看github，两个都可以用gpu
+###### 先试试不用gpu的，看看速度和效果如何
 ####
