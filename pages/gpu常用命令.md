@@ -2,6 +2,7 @@
 title: GPU常用命令
 ---
 
+## lspci | grep -i nvidia
 ## nvidia-smi
 ## 和 pytorch
 ### import torch
