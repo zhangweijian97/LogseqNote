@@ -51,6 +51,10 @@ $$
 ### Parsing Algorithm
 #### score each span，
 #####
+$$
+g_{\theta}: \text { sent } \mapsto[0,1]
+$$
+####
 ## Grammaticality Model
 ## Results
 ##
