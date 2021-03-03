@@ -8,7 +8,7 @@ title: MLP Machine Learning Practical
 :END:
 ### 前略
 ### 资源
-####
+#### ((603fd356-d8cf-4835-a88c-a6fa3ffd71ad))
 ### 评估方法
 #### 两个方法
 ##### [[Inception Score]]
