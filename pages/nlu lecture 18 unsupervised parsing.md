@@ -34,7 +34,9 @@ title: NLU Lecture 18 Unsupervised Parsing
 #### aggregating
 #### highest score
 ### constituency tests
-####
+#### Transformation function
+#####
+#### Judgment function
 ## Grammaticality Model
 ## Results
 ##
