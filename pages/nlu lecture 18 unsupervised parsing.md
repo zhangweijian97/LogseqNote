@@ -28,10 +28,12 @@ title: NLU Lecture 18 Unsupervised Parsing
 ### 现在，神经网络版本
 ### 2020年，combines constituency tests with pre-trained language models
 ## Unsupervised Parsing via Constituency Tests
-### constituency tests
-### check if the result is grammatical
-### aggregating
-### highest score
+### general
+#### constituency tests
+#### check if the result is grammatical
+#### aggregating
+#### highest score
+###
 ## Grammaticality Model
 ## Results
 ##
