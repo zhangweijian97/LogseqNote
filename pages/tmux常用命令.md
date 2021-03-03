@@ -8,6 +8,6 @@ title: tmux常用命令
 ### command+b，d
 ## tmux a 重新接入会话
 ### tmux a -t demo
-## tmux ls
-## tmux kill-session -t 0
+## tmux ls 列出
+## tmux kill-session -t 0 杀死
 ## tmux switch -t 0
