@@ -29,7 +29,7 @@ title: MLP Machine Learning Practical
 ###### 我先试试pytorch，我比较熟悉
 ##### 要用gpu吗，看github，两个都可以用gpu
 ###### 先试试不用gpu的，看看速度和效果如何
-#### NOW 阅读 [Torchvision模型微调](https://pytorch.apachecn.org/docs/1.0/finetuning_torchvision_models_tutorial.html)
+#### 阅读 [Torchvision模型微调](https://pytorch.apachecn.org/docs/1.0/finetuning_torchvision_models_tutorial.html)
 :PROPERTIES:
 :now: 1614792290134
 :END:
