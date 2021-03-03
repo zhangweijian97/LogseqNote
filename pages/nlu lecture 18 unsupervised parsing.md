@@ -67,8 +67,7 @@ t^{*}(\text { sent })=\underset{t \in T(\text { len }(\text { sent }))}{\operato
 $$
 ## Grammaticality Model
 ### 如何得到上面的 $$g_{\theta}$$
-### need a corpus of grammatical and ungrammatical sentences as training data
-### 但是这算是监督
-### 所以
+### 通常来说，need a corpus of grammatical and ungrammatical sentences as training data。但是这算是监督
+### 所以，用real/fake task
 ## Results
 ##
