@@ -25,7 +25,7 @@ FID并不使用Inception Net-V3的原本输出作为依据，它删除模型原�
 ### 加合适的标签（归入对应的卡片盒）
 ### #EvaluationMethod #MachineLearning #GAN
 ## 索引
-### Github Repo TF Official [](https://github.com/bioinf-jku/TTUR)
+### Github Repo TF Official [TTUR](https://github.com/bioinf-jku/TTUR)
 ### Github Repo TF [Fréchet Inception Distance](https://github.com/tsc2017/Frechet-Inception-Distance)
 ### Github Repo PyTorch [FID score for PyTorch](https://github.com/mseitzer/pytorch-fid)
 ### Arxiv [GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium ](https://arxiv.org/abs/1706.08500)
