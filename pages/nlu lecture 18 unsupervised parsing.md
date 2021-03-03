@@ -58,7 +58,8 @@ $$
 $$
 s_{\theta}(\text { sent }, i, j)=\frac{1}{|C|} \sum_{c \in C} g_{\theta}(c(\text { sent }, i, j))
 $$
-#### choose the tree with the best total score.
+#### score each tree
+##### summing the scores of its spans and choose the highest scoring binary tree via CYK
 #####
 $$
 t^{*}(\text { sent })=\underset{t \in T(\text { len }(\text { sent }))}{\operatorname{argmax}} \sum_{(i, j) \in t} s_{\theta}(\text { sent }, i, j)
