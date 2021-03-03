@@ -30,7 +30,7 @@ title: NLU Lecture 18 Unsupervised Parsing
 ## Unsupervised Parsing via Constituency Tests
 ### constituency tests
 ### check if the result is grammatical
-### a gg re g atin g
+### aggregating
 ### highest score
 ## Grammaticality Model
 ## Results
