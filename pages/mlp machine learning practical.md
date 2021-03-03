@@ -11,7 +11,7 @@ title: MLP Machine Learning Practical
 #### 两个方法
 ##### [[Inception Score]]
 ##### [[Fréchet Inception Distance]]
-#### 方案一
+#### 方案一，弃用
 ##### 把我们的模型丢去ImageNet训练，生成它的图片，然后跑Inception Score和FID
 ##### 原因
 ######
