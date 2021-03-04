@@ -72,7 +72,9 @@ http://homepages.inf.ed.ac.uk/pseries/
 ###### 可以通过导师批准申请Eddie
 ###### https://www.wiki.ed.ac.uk/display/ResearchServices/Who+can+use+Eddie
 #### 找新的论文？
-#### 和黄文禹一起学���
+#### 和黄文禹一起学��
+## /pa
+��
 ##
 utorial 4]]
 ##
