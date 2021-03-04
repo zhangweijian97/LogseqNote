@@ -30,6 +30,7 @@ FID并不使用Inception Net-V3的原本输出作为依据，它删除模型原�
 ### Github Repo PyTorch [FID score for PyTorch](https://github.com/mseitzer/pytorch-fid)
 ### Arxiv [GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium ](https://arxiv.org/abs/1706.08500)
 ### 博客文章 机器之心 [学习GAN模型量化评价，先从掌握FID开始吧](https://www.jiqizhixin.com/articles/2019-10-14-13)
+### [How to Implement the Frechet Inception Distance (FID) for Evaluating GANs](https://machinelearningmastery.com/how-to-implement-the-frechet-inception-distance-fid-from-scratch/)
 ## Literature Note
 ### Bib
 ####
