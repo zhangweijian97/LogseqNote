@@ -13,6 +13,7 @@ title: MLP Machine Learning Practical
 :id: 604025bb-1ba8-45b1-a886-9ae94553d1a2
 :END:
 #### ((603fd356-d8cf-4835-a88c-a6fa3ffd71ad))
+#### [](http://image-net.org/download-images)
 ### 评估方法
 #### 两个方法
 ##### [[Inception Score]]
