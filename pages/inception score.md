@@ -51,6 +51,9 @@ $$
 ### #EvaluationMethod #MachineLearning #GAN
 ## 索引
 ### [inception score trained on birds](https://github.com/hanzhanggit/StackGAN-inception-model)
+:PROPERTIES:
+:id: 60411a97-c2a7-4f35-a818-a3955b69c8f3
+:END:
 ### [inception score trained on coco](https://github.com/openai/improved-gan/tree/master/inception_score)
 ### 博客文章 [Inception Score原理及其代码实现](https://zhuanlan.zhihu.com/p/263652288) [InceptionScore](https://fx0809.gitee.io/2020/10/09/InceptionScore/)
 ### Github Repo [Inception Score Pytorch](https://github.com/sbarratt/inception-score-pytorch)
