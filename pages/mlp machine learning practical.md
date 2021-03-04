@@ -14,6 +14,7 @@ title: MLP Machine Learning Practical
 :END:
 #### ((603fd356-d8cf-4835-a88c-a6fa3ffd71ad))
 #### [ImageNet](http://image-net.org/download-images)
+#### [OpenAI CLIP: ConnectingText and Images (Paper Explained)](https://www.bilibili.com/video/BV1th411y7Nm)
 ####
 ### 评估方法
 #### 两个方法
