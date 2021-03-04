@@ -16,14 +16,12 @@ title: MSc Project
 ### https://github.com/thunlp/KRLPapers
 ### https://github.com/xinguoxia/KGE
 ### **共享文档** [Overleaf](https://www.overleaf.com/project/603e65c135d959aa06335871)
+### ethics approval
 ## 导师 Jeff Z Pan
 ### j.z.pan@ed.ac.uk
 ### http://knowledge-representation.org/j.z.pan/
 ### 照片 [[Mar 2nd, 2021]]
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302165217.png)
-## 队友 黄文禹
-### 照片 [[Mar 2nd, 2021]]
-#### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302204346.png)
 ## [[IPP Tutorial 3]]
 
  Tutorial 3]]
