@@ -9,6 +9,9 @@ title: MLP Machine Learning Practical
 ### 前略
 ### 资源
 #### [DCGAN 教程](https://pytorch.apachecn.org/docs/1.7/22.html)
+:PROPERTIES:
+:id: 604025bb-1ba8-45b1-a886-9ae94553d1a2
+:END:
 #### ((603fd356-d8cf-4835-a88c-a6fa3ffd71ad))
 ### 评估方法
 #### 两个方法
