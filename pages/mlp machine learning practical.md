@@ -18,7 +18,7 @@ title: MLP Machine Learning Practical
 :PROPERTIES:
 :id: 60411750-41c8-4ada-a8ad-0d110c5e9565
 :END:
-####
+#### https://openai.com/blog/dall-e/
 ### 评估方法
 #### 两个方法
 ##### [[Inception Score]]
