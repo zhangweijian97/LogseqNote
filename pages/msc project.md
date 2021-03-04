@@ -17,6 +17,32 @@ title: MSc Project
 ### https://github.com/xinguoxia/KGE
 ### **共享文档** [Overleaf](https://www.overleaf.com/project/603e65c135d959aa06335871)
 ### Ethics procedure
+#### Dear MSc students (and MSc supervisors),
+Now that you have been allocated a MSc project and will start working on your IPP, this message is to let you know about the ethics procedure in Informatics, which you will have to go through if your research project involves human participants or personal data, including social media and secondary data.
+Ethics applications are submitted online.
+You will find the link to the form there, as well as a lot of information for ethics approval and a FAQ:
+https://web.inf.ed.ac.uk/infweb/research/ethics-and-integrity/ethics-procedure 
+
+There are also templates for: 1) participant information sheets and 2) consent forms that we ask you to use if your research involves human participants:
+https://web.inf.ed.ac.uk/infweb/research/ethics-and-integrity/ethics-resources
+
+Students will have to prepare and submit the form *with their supervisor*.
+
+Of course, in-person data collection is not possible at this time - it can only be online. Please have a look at the recommendations regarding covid19 there.
+https://web.inf.ed.ac.uk/infweb/research/ethics-and-integrity/ethics-covid-19
+
+Please also apply early, possibly as early as submission of your IPP if you can.
+We try to respond within 10 days, but maybe slower in this period.
+We will also be grateful if not all applications come at the same time.
+
+All the best for your MSc project!
+
+Best wishes,
+Peggy (as Chair of Informatics Ethics Committee)
+
+--
+Peggy Seriès
+http://homepages.inf.ed.ac.uk/pseries/
 ## 导师 Jeff Z Pan
 ### j.z.pan@ed.ac.uk
 ### http://knowledge-representation.org/j.z.pan/
