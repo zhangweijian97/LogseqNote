@@ -76,10 +76,9 @@ slide design: structure, key points, figures, and legibility
 ##### 4.3.1 Mutual Information
 ##### 4.3.2 Deﬁning ICA by Mutual Information
 #### 4.4 Maximum Likelihood Estimation
-##### 4.4 Maximum Likelihood Estimation
-###### 4.4.1 The likelihood
-###### 4.4.2 The Infomax Principle
-###### 4.4.3 Connection to mutual information
+##### 4.4.1 The likelihood
+##### 4.4.2 The Infomax Principle
+##### 4.4.3 Connection to mutual information
 #### 4.5 ICA and Projection Pursuit
 ### 5 Preprocessing for ICA
 :PROPERTIES:
