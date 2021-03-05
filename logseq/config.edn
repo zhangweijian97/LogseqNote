@@ -71,7 +71,7 @@
  []
 
  ;; Shortcut
- :shortcuts {:ui/toggle-theme "mod+c mod+t"}
+ :shortcuts {:editor/highlight "mod+c mod+t"} 
  
  ;; Macros replace texts and will make you more productive.
  ;; For example:
