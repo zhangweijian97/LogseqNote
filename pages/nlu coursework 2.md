@@ -55,4 +55,5 @@ title: NLU Coursework 2
 ##### [tgt_time_steps, batch_size, num_features]
 #### attn_weights
 ##### batch_size, tgt_time_steps, src_time_steps
-####
+#### src_embeddings
+#####
