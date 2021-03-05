@@ -58,3 +58,5 @@ slide design: structure, key points, figures, and legibility
 ### 4.2 Measures of nongaussianity
 #### 4.2.1 Kurtosis
 #### 4.2.2 Negentropy
+#### 4.2.3 Approximations of negentropy
+### 4.3 Minimization of Mutual Information
