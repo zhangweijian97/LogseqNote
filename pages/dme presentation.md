@@ -29,4 +29,15 @@ title: DME Presentation
 #### using Office365 (Slide Show -> Record Slide Show)
 #### using Zoom or BBCollab
 #### any other method of choice (e.g. Jitsi+Dropbox)
-##
+## Marking
+### 3 parts
+#### presentation,
+#### performance at the Q&A session, and
+#### (weighted) audience feedback
+:PROPERTIES:
+:later: 1614954227731
+:END:
+### marking criteria
+#### style: fluency, coherence within team, and audience engagement
+understanding: characterise the paper faithfully and in an accessible way
+slide design: structure, key points, figures, and legibility
