@@ -60,3 +60,5 @@ title: NLU Coursework 2
 #### weighted_avg_embeddings
 ##### batch_size, output_dims
 #### decoder_output
+##### tgt_time_steps, batch_size, self.hidden_size
+####
