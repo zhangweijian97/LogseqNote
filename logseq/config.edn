@@ -71,7 +71,7 @@
  []
 
  ;; Shortcut
- :shortcuts {:editor/highlight "mod+c mod+t"} 
+ :shortcuts {:editor/highlight "mod+shift+h"} 
  
  ;; Macros replace texts and will make you more productive.
  ;; For example:
