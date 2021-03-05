@@ -44,4 +44,10 @@ slide design: structure, key points, figures, and legibility
 ### engagement
 #### indicate their choice of paper and provide **a brief 1-paragraph summary **along with **a brief list (2-3) of questions** about it, using the [Engagement (Pre) form](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYW0VF5r2yGtKrh0Evy9IFfZUNFlQWVk4OUpHTEZFTkFJSDM5QTNJVVBSOC4u).
 #### attend the presentation of the paper (by the concomitant group) to subsequently provide feedback on that presentation using the [Engagement (Post) form](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYW0VF5r2yGtKrh0Evy9IFfZURjM0VlFPSjNVWThVSTZQQzRPSjFBMVE2Mi4u).
-##
+## 1 Motivation
+## 2 Independent Component Analysis
+### 2.1 Definition of ICA
+### 2.2 Ambiguties of ICA
+### 2.3 Illustration of ICA
+## 3 What is independence?
+### 3.1
