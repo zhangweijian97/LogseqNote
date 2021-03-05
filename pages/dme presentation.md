@@ -61,6 +61,9 @@ slide design: structure, key points, figures, and legibility
 #### 3.2 Uncorrelated variables are only partly independent
 #### 3.3 Why Gaussian variables are forbidden
 ### 4 Principles of ICA estimation
+:PROPERTIES:
+:id: 60424453-a852-4e6c-9532-efd9111a44ed
+:END:
 #### 4.1 “Nongaussian is independent”
 #### 4.2 Measures of nongaussianity
 ##### 4.2.1 Kurtosis
