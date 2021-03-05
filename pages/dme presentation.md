@@ -71,3 +71,5 @@ slide design: structure, key points, figures, and legibility
 ## 5 Preprocessing for ICA
 ### 5.1 Centering
 ### 5.2 Whitening
+### 5.3 Further preprocessing
+## 6 The FastICA Algorithm
