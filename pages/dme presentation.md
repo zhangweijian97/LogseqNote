@@ -75,3 +75,11 @@ slide design: structure, key points, figures, and legibility
 ## 6 The FastICA Algorithm
 ### 6.1 FastICA for one unit
 ### 6.2 FastICA for several units
+### 6.3 FastICA and maximum likelihood
+### 6.4 Properties of the FastICA Algorithm
+## 7 Applications of ICA
+### 7.1 Separation of Artifacts in MEG Data
+### 7.2 Finding Hidden Factors in Financial Data
+### 7.3 Reducing Noise in Natural Images
+### 7.4 Telecommunications
+## 8 Conclusion
