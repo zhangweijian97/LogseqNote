@@ -46,6 +46,9 @@ slide design: structure, key points, figures, and legibility
 #### attend the presentation of the paper (by the concomitant group) to subsequently provide feedback on that presentation using the [Engagement (Post) form](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYW0VF5r2yGtKrh0Evy9IFfZURjM0VlFPSjNVWThVSTZQQzRPSjFBMVE2Mi4u).
 ## outline
 ### 1 Motivation
+:PROPERTIES:
+:id: 60424562-b12a-4885-8cc4-af68644402c6
+:END:
 ### 2 Independent Component Analysis
 :PROPERTIES:
 :id: 604243f6-e77d-4f41-8a56-b08d7d19688d
