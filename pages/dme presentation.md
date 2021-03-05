@@ -98,9 +98,9 @@ slide design: structure, key points, figures, and legibility
 ### 8 Conclusion
 ## PPT outline
 ### Background
+#### {{embed ((604243f6-e77d-4f41-8a56-b08d7d19688d)) }}
 #### {{embed ((60424416-cf37-42be-affc-be3604879aae)) }}
 ### Method
-#### {{embed ((604243f6-e77d-4f41-8a56-b08d7d19688d)) }}
 #### {{embed ((6042449e-bd98-4391-a091-c6acdf5fe12f))}}
 ### Experiment
 ####
