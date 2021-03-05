@@ -47,3 +47,4 @@ title: NLU Coursework 2
 ### q7可能需要dropout，layer normalization等
 ### 先q5
 #### Improving Lexical Choice in Neural Machine Translation
+####
