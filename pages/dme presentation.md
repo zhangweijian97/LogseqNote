@@ -52,4 +52,5 @@ slide design: structure, key points, figures, and legibility
 ## 3 What is independence?
 ### 3.1 Definition and Fundamental properties
 ### 3.2 Uncorrelated variables are only partly independent
-###
+### 3.3 Why Gaussian variables are forbidden
+## 4 Principles of ICA estimation
