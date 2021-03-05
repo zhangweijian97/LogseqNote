@@ -48,6 +48,6 @@ title: NLU Coursework 2
 ### 先q5
 #### Improving Lexical Choice in Neural Machine Translation
 #### tgt_inputs
-##### batch，time step
+##### b，t
 #### src_embeddings = encoder_out['src_embeddings']
 ##### t，b，e
