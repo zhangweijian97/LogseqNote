@@ -50,4 +50,6 @@ slide design: structure, key points, figures, and legibility
 ### 2.2 Ambiguties of ICA
 ### 2.3 Illustration of ICA
 ## 3 What is independence?
-### 3.1
+### 3.1 Definition and Fundamental properties
+### 3.2 Uncorrelated variables are only partly independent
+###
