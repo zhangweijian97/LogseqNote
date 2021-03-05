@@ -73,3 +73,5 @@ slide design: structure, key points, figures, and legibility
 ### 5.2 Whitening
 ### 5.3 Further preprocessing
 ## 6 The FastICA Algorithm
+### 6.1 FastICA for one unit
+### 6.2 FastICA for several units
