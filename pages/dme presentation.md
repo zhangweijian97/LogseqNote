@@ -76,6 +76,9 @@ slide design: structure, key points, figures, and legibility
 ###### 4.4.3 Connection to mutual information
 #### 4.5 ICA and Projection Pursuit
 ### 5 Preprocessing for ICA
+:PROPERTIES:
+:id: 6042449e-bd98-4391-a091-c6acdf5fe12f
+:END:
 #### 5.1 Centering
 #### 5.2 Whitening
 #### 5.3 Further preprocessing
