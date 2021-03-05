@@ -29,4 +29,4 @@ title: DME Presentation
 #### using Office365 (Slide Show -> Record Slide Show)
 #### using Zoom or BBCollab
 #### any other method of choice (e.g. Jitsi+Dropbox)
-### Its entirely up to you whether you would prefer to record each members presentation individually and just concatenate/stitch them together into one video, or if you coordinate to record all members together in one go, or any other arrangement to suit.
+##
