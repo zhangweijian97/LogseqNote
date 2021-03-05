@@ -14,7 +14,7 @@ title: MLP Machine Learning Practical
 :END:
 #### ((603fd356-d8cf-4835-a88c-a6fa3ffd71ad))
 #### [ImageNet](http://image-net.org/download-images)
-#### [OpenAI CLIP: ConnectingText and Images (Paper Explained)](https://www.youtube.com/watch?v=T9XSU0pKX2E)
+#### CLIP [OpenAI CLIP: ConnectingText and Images (Paper Explained)](https://www.youtube.com/watch?v=T9XSU0pKX2E)
 :PROPERTIES:
 :id: 60411750-41c8-4ada-a8ad-0d110c5e9565
 :END:
