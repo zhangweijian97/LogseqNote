@@ -51,3 +51,5 @@ title: NLU Coursework 2
 ##### b，t
 #### src_embeddings = encoder_out['src_embeddings']
 ##### t，b，e
+#### tgt_embeddings
+##### [tgt_time_steps, batch_size, num_features]
