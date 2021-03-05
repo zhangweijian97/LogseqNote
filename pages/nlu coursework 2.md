@@ -45,7 +45,7 @@ title: NLU Coursework 2
 #### 这篇内容很全
 ### q7实现完成，感谢冷文翔同学
 ### q7可能需要dropout，layer normalization等
-### 先q5
+### 先q5实现
 #### Improving Lexical Choice in Neural Machine Translation
 #### tgt_inputs
 ##### b，t
@@ -62,3 +62,4 @@ title: NLU Coursework 2
 #### decoder_output
 ##### [batch_size, tgt_time_steps, num_features=4000+]
 ####
+###
