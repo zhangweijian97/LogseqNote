@@ -23,10 +23,10 @@ the first slide of your presentation should list
 #### each team member should present as part of the video.
 ##### We suggest splitting into contribution, background, methods, and experiments.
 ### upload to [presentation slides form](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRf8UZzTD55LtoM4GyB39n5UQTAxVDk4WFU2WEcwUktCT1hZOUtBNEdCViQlQCN0PWcu)
-#### record tool recommendation
-##### using Open Broadcaster Studio (OBS)
-##### screen record with ffmpeg or similar command line tools
-##### using Office365 (Slide Show -> Record Slide Show)
-##### using Zoom or BBCollab
-##### any other method of choice (e.g. Jitsi+Dropbox)
-#### Its entirely up to you whether you would prefer to record each members presentation individually and just concatenate/stitch them together into one video, or if you coordinate to record all members together in one go, or any other arrangement to suit.
+### record tool recommendation
+#### using Open Broadcaster Studio (OBS)
+#### screen record with ffmpeg or similar command line tools
+#### using Office365 (Slide Show -> Record Slide Show)
+#### using Zoom or BBCollab
+#### any other method of choice (e.g. Jitsi+Dropbox)
+### Its entirely up to you whether you would prefer to record each members presentation individually and just concatenate/stitch them together into one video, or if you coordinate to record all members together in one go, or any other arrangement to suit.
