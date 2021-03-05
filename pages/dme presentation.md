@@ -20,8 +20,8 @@ the first slide of your presentation should list
 ##### paper title
 ##### team ID (from the paper assignments)
 ##### UUN and names of the team members no specific constraints on formatting or any other info you wish to include
-each team member should present as part of the video.
-We suggest splitting into contribution, background, methods, and experiments.
+#### each team member should present as part of the video.
+#### We suggest splitting into contribution, background, methods, and experiments.
 Please upload the videos using the presentation slides form, naming your file appropriately as requested on the form.
 
 There is no specific way we require you to record your presentations. You can record them however you see fit. However, some suggestions to record presentations with audio are
