@@ -47,6 +47,9 @@ slide design: structure, key points, figures, and legibility
 ## outline
 ### 1 Motivation
 ### 2 Independent Component Analysis
+:PROPERTIES:
+:id: 604243f6-e77d-4f41-8a56-b08d7d19688d
+:END:
 #### 2.1 Definition of ICA
 #### 2.2 Ambiguties of ICA
 #### 2.3 Illustration of ICA
@@ -90,4 +93,7 @@ slide design: structure, key points, figures, and legibility
 ## PPT outline
 ### Background
 #### {{embed ((60424416-cf37-42be-affc-be3604879aae)) }}
-####
+### Method
+#### {{embed ((604243f6-e77d-4f41-8a56-b08d7d19688d)) }}
+### Experiment
+###
