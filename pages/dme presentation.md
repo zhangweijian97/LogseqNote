@@ -116,5 +116,5 @@ slide design: structure, key points, figures, and legibility
 #### {{embed ((604244b0-168e-439b-b6dc-e00e4d97f8cb))}}
 ### Contribution
 #### {{embed ((604244c7-e45c-403b-8301-37e98700d873)) }}
-## 中文
-###
+## 中文翻译
+### [详解独立成分分析]()
