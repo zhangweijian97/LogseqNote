@@ -85,6 +85,9 @@ slide design: structure, key points, figures, and legibility
 #### 6.3 FastICA and maximum likelihood
 #### 6.4 Properties of the FastICA Algorithm
 ### 7 Applications of ICA
+:PROPERTIES:
+:id: 604244c7-e45c-403b-8301-37e98700d873
+:END:
 #### 7.1 Separation of Artifacts in MEG Data
 #### 7.2 Finding Hidden Factors in Financial Data
 #### 7.3 Reducing Noise in Natural Images
@@ -96,4 +99,5 @@ slide design: structure, key points, figures, and legibility
 ### Method
 #### {{embed ((604243f6-e77d-4f41-8a56-b08d7d19688d)) }}
 ### Experiment
-###
+### Contribution
+####
