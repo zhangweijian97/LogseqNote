@@ -41,3 +41,6 @@ title: DME Presentation
 #### style: fluency, coherence within team, and audience engagement
 understanding: characterise the paper faithfully and in an accessible way
 slide design: structure, key points, figures, and legibility
+### engagement
+#### indicate their choice of paper and provide a brief 1-paragraph summary along with a brief list (2-3) of questions about it, using the Engagement (Pre) form.
+attend the presentation of the paper (by the concomitant group) to subsequently provide feedback on that presentation using the Engagement (Post) form.
