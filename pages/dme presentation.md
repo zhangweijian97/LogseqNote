@@ -15,7 +15,8 @@ title: DME Presentation
 ##### the video should be in MP4 format, and should be at a decent resolution (at least VGA)
 ##### not too large—the submission form stipulates a 100Mb file size limit
 #### the video should be at most 8 minutes long
-#### the video should be in “normal” speed; i.e not sped up to fit time limit the first slide of your presentation should list
+#### the video should be in “normal” speed; i.e not sped up to fit time limit
+#### the first slide of your presentation should list
 ##### paper title
 ##### team ID (from the paper assignments)
 ##### UUN and names of the team members no specific constraints on formatting or any other info you wish to include
