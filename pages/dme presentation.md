@@ -251,7 +251,8 @@ $$
 \operatorname{kurt}(y)=E\left\{y^{4}\right\}-3\left(E\left\{y^{2}\right\}\right)^{2}
 $$
 ##### 因为y的方差是1，所以化简
-###### 
+######
 $$
-\operatorname{kurt}(y)=E\left\{y^{4}\right\}-3\left(E\left\{y^{2}\right\}\right)^{2}=
+\operatorname{kurt}(y)=E\left\{y^{4}\right\}-3\left(E\left\{y^{2}\right\}\right)^{2}=E\left\{y^{4}\right\}-3
 $$
+#####
