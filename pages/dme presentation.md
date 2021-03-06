@@ -306,8 +306,8 @@ $$
 $$
 H(Y)=-\sum_{i} P\left(Y=a_{i}\right) \log P\left(Y=a_{i}\right)
 $$
-######## 连续
-#########
+####### 差分熵
+########
 $$
 H(\mathbf{y})=-\int f(\mathbf{y}) \log (f(\mathbf{y})) d \mathbf{y}
 $$
