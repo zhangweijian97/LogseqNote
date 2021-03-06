@@ -119,4 +119,5 @@ slide design: structure, key points, figures, and legibility
 ## 中文翻译
 ### [详解独立成分分析](https://j.mp/3bloY8M)
 ### 第一遍，收集要素
-#### 本部分关键在于目标函数。前面提到了给了动机
+#### 本部分关键在于目标函数。
+#### 前面的部分，首先引出了动机
