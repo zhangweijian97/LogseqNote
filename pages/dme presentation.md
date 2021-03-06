@@ -228,4 +228,10 @@ $$
 ###### W是A的逆矩阵
 ##### 所以如果w是W中的一行，那y就是s
 ##### 问题：如何使用中心极限定理去确定\mathbf{w}使得它等于矩阵\mathbf{A}的逆的一行
+##### 联立上面两个recall能得到
+######
+$$
+y=\mathbf{w}^{T} \mathbf{x}=\mathbf{w}^{T} \mathbf{A} \mathbf{s}=\mathbf{z}^{T} \mathbf{s}
+$$
+###### 其中 $$\mathbf{z}=\mathbf{A}^{T} \mathbf{w}$$
 #####
