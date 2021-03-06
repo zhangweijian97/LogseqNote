@@ -255,4 +255,9 @@ $$
 $$
 \operatorname{kurt}(y)=E\left\{y^{4}\right\}-3\left(E\left\{y^{2}\right\}\right)^{2}=E\left\{y^{4}\right\}-3
 $$
-#####
+##### 高斯变量的峰度是
+######
+$$
+3\left(E\left\{y^{2}\right\}\right)^{2}
+$$
+######
