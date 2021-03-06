@@ -224,4 +224,5 @@ y=\mathbf{w}^{T} \mathbf{x}=\sum_{i} w_{i} x_{i}
 $$
 ###### w是待求向量
 ##### recall
+###### {{embed ((6043fab8-579c-4fbb-887d-0d59e991afcd))}}
 ######
