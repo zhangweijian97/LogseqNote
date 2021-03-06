@@ -234,4 +234,4 @@ $$
 y=\mathbf{w}^{T} \mathbf{x}=\mathbf{w}^{T} \mathbf{A} \mathbf{s}=\mathbf{z}^{T} \mathbf{s}
 $$
 ###### 其中 $$\mathbf{z}=\mathbf{A}^{T} \mathbf{w}$$
-#####
+##### 所以
