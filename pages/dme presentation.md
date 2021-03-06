@@ -247,3 +247,7 @@ $$
 ##### 既然问题是最大化非高斯性，那么就需要一些方法，来度量它
 ##### 第一个方法是峰度Kurtosis
 ######
+$$
+\operatorname{kurt}(y)=E\left\{y^{4}\right\}-3\left(E\left\{y^{2}\right\}\right)^{2}
+$$
+#####
