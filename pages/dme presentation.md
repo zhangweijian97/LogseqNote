@@ -272,4 +272,4 @@ k u r t\left(x_{1}+x_{2}\right)=\operatorname{kurt}\left(x_{1}\right)+\operatorn
 \end{array}
 $$
 ###### x1，x2是独立随机变量，a是常数
-#####
+##### recall，y的表达式
