@@ -320,4 +320,5 @@ $$
 J(\mathbf{y})=H\left(\mathbf{y}_{\text {gauss }}\right)-H(\mathbf{y})
 $$
 ####### **优化问题**：最大化负熵
+####### 负熵难计算，用近似方法
 #######
