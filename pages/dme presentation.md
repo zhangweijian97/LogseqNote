@@ -191,4 +191,9 @@ E\left\{h_{1}\left(y_{1}\right) h_{2}\left(y_{2}\right)\right\}=E\left\{h_{1}\le
 $$
 ####### 后面用到
 ###### 独立independent和不相关Uncorrelated
-#######
+####### 不相关指两个随机变量y_{1}和y_{2}的协方差为0
+########
+$$
+E\left\{y_{1} y_{2}\right\}-E\left\{y_{1}\right\} E\left\{y_{2}\right\}=0
+$$
+####### 独立一定不相关，但是不相关不一定独立
