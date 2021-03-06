@@ -84,14 +84,12 @@ title: MLP Machine Learning Practical
 ##### Paragraph 5: This paragraph should not be part of this report. It’s about the project management side of things, it should be in your plan, not your introduction.
 ##### Paragraph 6: Lack of datasets and how you try to improve things.
 #### The overall narrative here is a bit confusing. I suggest reading:
-##### a. https://cs.stanford.edu/people/widom/paper-writing.html
-##### and
-##### b. https://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/
 ##### As a guide to your report writing.
-##### As well as
-##### c. http://karpathy.github.io/2016/09/07/phd/
-##### d. https://old.reddit.com/r/MachineLearning/comments/85cwiu/d_wellwritten_paper_examples/
+###### a. https://cs.stanford.edu/people/widom/paper-writing.html
+###### b. https://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/
 ##### For samples of good papers and further tips.
+###### c. http://karpathy.github.io/2016/09/07/phd/
+##### d. https://old.reddit.com/r/MachineLearning/comments/85cwiu/d_wellwritten_paper_examples/
 #### Dataset and Task:
 ##### There is no point in explaining how the dataset came to be and all of its revisions. Just state the dataset you use and why. You also mention your metric but do not explain what it is or how it works. Also, you never mention or describe your task in either mathematical notation or textual descriptions. Ideally you want something like ‘Our task, being text to image translation, involves learning a mapping f, that receives input datapoints x and generates bla bla bla.
 #### Methodology:
