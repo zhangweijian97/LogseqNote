@@ -235,5 +235,6 @@ y=\mathbf{w}^{T} \mathbf{x}=\mathbf{w}^{T} \mathbf{A} \mathbf{s}=\mathbf{z}^{T} 
 $$
 ###### 其中 $$\mathbf{z}=\mathbf{A}^{T} \mathbf{w}$$
 ##### 所以因此y是s_{i}的线性组合，权重为z_{i}，
+#####
 ##### 因为两个独立随机变量的和比原始的变量更接近高斯分布，所以\mathbf{z}^{T}\mathbf{s}比任意一个s_{i}更接近高斯分布且当它等于其中一个s_{i}时变成最小高斯。
 #####
