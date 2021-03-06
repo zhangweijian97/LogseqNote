@@ -184,4 +184,9 @@ $$
 p_{1}\left(y_{1}\right)=\int p\left(y_{1}, y_{2}\right) d y_{2}
 $$
 ######## y2同理
+###### 推导之后得到
+#######
+$$
+E\left\{h_{1}\left(y_{1}\right) h_{2}\left(y_{2}\right)\right\}=E\left\{h_{1}\left(y_{1}\right)\right\} E\left\{h_{2}\left(y_{2}\right)\right\}
+$$
 ######
