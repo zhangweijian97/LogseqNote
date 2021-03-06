@@ -273,3 +273,9 @@ k u r t\left(x_{1}+x_{2}\right)=\operatorname{kurt}\left(x_{1}\right)+\operatorn
 $$
 ###### x1，x2是独立随机变量，a是常数
 ##### recall，y的表达式
+######
+$$
+y=\mathbf{w}^{T} \mathbf{x}=\mathbf{w}^{T} \mathbf{A} \mathbf{s}=\mathbf{z}^{T} \mathbf{s}=z_{1} s_{1}+z_{2} s_{2}
+$$
+##### 根据性质得到
+######
