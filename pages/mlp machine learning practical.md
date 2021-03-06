@@ -67,6 +67,9 @@ title: MLP Machine Learning Practical
 #### transformer clip
 #### clip
 ### CW3 Feedback
+:PROPERTIES:
+:id: 60436919-d155-43ba-8544-6c351ecc7a51
+:END:
 #### Overall:
 ##### Majour fluency and clarity issues. I’d advise using the free version of Grammarly as a starting point to improving these, and then potentially having a bi-lingual or native english speaker providing feedback on your report’s fluency and clarity.
 ##### Furthermore, there seems to be an overall confusion going on as to what your actual research proposal is here and how you motivate it. Ask me about this in a tutorial.
