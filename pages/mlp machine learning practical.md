@@ -67,15 +67,16 @@ title: MLP Machine Learning Practical
 #### transformer clip
 #### clip
 ### CW3 Feedback
-#### Overall: Majour fluency and clarity issues. I’d advise using the free version of Grammarly as a starting point to improving these, and then potentially having a bi-lingual or native english speaker providing feedback on your report’s fluency and clarity.
-#### Furthermore, there seems to be an overall confusion going on as to what your actual research proposal is here and how you motivate it. Ask me about this in a tutorial.
+#### Overall:
+##### Majour fluency and clarity issues. I’d advise using the free version of Grammarly as a starting point to improving these, and then potentially having a bi-lingual or native english speaker providing feedback on your report’s fluency and clarity.
+##### Furthermore, there seems to be an overall confusion going on as to what your actual research proposal is here and how you motivate it. Ask me about this in a tutorial.
 #### Abstract:
-#### Sentence 1: A decent way to start, but not as good as it could be. Ask me about this in a tutorial.
-#### Sentence 2: How do you know this? Is it just the data? What about the model efficiency? Maybe that’s another angle? Make sure your statements are precise and careful.
-#### Sentence 3: This sentence doesn’t deliver any useful messages. Why is the fact that it contains only attributes a problem? What are ‘enough’ data points?
-#### Sentence 4-5: You talk about specific datasets and what they contain. What’s the point?
-#### Sentence 6: Feels out of place and does not work well with the previous context.
-#### Sentence 7-8: It seems that you are a bit confused as to what you are doing here. You have a baseline of a known model on a new dataset, and then you are using CLIP as a pretrained embedding to see if that helps. You should write that explicitly and clearly. As its written it’s very hard to decipher and I am supposed to be your tutor who is aware of your work!
+##### Sentence 1: A decent way to start, but not as good as it could be. Ask me about this in a tutorial.
+##### Sentence 2: How do you know this? Is it just the data? What about the model efficiency? Maybe that’s another angle? Make sure your statements are precise and careful.
+##### Sentence 3: This sentence doesn’t deliver any useful messages. Why is the fact that it contains only attributes a problem? What are ‘enough’ data points?
+##### Sentence 4-5: You talk about specific datasets and what they contain. What’s the point?
+##### Sentence 6: Feels out of place and does not work well with the previous context.
+##### Sentence 7-8: It seems that you are a bit confused as to what you are doing here. You have a baseline of a known model on a new dataset, and then you are using CLIP as a pretrained embedding to see if that helps. You should write that explicitly and clearly. As its written it’s very hard to decipher and I am supposed to be your tutor who is aware of your work!
 #### Introduction:
 ##### Paragraph 1: Are these the only potential applications? If not, you should state that. Motivating the problem of lacking datasets.
 ##### Paragraph 2: You describe some of the existing datasets and motivate the one you will be using. There are clarity issues as well as narrative and conciseness issues here. Ask me about more details in a tutorial.
@@ -89,7 +90,7 @@ title: MLP Machine Learning Practical
 ###### b. https://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/
 ##### For samples of good papers and further tips.
 ###### c. http://karpathy.github.io/2016/09/07/phd/
-##### d. https://old.reddit.com/r/MachineLearning/comments/85cwiu/d_wellwritten_paper_examples/
+###### d. https://old.reddit.com/r/MachineLearning/comments/85cwiu/d_wellwritten_paper_examples/
 #### Dataset and Task:
 ##### There is no point in explaining how the dataset came to be and all of its revisions. Just state the dataset you use and why. You also mention your metric but do not explain what it is or how it works. Also, you never mention or describe your task in either mathematical notation or textual descriptions. Ideally you want something like ‘Our task, being text to image translation, involves learning a mapping f, that receives input datapoints x and generates bla bla bla.
 #### Methodology:
