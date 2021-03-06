@@ -282,4 +282,9 @@ $$
 $$
 \operatorname{kurt}(y)=\operatorname{kurt}\left(z_{1} s_{1}\right)+\operatorname{kurt}\left(z_{2} s_{2}\right)=z_{1}^{4} \operatorname{kurt}\left(s_{1}\right)+z_{2}^{4} \operatorname{kurt}\left(s_{2}\right)
 $$
+##### y的方差是1，所以
 ######
+$$
+E\left\{y^{2}\right\}=z_{1}^{2}+z_{2}^{2}=1
+$$
+#####
