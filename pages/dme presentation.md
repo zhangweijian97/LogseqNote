@@ -162,6 +162,9 @@ $$\mathbf{x}=\mathbf{A} \mathbf{s}$$
 ####### s的分布未知
 ####### A是方阵，其逆矩阵是W，所以
 #######
+:PROPERTIES:
+:id: 6043fab8-579c-4fbb-887d-0d59e991afcd
+:END:
 $$
 \mathbf{s}=\mathbf{W} \mathbf{x}
 $$
@@ -220,4 +223,5 @@ $$
 y=\mathbf{w}^{T} \mathbf{x}=\sum_{i} w_{i} x_{i}
 $$
 ###### w是待求向量
-##### 如果w
+##### recall
+######
