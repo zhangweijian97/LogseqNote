@@ -263,4 +263,12 @@ $$
 ###### 具有正峰度的随机变量称为超高斯
 ####### 例子，拉普拉斯函数
 ##### 非高斯性通常通常通过**峰度的绝对值或平方**来度量
+##### 峰度的性质
+######
+$$
+\begin{array}{l}
+k u r t\left(x_{1}+x_{2}\right)=\operatorname{kurt}\left(x_{1}\right)+\operatorname{kurt}\left(x_{2}\right) \\
+\operatorname{kurt}\left(\alpha x_{1}\right)=\alpha^{4} \operatorname{kurt}\left(x_{1}\right)
+\end{array}
+$$
 #####
