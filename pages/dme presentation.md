@@ -136,4 +136,10 @@ $$
 ###### 所以，引出了本文的方法，[[ICA Independent Component Analysis]] 独立成分分析
 ###### ICA假设了信号s互相之间是统计独立的。正符合上述情况。ICA能够估计出参数a，继而能够从x中分离出 s
 ##### 定义，模型，参数解释
-###### 统计因变量模型
+###### 统计因变量模型 statistical “latent variables”
+####### n个独立成分s，n个线性混合信号x
+#######
+$$
+x_{j}=a_{j 1} s_{1}+a_{j 2} s_{2}+\ldots+a_{j n} s_{n}, \text { for all } j
+$$
+#######
