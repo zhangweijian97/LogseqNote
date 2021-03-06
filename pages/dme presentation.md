@@ -271,4 +271,5 @@ k u r t\left(x_{1}+x_{2}\right)=\operatorname{kurt}\left(x_{1}\right)+\operatorn
 \operatorname{kurt}\left(\alpha x_{1}\right)=\alpha^{4} \operatorname{kurt}\left(x_{1}\right)
 \end{array}
 $$
+###### x1，x2是独立随机变量，a是常数
 #####
