@@ -289,8 +289,8 @@ $$
 E\left\{y^{2}\right\}=z_{1}^{2}+z_{2}^{2}=1
 $$
 ##### 优化问题转换为
-######
+###### 
 $$
-|\operatorname{kurt}(y)|=\mid z_{1}^{4} \operatorname{kurt}\left(s_{1}\right)+z_{2}^{4} \operatorname{kurt}\left(s_{2}\right)
+|\operatorname{kurt}(y)|=\mid z_{1}^{4} \operatorname{kurt}\left(s_{1}\right)+z_{2}^{4} \operatorname{kurt}\left(s_{2}\right)|
 $$
-#####
+##### 因为s1，s2是均值为0方差为1的独立变量，上面的是单位圆
