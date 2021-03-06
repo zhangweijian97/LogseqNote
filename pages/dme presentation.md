@@ -119,3 +119,4 @@ slide design: structure, key points, figures, and legibility
 ## 中文翻译
 ### [详解独立成分分析](https://j.mp/3bloY8M)
 ### 第一遍，收集要素
+####
