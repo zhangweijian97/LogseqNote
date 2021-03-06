@@ -279,3 +279,7 @@ y=\mathbf{w}^{T} \mathbf{x}=\mathbf{w}^{T} \mathbf{A} \mathbf{s}=\mathbf{z}^{T} 
 $$
 ##### 根据性质得到
 ######
+$$
+\operatorname{kurt}(y)=\operatorname{kurt}\left(z_{1} s_{1}\right)+\operatorname{kurt}\left(z_{2} s_{2}\right)=z_{1}^{4} \operatorname{kurt}\left(s_{1}\right)+z_{2}^{4} \operatorname{kurt}\left(s_{2}\right)
+$$
+######
