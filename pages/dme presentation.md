@@ -138,7 +138,7 @@ $$
 ##### 定义，模型，参数解释
 ###### 统计因变量模型 statistical “latent variables”
 ####### n个独立成分s，n个线性混合信号x
-#######
+####### 
 $$
 x_{j}=a_{j 1} s_{1}+a_{j 2} s_{2}+\ldots+a_{j n} s_{n}, \text { for all } j
 $$
