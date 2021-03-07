@@ -391,4 +391,5 @@ $$
 p_{x}(\mathbf{W} \mathbf{x})|\operatorname{det} \mathbf{W}|
 $$
 ######## px是x的密度
+####### infomax原则
 #######
