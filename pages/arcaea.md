@@ -7,7 +7,7 @@ title: Arcaea
 #### 购买曲包Vicious Labyrinth
 ### 伞对立
 #### 解锁Grievous Lady歌曲后，在
-### 猫对立
+###
 ### 零光
 #### 购入曲包Luminous Sky，然后在世界模式地图3-3获得
 ### 骨折光
