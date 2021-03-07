@@ -53,7 +53,7 @@ Addionally, researchers proved that maximizing the output entropy of a neural ne
 This is called the Infomax Principle. You can also maximize this equation to find out the solution.
 #### The last one is projection pursuit.
 It is a technique developed in statistics for ﬁnding "interesting" projections of multidimensional data.
-On one hand, researchers found that the Gaussian distribution is least interesting. 
+Researchers found that the Gaussian distribution is least interesting. 
 On the other hand, the most interesting directions are those that show the least Gaussian distribution
 讲
 ###
