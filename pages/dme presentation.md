@@ -39,7 +39,7 @@ A gaussian random variable has 0 kurtosis, while for most nongaussian random var
 Using this property, we can measure the non-gaussianity by the absolute value of kurtosis.
 #### The second is to maximize neg-entropy
 A fundamental result of information theory tells us a gaussian variable has the largest entropy among all random variables of equal variance.
-Therefore, we could first preprocess our data to make equal variance, and then apply this equation to find out the solutions.
+Therefore, we could first preprocess our data to make them be equal variance, and then apply this equation to find out the solutions.
 讲
 ###
 ##
