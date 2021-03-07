@@ -420,5 +420,6 @@ $$\tilde \mathbf{x} = \mathbf{x} - E[\mathbf{x}]$$
 ####### 
 $$\mathbf{s} = \tilde \mathbf{s} + \mathbf{W}E[\mathbf{s}]$$
 ###### 白化
-####### 元素是不相关的且方差是一致的
+####### 即向量元素是不相关的且方差是一致的
+########
 #######
