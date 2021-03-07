@@ -362,7 +362,7 @@ $$
 ##### 一方面，y比s更接近高斯分布
 ##### 另一方面，当z只包含一个非零元素时，
 ###### 
-$$x=\left[ \begin{matrix} \cdot \\ \vdots \\ y_{i}\\ .\\ \vdots \\ 0\end{matrix} \right]$$
+$$\mathbf{z}=\left[ \begin{matrix} 0 \\ \vdots \\ 0 \\ z_{i}\\ .\\ \vdots \\ 0\end{matrix} \right]$$
 ###### 公式，待补充，z = 向量
 ###### y = si
 ##### 这时，y的非高斯性最大 nongaussianity is maximized
