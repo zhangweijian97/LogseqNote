@@ -38,8 +38,10 @@ title: Arcaea
 #### 购入曲包O.N.G.E.K.I. Collaboration，
 #### 世界模式地图5-6 爬梯
 ### 爱托 & 露娜（冬日）
-#### 购买单曲Empire of Winter
 #### 每年12月22号到12月30号
+#### 购买单曲Empire of Winter
 #### 肝活动
 ### 夏对立
 #### 每年八月底
+#### 购买单曲Auxesia
+#### 肝活动
