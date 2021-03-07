@@ -12,7 +12,7 @@ title: DME Presentation
 ### s2093718-yunbo liu
 ### s2060292-shifeng xu
 ## [[DME presentation paper outline]]
-## PPT outline
+## 文章分配 分割
 ### Background
 #### 123
 ### Method
@@ -21,8 +21,8 @@ title: DME Presentation
 #### 6
 ### Contribution
 #### 7
-## 中文翻译
-### [详解独立成分分析](https://j.mp/3bloY8M)
+## 资源
+### 中文博客 [详解独立成分分析](https://j.mp/3bloY8M)
 ## 第一遍，收集要素
 ### 本部分关键在于目标函数。讲了如何去估计ICA模型中的参数
 ### 前情理解
