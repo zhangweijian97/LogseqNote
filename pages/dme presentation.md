@@ -35,6 +35,7 @@ Therefore, if we find all the parameters that maximize the non-gaussianity of th
 Here arise another question, that is, how to measure the non-gaussianity?
 ### We have following measurements
 #### The first is to maximize the kurtosis.
+![2021_03_07_image.png](https://cdn.logseq.com/%2Fd86993cf-c7b9-4bba-9ff6-fe2074f1857c7ecff959-1ed6-4042-aef7-bfe577fd33992021_03_07_image.png?Expires=4768750013&Signature=aDPfGSHSq0ydTA5hd-idXENbsaQj2lyava71O1FZo67oFJ3aUxbzWYuEZTknNjswF9fClvAGvL5PpfoaSScMHGq4bH0S5ZOhasq0KTFPwf8aDKXhDmOUjkNwnsWgWm1MrhHLSl7915onYHsOL9i9vfOoKQLmMy65eK2Qf8OYjH57FCkmtFMP0kjv1juzOwP8vGBsJJ1vDU4rj6Qh4-8TC2slxKt1bxaGTgJrBtINT2mWQtfOdj60f013FJ3oRM58HdaBf09jYeyRK4TQ9F6EbU0Lyhd9BZKPPPDDN9oHPdprxm7EyZTbAKwvXAG5iPHl60xuJbK8UqTtdU0a7O6SCA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA) As we know, Gaussian
 讲
 ###
 ##
