@@ -37,6 +37,7 @@ Here arise another question, that is, how to measure the non-gaussianity?
 #### The first is to maximize the kurtosis.
 A gaussian random variable has 0 kurtosis, while for most nongaussian random variables, kurtosis is nonzero.
 Using this property, we can measure the non-gaussianity by the absolute value of kurtosis.
+####
 讲
 ###
 ##
