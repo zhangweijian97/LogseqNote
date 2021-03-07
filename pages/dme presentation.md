@@ -11,7 +11,7 @@ title: DME Presentation
 ### s2018229-xi zhao
 ### s2093718-yunbo liu
 ### s2060292-shifeng xu
-## outline
+## DME presentation paper outline
 ### 1 Motivation
 :PROPERTIES:
 :id: 60424562-b12a-4885-8cc4-af68644402c6
