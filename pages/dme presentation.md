@@ -27,7 +27,7 @@ title: DME Presentation
 ## [[DME Presentation 第二遍 删繁就简]]
 ## 演讲稿
 ### Now we have the ICA model that represents the observed variable x and unknow independent component s. Next, we need an objective function to find out the solutions of the independent components.
-### That is, to maximise non-gaussianity. The
+### That is, to maximise non-gaussianity. To explain, The
 讲
 ###
 ##
