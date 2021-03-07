@@ -97,8 +97,13 @@ I\left(y_{1}, y_{2}, \ldots, y_{m}\right)=\sum_{i=1}^{m} H\left(y_{i}\right)-H(\
 $$
 ###### 如果y_{i}是独立的，那么它们彼此之间就没有任何信息，计算结果是0
  似然
+#####
 ###### 公式
-##### 投影跟踪
+####### 
+$$
+L=\sum_{t=1}^{T} \sum_{i=1}^{n} \log f_{i}\left(\mathbf{w}_{i}^{\mathrm{T}} \mathbf{x}(t)\right)+T \log |\operatorname{det} \mathbf{W}|
+$$
+ 投影跟踪
 ###### 图片
 ##### 其中，负熵，互信息，似然都是理论上等价的
 ### �
