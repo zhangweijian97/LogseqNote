@@ -33,7 +33,8 @@ Let's define a variable y, which is a linear combination of x. As you can see, y
 The central limit theorem tells us y is more gaussian than any of s. And if y equals one of the s, it is least gaussian. 
 Therefore, if we find all the parameters that maximize the non-gaussianity of this equation, we do find the independent components.
 Here arise another question, that is, how to measure the non-gaussianity?
-###
+### We have following measurements
+#### The first is to maximize the kurtosis.
 讲
 ###
 ##
