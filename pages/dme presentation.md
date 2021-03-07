@@ -43,7 +43,7 @@ A fundamental result of information theory tells us a gaussian variable has the 
 Therefore, we can measure the non-gaussianity by maximizing the negative entropy, which represents the difference between y and a gaussian variable. 
 In practice, we use these two equations to approximate the neg-entropy.
 ### The third is mutual information.
-It measures the dependence between random variables. If its inputs are independent, the result is zero.
+It measures the dependence between random variables. If the inputs are independent, the result is zero.
 ###
 讲
 ###
