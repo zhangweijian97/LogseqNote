@@ -367,4 +367,9 @@ $$
 $$
 \operatorname{det} \mathbf{I}=1=\left(\operatorname{det} \mathbf{W} E\left\{\mathbf{x} \mathbf{x}^{T}\right\} \mathbf{W}^{T}\right)=(\operatorname{det} \mathbf{W})\left(\operatorname{det} E\left\{\mathbf{x} \mathbf{x}^{T}\right\}\right)\left(\operatorname{det} \mathbf{W}^{T}\right)
 $$
-####### 所以det W必须是常量
+####### 所以det W必须是常量，所以
+########
+$$
+I\left(y_{1}, y_{2}, \ldots, y_{n}\right)=C-\sum_{i} J\left(y_{i}\right)
+$$
+######## 表示了
