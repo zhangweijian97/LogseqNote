@@ -10,7 +10,10 @@ title: Arcaea
 #### 花对立和伞对立
 ### Luminous Sky
 #### 零光和骨折光
-###
+### Crimson Solace
+#### 好听，红
+### Binary Enfold
+#### 为了露娜！
 ## 搭档解锁方法
 ### 花对立
 #### 購買“Vicious Labyrinth”曲包
