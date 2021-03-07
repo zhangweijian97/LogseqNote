@@ -407,4 +407,5 @@ $$
 ######## 如果fi是wiTx的分布，右边第一项等同于 $$-\sum_{i} H\left(\mathbf{w}_{i}^{T} \mathbf{x}\right)$$
 ######## 即，似然和互信息的负相等，少一个常量
 ###### 第五种方法
+####### 投影跟踪 projection pursuit
 #######
