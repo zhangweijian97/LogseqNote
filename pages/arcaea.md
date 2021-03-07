@@ -23,5 +23,9 @@ title: Arcaea
 #### 购买Black Fate曲包
 ### 红
 #### Crimson Solace
-### 爱托 露娜
+### 爱托
 #### 购买Binary Enfold曲包
+#### 世界模式地图2-2 爬梯
+### 露娜
+#### 购买Binary Enfold曲包
+####
