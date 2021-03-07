@@ -108,8 +108,9 @@ $$
 \frac{1}{T} E\{L\}=-\sum_{i} H\left(\mathbf{w}_{i}^{T} \mathbf{x}\right)+\log |\operatorname{det} \mathbf{W}|
 $$
 ###### 等同于负的互信息，差一个常量
-#####
-###### 神经网络输出熵 Infomax Principle
+###### 所以最大化似然的结果等同于最小化互信息
+###### 研究者还发现根据 神经网络输出熵 Infomax Principle
+ciple
 ####### 
 $$
 L_{2}=H\left(\phi_{1}\left(\mathbf{w}_{1}^{T} \mathbf{x}\right), \ldots, \phi_{n}\left(\mathbf{w}_{n}^{T} \mathbf{x}\right)\right)
