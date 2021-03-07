@@ -275,7 +275,7 @@ p_{x}(\mathbf{W} \mathbf{x})|\operatorname{det} \mathbf{W}|
 $$
 ####### px是x的密度
 ###### 基于最大化具有非线性输出的神经网络的输出熵（或信息流）
-#######
+####### 
 $$
 L_{2}=H\left(\phi_{1}\left(\mathbf{w}_{1}^{T} \mathbf{x}\right), \ldots, \phi_{n}\left(\mathbf{w}_{n}^{T} \mathbf{x}\right)\right)
 $$
