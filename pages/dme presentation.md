@@ -115,9 +115,9 @@ $$
 $$
 L_{2}=H\left(\phi_{1}\left(\mathbf{w}_{1}^{T} \mathbf{x}\right), \ldots, \phi_{n}\left(\mathbf{w}_{n}^{T} \mathbf{x}\right)\right)
 $$
-ht)
-$$
- 投影跟踪
+##### 投影跟踪
+###### 找到方向，使数据在这些方向上的投影具有有趣的分布
+��
 ###### 图���
 ### �
 ### 第三部分
