@@ -431,4 +431,5 @@ $$
 \tilde{\mathbf{x}}=\mathbf{E} \mathbf{D}^{-\frac{1}{2}} \mathbf{E}^{T} \mathbf{x}=\mathbf{E D}^{-\frac{1}{2}} \mathbf{E}^{T} \mathbf{A} \mathbf{s}=\widetilde{\mathbf{A}} \mathbf{s}
 $$
 ######## 矩阵 $$\widetilde{\mathbf{A}}$$ 正交，方便计算
+###### 滤波
 #######
