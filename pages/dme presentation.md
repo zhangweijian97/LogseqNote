@@ -2,7 +2,7 @@
 title: DME Presentation
 ---
 
-## [[DME presentation information from piazza]]
+## [[DME presentation information]]
 :PROPERTIES:
 :id: 603a5e9b-b946-41ee-9a71-940f862daeac
 :END:

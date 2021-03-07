@@ -1,5 +1,5 @@
 ---
-title: DME presentation information from piazza
+title: DME presentation information
 ---
 
 ### from piazza
