@@ -40,7 +40,7 @@ As a gaussian random variable has 0 kurtosis, while for most nongaussian random 
 Therefore, we can measure the non-gaussianity by maximizing the absolute value of the kurtosis of y.
 ### The second is negative entropy.
 A fundamental result of information theory tells us a gaussian variable has the largest entropy among all random variables of equal variance.
-Therefore, we can measure the non-gaussianity by maximizing the negative entropy, which represent the difference between y and a gaussiaon
+Therefore, we can measure the non-gaussianity by maximizing the negative entropy, which represents the difference between y and a gaussian variable. 
 As this equation is hard to compute, in practice, we use these two equations to approximate it.
 讲
 ###
