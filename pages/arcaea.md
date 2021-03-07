@@ -22,6 +22,7 @@ title: Arcaea
 #### 具体 [Fracture Ray](https://wiki.arcaea.cn/index.php/Fracture_Ray)
 ### 风暴对立/猫对立
 #### 购买Black Fate曲包
+####
 ### 红
 #### Crimson Solace
 #### 好听，买
