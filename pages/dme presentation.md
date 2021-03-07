@@ -37,7 +37,7 @@ To do this, we need methods to measure the non-gaussianity.
 ### The paper introduced 5 measurements.
 ### The first is kurtosis.
 As a gaussian random variable has 0 kurtosis, while for most nongaussian random variables, kurtosis is nonzero.
-Using this property, we can measure the non-gaussianity by the absolute value of kurtosis.
+We can measure the non-gaussianity by maximizing the absolute value of the kurtosis of y.
 讲
 ###
 ##
