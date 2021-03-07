@@ -24,8 +24,9 @@ title: DME Presentation
 ## 资源
 ### 中文博客 [详解独立成分分析](https://j.mp/3bloY8M)
 ## [[DME Presentation 第一遍 理解内容 收集要素]]
-处��
-## 演讲
+## [[DME Presentation 第二遍 删繁就简]]
+## 演讲稿
+演讲
 ###
 ##
 �够简化计算
