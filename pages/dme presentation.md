@@ -55,7 +55,8 @@ This is called the Infomax Principle. You can also maximize this equation to fin
 It is a technique developed in statistics for ﬁnding "interesting" projections of multidimensional data.
 Researchers found that the Gaussian distribution is **least** interesting, while the **most** interesting directions are the directions that show the least Gaussian distribution.
 With this understanding, we can use this technique to find out the independent components.
-### Before going to the next interesitng section, the optimization method, the paper discusses some data preprocessing methods, such as centering, whitening and an application-dependent method, the band-pass filtering.
+### Before going to the next interesitng section, the optimization method, the paper mentioned some data preprocessing methods, such as centering, whitening and an application-dependent method, the band-pass filtering. 
+By preprocessing the data, we can simplify the algorithm, or
 讲
 ###
 ##
