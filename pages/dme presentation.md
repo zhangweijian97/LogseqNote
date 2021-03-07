@@ -134,7 +134,7 @@ $$
 ##### 所以如果w是W中的一行，那y就是s
 ##### 问题：如何使用中心极限定理去确定\mathbf{w}使得它等于矩阵\mathbf{A}的逆的一行
 ##### 联立y对x的表达式，和x对y的表达式，可以得到y关于s的表达式
-######
+###### 
 $$
 y=\mathbf{w}^{T} \mathbf{x}=\mathbf{w}^{T} \mathbf{A} \mathbf{s}=\mathbf{z}^{T} \mathbf{s}
 $$
