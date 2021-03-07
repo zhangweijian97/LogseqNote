@@ -428,6 +428,6 @@ $$
 ####### 一种方式，特征值分解
 ######## 
 $$
-\tilde{\mathbf{x}}=\mathbf{E} \mathbf{D}^{-\frac{1}{2}} \mathbf{E}^{T} \mathbf{x}
+\tilde{\mathbf{x}}=\mathbf{E} \mathbf{D}^{-\frac{1}{2}} \mathbf{E}^{T} \mathbf{x}=\mathbf{E D}^{-\frac{1}{2}} \mathbf{E}^{T} \mathbf{A} \mathbf{s}=\widetilde{\mathbf{A}} \mathbf{s}
 $$
 ########
