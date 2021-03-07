@@ -6,6 +6,10 @@ title: Arcaea
 ## 曲包购买意向
 ### Eternal Core
 #### 很多8级，适合我现在练习
+### Vicious Labyrinth
+#### 花对立和伞对立
+### Luminous Sky
+#### 零光和骨折光
 ###
 ## 搭档解锁方法
 ### 花对立
