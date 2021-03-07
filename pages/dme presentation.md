@@ -42,7 +42,7 @@ A fundamental result of information theory tells us a gaussian variable has the 
 Therefore, we could first preprocess our data to make them be equal variance, then apply this equation to find out the solutions.
 As this equation is hard to compute, in practice, we use these two equations to approximate it.
 #### The third one is to minimize the mutual information of y
-The
+This equation measure the
 讲
 ###
 ##
