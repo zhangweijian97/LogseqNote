@@ -29,7 +29,7 @@ title: DME Presentation
 ### Now we have the ICA model that represents the observed variable x and unknow independent component s. Next, we need an objective function to find out the solutions of the independent components.
 ### The Objective function is to maximise non-gaussianity. 
 As we know, the central limit theorem is that the distribution of a sum of independent random variables tends to be a Gaussian distribution.
-Let's define a variable y, which is a linear combination of x. You can see, y is also a linear combination of s. 
+Let's define a variable y, which is a linear combination of x. As you can see, y is also a linear combination of s. 
 The central limit theorem tells us y is more gaussian than any of s. And if y equals one of the s, it is least gaussian. 
 Therefore, if we find all the parameters that maximize the non-gaussianity of this equation, we do find the independent components.
 Here arise another question, that is, how to measure the non-gaussianity?
