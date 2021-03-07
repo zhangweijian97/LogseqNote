@@ -27,7 +27,8 @@ title: DME Presentation
 ## [[DME Presentation 第二遍 删繁就简]]
 ## [[DME Presentation 第三遍 演讲稿 第一版]]
 ## DME Presentation 第三遍 演讲稿 第二版
-### Now we have the ICA model. Next, we need an objective function to find out the solutions of the independent components.
+### Now we have the ICA model. Next, I will introduction ICA estimation method to find out the solutions of the independent components.
+###
 讲
 ###
 ##
