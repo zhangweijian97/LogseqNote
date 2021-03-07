@@ -9,7 +9,16 @@ title: DME Presentation
 :now: 1614438097297
 :later: 1614438094793
 :END:
-##
+## DME team information
+###
+### DME team information
+:PROPERTIES:
+:id: 603a5e9b-b946-41ee-9a71-940f862daeac
+:END:
+#### s2119299-weijian zhang
+#### s2018229-xi zhao
+#### s2093718-yunbo liu
+#### s2060292-shifeng xu
 ## Presentation Details
 ### For the presentations, we expect that
 #### each team submits (only once) a single video file
