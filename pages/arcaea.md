@@ -24,4 +24,4 @@ title: Arcaea
 ### 红
 #### Crimson Solace
 ### 爱托 露娜
-####
+#### 购买Binary Enfold曲包
