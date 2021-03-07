@@ -50,7 +50,7 @@ Here is the formula of log likelihood and its expectation.
 You can see it is almost the same as the equation of mutual information. The missing entry is a constant. 
 Therefore, these two methods are equivalent. 
 Addionally, researchers proved that maximizing the output entropy of a neural network is equivalent to maximizing the log likelihood. 
-This is called the Infomax Principle.
+This is called the Infomax Principle. You can also maximi
 讲
 ###
 ##
