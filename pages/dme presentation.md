@@ -57,7 +57,7 @@ Researchers found that the Gaussian distribution is **least** interesting, while
 With this understanding, we can use this technique to find out the independent components.
 ### Before going to the next interesting section, the optimization method, the paper mentioned some data preprocessing methods, such as centring, whitening and an application-dependent method, the band-pass filtering. 
 By preprocessing the data, we can simplify the algorithm, reduce the number of parameters to be estimated, or remove some noise signal for time-signal data.
-It has been proved that the ICA model remains
+It has been proved that the ICA model remains valid while applying these data preprocessing methods.
 讲
 ###
 ##
