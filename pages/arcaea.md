@@ -5,7 +5,8 @@ title: Arcaea
 ## [Arcaea新人常见问题解答](https://www.bilibili.com/read/cv8694683)
 ## 曲包购买意向
 ### Eternal Core
-####
+#### 很多8级，适合我现在练习
+###
 ## 搭档解锁方法
 ### 花对立
 #### 購買“Vicious Labyrinth”曲包
