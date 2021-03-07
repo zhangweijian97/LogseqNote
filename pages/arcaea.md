@@ -70,3 +70,5 @@ title: Arcaea
 #### 太难了，可见的未来我都打不了这么难的曲子，近期不买
 ### 忘却
 #### 购买Ambivalent Vision曲包
+## Diode
+###
