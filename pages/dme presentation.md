@@ -383,4 +383,6 @@ $$
 $$
 L=\sum_{t=1}^{T} \sum_{i=1}^{n} \log f_{i}\left(\mathbf{w}_{i}^{\mathrm{T}} \mathbf{x}(t)\right)+T \log |\operatorname{det} \mathbf{W}|
 $$
-####### fi是si的密度函数
+######## fi是si的密度函数
+######## x(t)是x的实现
+########
