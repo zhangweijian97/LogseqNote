@@ -405,4 +405,4 @@ $$
 \frac{1}{T} E\{L\}=\sum_{i=1}^{n} E\left\{\log f_{i}\left(\mathbf{w}_{i}^{T} \mathbf{x}\right)\right\}+\log |\operatorname{det} \mathbf{W}|
 $$
 ######## 如果fi是wiTx的分布，右边第一项等同于 $$-\sum_{i} H\left(\mathbf{w}_{i}^{T} \mathbf{x}\right)$$
-######## 即，似然和
+######## 即，似然和互信息的负相等，少一个常量
