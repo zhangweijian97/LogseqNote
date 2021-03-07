@@ -56,7 +56,7 @@ It is a technique developed in statistics for ﬁnding "interesting" projections
 Researchers found that the Gaussian distribution is **least** interesting, while the **most** interesting directions are the directions that show the least Gaussian distribution.
 With this understanding, we can use this technique to find out the independent components.
 ### Before going to the next interesitng section, the optimization method, the paper mentioned some data preprocessing methods, such as centering, whitening and an application-dependent method, the band-pass filtering. 
-By preprocessing the data, we can simplify the algorithm, reduce the number of parameters to be estimated.
+By preprocessing the data, we can simplify the algorithm, reduce the number of parameters to be estimated. The band-pas filtering
 讲
 ###
 ##
