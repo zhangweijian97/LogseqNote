@@ -418,4 +418,6 @@ $$
 $$\tilde \mathbf{x} = \mathbf{x} - E[\mathbf{x}]$$
 ####### 估计完成之后
 #######
+$$\mathbf{s} = \tilde \mathbf{s} + \mathbf{W}\mathbf{m}$$
+#######
 ###### 白化
