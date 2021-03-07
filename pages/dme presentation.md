@@ -109,6 +109,7 @@ $$
 $$
 ###### 等同于负的互信息，差一个常量
 ###### 所以最大化似然的结果等同于最小化互信息
+######
 ###### network entropy maximization
 ###### Infomax Principle
 ciple
