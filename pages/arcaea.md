@@ -10,13 +10,13 @@ title: Arcaea
 #### 很多8级，适合我现在练习
 ### Vicious Labyrinth
 #### 花对立和伞对立
-### Crimson Solace
-#### 好听，红
 ### Binary Enfold
 #### 为了露娜！
+### Crimson Solace
+#### 好听，红
 ### Luminous Sky
 #### 零光和骨折光
-#### 考虑一下
+#### 考虑
 ### Ambivalent Vision
 #### 忘却，镜像
 #### 考虑
