@@ -47,7 +47,7 @@ It measures the dependence between random variables.
 It's non-negative, and zero if and only if the variables are independent.
 Therefore, we can measure sure the non-gaussianity by minimizing mutual information
 ### The forth is Likelihood
-We have
+We have loglikelihood and
 讲
 ###
 ##
