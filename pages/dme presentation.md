@@ -398,6 +398,7 @@ H(\mathbf{y})=-\int f(\mathbf{y}) \log (f(\mathbf{y})) d \mathbf{
 $$
 J(\mathbf{y})=H\left(\mathbf{y}_{\text {gauss }}\right)-H(\mathbf{y})
 $$
+###### 同样的，负熵越大，非高斯性越大
 ######
  互信息
 ###### 公式
