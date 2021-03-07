@@ -52,6 +52,8 @@ Therefore, these two methods are equivalent.
 Addionally, researchers proved that maximizing the output entropy of a neural network is equivalent to maximizing the log likelihood. 
 This is called the Infomax Principle. You can also maximize this equation to find out the solution.
 #### The last one is projection pursuit.
+It is a technique developed in statistics for ﬁnding "interesting" projections of multidimensional data.
+Researchers found that the Gaussian distribution is the least interesting
 讲
 ###
 ##
