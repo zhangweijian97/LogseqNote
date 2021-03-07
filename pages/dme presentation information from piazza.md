@@ -18,3 +18,5 @@ title: DME presentation information from piazza
 #### After the session:
 ##### Each student will answer a questionnaire about the quality and relevance of the presentation with regard to their chosen paper. 给别人评分，包括质量和相关性
 ### Note: Each student only needs to attend the session where their chosen paper is being presented. However, you are of course welcome to also attend other sessions!
+### from course website
+####
