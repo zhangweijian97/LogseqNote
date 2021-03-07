@@ -23,3 +23,5 @@ title: Arcaea
 #### 购买Black Fate曲包
 ### 红
 #### Crimson Solace
+### 爱托 露娜
+####
