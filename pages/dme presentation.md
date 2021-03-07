@@ -90,8 +90,13 @@ J(y) \approx \sum_{i=1}^{p} k_{i}\left[E\left\{G_{i}(y)\right\}-E\left\{G_{i}(v)
 $$
 ###### 优点（可选）
 ##### 互信息
-# 公式
-##### 似然
+###### 公式
+#######
+$$
+I\left(y_{1}, y_{2}, \ldots, y_{m}\right)=\sum_{i=1}^{m} H\left(y_{i}\right)-H(\mathbf{y})
+$$
+######
+ 似然
 ###### 公式
 ##### 投影跟踪
 ###### 图片
