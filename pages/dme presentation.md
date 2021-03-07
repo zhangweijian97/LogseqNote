@@ -11,21 +11,6 @@ title: DME Presentation
 ### s2018229-xi zhao
 ### s2093718-yunbo liu
 ### s2060292-shifeng xu
-## Marking
-### 3 parts
-#### presentation,
-#### performance at the Q&A session, and
-#### (weighted) audience feedback
-:PROPERTIES:
-:later: 1614954227731
-:END:
-### marking criteria
-#### style: fluency, coherence within team, and audience engagement
-understanding: characterise the paper faithfully and in an accessible way
-slide design: structure, key points, figures, and legibility
-### engagement
-#### indicate their choice of paper and provide **a brief 1-paragraph summary **along with **a brief list (2-3) of questions** about it, using the [Engagement (Pre) form](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYW0VF5r2yGtKrh0Evy9IFfZUNFlQWVk4OUpHTEZFTkFJSDM5QTNJVVBSOC4u).
-#### attend the presentation of the paper (by the concomitant group) to subsequently provide feedback on that presentation using the [Engagement (Post) form](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYW0VF5r2yGtKrh0Evy9IFfZURjM0VlFPSjNVWThVSTZQQzRPSjFBMVE2Mi4u).
 ## outline
 ### 1 Motivation
 :PROPERTIES:
