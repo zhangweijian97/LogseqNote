@@ -26,7 +26,7 @@ title: DME Presentation
 ## [[DME Presentation 第一遍 理解内容 收集要素]]
 ## [[DME Presentation 第二遍 删繁就简]]
 ## 演讲稿
-### Now we have the ICA model
+### Now we have the ICA model that represents the observed variable x and unknow independent component s. Next, we should find out the objective function
 讲
 ###
 ##
