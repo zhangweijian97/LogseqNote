@@ -102,7 +102,7 @@ $$
 $$
 L=\sum_{t=1}^{T} \sum_{i=1}^{n} \log f_{i}\left(\mathbf{w}_{i}^{\mathrm{T}} \mathbf{x}(t)\right)+T \log |\operatorname{det} \mathbf{W}|
 $$
-###### 神经网络输出
+###### 神经网络输出熵
  投影跟踪
 ###### 图片
 ##### 其中，负熵，互信息，似然都是理论上等价的
