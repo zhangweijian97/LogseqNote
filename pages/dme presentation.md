@@ -360,3 +360,11 @@ I\left(y_{1}, y_{2}, \ldots, y_{n}\right)=\sum_{i} H\left(y_{i}\right)-H(\mathbf
 $$
 ####### 因为yi不相关，且方差是1：
 ########
+$$
+E\left\{\mathbf{y} \mathbf{y}^{T}\right\}=\mathbf{W} E\left\{\mathbf{x} \mathbf{x}^{T}\right\} \mathbf{W}^{T}=\mathbf{I}
+$$
+########
+$$
+\operatorname{det} \mathbf{I}=1=\left(\operatorname{det} \mathbf{W} E\left\{\mathbf{x} \mathbf{x}^{T}\right\} \mathbf{W}^{T}\right)=(\operatorname{det} \mathbf{W})\left(\operatorname{det} E\left\{\mathbf{x} \mathbf{x}^{T}\right\}\right)\left(\operatorname{det} \mathbf{W}^{T}\right)
+$$
+#######
