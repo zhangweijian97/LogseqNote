@@ -423,6 +423,6 @@ $$\mathbf{s} = \tilde \mathbf{s} + \mathbf{W}E[\mathbf{s}]$$
 ####### 即向量元素是不相关的且方差是一致的
 ######## 
 $$
-E\left\{\widetilde{\mathbf{x}} \tilde{\mathbf{x}}^{T}\right\}=\mathbf{I}
+E\left\{\tilde{\mathbf{x}} \tilde{\mathbf{x}}^{T}\right\}=\mathbf{I}
 $$
 #######
