@@ -102,10 +102,11 @@ $$
 $$
 L=\sum_{t=1}^{T} \sum_{i=1}^{n} \log f_{i}\left(\mathbf{w}_{i}^{\mathrm{T}} \mathbf{x}(t)\right)+T \log |\operatorname{det} \mathbf{W}|
 $$
-###### 期��
+###### 期�
 ####### 
 $$
 \frac{1}{T} E\{L\}=-\sum_{i} H\left(\mathbf{w}_{i}^{T} \mathbf{x}\right)+\log |\operatorname{det} \mathbf{W}|
+$$
 $$
 $
 ######
