@@ -425,4 +425,9 @@ $$\mathbf{s} = \tilde \mathbf{s} + \mathbf{W}E[\mathbf{s}]$$
 $$
 E\left\{\tilde{\mathbf{x}} \tilde{\mathbf{x}}^{T}\right\}=\mathbf{I}
 $$
-#######
+####### 过程
+########
+$$
+\tilde{\mathbf{x}}=\mathbf{E} \mathbf{D}^{-\frac{1}{2}} \mathbf{E}^{T} \mathbf{x}
+$$
+########
