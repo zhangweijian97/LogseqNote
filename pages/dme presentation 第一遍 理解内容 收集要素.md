@@ -283,7 +283,7 @@ $$
 ####### 研究者已经证明了infomax原则相当于最大似然估计
 ####### 要求神经网络中的非线性\phi_{i}是密度函数f_{i}的积分
 ###### log似然的期望
-#######
+####### 
 $$
 \frac{1}{T} E\{L\}=\sum_{i=1}^{n} E\left\{\log f_{i}\left(\mathbf{w}_{i}^{T} \mathbf{x}\right)\right\}+\log |\operatorname{det} \mathbf{W}|
 $$
