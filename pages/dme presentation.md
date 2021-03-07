@@ -46,6 +46,8 @@ Mutual information is a natural measure of the dependence between random variabl
 It is always non-negative, and zero if and only if the variables are statistically independent.
 Therefore, we can minimize this equation to find out the solution.
 #### The forth one is to maximize likelihood.
+Here is the formula of log likelihood and its expectation. 
+You can see
 讲
 ###
 ##
