@@ -30,7 +30,7 @@ title: DME Presentation
 ### That is, to maximise non-gaussianity. To explain, the central limit theorem is that the distribution of a sum of independent random variables tends to be a Gaussian distribution.
 Let's define a variable y, which is a linear combination of x. You can see, y is also a linear combination of s. 
 The central limit theorem tells us y is more gaussian than any of s. And if y equals one of the s, it is least gaussian. 
-Therefore, if we find the parameters w, that maximizes the non-gaussianity of y, we do find the independent component s.
+Therefore, if we find all the parameters that maximizes the non-gaussianity of y, we do find the independent component s.
 ###
 讲
 ###
