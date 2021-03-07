@@ -396,4 +396,5 @@ $$
 $$
 L_{2}=H\left(\phi_{1}\left(\mathbf{w}_{1}^{T} \mathbf{x}\right), \ldots, \phi_{n}\left(\mathbf{w}_{n}^{T} \mathbf{x}\right)\right)
 $$
-#######
+######## infomax原则
+########
