@@ -35,7 +35,8 @@ Therefore, if we find all the parameters that maximize the non-gaussianity of th
 Here arise another question, that is, how to measure the non-gaussianity?
 ### We have following measurements
 #### The first is to maximize the kurtosis.
-A gaussian random variable has 0 kurtosis, while for most nongaussian random variables, kurtosis is nonzero
+A gaussian random variable has 0 kurtosis, while for most nongaussian random variables, kurtosis is nonzero.
+Using this property, we can
 讲
 ###
 ##
