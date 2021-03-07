@@ -51,7 +51,7 @@ You can see it is almost the same as the equation of mutual information. The mis
 Therefore, these two methods are equivalent. 
 Addionally, researchers proved that maximizing the output entropy of a neural network is equivalent to maximizing the log likelihood. 
 This is called the Infomax Principle. You can also maximize this equation to find out the solution.
-####
+#### The last one is
 讲
 ###
 ##
