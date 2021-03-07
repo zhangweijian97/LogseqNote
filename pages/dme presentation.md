@@ -27,7 +27,9 @@ title: DME Presentation
 ## [[DME Presentation 第二遍 删繁就简]]
 ## 演讲稿
 ### Now we have the ICA model that represents the observed variable x and unknow independent component s. Next, we need an objective function to find out the solutions of the independent components.
-### That is, to maximise non-gaussianity. To explain, the central limit theorem tells us, the distribution of a sum of independent random variables tends toward a gaussian distribution
+### That is, to maximise non-gaussianity. To explain, the central limit theorem is that the distribution of a sum of independent random variables tends to be a Gaussian distribution.
+Let's define a variable y, which is a linear combination of x. You can see, y is also a linear combination of s. 
+The central limit theorem tells us y is more gaussian than any of s.
 讲
 ###
 ##
