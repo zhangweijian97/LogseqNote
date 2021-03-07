@@ -45,7 +45,7 @@ As this equation is hard to compute, in practice, we use these two equations to 
 Mutual information is a natural measure of the dependence between random variables.
 It is always non-negative, and zero if and only if the variables are statistically independent.
 Therefore, we can minimize this equation to find out the solution.
-####
+#### The forth one is to maximize likelihood.
 讲
 ###
 ##
