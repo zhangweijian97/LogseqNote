@@ -34,3 +34,5 @@ title: Arcaea
 #### Ptt在5到10之间，通过present难度解锁
 #### 地图2-3 爬梯
 ### 露娜&美亚
+#### 购入曲包O.N.G.E.K.I. Collaboration，
+#### 世界模式地图5-6 爬梯
