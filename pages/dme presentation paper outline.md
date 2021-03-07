@@ -53,3 +53,11 @@ title: DME presentation paper outline
 ### 6.2 FastICA for several units
 ### 6.3 FastICA and maximum likelihood
 ### 6.4 Properties of the FastICA Algorithm
+## 7 Applications of ICA
+:PROPERTIES:
+:id: 604244c7-e45c-403b-8301-37e98700d873
+:END:
+### 7.1 Separation of Artifacts in MEG Data
+### 7.2 Finding Hidden Factors in Financial Data
+### 7.3 Reducing Noise in Natural Images
+### 7.4 Telecommunications

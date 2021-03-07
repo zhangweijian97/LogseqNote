@@ -12,14 +12,6 @@ title: DME Presentation
 ### s2093718-yunbo liu
 ### s2060292-shifeng xu
 ## [[DME presentation paper outline]]
-### 7 Applications of ICA
-:PROPERTIES:
-:id: 604244c7-e45c-403b-8301-37e98700d873
-:END:
-#### 7.1 Separation of Artifacts in MEG Data
-#### 7.2 Finding Hidden Factors in Financial Data
-#### 7.3 Reducing Noise in Natural Images
-#### 7.4 Telecommunications
 ### 8 Conclusion
 ## PPT outline
 ### Background
