@@ -93,7 +93,7 @@ $$
 ###### 公式
 ####### 
 $$
-I\left(y_{1}, y_{2}, \ldots, y_{m}\right)=\sum_{i=1}^{m} H\left(y_{i}\right)-H(\mathbf{y})
+I\left(y_{1}, y_{2}, \ldots, y_{n}\right)=\sum_{i} H\left(y_{i}\right)-H(\mathbf{x})-\log |\operatorname{det} \mathbf{W}|
 $$
 ###### 如果y_{i}是独立的，那么它们彼此之间就没有任何信息，计算结果是0
 ##### 最大化似然
