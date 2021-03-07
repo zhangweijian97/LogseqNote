@@ -107,9 +107,8 @@ $$
 $$
 \frac{1}{T} E\{L\}=-\sum_{i} H\left(\mathbf{w}_{i}^{T} \mathbf{x}\right)+\log |\operatorname{det} \mathbf{W}|
 $$
-$$
-$
-######
+###### 等同于负的互信息，差一个常量
+#####
 ###### 神经网络输出熵 Infomax Principle
 ####### 
 $$
