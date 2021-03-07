@@ -12,14 +12,6 @@ title: DME Presentation
 ### s2093718-yunbo liu
 ### s2060292-shifeng xu
 ## [[DME presentation paper outline]]
-### 6 The FastICA Algorithm
-:PROPERTIES:
-:id: 604244b0-168e-439b-b6dc-e00e4d97f8cb
-:END:
-#### 6.1 FastICA for one unit
-#### 6.2 FastICA for several units
-#### 6.3 FastICA and maximum likelihood
-#### 6.4 Properties of the FastICA Algorithm
 ### 7 Applications of ICA
 :PROPERTIES:
 :id: 604244c7-e45c-403b-8301-37e98700d873
