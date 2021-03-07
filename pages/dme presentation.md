@@ -129,7 +129,11 @@ $$
 ###### 
 $$\tilde \mathbf{x} = \mathbf{x} - E[\mathbf{x}]$$
 ##### 白化
-###### 协方差
+###### 特征值分解
+####### 
+$$
+\tilde{\mathbf{x}}=\mathbf{E} \mathbf{D}^{-\frac{1}{2}} \mathbf{E}^{T} \mathbf{x}=\mathbf{E D}^{-\frac{1}{2}} \mathbf{E}^{T} \mathbf{A} \mathbf{s}=\widetilde{\mathbf{A}} \mathbf{s}
+$$
 ��
 ##### 白化
 ##### 其他处理
