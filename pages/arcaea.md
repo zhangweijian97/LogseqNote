@@ -6,7 +6,10 @@ title: Arcaea
 ### 花对立
 #### 購買“Vicious Labyrinth”曲包 / World 1-6
 ### 伞对立
-#### 購買“Vicious Labyrinth”曲包 / Grievous Lady任意難度解禁 / World 1-7
+#### 購買“Vicious Labyrinth”曲包
+#### Grievous Lady任意難度解禁
+##### 初始对立，打Axium Crisis
+#### World 1-7
 ### 零光
 #### 购入曲包Luminous Sky，然后在世界模式地图3-3获得
 ### 骨折光
