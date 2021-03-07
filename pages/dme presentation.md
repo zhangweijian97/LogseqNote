@@ -326,4 +326,9 @@ $$
 $$
 J(y) \approx \frac{1}{12} E\left\{y^{3}\right\}^{2}+\frac{1}{48} k u r t(y)^{2}
 $$
-########
+######## 基于最大熵原理
+#########
+$$
+J(y) \approx \sum_{i=1}^{p} k_{i}\left[E\left\{G_{i}(y)\right\}-E\left\{G_{i}(v)\right\}\right]^{2}
+$$
+#########
