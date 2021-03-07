@@ -71,4 +71,5 @@ title: Arcaea
 ### 忘却
 #### 购买Ambivalent Vision曲包
 ## Diode
-###
+### 唯一一个中国大陆曲师的曲子，支持一下
+### 地图4-7 第一个奖励
