@@ -2,8 +2,7 @@
 title: Arcaea
 ---
 
-## Arcaea新人常见问题解答
-##
+## [Arcaea新人常见问题解答](https://www.bilibili.com/read/cv8694683)
 ## 搭档解锁方法
 ### 花对立
 #### 購買“Vicious Labyrinth”曲包
