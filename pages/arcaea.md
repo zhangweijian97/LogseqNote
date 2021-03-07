@@ -28,4 +28,4 @@ title: Arcaea
 #### 世界模式地图2-2 爬梯
 ### 露娜
 #### 购买Binary Enfold曲包
-#### 爱托6级以上
+#### 爱托6级以上，打歌曲Singularity
