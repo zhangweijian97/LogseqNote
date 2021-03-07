@@ -3,7 +3,7 @@ title: DME presentation information from piazza
 ---
 
 ##
-## [[DME presentation information from piazza]]
+## 
 :PROPERTIES:
 :id: 603a5b96-196e-4dca-92ff-a2169fb0b786
 :END:

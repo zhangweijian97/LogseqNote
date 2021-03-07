@@ -2,10 +2,11 @@
 title: DME Presentation
 ---
 
-## DME team information
+## [[DME presentation information from piazza]]
 :PROPERTIES:
 :id: 603a5e9b-b946-41ee-9a71-940f862daeac
 :END:
+## DME team information
 ### s2119299-weijian zhang
 ### s2018229-xi zhao
 ### s2093718-yunbo liu
