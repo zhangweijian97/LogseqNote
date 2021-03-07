@@ -15,17 +15,12 @@ title: DME Presentation
 ## PPT outline
 ### Background
 #### 123
-#### {{embed ((604427a8-6b79-4203-9dee-507e8ca83b4c))}}
-#### {{embed ((604243f6-e77d-4f41-8a56-b08d7d19688d)) }}
-#### {{embed ((60424416-cf37-42be-affc-be3604879aae)) }}
 ### Method
-####
-#### {{embed ((60424453-a852-4e6c-9532-efd9111a44ed))}}
-#### {{embed ((6042449e-bd98-4391-a091-c6acdf5fe12f))}}
+#### 45
 ### Experiment
-#### {{embed ((604244b0-168e-439b-b6dc-e00e4d97f8cb))}}
+#### 6
 ### Contribution
-#### {{embed ((604244c7-e45c-403b-8301-37e98700d873)) }}
+#### 7
 ## 中文翻译
 ### [详解独立成分分析](https://j.mp/3bloY8M)
 ## 第一遍，收集要素
