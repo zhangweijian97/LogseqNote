@@ -2,8 +2,6 @@
 title: DME Presentation 第三遍 演讲稿 第一版
 ---
 
-##
-## [[DME Presentation 第三遍 演讲稿 第一版]]
 ### Now we have the ICA model that represents the observed variable x and unknow independent component s. Next, we need an objective function to find out the solutions of the independent components.
 ### The Objective function is to maximise non-gaussianity. 
 As we know, the central limit theorem is that the distribution of a sum of independent random variables tends to be a Gaussian distribution.
