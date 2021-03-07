@@ -29,6 +29,8 @@ title: DME Presentation
 ## DME Presentation 第三遍 演讲稿 第二版
 ### Now we have the ICA model. Next, we will introduction ICA estimation method to find out the solutions of the independent components.
 ### First, we need to find an objective function to estimate.
+As we know, the central limit theorem is that the distribution of a sum of independent random variables tends to be a Gaussian distribution.
+Let's define a variable y, which is a linear combination of x. As you can see, y is also a linear combination of s.
 讲
 ###
 ##
