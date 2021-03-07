@@ -45,7 +45,7 @@ In practice, we use these two equations to approximate the neg-entropy.
 ### The third is mutual information.
 It measures the dependence between random variables. 
 It's non-negative, and zero if and only if the variables are independent.
-Therefore, we
+Therefore, we can measure sure the non-gaussianity by minimizing mutual information
 ###
 讲
 ###
