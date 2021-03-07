@@ -34,7 +34,7 @@ We define a variable y to be the linear combination of x. As you can see, y is a
 By central limit theorem, y is more gaussian than any of s. And if y equals one of the s, it is least gaussian. 
 Therefore, we can maximize the non-gaussianity of y, to find the independent components s.
 To do this, we need methods to measure the non-gaussianity.
-### The paper introduced 5 methods
+### The paper introduced 5 measurements.
 ###
 讲
 ###
