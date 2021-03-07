@@ -42,6 +42,7 @@ Therefore, we can measure the non-gaussianity by maximizing the absolute value o
 A fundamental result of information theory tells us a gaussian variable has the largest entropy among all random variables of equal variance.
 Therefore, we can measure the non-gaussianity by maximizing the negative entropy, which represents the difference between y and a gaussian variable. 
 In practice, we use these two equations to approximate the neg-entropy.
+###
 讲
 ###
 ##
