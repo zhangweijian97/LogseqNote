@@ -109,8 +109,9 @@ $$
 $$
 ###### 等同于负的互信息，差一个常量
 ###### 所以它的结果等同于最小化互信息
-##### 另外，研究者证明了最大化神经网络输出熵 Infomax，其结果等同于最大化似然
-###### 
+##### The Infomax Principle
+###### 另外，研究者证明了最大化神经网络输出熵 Infomax，其结果等同于最大化似然
+####### 
 $$
 L_{2}=H\left(\phi_{1}\left(\mathbf{w}_{1}^{T} \mathbf{x}\right), \ldots, \phi_{n}\left(\mathbf{w}_{n}^{T} \mathbf{x}\right)\right)
 $$
