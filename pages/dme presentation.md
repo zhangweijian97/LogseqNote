@@ -26,7 +26,8 @@ title: DME Presentation
 ## [[DME Presentation 第一遍 理解内容 收集要素]]
 ## [[DME Presentation 第二遍 删繁就简]]
 ## 演讲稿
-演讲
+### Now we have the ICA
+讲
 ###
 ##
 �够简化计算
