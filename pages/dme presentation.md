@@ -12,10 +12,6 @@ title: DME Presentation
 ### s2093718-yunbo liu
 ### s2060292-shifeng xu
 ## [[DME presentation paper outline]]
-### 1 Motivation
-:PROPERTIES:
-:id: 60424562-b12a-4885-8cc4-af68644402c6
-:END:
 ### 2 Independent Component Analysis
 :PROPERTIES:
 :id: 604243f6-e77d-4f41-8a56-b08d7d19688d
