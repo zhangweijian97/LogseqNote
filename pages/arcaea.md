@@ -8,7 +8,8 @@ title: Arcaea
 ### 伞对立
 #### 購買“Vicious Labyrinth”曲包
 #### Grievous Lady任意難度解禁
-##### 初始对立，打Axium Crisis
+##### 初始对立，打Axium Crisis，触发异象
+#####
 #### World 1-7
 ### 零光
 #### 购入曲包Luminous Sky，然后在世界模式地图3-3获得
