@@ -48,5 +48,6 @@ title: Arcaea
 ### 对立 & 中二企鹅
 #### 购人曲包CHUNITHM Collaboration
 #### 世界模式地图4-4 爬梯
+#### 太难了，可见的未来我都打不了这么难的曲子，近期不买
 ### 忘却
 #### 购买Ambivalent Vision曲包
