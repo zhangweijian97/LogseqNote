@@ -438,3 +438,7 @@ $$
 \mathbf{X}=\mathbf{A S}
 $$
 ########
+$$
+\mathbf{X}=\mathbf{A S}
+$$
+######
