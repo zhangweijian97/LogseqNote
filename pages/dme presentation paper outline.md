@@ -21,3 +21,27 @@ title: DME presentation paper outline
 ### 3.1 Definition and Fundamental properties
 ### 3.2 Uncorrelated variables are only partly independent
 ### 3.3 Why Gaussian variables are forbidden
+## 4 Principles of ICA estimation
+:PROPERTIES:
+:id: 60424453-a852-4e6c-9532-efd9111a44ed
+:END:
+### 4.1 “Nongaussian is independent”
+### 4.2 Measures of nongaussianity
+#### 4.2.1 Kurtosis
+#### 4.2.2 Negentropy
+#### 4.2.3 Approximations of negentropy
+### 4.3 Minimization of Mutual Information
+#### 4.3.1 Mutual Information
+#### 4.3.2 Deﬁning ICA by Mutual Information
+### 4.4 Maximum Likelihood Estimation
+#### 4.4.1 The likelihood
+#### 4.4.2 The Infomax Principle
+#### 4.4.3 Connection to mutual information
+### 4.5 ICA and Projection Pursuit
+## 5 Preprocessing for ICA
+:PROPERTIES:
+:id: 6042449e-bd98-4391-a091-c6acdf5fe12f
+:END:
+### 5.1 Centering
+### 5.2 Whitening
+### 5.3 Further preprocessing
