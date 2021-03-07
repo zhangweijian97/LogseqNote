@@ -332,3 +332,7 @@ $$
 J(y) \approx \sum_{i=1}^{p} k_{i}\left[E\left\{G_{i}(y)\right\}-E\left\{G_{i}(v)\right\}\right]^{2}
 $$
 #########
+$$
+J(y) \propto[E\{G(y)\}-E\{G(v)\}]^{2}
+$$
+#########
