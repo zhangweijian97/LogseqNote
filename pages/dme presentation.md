@@ -104,7 +104,7 @@ L=\sum_{t=1}^{T} \sum_{i=1}^{n} \log f_{i}\left(\mathbf{w}_{i}^{\mathrm{T}} \mat
 $$
 ###### 
 $$
-\frac{1}{T} E\{L\}=\sum_{i=1}^{n} E\left\{\log f_{i}\left(\mathbf{w}_{i}^{T} \mathbf{x}\right)\right\}+\log |\operatorname{det} \mathbf{W}|
+\frac{1}{T} E\{L\}=\sum_{i=1}^{n} E\left\{\log f_{i}\left(\mathbf{w}_{i}^{T} \mathbf{x}\right)\right\}+\log |\operatorname{det} \mathbf{W}|=-\sum_{i} H\left(\mathbf{w}_{i}^{T} \mathbf{x}\right)+\log |\operatorname{det} \mathbf{W}|
 $$
 ###### 神经网络输出熵 Infomax Principle
 ####### 
