@@ -385,5 +385,10 @@ L=\sum_{t=1}^{T} \sum_{i=1}^{n} \log f_{i}\left(\mathbf{w}_{i}^{\mathrm{T}} \mat
 $$
 ######## fi是si的密度函数
 ######## x(t)是x的实现
-######## y的密度
-#########
+######## y的密度，公式
+######### 
+$$
+p_{x}(\mathbf{W} \mathbf{x})|\operatorname{det} \mathbf{W}|
+$$
+######### px是x的密度
+########
