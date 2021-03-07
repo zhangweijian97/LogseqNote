@@ -391,10 +391,9 @@ H(Y)=-\sum_{i} P\left(Y=a_{i}\right) \log P\left(Y=a_{i}\right)
 $$
 ####### 
 $$
-H(\mathbf{y})=-\int f(\mathbf{y}) \log (f(\mathbf{y})) d \mathbf{y}
-$$
+H(\mathbf{y})=-\int f(\mathbf{y}) \log (f(\mathbf{y})) d \mathbf{
+###### 负熵，公式
 ###### 在信息论中有个基本的结论：在所有方差相等的随机变量中，高斯变量的熵最大。
-######
 ###### 为了方便计算，我们
 ##### 互信息
 ###### 公式
