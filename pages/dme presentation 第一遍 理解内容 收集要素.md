@@ -320,7 +320,7 @@ $$
 $$
 \mathbf{X}=\mathbf{A S}
 $$
-#######
+####### 
 $$
 \mathbf{X}^{*}=\mathbf{X} \mathbf{M}=\mathbf{A} \mathbf{S} \mathbf{M}=\mathbf{A} \mathbf{S}^{*}
 $$
