@@ -31,4 +31,4 @@ title: Arcaea
 #### 爱托6级以上，打歌曲Singularity
 #### 在听到if you can时，露娜会露脸，在这小段时间内，击中所有音符
 ##### 爱托等级越高，允许越多lost
-#####
+#### Ptt在5到10之间，通过present难度解锁
