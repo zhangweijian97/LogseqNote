@@ -3,6 +3,8 @@ title: Arcaea
 ---
 
 ## 搭档解锁方法
+### 花对立
+#### 购买曲包Vicious Labyrinth
 ### 伞对立
 ### 猫对立
 ### 零光
