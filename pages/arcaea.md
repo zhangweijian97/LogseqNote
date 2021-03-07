@@ -10,12 +10,14 @@ title: Arcaea
 #### 很多8级，适合我现在练习
 ### Vicious Labyrinth
 #### 花对立和伞对立
-### Luminous Sky
-#### 零光和骨折光
 ### Crimson Solace
 #### 好听，红
 ### Binary Enfold
 #### 为了露娜！
+### Luminous Sky
+#### 零光和骨折光
+#### 考虑一下
+####
 ## 搭档解锁方法
 ### 花对立
 #### 購買“Vicious Labyrinth”曲包
