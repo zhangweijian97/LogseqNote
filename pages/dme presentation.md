@@ -400,9 +400,13 @@ J(\mathbf{y})=H\left(\mathbf{y}_{\text {gauss }}\right)-H(\mathbf{y})
 $$
 ###### 同样的，负熵越大，非高斯性越大
 ###### 因为上述分布很难得到，我们使用是近似负熵，公式
-####### 
+#######
 $$
 J(y) \approx \frac{1}{12} E\left\{y^{3}\right\}^{2}+\frac{1}{48} k u r t(y)^{2}
+$$
+####### 
+$$
+J(y) \approx \sum_{i=1}^{p} k_{i}\left[E\left\{G_{i}(y)\right\}-E\left\{G_{i}(v)\right\}\right]^{2}
 $$
  互信息
 ###### 公式
