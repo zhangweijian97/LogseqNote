@@ -397,4 +397,5 @@ $$
 L_{2}=H\left(\phi_{1}\left(\mathbf{w}_{1}^{T} \mathbf{x}\right), \ldots, \phi_{n}\left(\mathbf{w}_{n}^{T} \mathbf{x}\right)\right)
 $$
 ######## infomax原则
-########
+######## 研究者已经证明了infomax原则相当于最大似然估计
+######## 要求神经网络中的非线性\phi_{i}是密度函数f_{i}的积分
