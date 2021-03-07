@@ -358,6 +358,7 @@ $$
 $$
 y=\mathbf{w}^{T} \mathbf{x}=\mathbf{w}^{T} \mathbf{A} \mathbf{s}=\mathbf{z}^{T} \mathbf{s}
 $$
+##### y也是s的线性组合
 #####
 ### 第二页
 ### 第三页
