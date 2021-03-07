@@ -363,8 +363,8 @@ $$
 ##### 另一方面，当z只包含一个非零元素时，
 ###### 
 $$\mathbf{z}=\left[ \begin{matrix} 0 \\ \vdots \\ \mathbf{z}_{i} \\ \vdots \\ 0\end{matrix} \right]$$
-###### 公式，待补充，z = 向量
-###### y = si
+###### 
+$$y= \mathbf{s}_i$$
 ##### 这时，y的非高斯性最大 nongaussianity is maximized
 ##### 所以我们得到一个优化问题：找到一个w，使得 $$y=\mathbf{w}^{T} \mathbf{x}$$ 的非高斯性最大
 ### 第二页
