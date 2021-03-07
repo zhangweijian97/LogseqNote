@@ -17,7 +17,9 @@ title: Arcaea
 ### Luminous Sky
 #### 零光和骨折光
 #### 考虑一下
-####
+### Ambivalent Vision
+#### 忘却，镜像
+#### 考虑
 ## 搭档解锁方法
 ### 花对立
 #### 購買“Vicious Labyrinth”曲包
