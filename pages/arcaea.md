@@ -4,7 +4,7 @@ title: Arcaea
 
 ## 教程 资源 答疑
 ### [Arcaea新人常见问题解答](https://www.bilibili.com/read/cv8694683)
-### [Arcaea萌新常见问题汇总，及各曲包简单评价和氪金推荐](Arcaea萌新常见问题汇总，及各曲包简单评价和氪金推荐)
+### [Arcaea萌新常见问题汇总，及各曲包简单评价和氪金推荐](https://www.taptap.com/topic/11297694)
 ## 曲包购买意向
 ### Eternal Core
 #### 很多8级，适合我现在练习
