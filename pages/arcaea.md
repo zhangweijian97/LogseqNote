@@ -13,7 +13,7 @@ title: Arcaea
 ##### 触发条件：在1分26秒处，回忆率（血条）必须大于一定数值，初始对立等级越高，该数值要求就越低
 #### World 1-7 爬梯
 ### 零光
-#### 购入曲包Luminous Sky，然后在
+#### 购入曲包Luminous Sky
 #### 世界模式地图3-3 爬梯
 ### 骨折光
 #### 需要通过游玩Ether Strike来解锁Fracture Ray。
