@@ -431,3 +431,7 @@ $$
 \tilde{\mathbf{x}}=\mathbf{E} \mathbf{D}^{-\frac{1}{2}} \mathbf{E}^{T} \mathbf{x}
 $$
 ########
+$$
+\mathrm{D}^{-\frac{1}{2}}=\operatorname{diag}\left(d_{1}^{-\frac{1}{2}}, \ldots, d_{n}^{-\frac{1}{2}}\right)
+$$
+########
