@@ -2,7 +2,6 @@
 title: DME Presentation 第一遍 理解内容 收集要素
 ---
 
-## ##
 ## [[DME Presentation 第一遍 理解内容 收集要素]]
 ### 本部分关键在于目标函数。讲了如何去估计ICA模型中的参数
 ### 前情理解
