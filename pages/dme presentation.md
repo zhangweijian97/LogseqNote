@@ -35,7 +35,9 @@ By central limit theorem, y is more gaussian than any of s. And if y equals one 
 Therefore, we can maximize the non-gaussianity of y, to find the independent components s.
 To do this, we need methods to measure the non-gaussianity.
 ### The paper introduced 5 measurements.
-###
+### The first is kurtosis.
+As a gaussian random variable has 0 kurtosis, while for most nongaussian random variables, kurtosis is nonzero.
+Using this property, we can measure the non-gaussianity by the absolute value of kurtosis.
 讲
 ###
 ##
