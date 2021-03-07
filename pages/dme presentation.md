@@ -47,7 +47,9 @@ It is always non-negative, and zero if and only if the variables are statistical
 Therefore, we can minimize this equation to find out the solution.
 #### The forth one is to maximize likelihood.
 Here is the formula of log likelihood and its expectation. 
-You can see
+You can see it is almost the same as the equation of mutual information. The missing entry is a constant. 
+Therefore, these two methods are equivalent. 
+Addionally, researchers proved that maximizing the output entropy of a neural network is equivalent to maximizing the log likelihood
 讲
 ###
 ##
