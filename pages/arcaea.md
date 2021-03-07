@@ -5,6 +5,7 @@ title: Arcaea
 ## 搭档解锁方法
 ### 花对立
 #### 购买曲包Vicious Labyrinth
+#### World 1-6 爬梯
 ### 伞对立
 #### 解锁Grievous Lady歌曲后，在
 ### 零光
