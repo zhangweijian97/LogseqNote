@@ -48,7 +48,7 @@ It's non-negative, and zero if and only if the variables are independent.
 Therefore, we can measure sure the non-gaussianity by minimizing mutual information
 ### The forth is Likelihood
 We have the log-likelihood and the output entropy of a neural network. 
-Researchers have proved
+Researchers have proved in mathematics that this
 讲
 ###
 ##
