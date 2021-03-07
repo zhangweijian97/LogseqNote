@@ -96,8 +96,8 @@ $$
 I\left(y_{1}, y_{2}, \ldots, y_{m}\right)=\sum_{i=1}^{m} H\left(y_{i}\right)-H(\mathbf{y})
 $$
 ###### 如果y_{i}是独立的，那么它们彼此之间就没有任何信息，计算结果是0
-##### 最大化Log似然
-###### 公式
+##### 最大化似然
+###### log似然
 ####### 
 $$
 L=\sum_{t=1}^{T} \sum_{i=1}^{n} \log f_{i}\left(\mathbf{w}_{i}^{\mathrm{T}} \mathbf{x}(t)\right)+T \log |\operatorname{det} \mathbf{W}|
