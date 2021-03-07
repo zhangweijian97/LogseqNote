@@ -404,4 +404,4 @@ $$
 $$
 \frac{1}{T} E\{L\}=\sum_{i=1}^{n} E\left\{\log f_{i}\left(\mathbf{w}_{i}^{T} \mathbf{x}\right)\right\}+\log |\operatorname{det} \mathbf{W}|
 $$
-#######
+######## 如果fi是wiTx的分布，
