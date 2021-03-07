@@ -25,7 +25,7 @@ title: DME Presentation
 ### 中文博客 [详解独立成分分析](https://j.mp/3bloY8M)
 ## [[DME Presentation 第一遍 理解内容 收集要素]]
 ## [[DME Presentation 第二遍 删繁就简]]
-## 演讲稿
+## 第三遍 演讲稿
 ### Now we have the ICA model that represents the observed variable x and unknow independent component s. Next, we need an objective function to find out the solutions of the independent components.
 ### The Objective function is to maximise non-gaussianity. 
 As we know, the central limit theorem is that the distribution of a sum of independent random variables tends to be a Gaussian distribution.
