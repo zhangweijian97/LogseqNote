@@ -43,6 +43,9 @@ Therefore, we could first preprocess our data to make them be equal variance, th
 As this equation is hard to compute, in practice, we use these two equations to approximate it.
 #### The third one is to minimize the mutual information of y
 Mutual information is a natural measure of the dependence between random variables.
+It is always non-negative, and zero if and only if the variables are statistically independent.
+Therefore, we can minimize this equation to find out the solution.
+####
 讲
 ###
 ##
