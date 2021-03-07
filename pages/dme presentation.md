@@ -398,7 +398,7 @@ H(\mathbf{y})=-\int f(\mathbf{y}) \log (f(\mathbf{y})) d \mathbf{
 $$
 J(\mathbf{y})=H\left(\mathbf{y}_{\text {gauss }}\right)-H(\mathbf{y})
 $$
-####### 负熵，公式
+######
  互信息
 ###### 公式
 ##### 似然
