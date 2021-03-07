@@ -359,7 +359,7 @@ $$
 y=\mathbf{w}^{T} \mathbf{x}=\mathbf{w}^{T} \mathbf{A} \mathbf{s}=\mathbf{z}^{T} \mathbf{s}
 $$
 ##### 一方面，y比s更接近高斯分布
-##### 另一方面，当z只包含一个非零元素，
+##### 另一方面，当z只包含一个非零元素时，y=si
 #####
 ### 第二页
 ### 第三页
