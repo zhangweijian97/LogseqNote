@@ -61,3 +61,4 @@ title: DME presentation paper outline
 ### 7.2 Finding Hidden Factors in Financial Data
 ### 7.3 Reducing Noise in Natural Images
 ### 7.4 Telecommunications
+## 8 Conclusion

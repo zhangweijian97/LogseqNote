@@ -12,7 +12,6 @@ title: DME Presentation
 ### s2093718-yunbo liu
 ### s2060292-shifeng xu
 ## [[DME presentation paper outline]]
-### 8 Conclusion
 ## PPT outline
 ### Background
 #### {{embed ((60424562-b12a-4885-8cc4-af68644402c6))}}
