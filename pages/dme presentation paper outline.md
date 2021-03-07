@@ -3,6 +3,9 @@ title: DME presentation paper outline
 ---
 
 ## 1 Motivation
+:PROPERTIES:
+:id: 604427a8-6b79-4203-9dee-507e8ca83b4c
+:END:
 ## 2 Independent Component Analysis
 :PROPERTIES:
 :id: 604243f6-e77d-4f41-8a56-b08d7d19688d
