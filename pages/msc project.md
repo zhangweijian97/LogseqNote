@@ -60,8 +60,12 @@ http://homepages.inf.ed.ac.uk/pseries/
 ### 最好和队友多协作
 ### 最后要能出一两篇能发表的论文
 ### 外部导师，来自华为（爱丁堡），很严格，会提供一些实践上的支持
-### 本周任务
+### 本周任��
 #### 阅读三篇论文 [[看板]]
+:PROPERTIES:
+:id: 603e6e77-6d0a-42b3-ab4c-5dcc56f61e88
+:END:
+]
 ##### 1. K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters: https://arxiv.org/pdf/2002.01808
 ##### 2. ERNIE: En-hanced Language Representation with InformativeEntities
  https://arxiv.org/pdf/1905.07129.pdf
