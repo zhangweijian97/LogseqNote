@@ -106,3 +106,5 @@ $$
 ###### Wikidata5M
 ###### transductive link prediction setting and the inductive setting.
 ###### link prediction
+###### compare our models with [[TransE]] (Bordes et al., 2013).
+######
