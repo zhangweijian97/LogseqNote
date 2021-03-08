@@ -84,7 +84,8 @@ http://homepages.inf.ed.ac.uk/pseries/
 ### transductive embedding和Inductive Embedding的区别？
 ### 看完三篇论文
 #### 都有什么预训练（语言表证）模型？
-#### 有什么数据库？各自的特征
+#### 有什么数据库？各自的特征？
+#### 有什么
 ###
 #
 edure
