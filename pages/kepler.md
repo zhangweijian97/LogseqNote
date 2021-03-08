@@ -35,5 +35,5 @@ $$
 ###### encoder很多层
 ###### 第一个输入是N token，输出是N乘d的表示，H，作为下一层输入
 ###### 最后得到一个表示
-######
+###### Usually, there is a special token <s> added to the beginning of the text, and the output at <s> is regarded sentence representation. denote the representation function as E <s>(·).
 #####
