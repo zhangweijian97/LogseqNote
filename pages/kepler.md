@@ -86,7 +86,8 @@ $$
 #### 4 实验
 ##### 4.1 与之对比的模型
 ##### 4.2 任务
-###### Relation Classiﬁcation
-####### two widely-used benchmarks:
+###### [[Relation Classiﬁcation]]
+####### two widely-used **benchmarks**:
 ######## [[TACRED]] and
 ######## [[FewRel]].
+######
