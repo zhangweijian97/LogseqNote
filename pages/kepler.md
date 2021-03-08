@@ -39,7 +39,7 @@ $$
 ###### requires a tokenizer
 ####### use the same tokenization as RoBERTa: the Byte-Pair Encoding (BPE)
 ###### we do not modify the Transformer encoder structure to add external entity linkers or knowledgeintegration layers
-##### Knowledge Embedding
+##### 2.2 Knowledge Embedding
 ###### factual knowledge
 ###### deﬁne KGs
 ###### triplet
@@ -70,5 +70,5 @@ $$
 \mathbf{h}_{r}=\mathrm{E}_{<\mathrm{s}>}\left(\operatorname{text}_{h, r}\right)
 $$
 #
-##### Masked Language Modeling
+##### 2.3 Masked Language Modeling
 ######
