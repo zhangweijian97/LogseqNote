@@ -41,4 +41,5 @@ $$
 ###### we do not modify the Transformer encoder structure to add external entity linkers or knowledgeintegration layers
 ##### Knowledge Embedding
 ###### factual knowledge
+###### deﬁne KGs
 ######
