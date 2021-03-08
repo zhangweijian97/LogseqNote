@@ -87,6 +87,7 @@ $$
 ##### 4.1 与之对比的模型
 ##### 4.2 任务
 ###### [[Relation Classiﬁcation]]
+####### requires models to classify relation types between two given entities from text.
 ####### two widely-used **benchmarks**:
 ######## [[TACRED]] and
 ######### (Zhang et al., 2017)
