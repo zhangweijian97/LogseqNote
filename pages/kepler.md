@@ -37,4 +37,5 @@ $$
 ###### 最后得到一个表示
 ###### Usually, there is a special token <s> added to the beginning of the text, and the output at <s> is regarded sentence representation. denote the representation function as E <s>(·).
 ###### requires a tokenizer
+####### use the same tokenization as RoBERTa: the Byte-Pair Encoding (BPE)
 #####
