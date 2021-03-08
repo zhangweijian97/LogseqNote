@@ -99,4 +99,6 @@ $$
 ###### [[Entity Typing]]
 ####### Entity typing requires to classify given entity mentions into pre-deﬁned types.
 ####### [[OpenEntity]] (Choi et al., 2018)
+###### [[GLUE]]
+####### General Language Understanding Evaluation
 #######
