@@ -87,8 +87,7 @@ http://homepages.inf.ed.ac.uk/pseries/
 #### 有什么数据库？各自的特征？
 #### 有什么任务
 #### 一句话（一段话）概括每个模型的特点？
-## Eddie
-###
+## [[Eddie]]
 ###
 #
 edure
