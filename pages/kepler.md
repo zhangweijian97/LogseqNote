@@ -89,4 +89,4 @@ $$
 ###### Relation Classiﬁcation
 ####### two widely-used benchmarks:
 ######## [[TACRED]] and
-######## FewRel.
+######## [[FewRel]].
