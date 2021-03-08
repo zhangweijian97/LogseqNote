@@ -46,4 +46,7 @@ $$
 ###### instead of using stored embeddings
 ###### encode entities into vectors by using their **corresponding text.**
 ###### 三个嵌入方法
+####### entity descriptions as embeddings,
+####### entity and relation descriptions as embeddings, and
+####### entity
 #######
