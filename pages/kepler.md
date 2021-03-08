@@ -27,3 +27,8 @@ title: KEPLER
 ###### 输入
 ####### sequence of N token
 ###### computes L layers of d-dimensional contextualized representations
+#######
+$$
+\mathbf{H}_{i} \in \mathbb{R}^{N \times d}
+$$
+######
