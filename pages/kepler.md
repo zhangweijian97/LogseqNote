@@ -94,6 +94,6 @@ $$
 ######## [[FewRel]].
 ######### (Han et al., 2018b)
 ######### two state-of-the-art few-shot frameworks
-########## Proto (Snell et al., 2017)
+########## [[Proto]] (Snell et al., 2017)
 ########## PAIR (Gao et al., 2019).
 ######
