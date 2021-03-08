@@ -81,8 +81,10 @@ http://homepages.inf.ed.ac.uk/pseries/
 ### ��
 #### 是否需要Ethics proced
 ## 待解决
-### transductive embedding和Inductive Embedding的区别
-###
+### transductive embedding和Inductive Embedding的区别？
+### 看完三篇论文
+#### 都有什么预训练模型？
+#### 有什么
 ###
 #
 edure
