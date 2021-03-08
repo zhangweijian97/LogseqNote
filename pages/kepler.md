@@ -105,6 +105,8 @@ $$
 ##### 4.3 KE 任务
 ###### Wikidata5M
 ###### transductive link prediction setting and the inductive setting.
-###### link prediction
-###### compare our models with [[TransE]] (Bordes et al., 2013).
-######
+###### Experimental Settings
+####### link prediction
+####### compare our models with [[TransE]] (Bordes et al., 2013).
+###### Transductive Setting
+###### Inductive Setting
