@@ -78,8 +78,12 @@ http://homepages.inf.ed.ac.uk/pseries/
 #### 找新的论文？
 #### 和黄文禹一起学�
 ## ((604003f8-6a4a-4252-bc60-1cf3bb84b0da))  总结
-### 问题
-#### 是否需要Ethics procedure
+### ��
+#### 是否需要Ethics proced
+##
+###
+#
+edure
 /pa
 ��
 ##
