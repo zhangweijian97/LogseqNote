@@ -50,7 +50,7 @@ Therefore, we can measure sure the non-gaussianity by minimizing mutual informat
 We have the log-likelihood and the output entropy of a neural network. 
 Researchers have proved that maximizing likelihood is equivalent to minimizing mutual information under some constraints.
 ### The last is projection pursuit
-It is a te
+It is a technique developed for ﬁnding "interesting" projections of multidimensional data. One of it
 讲
 ###
 ##
