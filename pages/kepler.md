@@ -26,4 +26,4 @@ title: KEPLER
 ###### 基于transformer
 ###### 输入
 ####### sequence of N token
-######
+###### computes L layers of d-dimensional contextualized representations
