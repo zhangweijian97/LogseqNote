@@ -52,7 +52,7 @@ Researchers have proved that maximizing likelihood is equivalent to minimizing m
 ### The last is projection pursuit
 It is a technique developed for ﬁnding "interesting" projections of multidimensional data. One of the interesting projections shows the least Gaussian distribution, while Gaussian distribution is **least** interesting.
 Therefore, we can use this technique to measure non-gaussianity.
-###
+### The paper also mentioned some data preprocessing methods, such as centering, whitenning and band-pass filtering.
 讲
 ###
 ##
