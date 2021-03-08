@@ -71,4 +71,6 @@ $$
 $$
 #
 ##### 2.3 Masked Language Modeling
-#####
+###### 遮住一部分，预测
+##### 2.4 Training Objectives
+######
