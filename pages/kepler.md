@@ -48,6 +48,14 @@ $$
 ###### 三个嵌入方法
 ####### entity descriptions as embeddings,
 ########
+$$
+\begin{array}{l}
+\mathbf{h}=E_{<s>}\left(\operatorname{text}_{h}\right) \\
+\mathbf{t}=E_{<s>}\left(\operatorname{text}_{t}\right) \\
+\mathbf{r}=\mathbf{T}_{r}
+\end{array}
+$$
+########
 ####### entity and relation descriptions as embeddings, and
 ####### entity embeddings conditioned on relations.
 #######
