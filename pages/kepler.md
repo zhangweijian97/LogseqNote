@@ -42,4 +42,4 @@ $$
 ##### Knowledge Embedding
 ###### factual knowledge
 ###### deﬁne KGs
-######
+###### triplet
