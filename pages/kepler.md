@@ -32,4 +32,6 @@ $$
 \mathbf{H}_{i} \in \mathbb{R}^{N \times d}
 $$
 ###### Each layer of the encoder Ei
-#######
+###### encoder很多层
+###### 第一个输入是N token
+######
