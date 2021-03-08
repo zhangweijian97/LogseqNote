@@ -98,4 +98,5 @@ $$
 ########## [[PAIR]] (Gao et al., 2019).
 ###### [[Entity Typing]]
 ####### Entity typing requires to classify given entity mentions into pre-deﬁned types.
-####### OpenEntity (Choi et al., 2018)
+####### [[OpenEntity]] (Choi et al., 2018)
+#######
