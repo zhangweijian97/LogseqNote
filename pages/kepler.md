@@ -31,4 +31,5 @@ title: KEPLER
 $$
 \mathbf{H}_{i} \in \mathbb{R}^{N \times d}
 $$
-######
+###### Each layer of the encoder Ei
+#######
