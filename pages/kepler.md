@@ -40,4 +40,5 @@ $$
 ####### use the same tokenization as RoBERTa: the Byte-Pair Encoding (BPE)
 ###### we do not modify the Transformer encoder structure to add external entity linkers or knowledgeintegration layers
 ##### Knowledge Embedding
+###### factual knowledge
 ######
