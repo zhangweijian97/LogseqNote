@@ -55,7 +55,7 @@ $$
 \mathbf{r}=\mathbf{T}_{r}
 \end{array}
 $$
-########
+######## descriptions
 ####### entity and relation descriptions as embeddings, and
 ####### entity embeddings conditioned on relations.
 #######
