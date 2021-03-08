@@ -58,6 +58,7 @@ $$
 ######## text， descriptions
 ######## T， relation embeddings
 ######## use the loss from Sun et al. (2019) as our KE objective,
+########
 ####### entity and relation descriptions as embeddings, and
 ####### entity embeddings conditioned on relations.
 #######
