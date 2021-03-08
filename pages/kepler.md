@@ -108,5 +108,6 @@ $$
 ###### Experimental Settings
 ####### link prediction
 ####### compare our models with [[TransE]] (Bordes et al., 2013).
+####### 对比 [[DKRL]] (Xie et al., 2016)
 ###### Transductive Setting
 ###### Inductive Setting
