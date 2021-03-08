@@ -80,8 +80,8 @@ http://homepages.inf.ed.ac.uk/pseries/
 ## ((604003f8-6a4a-4252-bc60-1cf3bb84b0da))  �
 ### 提�
 #### Ethics procedure
-ure
-####
+#### IN COOPERATION WITH THEIR SUPERVISOR
+###
 s proced
 ## 待解决
 ### transductive embedding和Inductive Embedding的区别？
