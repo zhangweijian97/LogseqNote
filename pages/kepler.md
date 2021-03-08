@@ -97,4 +97,5 @@ $$
 ########## [[Proto]] (Snell et al., 2017)
 ########## [[PAIR]] (Gao et al., 2019).
 ###### [[Entity Typing]]
+####### Entity typing requires to classify given entity mentions into pre-deﬁned types.
 #######
