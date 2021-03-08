@@ -114,4 +114,9 @@ $$
 ##### 5 分析
 ###### 5.1 Ablation Study
 ####### 消融？
+####### 对比
+######## 完整模型
+######## 只有KE loss
+######## 只有MEM loss
 ###### 5.2 Knowledge Probing Experiment
+#######
