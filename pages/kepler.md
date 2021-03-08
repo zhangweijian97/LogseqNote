@@ -43,3 +43,4 @@ $$
 ###### factual knowledge
 ###### deﬁne KGs
 ###### triplet
+###### instead of using stored embeddings
