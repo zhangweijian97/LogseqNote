@@ -33,5 +33,5 @@ $$
 $$
 ###### Each layer of the encoder Ei
 ###### encoder很多层
-###### 第一个输入是N token
+###### 第一个输入是N token，输出是N乘d的表示，H，作为下一层输入
 ######
