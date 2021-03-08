@@ -38,4 +38,6 @@ $$
 ###### Usually, there is a special token <s> added to the beginning of the text, and the output at <s> is regarded sentence representation. denote the representation function as E <s>(·).
 ###### requires a tokenizer
 ####### use the same tokenization as RoBERTa: the Byte-Pair Encoding (BPE)
-#####
+###### we do not modify the Transformer encoder structure to add external entity linkers or knowledgeintegration layers
+##### Knowledge Embedding
+######
