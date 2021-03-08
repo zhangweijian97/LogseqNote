@@ -60,10 +60,13 @@ $$
 ######## use the loss from Sun et al. (2019) as our KE objective,
 ######## 略
 ####### entity and relation descriptions as embeddings
+######## 
+$$
+\hat{\mathbf{r}}=E_{<s>}\left(\operatorname{text}_{r}\right)
+$$
+####### entity embeddings conditioned on relations
 ########
 $$
 \mathbf{h}_{r}=\mathrm{E}_{<\mathrm{s}>}\left(\operatorname{text}_{h, r}\right)
 $$
-########
-####### entity embeddings conditioned on relations
 #######
