@@ -82,6 +82,8 @@ http://homepages.inf.ed.ac.uk/pseries/
 #### Ethics procedure
 #### IPP要求填一个表单
 ##### https://j.mp/3kYs2uX
+##### 打算远程完成
+##### 和导师一起填写
 ####
 ###
 s proced
