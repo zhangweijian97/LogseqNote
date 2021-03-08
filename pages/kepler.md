@@ -21,8 +21,9 @@ title: KEPLER
 ##### masked language modeling (MLM)
 ##### we construct Wikidata5M,
 ###### containing about 5M entities, 20M triplets, and aligned entity descriptions from Wikipedia.
-#### encoder
-##### 基于transformer
-##### 输入
-###### sequence of N token
-#####
+#### 模型
+##### encoder
+###### 基于transformer
+###### 输入
+####### sequence of N token
+######
