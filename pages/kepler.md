@@ -104,4 +104,5 @@ $$
 ####### (Wang et al., 2019b)
 ##### 4.3 KE 任务
 ###### Wikidata5M
+###### transductive link prediction setting and the inductive setting.
 ######
