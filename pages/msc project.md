@@ -93,6 +93,7 @@ Geographic Correlation for Query-POI Relevance Learning
 #### 待解决的问题
 ##### 外部导师？
 ##### 华为的数据集？
+##### ethics procedure？
 #####
 的代码
 ###
