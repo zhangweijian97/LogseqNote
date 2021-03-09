@@ -78,10 +78,7 @@ http://homepages.inf.ed.ac.uk/pseries/
 ### MSc project 第二次会议 总结
 #### ((60478888-8565-4b76-b431-dc73f7e8e984))
 # GPU相关
-###
-s proced
-## 待解决
-### transductive embedding和Inductive Embedding的区别？
+#ve Embedding的区别？
 ### 看完三篇论文
 #### 有什么预训练（语言表证）模型？
 #### 有什么数据库？各自的特征？
