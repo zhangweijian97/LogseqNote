@@ -40,6 +40,7 @@ Peggy (as Chair of Informatics Ethics Committee)
 --
 Peggy Seriès
 http://homepages.inf.ed.ac.uk/pseries/
+### [[Eddie]]
 ## 导师 Jeff Z Pan
 ### j.z.pan@ed.ac.uk
 ### http://knowledge-representation.org/j.z.pan/
@@ -83,7 +84,9 @@ http://homepages.inf.ed.ac.uk/pseries/
 #### 有什么预训练（语言表证）模型？
 #### 有什么数据库？各自的特征？
 #### 有什么任务
-#### 一句话（一段话）概括每个模型的特点？
+#### 一句话（一段话）概括
+##
+��特点？
 ## [[Eddie]]
 ##
 ###
