@@ -88,8 +88,11 @@ http://homepages.inf.ed.ac.uk/pseries/
 ###### Incorporating Semantic Similarity with
 Geographic Correlation for Query-POI Relevance Learning
 ##### 搞代码
-###### K-Adapter
+###### 
 ##### 自己找更多知识增强预训练模型的代码
+#### 待解决的问题
+#####
+的代码
 ###
 )
 # GPU相关
