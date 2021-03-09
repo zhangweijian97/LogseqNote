@@ -94,10 +94,8 @@ Geographic Correlation for Query-POI Relevance Learning
 ##### 外部导师？
 ##### 华为的数据集？
 ##### ethics procedure？
-#####
-的代码
-###
-)
+##### remote working？
+##
 # GPU相关
 �
 #���特点？
