@@ -86,7 +86,7 @@ title: Arcaea
 ### 群
 ### 忘却
 ### 忘却
-####
+#### 镜像技能
 ### 红
 #### 中文维基 [红](https://wiki.arcaea.cn/index.php/%E7%BA%A2)
 #### 觉醒材料，略
