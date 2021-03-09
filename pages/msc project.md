@@ -18,11 +18,9 @@ title: MSc Project
 ### **共享文档** [Overleaf](https://www.overleaf.com/project/603e65c135d959aa06335871)
 ### Ethics procedure
 #### **if your research project involves human participants or personal data, including social media and secondary data.**
-#### Ethics applications are submitted online.
-You will find the link to the form there, as well as a lot of information for ethics approval and a FAQ:
-https://web.inf.ed.ac.uk/infweb/research/ethics-and-integrity/ethics-procedure 
-
-There are also templates for: 1) participant information sheets and 2) consent forms that we ask you to use if your research involves human participants:
+#### Ethics applications link and FAQ:
+##### https://web.inf.ed.ac.uk/infweb/research/ethics-and-integrity/ethics-procedure
+#### There are also templates for: 1) participant information sheets and 2) consent forms that we ask you to use if your research involves human participants:
 https://web.inf.ed.ac.uk/infweb/research/ethics-and-integrity/ethics-resources
 
 Students will have to prepare and submit the form *with their supervisor*.
