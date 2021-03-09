@@ -76,12 +76,6 @@ http://homepages.inf.ed.ac.uk/pseries/
 ##### 和黄文禹一起学？
 ### MSc project 第二次会议 总结
 #### ((60478888-8565-4b76-b431-dc73f7e8e984))
-#### 提问
-##### Ethics procedure
-##### 远程学习
-###### https://j.mp/3kYs2uX
-###### 打算远程完成
-###### 和导师一起填写
 #### 回答
 ##### GPU相关
 ####
