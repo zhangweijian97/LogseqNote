@@ -78,4 +78,4 @@ title: ERNIE
 #### 未来方向
 ##### 将知识 注入 [[ELMo]] 等基于特征的预训练模型
 ##### 将形式各异的结构化知识引入 [[ConceptNet]] 等语言表征模型
-###
+### As most datasets do not have entity annotations, we use TAGME (Ferragina and Scaiella, 2010) to extract the entity mentions in the sentences and link them to their corresponding entities in KGs.
