@@ -87,4 +87,5 @@ title: Arcaea
 ###
 愿
 红
-###
+### 红
+#### https://wiki.arcaea.cn/index.php/%E7%BA%A2
