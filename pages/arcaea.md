@@ -85,9 +85,8 @@ title: Arcaea
 ### ��
 ### 群
 ### 忘却
-###
-愿
-红
+### 忘却
+####
 ### 红
 #### 中文维基 [红](https://wiki.arcaea.cn/index.php/%E7%BA%A2)
 #### 觉醒材料，略
