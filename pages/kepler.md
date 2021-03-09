@@ -18,7 +18,7 @@ title: KEPLER
 ##### KEPLER
 ###### encoder,
 ####### encode the texts and entities into a uniﬁed semantic space with the same PLM
-##### masked language modeling (MLM)
+##### Masked Language Modeling MLM
 ##### we construct Wikidata5M,
 ###### containing about 5M entities, 20M triplets, and aligned entity descriptions from Wikipedia.
 #### 2 模型
