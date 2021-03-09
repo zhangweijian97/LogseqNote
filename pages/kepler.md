@@ -94,6 +94,9 @@ $$
 ######## [[FewRel]].
 ######### (Han et al., 2018b)
 ######### two state-of-the-art few-shot frameworks
+:PROPERTIES:
+:id: 6046582b-2881-4d21-88a7-f6587f1db03d
+:END:
 ########## [[Proto]] (Snell et al., 2017)
 ########## [[PAIR]] (Gao et al., 2019).
 ###### [[Entity Typing]]
