@@ -77,12 +77,13 @@ http://homepages.inf.ed.ac.uk/pseries/
 ### MSc project 第二次会议 总结
 #### 提问
 ##### Ethics procedure
-##### IPP要求填一个表单
+##### 远程学习
 ###### https://j.mp/3kYs2uX
 ###### 打算远程完成
 ###### 和导师一起填写
 #### 回答
 ##### GPU相关
+####
 # GPU相关
 ###
 s proced
