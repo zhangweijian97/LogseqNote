@@ -91,6 +91,8 @@ Geographic Correlation for Query-POI Relevance Learning
 ###### 
 ##### 自己找更多知识增强预训练模型的代码
 #### 待解决的问题
+##### 外部导师？
+##### 华为的数据集？
 #####
 的代码
 ###
