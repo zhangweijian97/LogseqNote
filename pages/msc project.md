@@ -50,7 +50,7 @@ http://homepages.inf.ed.ac.uk/pseries/
  Tutorial 3]]
 ## [[I
 ## 会议记录
-###
+### MSc project 第一次会议 总结
 #### ((603e4851-2342-45f2-9c73-a70b67e70a77)) 总结
 ##### 用到语言模型
 ##### 用到pretrain model
