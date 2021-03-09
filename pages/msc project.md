@@ -75,8 +75,10 @@ http://homepages.inf.ed.ac.uk/pseries/
 #### 找新的论文？
 #### 和黄文禹一起学�
 ## ((604003f8-6a4a-4252-bc60-1cf3bb84b0da))  �
-### 提�
+### 提
 #### Ethics procedure
+#####
+ure
 #### IPP要求填一个表单
 ##### https://j.mp/3kYs2uX
 ##### 打算远程完成
