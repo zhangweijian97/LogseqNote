@@ -50,34 +50,34 @@ http://homepages.inf.ed.ac.uk/pseries/
  Tutorial 3]]
 ## [[I
 ## 会议记录
-### ((603e4851-2342-45f2-9c73-a70b67e70a77)) 总结
-#### 用到语言模型
-#### 用到pretrain model
-#### 理论上，导师先提供一些论文
-#### 实践上，先了解benchmark，了解一些，之后选择其中的改进
-#### 最好和队友多协作
-#### 最后要能出一两篇能发表的论文
-#### 外部导师，来自华为（爱丁堡），很严格，会提供一些实践上的支持
-#### 本周任务
-##### 阅读三篇论文 [[看板]]
+###
+#### ((603e4851-2342-45f2-9c73-a70b67e70a77)) 总结
+##### 用到语言模型
+##### 用到pretrain model
+##### 理论上，导师先提供一些论文
+##### 实践上，先了解benchmark，了解一些，之后选择其中的改进
+##### 最好和队友多协作
+##### 最后要能出一两篇能发表的论文
+##### 外部导师，来自华为（爱丁堡），很严格，会提供一些实践上的支持
+##### 本周任务
+###### 阅读三篇论文 [[看板]]
 :PROPERTIES:
 :id: 603e6e77-6d0a-42b3-ab4c-5dcc56f61e88
 :END:
-###### 1. K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters: https://arxiv.org/pdf/2002.01808
-###### 2. ERNIE: En-hanced Language Representation with InformativeEntities
+####### 1. K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters: https://arxiv.org/pdf/2002.01808
+####### 2. ERNIE: En-hanced Language Representation with InformativeEntities
  https://arxiv.org/pdf/1905.07129.pdf
-###### 3. KEPLER: A unified model for knowledge embedding and pre-trained lan- guage representation
+####### 3. KEPLER: A unified model for knowledge embedding and pre-trained lan- guage representation
  https://arxiv.org/pdf/1911.06136.pdf
-##### 查询GPU资源
-###### 信院 李沛泽
-####### 可以通过导师批准申请Eddie
-####### https://www.wiki.ed.ac.uk/display/ResearchServices/Who+can+use+Eddie
-##### 找新的论文？
-##### 和黄文禹一起学？
+###### 查询GPU资源
+####### 信院 李沛泽
+######## 可以通过导师批准申请Eddie
+######## https://www.wiki.ed.ac.uk/display/ResearchServices/Who+can+use+Eddie
+###### 找新的论文？
+###### 和黄文禹一起学？
+###
 ### MSc project 第二次会议 总结
 #### ((60478888-8565-4b76-b431-dc73f7e8e984))
-#### 回答
-##### GPU相关
 ####
 # GPU相关
 ###
