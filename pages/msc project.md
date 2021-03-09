@@ -12,6 +12,8 @@ title: MSc Project
 #### 2.  Muhao Chen, Yingtao Tian, Kai-Wei Chang, Steven Skiena and Carlo Zaniolo. Co-training Embeddings of Knowledge Graphs and Entity Descriptions for Cross-lingual Entity Alignment. IJCAI 2018.
 #### 3.  Théo Trouillon, Johannes Welbl, Sebastian Riedel, Eric Gaussier, Guillaume Bouchard. Complex Embeddings for Simple Link Prediction. ICML 2016.
 #### 4.  Chang Xu, Dachend Tao and Chao Xu. 2013. A Survey on Multi-View Learning. arXiv 1304.5534
+## title
+### A Framework of Multi-view Knowledge Graph Embeddings
 ## 资源
 ### https://github.com/thunlp/KRLPapers
 ### https://github.com/xinguoxia/KGE
