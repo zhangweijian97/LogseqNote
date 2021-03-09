@@ -74,19 +74,16 @@ http://homepages.inf.ed.ac.uk/pseries/
 ####### https://www.wiki.ed.ac.uk/display/ResearchServices/Who+can+use+Eddie
 ##### 找新的论文？
 ##### 和黄文禹一起学？
-��
-## MSc project 第二次会议 总结
-�
-### 提
-#### Ethics procedure
-#####
-ure
-#### IPP要求填一个表单
-##### https://j.mp/3kYs2uX
-##### 打算远程完成
-##### 和导师一起填写
-### 回答
-#### GPU相关
+### MSc project 第二次会议 总结
+#### 提问
+##### Ethics procedure
+##### IPP要求填一个表单
+###### https://j.mp/3kYs2uX
+###### 打算远程完成
+###### 和导师一起填写
+#### 回答
+##### GPU相关
+# GPU相关
 ###
 s proced
 ## 待解决
