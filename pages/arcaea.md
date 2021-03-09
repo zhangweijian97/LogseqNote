@@ -90,4 +90,4 @@ title: Arcaea
 红
 ### 红
 #### 中文维基 [红](https://wiki.arcaea.cn/index.php/%E7%BA%A2)
-#### 需要觉醒
+#### 觉醒材料，略
