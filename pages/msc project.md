@@ -78,8 +78,17 @@ http://homepages.inf.ed.ac.uk/pseries/
 ####### https://www.wiki.ed.ac.uk/display/ResearchServices/Who+can+use+Eddie
 ##### 找新的论文？
 ##### 和黄文禹一起学？
-### MSc project 第二次会议 总结
-#### ((60478888-8565-4b76-b431-dc73f7e8e984))
+### MSc project 第二次会议 总��
+#### ((60478888-8565-4b76-b431-dc73f7e8e98
+#### 本周任务
+##### 读论文
+###### Incorporating Semantic Similarity with
+Geographic Correlation for Query-POI Relevance Learning
+##### 搞代码
+###### K-Adapter
+##### 自己找更多知识增强预训练模型的代码
+###
+)
 # GPU相关
 �
 #���特点？
