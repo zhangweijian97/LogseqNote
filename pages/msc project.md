@@ -17,8 +17,7 @@ title: MSc Project
 ### https://github.com/xinguoxia/KGE
 ### **共享文档** [Overleaf](https://www.overleaf.com/project/603e65c135d959aa06335871)
 ### Ethics procedure
-#### Dear MSc students (and MSc supervisors),
-Now that you have been allocated a MSc project and will start working on your IPP, this message is to let you know about the ethics procedure in Informatics, which you will have to go through **if your research project involves human participants or personal data, including social media and secondary data.**
+#### **if your research project involves human participants or personal data, including social media and secondary data.**
 #### Ethics applications are submitted online.
 You will find the link to the form there, as well as a lot of information for ethics approval and a FAQ:
 https://web.inf.ed.ac.uk/infweb/research/ethics-and-integrity/ethics-procedure 
