@@ -11,4 +11,5 @@ title: CLIP
 ### take image, predict text
 #### whereas DALL-E take text, predict image
 ### how likely of the image to be "a photo of dog"
-###
+### zero shot
+#### 不用训练在什么task
