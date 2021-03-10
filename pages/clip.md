@@ -14,9 +14,7 @@ title: CLIP
 ### zero shot
 #### 不用在什么task上训练
 ### what clip do
-#### take image
-#### a set of images
-#### image encoder
-#### a vector in latent space
-#### I1, I2...
+#### a set of images into image encoder, a vector in latent space, I1, I2...
+#### a set of text to text encoder, T1, T...
+#### T1 correspon to I1, so and so on
 ####
