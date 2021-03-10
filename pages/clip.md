@@ -13,4 +13,6 @@ title: CLIP
 ### how likely of the image to be "a photo of dog"
 ### zero shot
 #### 不用在什么task上训练
-###
+### what clip do
+#### take image
+####
