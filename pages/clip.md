@@ -18,4 +18,5 @@ title: CLIP
 #### a set of text to text encoder, T1, T...
 #### T1 correspon to I1, so and so on
 #### 不再用I1来预测text（其他模型）
+#### 而是，问，T1到Tn中，谁和I1更接近？
 ####
