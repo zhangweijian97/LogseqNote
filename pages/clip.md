@@ -10,4 +10,5 @@ title: CLIP
 ### zero-shot classifier
 ### take image, predict text
 #### whereas DALL-E take text, predict image
+### how likely of the image to be "a photo of dog"
 ###
