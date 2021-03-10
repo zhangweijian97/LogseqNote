@@ -20,7 +20,10 @@ title: CLIP
 ##### T1 correspon to I1, so and so on
 ##### 不再用I1来预测text（其他模型）
 ##### 而是，问，T1到Tn中，谁和I1更接近？
-#####
+##### 最大化对应的inner projct
+##### 最小化其他的
+##### 行和列分别softmax
 #### 推理
 ##### 进来一个图片，一堆text
 ##### 就知道最相关的那一个text
+####
