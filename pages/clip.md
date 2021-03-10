@@ -26,4 +26,5 @@ title: CLIP
 #### 推理
 ##### 进来一个图片，一堆text
 ##### 就知道最相关的那一个text
-####
+#### linear probing
+##### 在clip后面加一层，对一个task训练
