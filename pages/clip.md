@@ -15,4 +15,8 @@ title: CLIP
 #### 不用在什么task上训练
 ### what clip do
 #### take image
+#### a set of images
+#### image encoder
+#### a vector in latent space
+#### I1, I2...
 ####
