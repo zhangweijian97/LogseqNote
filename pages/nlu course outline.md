@@ -2,4 +2,6 @@
 title: NLU Course Outline
 ---
 
-## [[NLU Coursework 2
+##
+## [[NLU Coursework 2]]
+##
