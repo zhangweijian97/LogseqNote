@@ -22,6 +22,3 @@ title: NLU Natural Language Understanding, Generation, and Machine Translation
 ### [[NLU Lecture 16 Neural Parsing]]
 ### [[NLU Lecture 17 Recurrent Neural Network Grammars]]
 ### [[NLU Lecture 18 Unsupervised Parsing]]
-## Coursework
-### [[NLU Coursework 2]]
-##
