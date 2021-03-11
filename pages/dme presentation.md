@@ -56,8 +56,10 @@ Therefore, we can use this technique to measure non-gaussianity.
 They are used to simplify the algorithms, reduce the number of parameters to be estimated and remove noise signal for time-signal data. 
 Attention! You can only use those methods where the ICA model remains valid.
 ## DME Presentation QA 准备
-### 问题In practice, how to make a decision about using which measurement of nongaussianity. Shall we choose the measurement empirically or we have to make a choice based on some certain rules.
+### In practice, how to make a decision about using which measurement of nongaussianity. Shall we choose the measurement empirically or we have to make a choice based on some certain rules.
 #### In practice, we often use FastICA, which is a very efficient method for maximizing the contrast function. It can can be considered as a fixed-point algorithm for maximum likelihood estimation.
+### Why is intuition about the equivalence between minimization of mutual information and maximization of likelihood hold. Does it mean these two measurements are essentially identical but describe the problem from different angles?
+####
 讲
 ###
 ##
