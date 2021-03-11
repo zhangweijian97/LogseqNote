@@ -30,4 +30,6 @@ title: CLIP
 #### 在clip后面加一层，对一个task训练
 ### 对比
 #### few-shot linear probes
-####
+#### clip没训练都比few-shot linear probes的BiT-M的16个epoch好
+#### clip自己加上linear probe就更好了
+###
