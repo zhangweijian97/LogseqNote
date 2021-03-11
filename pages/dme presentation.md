@@ -64,7 +64,7 @@ Attention! You can only use those methods where the ICA model remains valid.
 #### 然后对于x大于s和x小于s的情况，学术界都有研究
 #### 论文中的project persuit方法是一种用于处理s比x少的情况的方法
 ### converge
-####
+### PCA and ICA
 讲
 ###
 ##
