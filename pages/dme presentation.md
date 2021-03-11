@@ -69,7 +69,8 @@ Attention! You can only use those methods where the ICA model remains valid.
 #### If the convergence is not satisfactory, one may then increase the sample size.
 ### PCA and ICA
 #### 可以同时用PCA和ICA。进行ICA之前需要对数据预处理，比如白化。PCA就是一种白化方法。白化的目的是去除特征之间的相关性，并且让所有特征有相同的方差。方便后面的计算。
-####
+#### 相同点：PCA和ICA都是已知一个数据x，找一组新的basis，x可以表示为这个basis的线性组合；
+#### 不同点：PCA：find the one that best explains the variability of your data 找到的这组basis，可以最大化解释原数据的variability；ICA：find the one in which each vector is an independent component of your data 找到的这组basis，互相之间是独立的。
 讲
 ###
 ##
