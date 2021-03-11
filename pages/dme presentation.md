@@ -68,6 +68,7 @@ Attention! You can only use those methods where the ICA model remains valid.
 #### maximum likelihood收到估计函数不正确的影响
 #### If the convergence is not satisfactory, one may then increase the sample size.
 ### PCA and ICA
+#### 可以同时用PCA和ICA。进行ICA之前需要对数据预处理，比如白化。PCA就是一种白化方法。白化的目的是去除特征之间的相关性，并且让所有特征有相同的方差。方便后面的计算。
 ####
 讲
 ###
