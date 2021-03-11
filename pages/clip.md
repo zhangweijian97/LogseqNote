@@ -32,4 +32,3 @@ title: CLIP
 #### few-shot linear probes
 #### clip没训练都比few-shot linear probes的BiT-M的16个epoch好
 #### clip自己加上linear probe就更好了
-###
