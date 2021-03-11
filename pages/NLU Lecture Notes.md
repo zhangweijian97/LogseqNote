@@ -1,8 +1,6 @@
 ---
-title: NLU Natural Language Understanding, Generation, and Machine Translation
+title: NLU Lecture Notes
 ---
-
-## Lecture notes
 
 ### [[NLU Lecture 1-16]]
 ### [[NLU Lecture 1 Introduction]]
