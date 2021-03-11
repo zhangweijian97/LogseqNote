@@ -1,5 +1,5 @@
 ---
-title: NLU Course Outline
+title: NLU Course Contents
 ---
 
 ## [[NLU Lecture Notes]]
