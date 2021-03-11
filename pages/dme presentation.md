@@ -72,7 +72,8 @@ Attention! You can only use those methods where the ICA model remains valid.
 #### 相同点：PCA和ICA都是已知一个数据x，找一组新的basis，x可以表示为这个basis的线性组合；
 #### 不同点：
 ##### PCA：find the one that best explains the variability of your data 找到的这组basis，可以最大化解释原数据的variability；ICA：find the one in which each vector is an independent component of your data 找到的这组basis，互相之间是独立的。
-#####
+##### PCA components are orthogonal
+##### ICA components are not orthogonal
 讲
 ###
 ##
