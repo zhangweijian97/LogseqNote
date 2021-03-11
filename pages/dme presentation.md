@@ -55,6 +55,7 @@ Therefore, we can use this technique to measure non-gaussianity.
 ### The paper also mentioned some data preprocessing methods, such as centering, whitenning and band-pass filtering. 
 They are used to simplify the algorithms, reduce the number of parameters to be estimated and remove noise signal for time-signal data. 
 Attention! You can only use those methods where the ICA model remains valid.
+## DME Presentation
 讲
 ###
 ##
