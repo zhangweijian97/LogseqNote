@@ -64,7 +64,11 @@ Attention! You can only use those methods where the ICA model remains valid.
 #### 然后对于x大于s和x小于s的情况，学术界都有研究
 #### 论文中的project persuit方法是一种用于处理s比x少的情况的方法
 ### converge
+#### 比如kurtosis受到outliner影响
+#### maximum likelihood收到估计函数不正确的影响
+#### If the convergence is not satisfactory, one may then increase the sample size.
 ### PCA and ICA
+####
 讲
 ###
 ##
