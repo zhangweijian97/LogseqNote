@@ -59,7 +59,10 @@ Attention! You can only use those methods where the ICA model remains valid.
 ### In practice, how to make a decision about using which measurement of nongaussianity. Shall we choose the measurement empirically or we have to make a choice based on some certain rules.
 #### In practice, we often use FastICA, which is a very efficient method for maximizing the contrast function. It can can be considered as a fixed-point algorithm for maximum likelihood estimation.
 ### Why is intuition about the equivalence between minimization of mutual information and maximization of likelihood hold. Does it mean these two measurements are essentially identical but describe the problem from different angles?
-####
+#### motivation中的鸡尾酒会问题 cocktail party problem，假设了x和s数量相等
+#### 后面基本上也是基于这个假设来做推导
+#### 然后对于x大于s和x小于s的情况，学术界都有研究
+#### 论文中的project persuit方法是一种用于处理s比x少的情况的方法
 讲
 ###
 ##
