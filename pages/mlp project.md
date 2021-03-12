@@ -120,6 +120,6 @@ title: MLP Project
 ####### compare with previous methods
 ###### conclusion
 ##### 那对于abstract和introduction，我需要看一下cw3 feedback来整合一下
-##### related work部分，大体上参考那几篇最新的text2face的论文。
+##### related work部分，大体上参考那几篇最新的text2face的论文。但是clip的部分
 ###### [[FTGAN Chen 2019]]
 ###### [[Faces la Carte Wang 2020]]
