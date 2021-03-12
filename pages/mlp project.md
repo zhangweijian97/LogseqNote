@@ -121,4 +121,3 @@ title: MLP Project
 ###### conclusion
 ##### 那对于abstract和introduction，我需要看一下cw3 feedback来整合一下
 ##### 所以一件事情是，
-##### [[Mar 12th, 2021]]
