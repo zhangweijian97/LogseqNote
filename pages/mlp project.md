@@ -106,4 +106,6 @@ title: MLP Project
 ##### 比如大纲还是
 ###### abstract
 ###### introduction
+###### related work
+###### model
 ######
