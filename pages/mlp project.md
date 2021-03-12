@@ -100,5 +100,5 @@ title: MLP Project
 ##### We have discussed these in the tutorial. Feel free to ask more questions.
 #### Extra questions:
 ##### We have discussed these in the tutorial. I’ll assume you have noted down the details
-### cw4
+### MLP final report
 ####
