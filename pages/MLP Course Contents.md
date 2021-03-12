@@ -2,11 +2,10 @@
 title: MLP Course Contents
 ---
 
-## 
+## [[MLP Project]]
 :PROPERTIES:
 :id: 6036865a-0182-4f5d-b3ed-7c4a243beefc
 :END:
-## MLP Project
 ### 前略
 ### 资源
 #### [DCGAN 教程](https://pytorch.apachecn.org/docs/1.7/22.html)
