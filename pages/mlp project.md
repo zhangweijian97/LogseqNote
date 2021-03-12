@@ -102,4 +102,8 @@ title: MLP Project
 ##### We have discussed these in the tutorial. I’ll assume you have noted down the details
 ### MLP final report
 #### 草稿 整理思路
-#####
+##### 有点不知道从何下手，那就先发散思路
+##### 比如大纲还是
+###### abstract
+###### introduction
+######
