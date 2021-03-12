@@ -1,5 +1,5 @@
 ---
-title: MLP Machine Learning Practical
+title: MLP Course Contents
 ---
 
 ## MLP Project
