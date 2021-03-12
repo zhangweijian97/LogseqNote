@@ -101,5 +101,5 @@ title: MLP Project
 #### Extra questions:
 ##### We have discussed these in the tutorial. I’ll assume you have noted down the details
 ### MLP final report
-#### 草稿
+#### 草稿 整理思路
 #####
