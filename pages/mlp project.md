@@ -103,7 +103,7 @@ title: MLP Project
 ### MLP final report
 #### 草稿 整理思路
 ##### 有点不知道从何下手，那就先发散思路
-##### 比如大纲还是
+##### 比如大纲是
 ###### abstract
 ###### introduction
 ###### related work
@@ -119,3 +119,4 @@ title: MLP Project
 ####### on face2text 1.0
 ####### compare with previous methods
 ###### conclusion
+#####
