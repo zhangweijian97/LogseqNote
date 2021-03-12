@@ -108,5 +108,8 @@ title: MLP Project
 ###### introduction
 ###### related work
 ###### model
+####### text encoder
+####### image encoder
+#######
 ###### Experience
 ######
