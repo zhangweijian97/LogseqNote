@@ -2,8 +2,6 @@
 title: MLP Project
 ---
 
-##
-## [[MLP Project]]
 ### 前略
 ### 资源
 #### [DCGAN 教程](https://pytorch.apachecn.org/docs/1.7/22.html)
