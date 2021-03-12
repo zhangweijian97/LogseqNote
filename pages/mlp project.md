@@ -153,5 +153,6 @@ title: MLP Project
 ###### [[AttnGAN Xu 2018]]
 ###### [[FTGAN Chen 2019]]
 ###### [[CLIP]]
+###### [[Faces la Carte Wang 2020]]
 ##### AttnGAN
 ######
