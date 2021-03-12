@@ -107,9 +107,12 @@ title: MLP Project
 ###### abstract
 ###### introduction
 ###### related work
+####### text to image
+####### text to face
 ###### model
 ####### text encoder
-####### image encoder
-#######
+####### image decoder
+####### discriminator
+####### loss function
 ###### Experience
 ######
