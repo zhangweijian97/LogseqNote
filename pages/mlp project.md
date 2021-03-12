@@ -109,10 +109,12 @@ title: MLP Project
 ###### related work
 ####### text to image
 ####### text to face
+####### clip
 ###### model
 ####### text encoder
 ####### image decoder
 ####### discriminator
 ####### loss function
 ###### Experience
+#######
 ######
