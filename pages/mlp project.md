@@ -2,7 +2,6 @@
 title: MLP Project
 ---
 
-### 前略
 ### 资源
 #### [DCGAN 教程](https://pytorch.apachecn.org/docs/1.7/22.html)
 :PROPERTIES:
@@ -99,4 +98,5 @@ title: MLP Project
 #### Experiment Results and Interim Conclusions:
 ##### We have discussed these in the tutorial. Feel free to ask more questions.
 #### Extra questions:
-##### We have discussed these in the tutorial. I’ll assume you have noted down the details.
+##### We have discussed these in the tutorial. I’ll assume you have noted down the details
+### .
