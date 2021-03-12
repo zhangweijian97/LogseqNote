@@ -116,5 +116,6 @@ title: MLP Project
 ####### discriminator
 ####### loss function
 ###### Experience
-#######
+####### on face2text 1.0
+####### compare with previous methods
 ######
