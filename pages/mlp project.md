@@ -56,11 +56,12 @@ title: MLP Project
 ##### 初始化模型
 ##### 加载数据
 ##### 创建优化器
-### abstract
-#### 随机
-#### resnet clip
-#### transformer clip
-#### clip
+### Tutorial 6
+#### abstract
+##### 随机
+##### resnet clip
+##### transformer clip
+##### clip
 ### CW3 Feedback
 :PROPERTIES:
 :id: 60436919-d155-43ba-8544-6c351ecc7a51
@@ -99,4 +100,4 @@ title: MLP Project
 ##### We have discussed these in the tutorial. Feel free to ask more questions.
 #### Extra questions:
 ##### We have discussed these in the tutorial. I’ll assume you have noted down the details
-### .
+###
