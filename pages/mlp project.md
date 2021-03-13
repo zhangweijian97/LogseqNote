@@ -203,7 +203,9 @@ $$
 ########## e，词向量矩阵
 ########## .$$F^{c a}$$, Conditioning Augmentation
 ########## .$$F_{i}^{\text {attn }}$$, attention model
-######### 注意力模型
+######### 注意力模型 $$F^{a t t n}(e, h)$$
+########## 两个input
+########### word feature
 ####### 深度注意力多模态相似度模型DAMSM
 ######## text encoder
 ######## image encoder
