@@ -273,6 +273,10 @@ $$
 $$
 ######### 区域背景向量
 ##########
+$$
+c_{i}=\sum_{j=0}^{288} \alpha_{j} v_{j}, \quad \text { where } \alpha_{j}=\frac{\exp \left(\gamma_{1} \bar{s}_{i, j}\right)}{\sum_{k=0}^{288} \exp \left(\gamma_{1} \bar{s}_{i, k}\right)}
+$$
+#########
 ######## DAMSM loss
 ###### 实验
 ####### 评估
