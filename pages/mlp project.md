@@ -281,7 +281,8 @@ $$
 $$
 R\left(c_{i}, e_{i}\right)=\left(c_{i}^{T} e_{i}\right) /\left(\left\|c_{i}\right\|\left\|e_{i}\right\|\right)
 $$
-######### 句子-图片 相关度
+######### 句子-图片 配对分数
+##########
 ######## DAMSM loss
 ###### 实验
 ####### 评估
