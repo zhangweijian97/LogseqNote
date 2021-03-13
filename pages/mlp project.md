@@ -354,4 +354,4 @@ $$
 ##### [[FTGAN Chen 2019]]
 ###### related work
 ####### text to image
-#######
+####### text to face
