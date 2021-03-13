@@ -246,7 +246,10 @@ $$
 ####### 深度注意力多模态相似度模型DAMSM
 ######## text encoder
 ######### 双向LSTM
+######### word features
+######### sentence feature
 ######## image encoder
+#########
 ######## image text matching score
 ######## DAMSM loss
 ###### 实验
