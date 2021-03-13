@@ -179,4 +179,4 @@ title: MLP Project
 ######## develops an **attention mechanism** that enables **GANs** to generate **ﬁne-grained high-quality images** via **multi-level** (e.g., word level and sentence level) conditioning.
 ###### 模型
 ####### 注意力生成网络
-####### 深度
+####### 深度注意力多模型相似度模型
