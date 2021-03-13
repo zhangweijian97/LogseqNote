@@ -228,6 +228,7 @@ $$
 \mathcal{L}=\mathcal{L}_{G}+\lambda \mathcal{L}_{D A M S M}, \quad \text { where } \mathcal{L}_{G}=\sum_{i=0}^{m-1} \mathcal{L}_{G_{i}}
 $$
 ########## GAN loss
+########### 生成器Gi，判别器Di
 ###########
 ####### 深度注意力多模态相似度模型DAMSM
 ######## text encoder
