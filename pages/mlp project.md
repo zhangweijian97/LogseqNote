@@ -178,6 +178,8 @@ title: MLP Project
 ####### AttnGAN，第一个
 ######## develops an **attention mechanism** that enables **GANs** to generate **ﬁne-grained high-quality images** via **multi-level** (e.g., word level and sentence level) conditioning.
 ###### 模型
+####### 架构图
+######## ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210313170832.png)
 ####### 注意力生成网络
 ######## generator
 ######### m个
