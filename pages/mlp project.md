@@ -191,6 +191,14 @@ title: MLP Project
 ########## ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210313171254.png){:height 137, :width 47}
 ######### 公式
 ##########
+$$
+\begin{array}{l}
+h_{0}=F_{0}\left(z, F^{c a}(\bar{e})\right) \\
+h_{i}=F_{i}\left(h_{i-1}, F_{i}^{a t t n}\left(e, h_{i-1}\right)\right) \text { for } i=1,2, \ldots, m-1 ; \\
+\hat{x}_{i}=G_{i}\left(h_{i}\right)
+\end{array}
+$$
+#########
 ####### 深度注意力多模态相似度模型DAMSM
 ######## text encoder
 ######## image encoder
