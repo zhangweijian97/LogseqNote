@@ -206,6 +206,7 @@ $$
 ######### 注意力模型 $$F^{a t t n}(e, h)$$
 ########## 两个input
 ########### word feature
+########### image feature
 ####### 深度注意力多模态相似度模型DAMSM
 ######## text encoder
 ######## image encoder
