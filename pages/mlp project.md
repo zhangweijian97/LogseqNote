@@ -206,6 +206,12 @@ $$
 ######### 注意力模型 $$F^{a t t n}(e, h)$$
 ########## 两个input
 ########### word feature，e
+############ e‘=Ue
+############ word context vector
+#############
+$$
+c_{j}=\sum_{i=0}^{T-1} \beta_{j, i} e_{i}^{\prime}, \quad \text { where } \beta_{j, i}=\frac{\exp \left(s_{j, i}^{\prime}\right)}{\sum_{k=0}^{T-1} \exp \left(s_{j, k}^{\prime}\right)}
+$$
 ############
 ########### image feature
 ####### 深度注意力多模态相似度模型DAMSM
