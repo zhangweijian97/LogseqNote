@@ -317,8 +317,6 @@ $$
 ########## 可视化中间结果
 ######## 和其他模型比较
 ######### IS
-##### [[FTGAN Chen 2019]]
-######
 ##### [[Faces la Carte Wang 2020]]
 ###### Related Works
 ####### text to image (TTI)
@@ -353,3 +351,7 @@ $$
 ####### Feature-Disentangled Latent Space
 ######## Chen et al.
 ######## Karras et al.
+##### [[FTGAN Chen 2019]]
+###### related work
+####### text to image
+#######
