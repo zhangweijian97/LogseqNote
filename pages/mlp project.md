@@ -235,7 +235,7 @@ $$
 $$
 ########### where the unconditional loss determines whether the image is real or fake while the conditional loss determines whether the image and the sentence match or not.
 ########## cross-entropy loss，最小化
-###########
+########### 
 $$
 \begin{aligned}
 \mathcal{L}_{D_{i}}=& \underbrace{-\frac{1}{2} \mathbb{E}_{x_{i} \sim p_{\text {data }_{i}}}\left[\log D_{i}\left(x_{i}\right)\right]-\frac{1}{2} \mathbb{E}_{\hat{x}_{i} \sim p_{G_{i}}\left[\log \left(1-D_{i}\left(\hat{x}_{i}\right)\right]\right.}+}_{\text {unconditional loss }}+\\
