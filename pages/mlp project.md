@@ -298,7 +298,8 @@ $$
 $$
 \mathcal{L}_{2}^{w}=-\sum_{i=1}^{M} \log P\left(Q_{i} \mid D_{i}\right)
 $$
-######### 代入$$R(Q, D)$$，得到$$\mathcal{L}_{1}^{s} \text { and } \mathcal{L}_{2}^{s}$$
+######### 代入$$R(Q, D)$$，得到$$\mathcal{L}_{1}^{s}$$  和$$\mathcal{L}_{2}^{s}$$
+#########
 ###### 实验
 ####### 评估
 ########
