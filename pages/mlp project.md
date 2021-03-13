@@ -198,7 +198,7 @@ h_{i}=F_{i}\left(h_{i-1}, F_{i}^{a t t n}\left(e, h_{i-1}\right)\right) \text { 
 \hat{x}_{i}=G_{i}\left(h_{i}\right)
 \end{array}
 $$
-#########
+##########
 ####### 深度注意力多模态相似度模型DAMSM
 ######## text encoder
 ######## image encoder
