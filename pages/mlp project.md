@@ -155,4 +155,5 @@ title: MLP Project
 ###### [[CLIP]]
 ###### [[Faces la Carte Wang 2020]]
 ##### AttnGAN
-###### 其他GAN的问题：
+###### 其他GAN的问题：conditioning GAN only on the global sentence vector lacks important ﬁne-grained information at the word level, and prevents the generation of high quality images.
+######
