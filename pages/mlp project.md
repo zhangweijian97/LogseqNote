@@ -160,3 +160,4 @@ title: MLP Project
 ###### 两个结构
 ####### attentional generative network
 #######
+####### Deep Attentional Multimodal Similarity Model (DAMSM).
