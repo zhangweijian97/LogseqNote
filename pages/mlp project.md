@@ -183,10 +183,11 @@ title: MLP Project
 ####### 注意力生成网络
 ######## 架构图
 ######### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210313171032.png)
-######## generator，G
+######## generator，G0到Gm-1
 ######### m个
-######### input
-########## hidden states
+######### input是 hidden states ，h0到hm-1
+######### 生成small-to-large的图片，$$\hat{x}_{0}, \hat{x}_{1}, \ldots, \hat{x}_{m-1}$$
+#########
 ####### 深度注意力多模态相似度模型DAMSM
 ######## text encoder
 ######## image encoder
