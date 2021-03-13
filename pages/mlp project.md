@@ -287,7 +287,7 @@ $$
 R(Q, D)=\log \left(\sum_{i=1}^{T-1} \exp \left(\gamma_{2} R\left(c_{i}, e_{i}\right)\right)\right)^{\frac{1}{\gamma_{2}}}
 $$
 ######## DAMSM loss
-#########
+######### 图-句子对
 ###### 实验
 ####### 评估
 ########
