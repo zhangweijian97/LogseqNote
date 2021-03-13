@@ -272,6 +272,7 @@ $$
 \bar{s}_{i, j}=\frac{\exp \left(s_{i, j}\right)}{\sum_{k=0}^{T-1} \exp \left(s_{k, j}\right)}
 $$
 ######### 区域背景向量
+##########
 ######## DAMSM loss
 ###### 实验
 ####### 评估
