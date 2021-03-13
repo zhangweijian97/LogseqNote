@@ -261,7 +261,12 @@ v=W f, \quad \bar{v}=\bar{W} \bar{f}
 $$
 ######## attention-driven image text matching score
 ######### 测量 图片-句子对 的相似度
-#########
+######### 首先是 词-图片区域 的相似度矩阵
+##########
+$$
+s=e^{T} v
+$$
+########## 归一
 ######## DAMSM loss
 ###### 实验
 ####### 评估
