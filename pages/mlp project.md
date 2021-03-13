@@ -352,6 +352,8 @@ $$
 ######## Chen et al.
 ######## Karras et al.
 ##### [[FTGAN Chen 2019]]
-###### related work
+###### related work （甚至不讲t2f的相关工作？！）
 ####### text to image
-####### text to face
+########
+####### face synthesis
+###### 评估
