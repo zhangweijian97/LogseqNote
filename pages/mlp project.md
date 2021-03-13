@@ -267,6 +267,11 @@ $$
 s=e^{T} v
 $$
 ########## 归一
+##########
+$$
+\bar{s}_{i, j}=\frac{\exp \left(s_{i, j}\right)}{\sum_{k=0}^{T-1} \exp \left(s_{k, j}\right)}
+$$
+#########
 ######## DAMSM loss
 ###### 实验
 ####### 评估
