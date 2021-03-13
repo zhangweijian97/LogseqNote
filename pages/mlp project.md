@@ -289,10 +289,11 @@ $$
 ######## DAMSM loss
 ######### 图-句子对$$\left\{\left(Q_{i}, D_{i}\right)\right\}_{i=1}^{M}$$
 ######### 句子Di配对图Qi的后验概率
-##########
+########## 
 $$
 P\left(D_{i} \mid Q_{i}\right)=\frac{\exp \left(\gamma_{3} R\left(Q_{i}, D_{i}\right)\right)}{\sum_{j=1}^{M} \exp \left(\gamma_{3} R\left(Q_{i}, D_{j}\right)\right)}
 $$
+#########
 ######### 对称
 ########## 
 $$
