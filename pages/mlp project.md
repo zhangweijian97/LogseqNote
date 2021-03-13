@@ -155,14 +155,20 @@ title: MLP Project
 ###### [[CLIP]]
 ###### [[Faces la Carte Wang 2020]]
 ##### AttnGAN
-###### 其他GAN的问题：conditioning GAN only on the global sentence vector lacks important ﬁne-grained information at the word level, and prevents the generation of high quality images.
-###### AttnGAN的好处 allows attentiondriven, multi-stage reﬁnement for ﬁne-grained text-toimage generation.
-###### 两个结构
-####### attentional generative network
-####### 子区域，单词
-####### 全局句子向量
-####### 单词向量
-####### 用全局句子向量生成低精度图片
-####### 图片向量，分区域，去query单词向量，生成单词背景向量
-####### 结合区域图片向量和对应的单词背景向量，形成
-####### Deep Attentional Multimodal Similarity Model (DAMSM).
+###### 介绍
+####### 其他GAN的问题：conditioning GAN only on the global sentence vector lacks important ﬁne-grained information at the word level, and prevents the generation of high quality images.
+####### AttnGAN的好处 allows attentiondriven, multi-stage reﬁnement for ﬁne-grained text-toimage generation.
+####### 两个结构
+######## attentional generative network
+######### 子区域，单词
+######### 全局句子向量
+######### 单词向量
+######### 用全局句子向量生成低精度图片
+######### 图片向量，分区域，去query单词向量，生成单词背景向量
+######### 结合区域图片向量和对应的单词背景向量，形成多模型背景向量
+######### 生成高精度图片
+######## Deep Attentional Multimodal Similarity Model (DAMSM).
+######### 计算生成图片和句子的相似度
+######### 作为training loss
+###### 相关工作
+#######
