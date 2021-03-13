@@ -250,8 +250,11 @@ $$
 ######### sentence feature
 ######## image encoder
 ######### CNN
-######### 输入图片，resize，extract local feature，f，768乘289
-########## 有
+######### 输入图片，resize
+######### local feature，f，768乘289
+########## 有289个sub regions
+######### 全局feature vector $$\bar f$$
+#########
 ######## image text matching score
 ######## DAMSM loss
 ###### 实验
