@@ -189,7 +189,8 @@ title: MLP Project
 ######### 生成small-to-large的图片，$$\hat{x}_{0}, \hat{x}_{1}, \ldots, \hat{x}_{m-1}$$
 ######### 准确的说是这一部分
 ########## ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210313171254.png){:height 137, :width 47}
-#########
+######### 公式
+##########
 ####### 深度注意力多模态相似度模型DAMSM
 ######## text encoder
 ######## image encoder
