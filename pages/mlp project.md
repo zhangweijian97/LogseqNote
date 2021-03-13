@@ -163,5 +163,5 @@ title: MLP Project
 ####### 全局句子向量
 ####### 单词向量
 ####### 用全局句子向量生成低精度图片
-#######
+####### 图片闲逛
 ####### Deep Attentional Multimodal Similarity Model (DAMSM).
