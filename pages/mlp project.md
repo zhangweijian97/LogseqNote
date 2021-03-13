@@ -176,4 +176,7 @@ title: MLP Project
 ####### 注意力机制
 ####### 结合注意力和GAN
 ####### AttnGAN，第一个
-######## develops an **attention mechanism** that enables **GANs** to generate **ﬁne-grained high-quality images** via multi-level (e.g., word level and sentence level) conditioning.
+######## develops an **attention mechanism** that enables **GANs** to generate **ﬁne-grained high-quality images** via **multi-level** (e.g., word level and sentence level) conditioning.
+###### 模型
+####### 注意力生成网络
+#######
