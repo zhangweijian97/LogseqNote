@@ -151,10 +151,10 @@ title: MLP Project
 #### 第一轮 看论文 理解模型架构 了解相关工作 收集评估方法
 ##### 材料
 ######
-###### [[FTGAN Chen 2019]]
+######
 ###### [[CLIP]]
 ###### [[Faces la Carte Wang 2020]]
-##### AttnGAN
+##### [[AttnGAN Xu 2018]]
 ###### 介绍
 ####### 其他GAN的问题：conditioning GAN only on the global sentence vector lacks important ﬁne-grained information at the word level, and prevents the generation of high quality images.
 ####### AttnGAN的好处 allows attentiondriven, multi-stage reﬁnement for ﬁne-grained text-toimage generation.
