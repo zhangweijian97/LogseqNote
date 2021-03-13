@@ -276,7 +276,12 @@ $$
 $$
 c_{i}=\sum_{j=0}^{288} \alpha_{j} v_{j}, \quad \text { where } \alpha_{j}=\frac{\exp \left(\gamma_{1} \bar{s}_{i, j}\right)}{\sum_{k=0}^{288} \exp \left(\gamma_{1} \bar{s}_{i, k}\right)}
 $$
-#########
+######### 词-区域 相关度 Relevance
+##########
+$$
+R\left(c_{i}, e_{i}\right)=\left(c_{i}^{T} e_{i}\right) /\left(\left\|c_{i}\right\|\left\|e_{i}\right\|\right)
+$$
+######### 句子-图片 相关度
 ######## DAMSM loss
 ###### 实验
 ####### 评估
