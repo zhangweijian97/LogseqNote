@@ -184,3 +184,6 @@ title: MLP Project
 ######## image encoder
 ######## image text matching score
 ######## DAMSM loss
+###### 实验
+####### 评估
+########
