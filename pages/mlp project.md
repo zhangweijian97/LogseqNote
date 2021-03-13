@@ -294,13 +294,21 @@ $$
 P\left(D_{i} \mid Q_{i}\right)=\frac{\exp \left(\gamma_{3} R\left(Q_{i}, D_{i}\right)\right)}{\sum_{j=1}^{M} \exp \left(\gamma_{3} R\left(Q_{i}, D_{j}\right)\right)}
 $$
 ######### negative log posterior probability
-##########
+########## 
+$$
+\mathcal{L}_{1}^{w}=-\sum_{i=1}^{M} \log P\left(D_{i} \mid Q_{i}\right)
+$$
 ######### 对称
 ########## 
 $$
 \mathcal{L}_{2}^{w}=-\sum_{i=1}^{M} \log P\left(Q_{i} \mid D_{i}\right)
 $$
 ######### 代入$$R(Q, D)$$，得到$$\mathcal{L}_{1}^{s}$$  和$$\mathcal{L}_{2}^{s}$$
+######### 得到DAMSM loss
+##########
+$$
+\mathcal{L}_{D A M S M}=\mathcal{L}_{1}^{w}+\mathcal{L}_{2}^{w}+\mathcal{L}_{1}^{s}+\mathcal{L}_{2}^{s}
+$$
 #########
 ###### 实验
 ####### 评估
