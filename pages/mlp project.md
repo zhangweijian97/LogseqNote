@@ -221,7 +221,7 @@ $$
 $$
 F^{a t t n}(e, h)=\left(c_{0}, c_{1}, \ldots, c_{N-1}\right)
 $$
-########### image feature
+########### image feature，即h
 ####### 深度注意力多模态相似度模型DAMSM
 ######## text encoder
 ######## image encoder
