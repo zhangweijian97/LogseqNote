@@ -254,7 +254,11 @@ $$
 ######### local feature，f，768乘289
 ########## 有289个sub regions
 ######### global feature vector $$\bar f$$
-#########
+######### convert to common semantic space
+########## 
+\begin{equation}
+v=W f, \quad \bar{v}=\bar{W} \bar{f}
+\end{equation}
 ######## image text matching score
 ######## DAMSM loss
 ###### 实验
