@@ -260,7 +260,7 @@ $$
 v=W f, \quad \bar{v}=\bar{W} \bar{f}
 $$
 ######## attention-driven image text matching score
-#########
+######### 测量
 ######## DAMSM loss
 ###### 实验
 ####### 评估
