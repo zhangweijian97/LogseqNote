@@ -293,7 +293,8 @@ $$
 $$
 P\left(D_{i} \mid Q_{i}\right)=\frac{\exp \left(\gamma_{3} R\left(Q_{i}, D_{i}\right)\right)}{\sum_{j=1}^{M} \exp \left(\gamma_{3} R\left(Q_{i}, D_{j}\right)\right)}
 $$
-#########
+######### negative log posterior probability
+##########
 ######### 对称
 ########## 
 $$
