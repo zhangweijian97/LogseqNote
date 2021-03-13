@@ -155,4 +155,4 @@ title: MLP Project
 ###### [[CLIP]]
 ###### [[Faces la Carte Wang 2020]]
 ##### AttnGAN
-######
+###### 其他GAN的问题：
