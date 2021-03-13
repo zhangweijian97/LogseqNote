@@ -294,7 +294,7 @@ $$
 P\left(D_{i} \mid Q_{i}\right)=\frac{\exp \left(\gamma_{3} R\left(Q_{i}, D_{i}\right)\right)}{\sum_{j=1}^{M} \exp \left(\gamma_{3} R\left(Q_{i}, D_{j}\right)\right)}
 $$
 ######### 对称
-##########
+########## 
 $$
 \mathcal{L}_{2}^{w}=-\sum_{i=1}^{M} \log P\left(Q_{i} \mid D_{i}\right)
 $$
