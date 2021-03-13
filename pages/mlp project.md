@@ -250,6 +250,7 @@ $$
 ######### sentence feature
 ######## image encoder
 ######### CNN
+######### 输入图片，resize，extract local feature，f
 ######## image text matching score
 ######## DAMSM loss
 ###### 实验
