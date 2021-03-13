@@ -150,10 +150,7 @@ title: MLP Project
 ##### 补充，related work除了gan模型方面，和clip方面。还需要收集一下他们用的评估方法和为什么用。也放到第一轮吧
 #### 第一轮 看论文 理解模型架构 了解相关工作 收集评估方法
 ##### 材料
-######
-######
 ###### [[CLIP]]
-###### [[Faces la Carte Wang 2020]]
 ##### [[AttnGAN Xu 2018]]
 ###### 介绍
 ####### 其他GAN的问题：conditioning GAN only on the global sentence vector lacks important ﬁne-grained information at the word level, and prevents the generation of high quality images.
@@ -320,7 +317,7 @@ $$
 ########## 可视化中间结果
 ######## 和其他模型比较
 ######### IS
-##### FTGAN
+##### [[FTGAN Chen 2019]]
 ######
 ##### [[Faces la Carte Wang 2020]]
 ###### Related Works
