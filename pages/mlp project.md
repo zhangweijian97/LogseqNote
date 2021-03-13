@@ -227,13 +227,13 @@ $$
 $$
 \mathcal{L}=\mathcal{L}_{G}+\lambda \mathcal{L}_{D A M S M}, \quad \text { where } \mathcal{L}_{G}=\sum_{i=0}^{m-1} \mathcal{L}_{G_{i}}
 $$
-########## GAN loss
+########## adversarial loss
 ########### 生成器Gi，判别器Di
-###########
+########### 
 $$
 \mathcal{L}_{G_{i}}=\underbrace{-\frac{1}{2} \mathbb{E}_{\hat{x}_{i} \sim p_{G_{i}}}\left[\log \left(D_{i}\left(\hat{x}_{i}\right)\right]\right.}_{\text {unconditional loss }} \underbrace{-\frac{1}{2} \mathbb{E}_{\hat{x}_{i} \sim p_{G_{i}}}\left[\log \left(D_{i}\left(\hat{x}_{i}, \bar{e}\right)\right]\right.}_{\text {conditional loss }},
 $$
-###########
+##########
 ####### 深度注意力多模态相似度模型DAMSM
 ######## text encoder
 ######## image encoder
