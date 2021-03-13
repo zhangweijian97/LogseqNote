@@ -182,4 +182,5 @@ title: MLP Project
 ####### 深度注意力多模态相似度模型DAMSM
 ######## text encoder
 ######## image encoder
-########
+######## image text matching score
+######## DAMSM loss
