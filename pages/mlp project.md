@@ -161,5 +161,6 @@ title: MLP Project
 ####### attentional generative network
 ####### 子区域，单词
 ####### 全局句子向量
+####### 单词向量
 #######
 ####### Deep Attentional Multimodal Similarity Model (DAMSM).
