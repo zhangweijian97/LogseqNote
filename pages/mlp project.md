@@ -199,7 +199,8 @@ h_{i}=F_{i}\left(h_{i-1}, F_{i}^{a t t n}\left(e, h_{i-1}\right)\right) \text { 
 \end{array}
 $$
 ########## z是noise vector，从正态分布采样
-##########
+########## .$$\bar e$$, 全局句子向量
+########## e，
 ####### 深度注意力多模态相似度模型DAMSM
 ######## text encoder
 ######## image encoder
