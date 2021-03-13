@@ -242,7 +242,7 @@ $$
 & \underbrace{-\frac{1}{2} \mathbb{E}_{x_{i} \sim p_{\text {data }_{i}}}\left[\log D_{i}\left(x_{i}, \bar{e}\right)\right]-\frac{1}{2} \mathbb{E}_{\hat{x}_{i} \sim p_{G_{i}}\left[\log \left(1-D_{i}\left(\hat{x}_{i}, \bar{e}\right)\right]\right.}}_{\text {conditional loss }}
 \end{aligned}
 $$
-########## DAMSM，word level
+########## DAMSM，word level ﬁne-grained image-text matching loss，见下一节
 ####### 深度注意力多模态相似度模型DAMSM
 ######## text encoder
 ######## image encoder
