@@ -238,7 +238,7 @@ $$
 ########### 
 $$
 \begin{aligned}
-\mathcal{L}_{D_{i}}=& \underbrace{-\frac{1}{2} \mathbb{E}_{x_{i} \sim p_{\text {data }_{i}}}\left[\log D_{i}\left(x_{i}\right)\right]-\frac{1}{2} \mathbb{E}_{\hat{x}_{i} \sim p_{G_{i}}\left[\log \left(1-D_{i}\left(\hat{x}_{i}\right)\right]\right.}+}_{\text {unconditional loss }}+\\
+\mathcal{L}_{D_{i}}=& \underbrace{-\frac{1}{2} \mathbb{E}_{x_{i} \sim p_{\text {data }_{i}}}\left[\log D_{i}\left(x_{i}\right)\right]-\frac{1}{2} \mathbb{E}_{\hat{x}_{i} \sim p_{G_{i}}\left[\log \left(1-D_{i}\left(\hat{x}_{i}\right)\right]\right.}}_{\text {unconditional loss }}+\\
 & \underbrace{-\frac{1}{2} \mathbb{E}_{x_{i} \sim p_{\text {data }_{i}}}\left[\log D_{i}\left(x_{i}, \bar{e}\right)\right]-\frac{1}{2} \mathbb{E}_{\hat{x}_{i} \sim p_{G_{i}}\left[\log \left(1-D_{i}\left(\hat{x}_{i}, \bar{e}\right)\right]\right.}}_{\text {conditional loss }}
 \end{aligned}
 $$
