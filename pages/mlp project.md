@@ -287,7 +287,9 @@ $$
 R(Q, D)=\log \left(\sum_{i=1}^{T-1} \exp \left(\gamma_{2} R\left(c_{i}, e_{i}\right)\right)\right)^{\frac{1}{\gamma_{2}}}
 $$
 ######## DAMSM loss
-######### 图-句子对
+######### 图-句子对$$\left\{\left(Q_{i}, D_{i}\right)\right\}_{i=1}^{M}$$
+######### 句子Di配对图Qi的后验概率
+##########
 ###### 实验
 ####### 评估
 ########
