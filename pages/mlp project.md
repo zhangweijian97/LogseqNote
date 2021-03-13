@@ -163,5 +163,6 @@ title: MLP Project
 ####### 全局句子向量
 ####### 单词向量
 ####### 用全局句子向量生成低精度图片
-####### 图片闲逛
+####### 图片向量，分区域，去query单词向量，生成单词背景向量
+####### 结合区域图片向量和
 ####### Deep Attentional Multimodal Similarity Model (DAMSM).
