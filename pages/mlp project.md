@@ -181,6 +181,8 @@ title: MLP Project
 ####### 架构图
 ######## ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210313170832.png)
 ####### 注意力生成网络
+######## 架构图
+#########
 ######## generator，G
 ######### m个
 ######### input
