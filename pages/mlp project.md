@@ -156,4 +156,6 @@ title: MLP Project
 ###### [[Faces la Carte Wang 2020]]
 ##### AttnGAN
 ###### 其他GAN的问题：conditioning GAN only on the global sentence vector lacks important ﬁne-grained information at the word level, and prevents the generation of high quality images.
-###### AttnGAN的好处
+###### AttnGAN的好处 allows attentiondriven, multi-stage reﬁnement for ﬁne-grained text-toimage generation.
+###### 两个结构
+#######
