@@ -249,7 +249,7 @@ $$
 ######### word features
 ######### sentence feature
 ######## image encoder
-#########
+######### CNN
 ######## image text matching score
 ######## DAMSM loss
 ###### 实验
