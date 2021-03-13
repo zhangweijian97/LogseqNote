@@ -245,6 +245,7 @@ $$
 ########## DAMSM，word level ﬁne-grained image-text matching loss，见下一节
 ####### 深度注意力多模态相似度模型DAMSM
 ######## text encoder
+######### 双向LSTM
 ######## image encoder
 ######## image text matching score
 ######## DAMSM loss
