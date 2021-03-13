@@ -255,12 +255,12 @@ $$
 ########## 有289个sub regions
 ######### global feature vector $$\bar f$$
 ######### convert to common semantic space
-##########
+########## 
 $$
 v=W f, \quad \bar{v}=\bar{W} \bar{f}
 $$
-#########
 ######## image text matching score
+#########
 ######## DAMSM loss
 ###### 实验
 ####### 评估
