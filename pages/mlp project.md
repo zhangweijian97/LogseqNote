@@ -212,6 +212,10 @@ $$
 $$
 c_{j}=\sum_{i=0}^{T-1} \beta_{j, i} e_{i}^{\prime}, \quad \text { where } \beta_{j, i}=\frac{\exp \left(s_{j, i}^{\prime}\right)}{\sum_{k=0}^{T-1} \exp \left(s_{j, k}^{\prime}\right)}
 $$
+#############
+$$
+s_{j, i}^{\prime}=h_{j}^{T} e_{i}^{\prime}
+$$
 ############
 ########### image feature
 ####### 深度注意力多模态相似度模型DAMSM
