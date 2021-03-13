@@ -159,5 +159,7 @@ title: MLP Project
 ###### AttnGAN的好处 allows attentiondriven, multi-stage reﬁnement for ﬁne-grained text-toimage generation.
 ###### 两个结构
 ####### attentional generative network
+####### 子区域，单词
+####### 全局句子向量
 #######
 ####### Deep Attentional Multimodal Similarity Model (DAMSM).
