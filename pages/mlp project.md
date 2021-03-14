@@ -209,6 +209,7 @@ title: MLP Project
 ######## [[Mehdi Mirza]]
 ######### [[Conditional GANs Mirza 2014]]
 ########## Conditional generative adversarial nets
+########## <
 ########## 
 #+BEGIN_QUOTE
 @article{DBLP:journals/corr/MirzaO14,
