@@ -261,6 +261,7 @@ $$
 ########## 两个input
 ########### word feature，e
 ############ e‘=Ue
+########### image feature，即h
 ########### word context vector
 ############
 $$
@@ -275,7 +276,6 @@ $$
 $$
 F^{a t t n}(e, h)=\left(c_{0}, c_{1}, \ldots, c_{N-1}\right)
 $$
-########### image feature，即h
 ########## 目标函数
 ###########
 $$
