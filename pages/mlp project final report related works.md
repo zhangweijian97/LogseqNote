@@ -18,4 +18,5 @@ title: MLP Project final report related works
 #### 受此启发，我们用CLIP的文本编码器和图片编码器来替换GAN的对应部分。对所有基于Conditional GAN的网络都可以进行这样的替换。
 ## 从文本生成图片的任务是非常有挑战性的。有如下深度生成模型（需要再找一些材料，只有AttnGAN的相关工作提到了几个）。与之对比，GAN能够生成更细致的图片（需要更多材料。
 ### 深度生成模型
-#### Mansimov
+#### Mansimov， Generating images from captions with attention
+####
