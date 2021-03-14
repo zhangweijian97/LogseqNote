@@ -12,7 +12,7 @@ title: MLP Project final report related works
 ### 文本生成图片，Reed首发，用到conditional GAN。conditional GAN 把 文本编码向量和随机噪声结合作为生成网络的输入。后人推进，暂略。缺点，没有分区域的掌控
 ### AttnGAN引入了注意力机制，能够对应起单词和图片的区域，实现生成高质量细粒度的图片
 ### 文本生成人脸，因为数据集的缺乏，研究很少，有如下，暂略
-### CLIP，预训练的文本和图片的编码器。zero-shot。注意力。
+### CLIP，包含预训练的文本和图片的编码器。zero-shot。注意力。
 ###
 ## In the Text-to-Image synthesis domain, most of the networks are based on conditional GANs [[Conditional GANs Mirza 2014]] and the encoder-decoder architecture. 普通的GAN
 ## Reel et al. first
