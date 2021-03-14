@@ -16,7 +16,7 @@ title: MLP Project final report related works
 #### 文本生成人脸，因为数据集的缺乏，研究很少，有如下，暂略
 #### CLIP，包含预训练的文本和图片的编码器。zero-shot。注意力。
 #### 受此启发，我们用CLIP的文本编码器和图片编码器来替换GAN的对应部分。对所有基于Conditional GAN的网络都可以进行这样的替换。
-## 从文本生成图片的任务是非常有挑战性的。有如下深度生成模型（需要再找一些材料，只有AttnGAN的相关工作提到了几个）。与之对比，GAN能够生成更细致的图片（需要更多材料）。
+## 从文本生成高精度细粒度图片的任务是非常有挑战性的。有如下深度生成模型（需要再找一些材料，只有AttnGAN的相关工作提到了几个）。与之对比，GAN能够生成更细致的图片（需要更多材料）。
 ### 深度生成模型
 #### Mansimov， Generating images from captions with attention
 #### Gregor，DRAW: A recurrent neural network for image generation.
@@ -31,4 +31,4 @@ title: MLP Project final report related works
 ## （这里要不水一波GAN生成图片的原理） 2014年Goodfellow 提出 GAN，包含生成器和判别器。生成器的作用，略。判别器的作用，略。因为这个网络从随机噪声中采样，作为生成器的输入，所以只能完成图片生成任务。
 ## 同样在2014年，Mirza提出了conditional GAN，使得生成的图片能够依赖于输入的数据。
 ## 2016年，Reel首次证明了cGAN能够在文本生成图片上取得可行的结果。
-## Zhang 则
+## Zhang 则提出了stackGAN来生成高精度的图片
