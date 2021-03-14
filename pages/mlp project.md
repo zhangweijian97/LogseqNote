@@ -276,8 +276,8 @@ $$
 $$
 F^{a t t n}(e, h)=\left(c_{0}, c_{1}, \ldots, c_{N-1}\right)
 $$
-########## 目标函数
-###########
+######### 目标函数
+##########
 $$
 \mathcal{L}=\mathcal{L}_{G}+\lambda \mathcal{L}_{D A M S M}, \quad \text { where } \mathcal{L}_{G}=\sum_{i=0}^{m-1} \mathcal{L}_{G_{i}}
 $$
