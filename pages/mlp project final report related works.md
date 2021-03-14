@@ -19,4 +19,5 @@ title: MLP Project final report related works
 ## 从文本生成图片的任务是非常有挑战性的。有如下深度生成模型（需要再找一些材料，只有AttnGAN的相关工作提到了几个）。与之对比，GAN能够生成更细致的图片（需要更多材料。
 ### 深度生成模型
 #### Mansimov， Generating images from captions with attention
+#### Gregor，DRAW: A recurrent neural network for image generation.
 ####
