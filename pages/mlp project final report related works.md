@@ -37,4 +37,4 @@ title: MLP Project final report related works
 ### 以上存在问题，依赖于整个句子作为输入。失去了单独单词的信息。
 ### 2016年Vaswani提出Attention机制，成功用于建模multi-level。受此启发，AttnGAN利用Attention机制，考虑了单词和图片的sub-region之间的attention，设计了一个注意力生成网络和一个新的loss function called DAMSM loss。
 ### 同样启发于Attention，OpenAI提出了一个新的预训练任务来learn SOTA image representations from scratch，并且在400 million 图片文本数据集上训练，得到CLIP。CLIP包含了一个text encoder和image encoder。他们的output有很高的相关性，能直接用来做zero-shot分类任务并且在多个数据集上超过了resnet-50。
-### 所以值得尝试，把CLIP的text encoder和image encoder替换掉
+### 所以值得尝试，把CLIP的text encoder和image encoder替换掉AttnGAN的
