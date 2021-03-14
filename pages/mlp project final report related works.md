@@ -20,4 +20,4 @@ title: MLP Project final report related works
 ### 深度生成模型
 #### Mansimov， Generating images from captions with attention
 #### Gregor，DRAW: A recurrent neural network for image generation.
-####
+#### Nguyen
