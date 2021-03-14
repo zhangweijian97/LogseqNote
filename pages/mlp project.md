@@ -373,5 +373,5 @@ $$
 ########## MirrorGAN Qiao
 ########## Zhang
 ####### face synthesis
-######## 主要目的是引出
+######## 主要目的是引出 synthesized face images by adding a condition vector 这句话
 ###### 评估
