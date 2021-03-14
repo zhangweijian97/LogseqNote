@@ -155,6 +155,7 @@ title: MLP Project
 ###### Related Works
 ####### text to image (TTI)
 ######## Reel et al. 第一个用GAN
+#########
 ######### text encoder
 ######### image generator
 ######### concatenated the text embedding to the noise vector as input
