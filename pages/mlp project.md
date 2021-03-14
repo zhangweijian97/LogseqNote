@@ -411,6 +411,9 @@ $$
 #### 我们的模型
 ##### variants
 ###### 替换text encoder
+####### sentence feature
 ###### 替换image encoder（还没做
 ###### 替换判别器（image encoder）
+####### 不再训练
+#######
 ##### 句子长度问题，调整DAMSM参数，重新训练
