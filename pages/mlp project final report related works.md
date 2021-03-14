@@ -8,7 +8,7 @@ title: MLP Project final report related works
 ### 我们的模型的应用领域是文本生成人脸
 ### 文本生成人脸脱胎于文本生成图片
 ### 文本生成图片又源自从噪声直接生成图片
-### 图片生成，深度模型，一些GAN
+### 图片生成，一些深度模型，一些GAN
 ### 文本生成图片，Reed首发，用到conditional GAN。本来的GAN是从随机噪声中采样。conditional GAN 把 文本编码向量和随机噪声结合作为生成网络的输入
 ### 后人推进，暂略
 ### AttnGAN引入了注意力机制，实现了高质量细粒度的图片
