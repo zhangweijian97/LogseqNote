@@ -29,7 +29,7 @@ title: MLP Project final report related works
 ##### Salimans， Improved techniques for training gans.
 ##### Ledig，Photo-realistic single image superresolution using a generative adversarial network.
 ##### Isola，Image-to-image translation with conditional adversarial networks.
-### 文本生成人脸，数据集不足，有如下项目/论文，效果不好
+### **文本生成人脸**，数据集不足，有如下项目/论文，效果不好
 ### （先水一波GAN生成图片的原理） 2014年Goodfellow 提出 GAN，包含生成器和判别器。生成器的作用，略。判别器的作用，略。因为这个网络从随机噪声中采样，作为生成器的输入，所以只能完成**图片生成**任务。
 ### 2014年，Mirza提出了conditional GAN，通过给生成器和判别器的输入添加标签，使得生成的图片依赖于输入的标签。
 ### 2016年，Reel首次证明了cGAN能够在**文本生成图片**上取得可行的结果。他使用了编码器解码器框架作为生成器。文本编码器将文本转换到语义空间。图片解码器从语义空间生成图片。
