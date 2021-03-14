@@ -33,4 +33,6 @@ title: MLP Project final report related works
 ### 2014年，Mirza提出了conditional GAN，通过给生成器和判别器的输入添加标签，使得生成的图片依赖于输入的标签。
 ### 2016年，Reel首次证明了cGAN能够在**文本生成图片**上取得可行的结果。他使用了编码器解码器框架作为生成器。文本编码器将文本转换到语义空间。图片解码器从语义空间生成图片。
 ### Zhang 则提出了stackGAN来生成**高精度**的图片
-### 以上存在问题，依赖于整个句子作为输入。失去了单独单词的信息。AttnGAN利用Attention机制，通过计算单词和图片的sub-region的attention，来获得word feature，作为一个sentence feature之外的条件，来改善网络的质量。
+### 以上存在问题，依赖于整个句子作为输入。失去了单独单词的信息。
+### 2016年Vaswani提出Attention，已经被证明很有用，具体略。
+### AttnGAN利用Attention机制，通过计算单词和图片的sub-region的attention，来获得word feature，作为一个sentence feature之外的条件，来改善网络的质量。
