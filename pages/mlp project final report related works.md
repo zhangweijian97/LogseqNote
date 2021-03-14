@@ -3,7 +3,7 @@ title: MLP Project final report related works
 ---
 
 ## 要不就不细分小结
-## In the Text-to-Image domain, Reed et al.
+## In the Text-to-Image domain, [[Reel 2016 first GAN t2i]] et al.
 ## text to image
 ### 一段话
 ## text to face
