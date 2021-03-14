@@ -359,9 +359,11 @@ $$
 ######### image decoder
 ######## targets
 ######### high quality
-######### matching givendescription
+######### matching given description
 ######## research
-######### Reed
-######### [[StackGAN Zhang 2016]]
+######### high quality
+########## Reed
+########## [[StackGAN Zhang 2016]]
+######### matching
 ####### face synthesis
 ###### 评估
