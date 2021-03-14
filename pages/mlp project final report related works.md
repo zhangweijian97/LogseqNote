@@ -31,4 +31,4 @@ title: MLP Project final report related works
 ## （这里要不水一波GAN生成图片的原理） 2014年Goodfellow 提出 GAN，包含生成器和判别器。生成器的作用，略。判别器的作用，略。因为这个网络从随机噪声中采样，作为生成器的输入，所以只能完成图片生成任务。
 ## 同样在2014年，Mirza提出了conditional GAN，使得生成的图片能够依赖于输入的数据。
 ## 2016年，Reel首次证明了cGAN能够在文本生成图片上取得可行的结果。
-##
+## Zhang 则
