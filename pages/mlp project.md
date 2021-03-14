@@ -207,8 +207,8 @@ title: MLP Project
 ###### 相关工作
 ####### 深度生成模型
 ######## [[Mehdi Mirza]]
-######### Conditional GANs Mirza 2014
-######### Conditional generative adversarial nets
+######### [[Conditional GANs Mirza 2014]]
+########## Conditional generative adversarial nets
 #########
 ####### 对抗生成网络
 ####### 注意力机制
