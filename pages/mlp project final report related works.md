@@ -28,3 +28,4 @@ title: MLP Project final report related works
 #### Salimans， Improved techniques for training gans.
 #### Ledig，Photo-realistic single image superresolution using a generative adversarial network.
 #### Isola，Image-to-image translation with conditional adversarial networks.
+##
