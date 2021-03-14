@@ -206,11 +206,9 @@ title: MLP Project
 ######### 作为training loss
 ###### 相关工作
 ####### 深度生成模型
-######## [[Mehdi Mirza]]
-######### [[Conditional GANs Mirza 2014]]
-########## Conditional generative adversarial nets
-##########
-########## 
+######## [[Conditional GANs Mirza 2014]]
+######### Conditional generative adversarial nets
+######### 
 #+BEGIN_QUOTE
 @article{DBLP:journals/corr/MirzaO14,
   author    = {Mehdi Mirza and
@@ -227,6 +225,7 @@ title: MLP Project
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 #+END_QUOTE
+######### [[Mehdi Mirza]]
 ####### 对抗生成网络
 ####### 注意力机制
 ####### 结合注意力和GAN
