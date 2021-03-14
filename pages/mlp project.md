@@ -157,6 +157,7 @@ title: MLP Project
 ######## Reel et al. 第一个用GAN
 ######### [[Reel 2016 first GAN t2i]]
 ########## Generative Adversarial Text to Image Synthesis
+########## [[Scott Reed]]
 ######### text encoder
 ######### image generator
 ######### concatenated the text embedding to the noise vector as input
