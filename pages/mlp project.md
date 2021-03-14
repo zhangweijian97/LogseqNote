@@ -155,7 +155,7 @@ title: MLP Project
 ###### Related Works
 ####### text to image (TTI)
 ######## Reel et al. 第一个用GAN
-######### Reel 2016 first GAN t2i
+######### [[Reel 2016 first GAN t2i]]
 ########## Generative Adversarial Text to Image Synthesis
 ######### text encoder
 ######### image generator
