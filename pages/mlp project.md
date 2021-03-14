@@ -360,6 +360,8 @@ $$
 ######## targets
 ######### high quality
 ######### matching givendescription
-########
+######## research
+######### Reed
+######### StackGAN Zhang
 ####### face synthesis
 ###### 评估
