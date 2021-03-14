@@ -362,6 +362,6 @@ $$
 ######### matching givendescription
 ######## research
 ######### Reed
-######### StackGAN Zhang
+######### StackGAN Zhang 2016
 ####### face synthesis
 ###### 评估
