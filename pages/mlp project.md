@@ -365,6 +365,7 @@ $$
 ########## Reed
 ########## [[StackGAN Zhang 2016]]
 ######### matching description
+########## Reed
 ##########
 ####### face synthesis
 ###### 评估
