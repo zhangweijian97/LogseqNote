@@ -356,5 +356,7 @@ $$
 ####### text to image
 ######## text encoder
 ######## image decoder
+######## high quality
+########
 ####### face synthesis
 ###### 评估
