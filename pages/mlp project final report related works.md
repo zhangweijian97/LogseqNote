@@ -35,5 +35,5 @@ title: MLP Project final report related works
 ### Zhang 则提出了stackGAN来生成**高精度**的图片
 ### 以上存在问题，依赖于整个句子作为输入。失去了单独单词的信息。
 ### 2016年Vaswani提出Attention，已经被证明很有用，具体略。
-### AttnGAN利用Attention机制，通过计算单词和图片的sub-region的attention，来获得word feature，作为一个sentence feature之外的条件，来改善网络的质量。
+### AttnGAN利用Attention机制，通过计算单词和图片的sub-region的attention，
 ### （这里水一下AttnGAN的架构）AttnGAN用text encoder和image encoder将文本和图片map到同一个空间，提出了attention-driven image text matching score来计算
