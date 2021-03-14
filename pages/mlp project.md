@@ -154,7 +154,7 @@ title: MLP Project
 ##### [[Faces la Carte Wang 2020]]
 ###### Related Works
 ####### text to image (TTI)
-######## Reel et al. 第一个用GAN
+######## [[Scott Reed]] et al. 第一个用GAN
 ######### [[Reel 2016 first GAN t2i]]
 ########## Generative Adversarial Text to Image Synthesis
 ########## [[Scott Reed]]
