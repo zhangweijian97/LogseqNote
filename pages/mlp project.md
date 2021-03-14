@@ -209,7 +209,20 @@ title: MLP Project
 ######## [[Mehdi Mirza]]
 ######### [[Conditional GANs Mirza 2014]]
 ########## Conditional generative adversarial nets
-#########
+########## @article{DBLP:journals/corr/MirzaO14,
+  author    = {Mehdi Mirza and
+               Simon Osindero},
+  title     = {Conditional Generative Adversarial Nets},
+  journal   = {CoRR},
+  volume    = {abs/1411.1784},
+  year      = {2014},
+  url       = {http://arxiv.org/abs/1411.1784},
+  archivePrefix = {arXiv},
+  eprint    = {1411.1784},
+  timestamp = {Mon, 13 Aug 2018 16:48:15 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/MirzaO14.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
 ####### 对抗生成网络
 ####### 注意力机制
 ####### 结合注意力和GAN
