@@ -23,4 +23,8 @@ title: MLP Project final report related works
 #### Nguyen，Conditional iterative generation of images in latent space.
 #### Reed，Parallel multiscale autoregressive density estimation
 ### GAN
-####
+#### Radford，Unsupervised representation learning with deep convolutional generative adversarial networks.
+#### Denton，Deep generative image models using a laplacian pyramid of adversarial networks
+#### Salimans， Improved techniques for training gans.
+#### Ledig，Photo-realistic single image superresolution using a generative adversarial network.
+#### Isola，Image-to-image translation with conditional adversarial networks.
