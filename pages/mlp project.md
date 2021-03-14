@@ -415,5 +415,6 @@ $$
 ###### 替换image encoder（还没做
 ###### 替换判别器（image encoder）
 ####### CLIP已经是很好的判别器，需要先训练生成器到非常好的程度，再训练判别器
-####### loss
+####### 生成器的adversarial loss，conditional loss替换为，
+#######
 ##### 句子长度问题，调整DAMSM参数，重新训练
