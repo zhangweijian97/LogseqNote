@@ -16,11 +16,5 @@ title: MLP Project final report related works
 #### 文本生成人脸，因为数据集的缺乏，研究很少，有如下，暂略
 #### CLIP，包含预训练的文本和图片的编码器。zero-shot。注意力。
 #### 受此启发，我们用CLIP的文本编码器和图片编码器来替换GAN的对应部分。对所有基于Conditional GAN的网络都可以进行这样的替换。
+##
 ## In the Text-to-Image synthesis domain, most of the networks are based on conditional GANs [[Conditional GANs Mirza 2014]] and the encoder-decoder architecture. 普通的GAN
-## Reel et al. first
-## text to image
-### 一段话
-## text to face
-### 2-3段话
-## clip
-### 一段话
