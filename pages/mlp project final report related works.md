@@ -21,4 +21,4 @@ title: MLP Project final report related works
 #### Mansimov， Generating images from captions with attention
 #### Gregor，DRAW: A recurrent neural network for image generation.
 #### Nguyen，Conditional iterative generation of images in latent space.
-####
+#### Reed，
