@@ -354,6 +354,7 @@ $$
 ##### [[FTGAN Chen 2019]]
 ###### related work （甚至不讲t2f的相关工作？！）
 ####### text to image
-########
+######## text encoder
+######## image decoder
 ####### face synthesis
 ###### 评估
