@@ -29,4 +29,4 @@ title: MLP Project final report related works
 #### Ledig，Photo-realistic single image superresolution using a generative adversarial network.
 #### Isola，Image-to-image translation with conditional adversarial networks.
 ## （这里要不水一波GAN生成图片的原理） 2014年Goodfellow 提出 GAN，包含生成器和判别器。生成器的作用，略。判别器的作用，略。因为这个网络从随机噪声中采样，作为生成器的输入，所以只能完成图片生成任务。
-## 同样在2014年，Mizam
+## 同样在2014年，Mirza提出了conditional GAN
