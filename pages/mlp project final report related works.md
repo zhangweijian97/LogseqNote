@@ -32,4 +32,4 @@ title: MLP Project final report related works
 ## 同样在2014年，Mirza提出了conditional GAN，使得生成的图片能够依赖于输入的数据。
 ## 2016年，Reel首次证明了cGAN能够在**文本生成图片**上取得可行的结果。
 ## Zhang 则提出了stackGAN来生成**高精度**的图片
-##
+## 以上存在问题，依赖于整个句子作为输入。
