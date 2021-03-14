@@ -14,7 +14,7 @@ title: MLP Project final report related works
 ### AttnGAN引入了注意力机制，实现了高质量细粒度的图片
 ### 文本生成人脸，因为数据集的缺乏，研究很少，有如下略
 ### CLIP，预训练的文本和图片的编码器。zero-shot。注意力。
-### 所以
+###
 ## In the Text-to-Image synthesis domain, most of the networks are based on conditional GANs [[Conditional GANs Mirza 2014]] and the encoder-decoder architecture. 普通的GAN
 ## Reel et al. first
 ## text to image
