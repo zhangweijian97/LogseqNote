@@ -151,6 +151,40 @@ title: MLP Project
 #### 第一轮 看论文 理解模型架构 了解相关工作 收集评估方法
 ##### 材料
 ###### [[CLIP]]
+##### [[Faces la Carte Wang 2020]]
+###### Related Works
+####### text to image (TTI)
+######## Reel et al. 第一个用GAN
+######### text encoder
+######### image generator
+######### concatenated the text embedding to the noise vector as input
+######## StackGAN
+######### two pairs of generators and discriminators
+######### generate images hierarchically
+######## Xu et al
+######### AttnGAN
+####### Text-to-Face Synthesis (TTF)
+######## dataset
+######### Face2text
+######## T2F
+######### Akanimax
+######### LSTM to encode the text descriptions
+######### ProGAN as image generator
+######## T2F 2.0
+######### replacing ProGAN with MSG-GAN
+######### output showed low diversity with regard to facial appearance.
+######## O.R. Nasir et al.
+######### utilise the labels of CelebA
+######### produce structured pseudo-text descriptions automatically.
+######### sentences contain positive feature names separated by conjunctions and punctuation.
+######## Chen et al.
+######### FTGAN
+######### adopted the model structure of AttnGAN
+######### best output image quality
+######### If the descriptions are longer, the efﬁcacy of text encoding deteriorates because the attention map becomes harder to train.
+####### Feature-Disentangled Latent Space
+######## Chen et al.
+######## Karras et al.
 ##### [[AttnGAN Xu 2018]]
 ###### 介绍
 ####### 其他GAN的问题：conditioning GAN only on the global sentence vector lacks important ﬁne-grained information at the word level, and prevents the generation of high quality images.
@@ -317,40 +351,6 @@ $$
 ########## 可视化中间结果
 ######## 和其他模型比较
 ######### IS
-##### [[Faces la Carte Wang 2020]]
-###### Related Works
-####### text to image (TTI)
-######## Reel et al. 第一个用GAN
-######### text encoder
-######### image generator
-######### concatenated the text embedding to the noise vector as input
-######## StackGAN
-######### two pairs of generators and discriminators
-######### generate images hierarchically
-######## Xu et al
-######### AttnGAN
-####### Text-to-Face Synthesis (TTF)
-######## dataset
-######### Face2text
-######## T2F
-######### Akanimax
-######### LSTM to encode the text descriptions
-######### ProGAN as image generator
-######## T2F 2.0
-######### replacing ProGAN with MSG-GAN
-######### output showed low diversity with regard to facial appearance.
-######## O.R. Nasir et al.
-######### utilise the labels of CelebA
-######### produce structured pseudo-text descriptions automatically.
-######### sentences contain positive feature names separated by conjunctions and punctuation.
-######## Chen et al.
-######### FTGAN
-######### adopted the model structure of AttnGAN
-######### best output image quality
-######### If the descriptions are longer, the efﬁcacy of text encoding deteriorates because the attention map becomes harder to train.
-####### Feature-Disentangled Latent Space
-######## Chen et al.
-######## Karras et al.
 ##### [[FTGAN Chen 2019]]
 ###### related work （甚至不讲t2f的相关工作？！）
 ####### text to image
