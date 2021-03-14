@@ -366,6 +366,11 @@ $$
 ########## [[StackGAN Zhang 2016]]
 ######### matching description
 ########## Reed
+########## Hong
+########## Sharma
+########## Dong
+########## [[AttnGAN Xu 2018]]
+########## MirrorGAN Qiao
 ##########
 ####### face synthesis
 ###### 评估
