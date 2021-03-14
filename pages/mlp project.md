@@ -262,17 +262,17 @@ $$
 ########### word feature，e
 ############ e‘=Ue
 ########### image feature，即h
-########### word context vector
-############
+########## word context vector
+###########
 $$
 c_{j}=\sum_{i=0}^{T-1} \beta_{j, i} e_{i}^{\prime}, \quad \text { where } \beta_{j, i}=\frac{\exp \left(s_{j, i}^{\prime}\right)}{\sum_{k=0}^{T-1} \exp \left(s_{j, k}^{\prime}\right)}
 $$
-############
+###########
 $$
 s_{j, i}^{\prime}=h_{j}^{T} e_{i}^{\prime}
 $$
-########### word context matrix
-############ 
+########## word context matrix
+########### 
 $$
 F^{a t t n}(e, h)=\left(c_{0}, c_{1}, \ldots, c_{N-1}\right)
 $$
