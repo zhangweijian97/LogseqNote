@@ -17,7 +17,7 @@ title: MLP Project final report related works
 #### CLIP，包含预训练的文本和图片的编码器。zero-shot。注意力。
 #### 受此启发，我们用CLIP的文本编码器和图片编码器来替换GAN的对应部分。对所有基于Conditional GAN的网络都可以进行这样的替换。
 ## 试写
-### 从文本生成 高精度 细粒度 图片的任务是非常有挑战性的。已经有一些深度生成模型做到了很不错的效果（需要再找一些材料，只有AttnGAN的相关工作提到了几个）。但是他们的都是 与之对比，GAN能够生成更细致的图片（需要更多材料）。
+### 从文本生成 高精度 细粒度 图片的任务是非常有挑战性的。已经有一些深度生成模型做到了很不错的效果（需要再找一些材料，只有AttnGAN的相关工作提到了几个）。但是他们的都是从 与之对比，GAN能够生成更细致的图片（需要更多材料）。
 #### 深度生成模型
 ##### Mansimov， Generating images from captions with attention
 ##### Gregor，DRAW: A recurrent neural network for image generation.
