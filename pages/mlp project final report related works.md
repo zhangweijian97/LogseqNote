@@ -17,5 +17,5 @@ title: MLP Project final report related works
 #### CLIP，包含预训练的文本和图片的编码器。zero-shot。注意力。
 #### 受此启发，我们用CLIP的文本编码器和图片编码器来替换GAN的对应部分。对所有基于Conditional GAN的网络都可以进行这样的替换。
 ## 我直接跳过图片生成和深度模型的部分。开始讲文本生成图片。
-## 从文本生成图片的任务是非常有挑战性的。
+## 从文本生成图片的任务是非常有挑战性的。深度生成模型（需要再找一些
 ## In the Text-to-Image synthesis domain, most of the networks are based on conditional GANs [[Conditional GANs Mirza 2014]] and the encoder-decoder architecture. 普通的GAN
