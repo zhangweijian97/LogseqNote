@@ -364,6 +364,7 @@ $$
 ######### high quality
 ########## Reed
 ########## [[StackGAN Zhang 2016]]
-######### matching
+######### matching description
+##########
 ####### face synthesis
 ###### 评估
