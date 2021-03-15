@@ -49,7 +49,7 @@ http://homepages.inf.ed.ac.uk/pseries/
 ### 照片 [[Mar 2nd, 2021]]
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302165217.png)
 ## 队友 黄文禹
-### s2016
+### s2088661@ed.ac.uk
 ## [[IPP Tutorial 3]]
 ## [[IPP Tutorial 4]]
 ## [[IPP Proposal]]
