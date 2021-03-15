@@ -77,24 +77,19 @@ http://homepages.inf.ed.ac.uk/pseries/
 ####### https://www.wiki.ed.ac.uk/display/ResearchServices/Who+can+use+Eddie
 ##### 找新的论文？
 ##### 和黄文禹一起学��
-### MSc project 第二次会议 总###
-��
-#### ((60478888-8565-4b76-b431-dc73
+### MSc project 第二次会议 总结
 #### 会议上，Pan老师提出了一个研究问题，基于知识增强预训练模型，构建一个新的模型来引入地理数据，如城市名，餐厅位置，街道地址等。相关的数据集有Wikidata中的地理数据。还有一个后续研究方向，前面的那个模型如何提高 Question Answering 任务的表现。又布置了任务，一个是寻找更多知识增强预训练模型的论文，还有一个是看K-Adapter的代码并尝试运行
 #### 本周任务
-�任务
 ##### 读论文
 ###### Incorporating Semantic Similarity with
 Geographic Correlation for Query-POI Relevance Learning
 ##### 搞代码
-###### 
 ##### 自己找更多知识增强预训练模型的代码
 #### 待解决的问题
 ##### 外部导师？
 ##### 华为的数据集？
 ##### ethics procedure？
 ##### remote working？
-##
 # GPU相关
 �
 #���特点？
