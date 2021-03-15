@@ -94,4 +94,5 @@ Geographic Correlation for Query-POI Relevance Learning
 ##### remote working？
 # GPU相关
 ## [[Eddie]]
+# [[K-Adapter]]
 #
