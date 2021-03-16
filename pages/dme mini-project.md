@@ -35,7 +35,7 @@ title: DME mini-project
 #### 每个菜系有多少种不同的食谱
 ### 国家距离
 #### 用某种方式表示为特征
-### yunbo，直接
+### yunbo，试一下拟合数据
 ## report
 ### Introduction
 ### Data preparation
