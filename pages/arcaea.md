@@ -7,6 +7,7 @@ title: Arcaea
 ### [Arcaea萌新常见问题汇总，及各曲包简单评价和氪金推荐](https://www.taptap.com/topic/11297694)
 ### [搭档 Arcaea 中文维基](https://wiki.arcaea.cn/index.php/%E6%90%AD%E6%A1%A3)
 ## [[Arcaea足迹]]
+##
 ## 曲包购买意向（结果是有打折的都买了，氪了300）
 ### Eternal Core
 #### 很多8级，适合我现在练习
