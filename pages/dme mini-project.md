@@ -10,3 +10,6 @@ title: DME mini-project
  s2093718-yunbo liu
  s2060292-shifeng xu
 ## Introduction
+## Data preparation
+## Exploratory data analysis
+##
