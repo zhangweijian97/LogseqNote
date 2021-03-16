@@ -24,16 +24,19 @@ title: DME mini-project
 #### {'Moroccan', 'Indian', 'Italian', 'Thai', 'English', 'French', 'Greek', 'Mexican', 'Spanish', 'Chinese', 'German', 'Japanese'}
 ### ingredients
 #### 太多了列不出来，总之就是一个个食材
-##
-##
-## Introduction
-## Data preparation
-### 可能有问题的数据要清理掉
-## Exploratory data analysis
-### 资料
-#### https://www.jianshu.com/p/9325c9f88ee6
-#### https://robinchao.github.io/simple-eda/
-## Results
+## 第一次会议
+### 可能的task
+#### 根据食材预测菜系
 ###
-## Conclusions
-###
+## report
+### Introduction
+### Data preparation
+#### 可能有问题的数据要清理掉
+### Exploratory data analysis
+#### 资料
+##### https://www.jianshu.com/p/9325c9f88ee6
+##### https://robinchao.github.io/simple-eda/
+### Results
+####
+### Conclusions
+####
