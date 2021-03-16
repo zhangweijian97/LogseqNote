@@ -12,4 +12,5 @@ title: DME mini-project
 ## Introduction
 ## Data preparation
 ## Exploratory data analysis
-##
+## Results
+## Conclusions
