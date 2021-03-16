@@ -11,6 +11,8 @@ title: DME mini-project
  s2060292-shifeng xu
 ## Introduction
 ## Data preparation
+### 可能有问题的数据要清理掉
 ## Exploratory data analysis
+###
 ## Results
 ## Conclusions
