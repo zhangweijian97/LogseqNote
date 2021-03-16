@@ -8,6 +8,9 @@ title: Arcaea
 ### [搭档 Arcaea 中文维基](https://wiki.arcaea.cn/index.php/%E6%90%AD%E6%A1%A3)
 ## [[Arcaea足迹]]
 ## [定数表](https://wiki.arcaea.cn/index.php/%E5%AE%9A%E6%95%B0%E8%A1%A8)
+:PROPERTIES:
+:id: 60500474-9552-4588-9461-c9d1f1098cc6
+:END:
 ## 曲包购买意向（结果是有打折的都买了，氪了300）
 ### Eternal Core
 #### 很多8级，适合我现在练习
