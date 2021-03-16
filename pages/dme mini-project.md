@@ -28,7 +28,9 @@ title: DME mini-project
 ### 可能的task
 #### 根据食材预测菜系
 ### 我们也都看了数据，大部分能理解，suggested testbed
-###
+### 建议回去看一下lab
+### 探索性数据分析
+#### 数据可视化
 ## report
 ### Introduction
 ### Data preparation
