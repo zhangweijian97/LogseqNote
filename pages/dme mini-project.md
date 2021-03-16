@@ -22,7 +22,8 @@ title: DME mini-project
 #### 所属食物，也就是标签，内容分别是数字1到12
 ### labelNameSet
 #### {'Moroccan', 'Indian', 'Italian', 'Thai', 'English', 'French', 'Greek', 'Mexican', 'Spanish', 'Chinese', 'German', 'Japanese'}
-###
+### ingredients
+#### 太多了列不出来，总之就是一个个食材
 ## Introduction
 ## Data preparation
 ### 可能有问题的数据要清理掉
