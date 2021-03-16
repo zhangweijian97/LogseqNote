@@ -19,7 +19,8 @@ title: DME mini-project
 #### 列表示食材
 ### labels['labels'].shape
 #### (4236, 1)
-#### 所属食物
+#### 所属食物，也就是标签，内容分别是数字1到12
+###
 ## Introduction
 ## Data preparation
 ### 可能有问题的数据要清理掉
