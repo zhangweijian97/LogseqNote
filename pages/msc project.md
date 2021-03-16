@@ -92,6 +92,7 @@ Geographic Correlation for Query-POI Relevance Learning
 ##### 华为的数据集？
 ##### ethics procedure？
 ##### remote working？
+### MSc project 第三次会议
 # GPU相关
 ## [[Eddie]]
 # [[K-Adapter]]
