@@ -39,6 +39,8 @@ title: DME mini-project
 ### shifeng，看lab，
 ### weijian，探索性数据分析
 #### 每个菜系最常用的材料
+### zhaoxi
+####
 ## report
 ### Introduction
 ### Data preparation
