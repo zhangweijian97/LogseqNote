@@ -14,6 +14,9 @@ title: DME mini-project
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210316220014.png)
 ### recipes['recipes'].shape
 #### (4236, 709)
+####
+### labels['labels'].shape
+#### (4236, 1)
 ## Introduction
 ## Data preparation
 ### 可能有问题的数据要清理掉
