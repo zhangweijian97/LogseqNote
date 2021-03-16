@@ -3,5 +3,6 @@ title: DME mini-project
 ---
 
 ## 主题
-### Party Vinyl
-##
+### Predicting cuisines of recipes
+## 队友
+###
