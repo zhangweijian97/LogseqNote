@@ -19,7 +19,7 @@ title: DME mini-project
 #### 列表示食材
 ### labels['labels'].shape
 #### (4236, 1)
-####
+#### 所属菜
 ## Introduction
 ## Data preparation
 ### 可能有问题的数据要清理掉
