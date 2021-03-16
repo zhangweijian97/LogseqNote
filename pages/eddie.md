@@ -8,5 +8,5 @@ title: Eddie
 ### [How to use the Eddie computer cluster](https://www.wiki.ed.ac.uk/display/sbsdocs/How+to+use+the+Eddie+computer+cluster)
 #### Log in to eddie3 from macOS
 ### [Create Group](https://www.wiki.ed.ac.uk/display/ServiceDelivery/Create+Group)
-###
+### [Introduction to Eddie](https://www.wiki.ed.ac.uk/display/ResearchServices/Introduction+to+Eddie)
 ##
