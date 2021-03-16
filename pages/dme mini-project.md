@@ -14,7 +14,7 @@ title: DME mini-project
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210316220014.png)
 ### recipes['recipes'].shape
 #### (4236, 709)
-####
+#### 内容是0和1，应该和另外几个recipes文件内容一样，表示食谱和对应的食材
 ### labels['labels'].shape
 #### (4236, 1)
 ## Introduction
