@@ -12,6 +12,7 @@ title: DME mini-project
 ## 理解数据
 ### citiesDistMat['citiesDistMat']
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210316220014.png)
+###
 ## Introduction
 ## Data preparation
 ### 可能有问题的数据要清理掉
