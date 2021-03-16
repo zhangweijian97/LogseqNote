@@ -31,6 +31,7 @@ title: DME mini-project
 ### 建议回去看一下lab
 ### 探索性数据分析
 #### 数据可视化
+#### 描述数据是什么
 ## report
 ### Introduction
 ### Data preparation
