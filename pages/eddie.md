@@ -15,3 +15,4 @@ title: Eddie
 #### scp -r data/ s2119299@eddie.ecdf.ed.ac.uk:/exports/eddie/scratch/s2119299/
 #### rsync -r data/ s2119299@eddie.ecdf.ed.ac.uk:/exports/eddie/scratch/s2119299/
 #### scp -r testuploadtoeddie.txt s2119299@eddie.ecdf.ed.ac.uk:/exports/eddie/scratch/s2119299/
+#### scp -r testuploadtoeddie.txt s2119299@eddie.ecdf.ed.ac.uk:/exports/eddie/scratch/s2119299/
