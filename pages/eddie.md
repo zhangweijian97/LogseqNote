@@ -12,6 +12,7 @@ title: Eddie
 ### [Example Staging Scripts](https://www.wiki.ed.ac.uk/display/ResearchServices/Example+Staging+Scripts)
 ## 两个根目录
 ### /home/s2119299
+####
 ### /exports/eddie/scratch/s2119299
 ## 命令
 ### 传输文件，用scp或者rsync
