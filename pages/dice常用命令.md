@@ -31,4 +31,5 @@ ssh -N -f -L localhost:24641:localhost:23344 s2119299@starship
 {WAIT:100}conda activate nlu
 {WAIT:100}cd ~
 {WAIT:100}nice -n 19 jupyter notebook --no-browser --port 23344
-##
+## afs
+###
