@@ -28,4 +28,4 @@ title: Eddie
 ### Anaconda
 ### 更改envs和pkgs路径
 ## 命令例子
-##
+### /
