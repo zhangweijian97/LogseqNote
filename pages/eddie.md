@@ -28,27 +28,4 @@ title: Eddie
 ### Anaconda
 ### 更改envs和pkgs路径
 ## 命令例子
-### #!/bin/sh
-# Grid Engine options (lines prefixed with #$)
-#$ -N pretrain_fac_adapter              
-#$ -cwd                  
-#$ -l h_rt=10:00:00 
-#$ -l h_vmem=32G
-#  These options are:
-#  job name: -N
-#  use the current working directory: -cwd
-#  runtime limit of 5 minutes: -l h_rt
-#  memory limit of 1 Gbyte: -l h_vmem
-
-# Initialise the environment modules
-. /etc/profile.d/modules.sh
-
-# Request GPUs: 
-#$ -pe gpu-titanx 4
-
-# Load Python
-module load anaconda
-source activate kadapter
-
-# Run the program
-bash ./run_pretrain_fac-adapter.sh
+###
