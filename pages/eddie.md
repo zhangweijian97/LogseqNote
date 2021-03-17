@@ -11,5 +11,5 @@ title: Eddie
 ### [Introduction to Eddie](https://www.wiki.ed.ac.uk/display/ResearchServices/Introduction+to+Eddie)
 ### [Example Staging Scripts](https://www.wiki.ed.ac.uk/display/ResearchServices/Example+Staging+Scripts)
 ## 命令
-### 传输文件
-#### rsync
+### 传输文件，用scp或者rsync
+#### scp -r data/ UUN@eddie.ecdf.ed.ac.uk:/exports/eddie/scratch/$USER/
