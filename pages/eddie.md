@@ -11,5 +11,5 @@ title: Eddie
 ### [Introduction to Eddie](https://www.wiki.ed.ac.uk/display/ResearchServices/Introduction+to+Eddie)
 ### [Example Staging Scripts](https://www.wiki.ed.ac.uk/display/ResearchServices/Example+Staging+Scripts)
 ## 命令
-### 文件同步
+### 传输文件
 #### rsync
