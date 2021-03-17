@@ -83,4 +83,3 @@ title: MLP评估方法收集统计
 #### R-precision
 ### [[rdAttnGAN Tian 2020]]
 #### IS
-####
