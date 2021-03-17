@@ -17,5 +17,6 @@ title: Eddie
 ## 命令
 ### 传输文件，用scp或者rsync
 #### scp -r data/ s2119299@eddie.ecdf.ed.ac.uk:/exports/eddie/scratch/s2119299/
+#### scp -r data/ s2119299@eddie.ecdf.ed.ac.uk:/home/s2119299/
 #### rsync -r data/ s2119299@eddie.ecdf.ed.ac.uk:/exports/eddie/scratch/s2119299/
-#### scp -r data/ s2119299@eddie.ecdf.ed.ac.uk:/exports/eddie/scratch/s2119299/
+#### scp -r data/ s2119299@eddie.ecdf.ed.ac.uk:/home/s2119299/
