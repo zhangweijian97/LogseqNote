@@ -24,4 +24,4 @@ title: Eddie
 ### 编号 I210317-1573
 ## 配置环境
 ### Anaconda
-### 更改
+### 更改envs和pkgs路径
