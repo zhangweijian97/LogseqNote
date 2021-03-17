@@ -10,8 +10,10 @@ title: Eddie
 ### [Create Group](https://www.wiki.ed.ac.uk/display/ServiceDelivery/Create+Group)
 ### [Introduction to Eddie](https://www.wiki.ed.ac.uk/display/ResearchServices/Introduction+to+Eddie)
 ### [Example Staging Scripts](https://www.wiki.ed.ac.uk/display/ResearchServices/Example+Staging+Scripts)
+## 两个根目录
+### /home/s2119299
+### /exports/eddie/scratch/s2119299
 ## 命令
-###
 ### 传输文件，用scp或者rsync
 #### scp -r data/ s2119299@eddie.ecdf.ed.ac.uk:/exports/eddie/scratch/s2119299/
 #### rsync -r data/ s2119299@eddie.ecdf.ed.ac.uk:/exports/eddie/scratch/s2119299/
