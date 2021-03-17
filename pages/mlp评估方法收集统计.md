@@ -2,7 +2,6 @@
 title: MLP评估方法收集统计
 ---
 
-##
 ### [[FTGAN Chen 2019]]
 #### FID
 #### FSD
