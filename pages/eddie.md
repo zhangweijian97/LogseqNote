@@ -20,7 +20,7 @@ title: Eddie
 #### scp -r data/ s2119299@eddie.ecdf.ed.ac.uk:/home/s2119299/
 #### rsync -r data/ s2119299@eddie.ecdf.ed.ac.uk:/exports/eddie/scratch/s2119299/
 #### rsync -r data/ s2119299@eddie.ecdf.ed.ac.uk:/home/s2119299/
-###
+### 传输文件夹，加一个 -r
 ## 询问IS helpline，group space
 ### 编号 I210317-1573
 ## 配置环境
