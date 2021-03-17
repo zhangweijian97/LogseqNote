@@ -29,7 +29,7 @@ title: Eddie
 ### 更改envs和pkgs路径
 ## 命令例子
 ### 
-#+BEGIN_QUOTE
+#+BEGIN_SRC 
 #!/bin/sh
 # Grid Engine options (lines prefixed with #$)
 #$ -N pretrain_fac_adapter              
@@ -54,4 +54,4 @@ source activate kadapter
 
 # Run the program
 bash ./run_pretrain_fac-adapter.sh
-#+END_QUOTE
+#+END_SRC
