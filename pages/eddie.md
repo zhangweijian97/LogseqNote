@@ -10,6 +10,7 @@ title: Eddie
 ### [Create Group](https://www.wiki.ed.ac.uk/display/ServiceDelivery/Create+Group)
 ### [Introduction to Eddie](https://www.wiki.ed.ac.uk/display/ResearchServices/Introduction+to+Eddie)
 ### [Example Staging Scripts](https://www.wiki.ed.ac.uk/display/ResearchServices/Example+Staging+Scripts)
+### [Job Submission](https://www.wiki.ed.ac.uk/display/ResearchServices/Job+Submission)
 ## 两个根目录
 ### /home/s2119299
 #### 用cd 回到的是这一个
