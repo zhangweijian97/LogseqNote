@@ -29,7 +29,7 @@ title: Eddie
 ### 更改envs和pkgs路径
 ## 命令例子
 ### 
-#+BEGIN_SRC 
+#+BEGIN_SRC python
 #!/bin/sh
 # Grid Engine options (lines prefixed with #$)
 #$ -N pretrain_fac_adapter              
