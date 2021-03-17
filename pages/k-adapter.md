@@ -87,3 +87,5 @@ Note：这篇文章中Related Work部分对于向PLM中注入知识这一方向�
 ###### a) [[relation classification]]，
 ##### QA结果，表格3
 ##### LAMA query 生成，预测被mask位置的词
+## [官方github库](https://github.com/microsoft/k-adapter)
+##
