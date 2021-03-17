@@ -9,5 +9,7 @@ title: conda常用命令
 ## conda deactivate
 ## conda intall
 ## 从requirements.txt安装
+### conda install --yes --file requirements.txt
+### $ while read requirement; do conda install --yes $requirement; done < requirements.txt
 ### $ while read requirement; do conda install --yes $requirement || pip install $requirement; done < requirements.txt
 ###
