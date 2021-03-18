@@ -29,7 +29,7 @@ title: MLP评估方法收集统计
 ##### Peak Noise to Signal Ratio
 #### Human Assessment
 ### [[Text2FaceGAN Nasir 2019]]
-####
+#### IS
 ### [[StackGAN Zhang 2017]]
 #### IS
 #### Human rank
