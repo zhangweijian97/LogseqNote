@@ -1,5 +1,5 @@
 ---
-title: MLP Project final report related works
+title: MLP Project final report related work
 ---
 
 ## 要不就不细分小结

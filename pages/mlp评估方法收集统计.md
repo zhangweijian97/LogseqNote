@@ -5,7 +5,7 @@ title: MLP评估方法收集统计
 ### [[AttnGAN Xu 2018]]
 #### IS
 #### R-precision
-### [[Faces la Carte Wang 2020]]
+### [[TTF-HD Wang 2020 Faces la Carte]]
 #### IS
 #### Learned Perceptual Image Patch Similarity (LPIPS)
 ##### which is for evaluating the diversity of the generated images

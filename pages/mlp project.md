@@ -126,7 +126,7 @@ title: MLP Project
 ##### 那对于abstract和introduction，我需要看一下cw3 feedback来整合一下
 ##### related work部分，大体上参考那几篇最新的text2face的论文。但是clip的部分不确定怎么写。现在应该不可能已经出来引用了clip的论文，但可以试试找找。如果不行，就凭感觉直接写吧
 ###### [[FTGAN Chen 2019]]
-###### [[Faces la Carte Wang 2020]]
+###### [[TTF-HD Wang 2020 Faces la Carte]]
 ###### [[CLIP OpenAI 2021]]
 ##### 模型部分，对现在的我，问题还很大。我完全没理解他们的架构。需要先看attngan的论文，对attngan和clip都熟悉之后，确定上面大纲中的四个部分的原理和结合。然后询问林扬和楚婷是如何替换clip，构建我们自己的模型
 ###### [[AttnGAN Xu 2018]]
@@ -151,7 +151,7 @@ title: MLP Project
 #### 第一轮 看论文 理解模型架构 了解相关工作 收集评估方法
 ##### 材料
 ###### [[CLIP OpenAI 2021]]
-##### [[Faces la Carte Wang 2020]]
+##### [[TTF-HD Wang 2020 Faces la Carte]]
 ###### Related Works
 ####### text to image (TTI)
 ######## [[Scott Reed]] et al. 第一个用GAN
@@ -407,7 +407,7 @@ $$
 ######## FSD
 ######## FSS
 #### 第二轮
-##### [[MLP Project final report related works]]
+##### [[MLP Project final report related work]]
 #### 我们的模型
 ##### variants
 ###### 替换text encoder
