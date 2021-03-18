@@ -2,10 +2,6 @@
 title: MLP评估方法收集统计
 ---
 
-### [[FTGAN Chen 2019]]
-#### FID
-#### FSD
-#### FSS
 ### [[AttnGAN Xu 2018]]
 #### IS
 #### R-precision
@@ -16,11 +12,22 @@ title: MLP评估方法收集统计
 #### CS
 ##### cosine similarity
 ##### which is widely used to evaluate the similarity of two chunks of a corpus in natural language processing.
+### [[FTGAN Chen 2019]]
+#### FID
+#### FSD
+#### FSS
 ### [[MSG-GAN Karnewar 2020]]
 #### FID
 #### MSE
 ##### Mean Square Error
 #### IS
+### A Realistic Image Generation of Face From Text Description Using the Fully Trained Generative Adversarial Networks
+#### FSD
+##### face semantic distance
+#### FID
+#### PNSR
+##### Peak Noise to Signal Ratio
+#### Human Assessment
 ### [[StackGAN Zhang 2017]]
 #### IS
 #### Human rank
@@ -61,13 +68,6 @@ title: MLP评估方法收集统计
 ##### Classification Accuracy Score
 #### Caption Generation
 #### Semantic Object Accuracy (SOA)
-### A Realistic Image Generation of Face From Text Description Using the Fully Trained Generative Adversarial Networks
-#### FSD
-##### face semantic distance
-#### FID
-#### PNSR
-##### Peak Noise to Signal Ratio
-#### Human Assessment
 ### [[MirrorGAN Qiao 2019]]
 #### IS
 #### R-precision
