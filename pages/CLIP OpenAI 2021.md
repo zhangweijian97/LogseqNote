@@ -1,5 +1,5 @@
 ---
-title: CLIP
+title: CLIP OpenAI 2021
 ---
 
 ## 资源

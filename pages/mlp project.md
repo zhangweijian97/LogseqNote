@@ -9,7 +9,7 @@ title: MLP Project
 :END:
 #### ((603fd356-d8cf-4835-a88c-a6fa3ffd71ad))
 #### [ImageNet](http://image-net.org/download-images)
-#### [[CLIP]] 
+#### [[CLIP OpenAI 2021]] 
 :PROPERTIES:
 :id: 60411750-41c8-4ada-a8ad-0d110c5e9565
 :END:
@@ -127,7 +127,7 @@ title: MLP Project
 ##### related work部分，大体上参考那几篇最新的text2face的论文。但是clip的部分不确定怎么写。现在应该不可能已经出来引用了clip的论文，但可以试试找找。如果不行，就凭感觉直接写吧
 ###### [[FTGAN Chen 2019]]
 ###### [[Faces la Carte Wang 2020]]
-###### [[CLIP]]
+###### [[CLIP OpenAI 2021]]
 ##### 模型部分，对现在的我，问题还很大。我完全没理解他们的架构。需要先看attngan的论文，对attngan和clip都熟悉之后，确定上面大纲中的四个部分的原理和结合。然后询问林扬和楚婷是如何替换clip，构建我们自己的模型
 ###### [[AttnGAN Xu 2018]]
 ##### 实验部分，问题也不小。第一部分模型效果，是队友负责完成的。我只需要理解其结果，放上来。但是第二部分模型评估，似乎有不少实验要做。除了实现这些方法。整个对比流程的设计和运行也要花不少时间。
@@ -150,7 +150,7 @@ title: MLP Project
 ##### 补充，related work除了gan模型方面，和clip方面。还需要收集一下他们用的评估方法和为什么用。也放到第一轮吧
 #### 第一轮 看论文 理解模型架构 了解相关工作 收集评估方法
 ##### 材料
-###### [[CLIP]]
+###### [[CLIP OpenAI 2021]]
 ##### [[Faces la Carte Wang 2020]]
 ###### Related Works
 ####### text to image (TTI)
