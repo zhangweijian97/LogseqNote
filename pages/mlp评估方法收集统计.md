@@ -16,7 +16,7 @@ title: MLP评估方法收集统计
 #### FID
 #### FSD
 #### FSS
-### A Realistic Image Generation of Face From Text Description Using the Fully Trained Generative Adversarial Networks
+### [[FTGAN Khan 2021]]
 #### FSD
 ##### face semantic distance
 #### FID
