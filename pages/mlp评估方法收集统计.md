@@ -16,11 +16,6 @@ title: MLP评估方法收集统计
 #### FID
 #### FSD
 #### FSS
-### [[MSG-GAN Karnewar 2020]]
-#### FID
-#### MSE
-##### Mean Square Error
-#### IS
 ### A Realistic Image Generation of Face From Text Description Using the Fully Trained Generative Adversarial Networks
 #### FSD
 ##### face semantic distance
@@ -29,6 +24,11 @@ title: MLP评估方法收集统计
 ##### Peak Noise to Signal Ratio
 #### Human Assessment
 ### [[Text2FaceGAN Nasir 2019]]
+#### IS
+### [[MSG-GAN Karnewar 2020]]
+#### FID
+#### MSE
+##### Mean Square Error
 #### IS
 ### [[StackGAN Zhang 2017]]
 #### IS
