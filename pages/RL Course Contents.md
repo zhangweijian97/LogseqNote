@@ -1,5 +1,5 @@
 ---
-title: RL Reinforcement Learning
+title: RL Course Contents
 ---
 
 ## 辅助资料
