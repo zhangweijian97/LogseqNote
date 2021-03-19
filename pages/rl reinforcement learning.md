@@ -5,7 +5,7 @@ title: RL Reinforcement Learning
 ## 辅助资料
 
 ### [周博磊 强化学习](https://j.mp/3sW8QBu)
-## 笔记
+## 学习笔记
 ### [[RL Chapter 3 Finite Markov Decision Processes]]
 ### [[RL Chapter 4 Dynamic Programming]]
 ### [[RL Chapter 5 Monte Carlo Methods]]
