@@ -12,5 +12,7 @@ title: RL Reinforcement Learning
 ### [[RL Chapter 6 Temporal-Difference Learning]]
 ### [[RL Chapter 7 n-step Bootstrapping]]
 ### [[价值函数近似]]
+### DQN
+### REINFORCE
 ## Coursework
 ### [[RL Coursework]]
