@@ -422,7 +422,7 @@ $$
 ##### 句子长度问题，调整DAMSM参数，重新训练
 #### [[MLP project final report abstract]]
 #### [[MLP Project final report introduction]] [[MLP Project]]
-#### [[MLP Project final report dataset and task]] [[MLP Project]]
+#### [[MLP Project final report dataset and task]]
 #### [[MLP Project final report methodology]] [[MLP Project]]
 #### [[MLP Project final report experiments]] [[MLP Project]]
 #### [[MLP Project final report related work]] [[MLP Project]]
