@@ -462,6 +462,7 @@ $$
 ####### Text2FaceGAN生成的图片精度很低
 ####### FTGAN基于
 ####### 目前最好的
+##### 用于
 ##### CLIP
 ##### 我们的贡献
 #### [[MLP Project final report dataset and task]] [[MLP Project]]
