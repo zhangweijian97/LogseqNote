@@ -443,3 +443,6 @@ $$
 ###### We choose the AttnGAN as the baseline, because it achieved a good performance on synthesising fine-grain image on COCO dataset, and it first introduced the attention mechanism into GAN, which also motivates the CLIP.
 ###### We use a new face dataset called Face2Text 1.0, which includes 4000 faces with captions and it is currently the largest dataset on this type.
 ###### We use **blabla** to evaluate our methods. It shows **some** results.
+#### [[MLP Project final report introduction]] [[MLP Project]]
+##### 图像合成有很多应用，待补充
+##### 已经有许多研究工作使用GAN做
