@@ -446,6 +446,7 @@ $$
 #### [[MLP Project final report introduction]] [[MLP Project]]
 ##### 图像合成有很多应用
 ###### （看其他论文，收集对应的应用和引用）
+##### 有许多模型
 ##### 已经有许多研究工作使用GAN做
 #### [[MLP Project final report dataset and task]] [[MLP Project]]
 ##### Face2Text 1.0
