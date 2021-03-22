@@ -444,8 +444,7 @@ $$
 ###### We use a new face dataset called Face2Text 1.0, which includes 4000 faces with captions and it is currently the largest dataset on this type.
 ###### We use **blabla** to evaluate our methods. It shows **some** results.
 #### [[MLP Project final report introduction]] [[MLP Project]]
-#####
-##### 从文本生成图像 有很多应用
+##### 从文本生成图像 的应用
 ###### （看其他论文，收集对应的应用和引用）
 ###### 写一个自然段
 ##### 最近有许多研究使用GAN来进行 从文本生成图像，例如 xxx。
