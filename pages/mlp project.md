@@ -474,7 +474,9 @@ $$
 ###### Face2Text 1.0
 ###### 暂时先照搬cw3，回头看看再怎么改的通顺
 ##### task
-######
+###### 从文本生成人脸
 #### [[MLP Project final report methodology]] [[MLP Project]]
+#####
 #### [[MLP Project final report experiments]] [[MLP Project]]
+#####
 #### [[MLP Project final report related work]] [[MLP Project]]
