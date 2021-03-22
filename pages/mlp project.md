@@ -433,5 +433,5 @@ $$
 ###### compare hyperparameter
 #### [[MLP Project final report experiments]]
 ##### FID
-#####
+##### FSD
 #### [[MLP Project final report related work]]
