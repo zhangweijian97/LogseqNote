@@ -84,6 +84,9 @@ title: MLP Project
 ##### Paragraph 5: This paragraph should not be part of this report. It’s about the project management side of things, it should be in your plan, not your introduction.
 ##### Paragraph 6: Lack of datasets and how you try to improve things.
 #### The overall narrative here is a bit confusing. I suggest reading:
+:PROPERTIES:
+:id: 6054eb90-0f1d-4d73-9728-ebee7efdc43c
+:END:
 ##### As a guide to your report writing.
 ###### a. https://cs.stanford.edu/people/widom/paper-writing.html
 ###### b. https://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/
