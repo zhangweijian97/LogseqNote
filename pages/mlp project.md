@@ -466,8 +466,8 @@ $$
 ##### 我们使用了一个新的数据集Face2Text 1.0，它的前一个版本只包含400个图片，而它包含了4000张图片
 ##### 通过定性分析和定量分析，我们发现新的CLIP-AttnGAN在
 ##### 我们的贡献
-###### 1. 测试了
-######
+###### 1. 提出了一个通用的提高GAN的性能的办法，用CLIP来替换GAN的对应部分，
+###### 2.
 #### [[MLP Project final report dataset and task]] [[MLP Project]]
 ##### Face2Text 1.0
 #### [[MLP Project final report methodology]] [[MLP Project]]
