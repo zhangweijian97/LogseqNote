@@ -470,8 +470,11 @@ $$
 ###### 2. 我们在attnGAN上测试了这个方法，效果喜人。这个方法还能被用在其他GAN上面
 ###### 3. 我们使用了一个新的文本-人脸数据集。希望以后的研究者也能使用。
 #### [[MLP Project final report dataset and task]] [[MLP Project]]
-##### Face2Text 1.0
-##### 这部分暂时先照搬cw3
+##### 数据集
+###### Face2Text 1.0
+###### 暂时先照搬cw3，回头看看再怎么改的通顺
+##### task
+######
 #### [[MLP Project final report methodology]] [[MLP Project]]
 #### [[MLP Project final report experiments]] [[MLP Project]]
 #### [[MLP Project final report related work]] [[MLP Project]]
