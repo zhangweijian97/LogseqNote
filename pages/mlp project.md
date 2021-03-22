@@ -471,6 +471,7 @@ $$
 ###### 3. 我们使用了一个新的文本-人脸数据集。希望以后的研究者也能使用。
 #### [[MLP Project final report dataset and task]] [[MLP Project]]
 ##### Face2Text 1.0
+##### 这部分暂时先照搬cw3的
 #### [[MLP Project final report methodology]] [[MLP Project]]
 #### [[MLP Project final report experiments]] [[MLP Project]]
 #### [[MLP Project final report related work]] [[MLP Project]]
