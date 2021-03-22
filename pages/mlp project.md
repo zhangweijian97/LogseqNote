@@ -451,7 +451,8 @@ $$
 ###### （列出3，4个，一句话概括特点）
 ###### 同样写一个自然段
 ##### 但是 从文本生成人脸 只有很少的研究。有两个原因，一个是缺乏合适的数据集。（说一下有的数据集）。另一个是因为人脸包含复杂的特征，所以从文本生成高精度细粒度的人脸是一个困难的任务。
-##### （分段，但是承接上一段）
+###### T2F使用
+#####
 #### [[MLP Project final report dataset and task]] [[MLP Project]]
 ##### Face2Text 1.0
 #### [[MLP Project final report methodology]] [[MLP Project]]
