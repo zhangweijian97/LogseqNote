@@ -446,9 +446,9 @@ $$
 #### [[MLP Project final report introduction]] [[MLP Project]]
 ##### 从文本生成图像 有很多应用
 ###### （看其他论文，收集对应的应用和引用）
-##### 最近有许多研究使用GAN来进行 从文本生成图像，例如 xxx。但是
+##### 最近有许多研究使用GAN来进行 从文本生成图像，例如 xxx。
 ###### （列出3，4个，一句话概括特点）
-######
+#####
 #### [[MLP Project final report dataset and task]] [[MLP Project]]
 ##### Face2Text 1.0
 #### [[MLP Project final report methodology]] [[MLP Project]]
