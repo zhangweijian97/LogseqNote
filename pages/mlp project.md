@@ -424,7 +424,7 @@ $$
 #### [[MLP Project final report introduction]]
 #### [[MLP Project final report dataset and task]]
 #### [[MLP Project final report methodology]]
-##### Ls1,Ls2
+##### Ls1, Ls2
 ##### text encoder, sentence feature
 #####
 #### [[MLP Project final report experiments]]
