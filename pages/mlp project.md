@@ -462,7 +462,7 @@ $$
 ####### Text2FaceGAN生成的图片精度很低
 ####### FTGAN基于
 ####### 目前最好的
-##### 最近OpenAI提出了CLIP。介绍两句。有很好的text encoder和image encoder。因为用来做 从文本生成图片 的GAN，的基本架构包含text encoder，image encoder和image decoder。受到启发，我们
+##### 最近OpenAI提出了CLIP。介绍两句。CLIP有很好的text encoder和image encoder。因为用来做 从文本生成图片 的GAN，的基本架构包含text encoder，image encoder和image decoder。受到启发，我们
 ##### 我们的贡献
 #### [[MLP Project final report dataset and task]] [[MLP Project]]
 ##### Face2Text 1.0
