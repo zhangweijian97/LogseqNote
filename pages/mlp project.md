@@ -417,8 +417,7 @@ $$
 ####### CLIP已经是很好的判别器，需要先训练生成器到非常好的程度，再训练判别器
 ####### 会影响生成器的adversarial loss，其中conditional loss替换为(未定)
 ##### 句子长度问题，调整DAMSM参数，重新训练
-####
-##### [[MLP project final report abstract]] [[MLP Project]]
+#### [[MLP project final report abstract]] [[MLP Project]]
 ###### GAN已经在 从文本生成图像 方面取得很好的结果
 :PROPERTIES:
 :id: 6053779b-33b3-450e-afc4-9dbe7a67d97d
