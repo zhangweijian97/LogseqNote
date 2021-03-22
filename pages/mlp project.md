@@ -421,8 +421,8 @@ $$
 ####### 会影响生成器的adversarial loss，其中conditional loss替换为(未定)
 ##### 句子长度问题，调整DAMSM参数，重新训练
 #### [[MLP project final report abstract]]
-#### [[MLP Project final report introduction]] [[MLP Project]]
+#### [[MLP Project final report introduction]]
 #### [[MLP Project final report dataset and task]]
-#### [[MLP Project final report methodology]] [[MLP Project]]
+#### [[MLP Project final report methodology]]
 #### [[MLP Project final report experiments]] [[MLP Project]]
 #### [[MLP Project final report related work]] [[MLP Project]]
