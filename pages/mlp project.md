@@ -445,12 +445,12 @@ $$
 ###### We use **blabla** to evaluate our methods. It shows **some** results.
 #### [[MLP Project final report introduction]] [[MLP Project]]
 ##### 先介绍 从文本生成图像，以及这个技术的应用
-###### （看其他论文，收集对应的应用和引用）
+###### （资料待收集，看一下其他几个论文的对应部分）
 ##### 然后解释 GAN 和 从文本生成图像 的关系
 ###### 先说original GAN
 ###### 然后cGAN
 ###### 再说几个比较有代表性的GAN比如attnGAN，等
-####### （资料待收集）
+####### （资料待收集，过一下收集的所有）
 ##### 然后讲到从文本生成人脸
 ###### 先对比人脸和普通图像。花，鸟。皱纹。文本高度抽象
 ######
