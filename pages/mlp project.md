@@ -453,7 +453,7 @@ $$
 ##### 但是 从文本生成人脸 只有很少的研究。有两个原因，一个是缺乏合适的数据集。（说一下有的数据集）。另一个是因为人脸包含复杂的特征，所以从文本生成高精度细粒度的人脸是一个困难的任务。
 ###### （这里列出几个文本生成人脸的论文，每个论文一两句话，具体的放到related work说）
 ###### T2F使用progan和stackgan，但是生成效果很差。作者的后续项目MSG-GAN可以生成高精度的图片但是diversity很差
-###### Text2FaceGAN生成不了高精度的图片
+###### Text2FaceGAN生成的图片精度很低
 #####
 #### [[MLP Project final report dataset and task]] [[MLP Project]]
 ##### Face2Text 1.0
