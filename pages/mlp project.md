@@ -448,6 +448,7 @@ $$
 ###### （看其他论文，收集对应的应用和引用）
 ##### 最近有许多研究使用GAN来进行 从文本生成图像，例如
 ###### （这有一大堆，随便列上6，7个）
+######
 #####
 #### [[MLP Project final report dataset and task]] [[MLP Project]]
 ##### Face2Text 1.0
