@@ -454,6 +454,7 @@ $$
 ###### （这里列出几个文本生成人脸的论文，每个论文一两句话，具体的放到related work说）
 ###### T2F使用progan和stackgan，但是生成效果很差。作者的后续项目MSG-GAN可以生成高精度的图片但是diversity很差
 ###### Text2FaceGAN生成的图片精度很低
+###### 目前最好的
 #####
 #### [[MLP Project final report dataset and task]] [[MLP Project]]
 ##### Face2Text 1.0
