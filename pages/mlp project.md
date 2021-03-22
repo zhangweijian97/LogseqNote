@@ -429,6 +429,6 @@ $$
 ##### replace text only
 ##### replace damsm only
 ##### replace both
-######
+###### compare hyperparameter
 #### [[MLP Project final report experiments]]
 #### [[MLP Project final report related work]]
