@@ -2,8 +2,6 @@
 title: MLP Project final report introduction
 ---
 
-##
-##
 ### 先介绍 从文本生成图像，以及这个技术的应用
 #### （资料待收集，看一下其他几个论文的对应部分）
 ### 然后解释 GAN 和 从文本生成图像 的关系
