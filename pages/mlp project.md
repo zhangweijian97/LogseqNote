@@ -428,6 +428,7 @@ $$
 ##### text encoder, sentence feature
 ##### replace text only
 ##### replace damsm only
+###### compare hyperparameter
 ##### replace both
 ###### compare hyperparameter
 #### [[MLP Project final report experiments]]
