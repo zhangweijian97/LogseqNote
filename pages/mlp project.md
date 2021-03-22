@@ -432,4 +432,6 @@ $$
 ##### replace both
 ###### compare hyperparameter
 #### [[MLP Project final report experiments]]
+##### FID
+#####
 #### [[MLP Project final report related work]]
