@@ -450,7 +450,7 @@ $$
 ##### 最近有许多研究使用GAN来进行 从文本生成图像，例如 xxx。
 ###### （列出3，4个，一句话概括特点）
 ###### 同样写一个自然段
-##### 但是 从文本生成人脸
+##### 但是 从文本生成人脸 只有很少的研究
 #### [[MLP Project final report dataset and task]] [[MLP Project]]
 ##### Face2Text 1.0
 #### [[MLP Project final report methodology]] [[MLP Project]]
