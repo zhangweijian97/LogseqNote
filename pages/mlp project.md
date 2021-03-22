@@ -426,6 +426,8 @@ $$
 #### [[MLP Project final report methodology]]
 ##### Ls1, Ls2
 ##### text encoder, sentence feature
-#####
+##### replace text only
+##### replace damsm only
+##### replace both
 #### [[MLP Project final report experiments]]
 #### [[MLP Project final report related work]]
