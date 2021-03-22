@@ -463,7 +463,7 @@ $$
 ####### FTGAN基于
 ####### 目前最好的
 ##### 最近OpenAI提出了CLIP。介绍两句。CLIP有很好的text encoder和image encoder。因为用来做 从文本生成图片 的GAN，的基本架构包含text encoder，image encoder和image decoder。受到启发，我们选了attnGAN作为baseline，然后替换了对应部分。我们设计了3个varient的模型。分别替换了text encoder，image encoder，以及同时替换
-##### 通过定性分析和定量分析，我们发现新的CLIP-AttnGAN在FID
+##### 通过定性分析和定量分析，我们发现新的CLIP-AttnGAN在
 #### [[MLP Project final report dataset and task]] [[MLP Project]]
 ##### Face2Text 1.0
 #### [[MLP Project final report methodology]] [[MLP Project]]
