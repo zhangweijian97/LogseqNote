@@ -467,7 +467,8 @@ $$
 ##### 通过定性分析和定量分析，我们发现新的CLIP-AttnGAN在
 ##### 我们的贡献
 ###### 1. 提出了一个通用的提高GAN的性能的办法，用CLIP来替换GAN的对应部分。
-###### 2.
+###### 2. 我们在attnGAN上测试了这个方法，效果喜人
+###### 3.
 #### [[MLP Project final report dataset and task]] [[MLP Project]]
 ##### Face2Text 1.0
 #### [[MLP Project final report methodology]] [[MLP Project]]
