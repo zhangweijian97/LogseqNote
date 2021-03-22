@@ -432,6 +432,7 @@ $$
 ##### replace both
 ###### compare hyperparameter
 #### [[MLP Project final report experiments]]
+##### [[MLP评估方法收集统计]]
 ##### FID
 ##### FSD
 #### [[MLP Project final report related work]]
