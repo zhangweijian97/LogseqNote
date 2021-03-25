@@ -1,4 +1,4 @@
----
+﻿---
 title: MLP Project
 ---
 
@@ -422,6 +422,7 @@ $$
 ##### 句子长度问题，调整DAMSM参数，重新训练
 #### [[MLP project final report abstract]]
 #### [[MLP Project final report introduction]]
+#####
 #### [[MLP Project final report dataset and task]]
 #### [[MLP Project final report methodology]]
 ##### Ls1, Ls2

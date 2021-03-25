@@ -1,13 +1,21 @@
----
+﻿---
 title: MLP Project final report introduction
 ---
 
 ### 先介绍 从文本生成图像，以及这个技术的应用
 #### （资料待收集，看一下其他几个论文的对应部分）
+#### AttnGAN
+##### art generation
+##### computer-aided design
+##### multimodal learning and inference across vision and language
+##### [20, 18, 31, 19, 4, 29, 5, 1, 30]
 ### 然后解释 GAN 和 从文本生成图像 的关系
 #### 先说original GAN，缺点，无法控制生成的图像
+##### [[GAN Goodfellow 2014]]
 #### 然后cGAN，生成图片依赖于输入的标签
 #### 然后proGAN和stackGAN，生成高精度图片
+##### ProGAN
+#### 2016
 #### attnGAN，引入attention增强文本和图片sub-region的关系，能够生成细粒度的图片
 ### 然后讲到从文本生成人脸
 #### 先对比人脸和其他图像
