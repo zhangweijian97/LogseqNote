@@ -169,21 +169,21 @@ title: MLP Project
 ####### CLIP已经是很好的判别器，需要先训练生成器到非常好的程度，再训练判别器
 ####### 会影响生成器的adversarial loss，其中conditional loss替换为(未定)
 ##### 句子长度问题，调整DAMSM参数，重新训练
-#### 第三轮 每个
-#### [[MLP project final report abstract]]
-#### [[MLP Project final report introduction]]
-#### [[MLP Project final report dataset and task]]
-##### [[MLP评估方法收集统计]]
-###### FID
-###### FSD
-#### [[MLP Project final report methodology]]
-##### 草稿
-###### Ls1, Ls2
-###### text encoder, sentence feature
-###### replace text only
-###### replace damsm only
-####### compare hyperparameter
-###### replace both
-####### compare hyperparameter
-#### [[MLP Project final report experiments]]
-#### [[MLP Project final report related work]]
+#### 第三轮 每个小结分别准备
+##### [[MLP project final report abstract]]
+##### [[MLP Project final report introduction]]
+##### [[MLP Project final report dataset and task]]
+###### [[MLP评估方法收集统计]]
+####### FID
+####### FSD
+##### [[MLP Project final report methodology]]
+###### 草稿
+####### Ls1, Ls2
+####### text encoder, sentence feature
+####### replace text only
+####### replace damsm only
+######## compare hyperparameter
+####### replace both
+######## compare hyperparameter
+##### [[MLP Project final report experiments]]
+##### [[MLP Project final report related work]]
