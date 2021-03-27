@@ -157,6 +157,7 @@ title: MLP Project
 ###### [[CLIP OpenAI 2021]]
 ##### [[AttnGAN Xu 2018]]
 ##### [[TTF-HD Wang 2020 Faces la Carte]]
+##### [[FTGAN Chen 2019]]
 #### 第二轮
 ##### [[MLP Project final report related work]]
 #### 我们的模型
