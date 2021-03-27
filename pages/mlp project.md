@@ -171,16 +171,16 @@ title: MLP Project
 ##### 句子长度问题，调整DAMSM参数，重新训练
 #### [[MLP project final report abstract]]
 #### [[MLP Project final report introduction]]
-#####
 #### [[MLP Project final report dataset and task]]
 #### [[MLP Project final report methodology]]
-##### Ls1, Ls2
-##### text encoder, sentence feature
-##### replace text only
-##### replace damsm only
-###### compare hyperparameter
-##### replace both
-###### compare hyperparameter
+##### 草稿
+###### Ls1, Ls2
+###### text encoder, sentence feature
+###### replace text only
+###### replace damsm only
+####### compare hyperparameter
+###### replace both
+####### compare hyperparameter
 #### [[MLP Project final report experiments]]
 ##### [[MLP评估方法收集统计]]
 ##### FID
