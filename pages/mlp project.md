@@ -172,6 +172,10 @@ title: MLP Project
 #### [[MLP project final report abstract]]
 #### [[MLP Project final report introduction]]
 #### [[MLP Project final report dataset and task]]
+#####
+##### [[MLP评估方法收集统计]]
+###### FID
+###### FSD
 #### [[MLP Project final report methodology]]
 ##### 草稿
 ###### Ls1, Ls2
@@ -182,7 +186,4 @@ title: MLP Project
 ###### replace both
 ####### compare hyperparameter
 #### [[MLP Project final report experiments]]
-##### [[MLP评估方法收集统计]]
-##### FID
-##### FSD
 #### [[MLP Project final report related work]]
