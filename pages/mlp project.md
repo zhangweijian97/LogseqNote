@@ -191,4 +191,7 @@ title: MLP Project
 ##### abstract 完成
 ##### introduction 完成
 ##### dataset and task 完成
+##### methodology 完成
+##### experiment 队友负责
+##### related work
 ####
