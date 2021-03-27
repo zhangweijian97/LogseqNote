@@ -1,4 +1,4 @@
-﻿---
+---
 title: MLP Project
 ---
 
@@ -20,6 +20,7 @@ title: MLP Project
 ##### 论文地址：
 ###### https://arxiv.org/abs/2102.12092
 ### 评估方法
+#### [[MLP评估方法收集统计]]
 #### 两个方法
 ##### [[Inception Score]]
 ##### [[Fréchet Inception Distance]]
