@@ -155,6 +155,7 @@ title: MLP Project
 #### 第一轮 看论文 理解模型架构 了解相关工作 收集评估方法
 ##### 材料
 ###### [[CLIP OpenAI 2021]]
+##### [[AttnGAN Xu 2018]]
 ##### [[FTGAN Chen 2019]]
 ###### related work （甚至不讲t2f的相关工作？！）
 ####### text to image
