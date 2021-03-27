@@ -187,7 +187,7 @@ title: MLP Project
 ######## compare hyperparameter
 ##### [[MLP Project final report experiments]]
 ##### [[MLP Project final report related work]]
-#### 第四轮 去overleaf详写
+#### 第四轮 去 overleaf 扩写
 ##### abstract 完成
 ##### introduction 完成
 ##### dataset and task 完成
