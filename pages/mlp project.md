@@ -156,6 +156,7 @@ title: MLP Project
 ##### 材料
 ###### [[CLIP OpenAI 2021]]
 ##### [[AttnGAN Xu 2018]]
+##### [[TTF-HD Wang 2020 Faces la Carte]]
 ##### [[FTGAN Chen 2019]]
 ###### related work （甚至不讲t2f的相关工作？！）
 ####### text to image
