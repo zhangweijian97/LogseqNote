@@ -157,38 +157,6 @@ title: MLP Project
 ###### [[CLIP OpenAI 2021]]
 ##### [[AttnGAN Xu 2018]]
 ##### [[TTF-HD Wang 2020 Faces la Carte]]
-##### [[FTGAN Chen 2019]]
-###### related work （甚至不讲t2f的相关工作？！）
-####### text to image
-######## framework
-######### text encoder
-######### image decoder
-######## targets
-######### high quality
-######### matching given description
-######## research
-######### high quality
-########## Reed
-########## [[StackGAN Zhang 2016]]
-######### matching description
-########## Reed
-########## Hong
-########## Sharma
-########## Dong
-########## [[AttnGAN Xu 2018]]
-########## MirrorGAN Qiao
-########## Zhang
-####### face synthesis
-######## 主要目的是引出 synthesized face images by adding a condition vector 这句话
-###### 实验
-####### 数据集
-######## CUB
-######## 他们自己做的SCU-Text2face没开源
-####### 评估
-######## 直接放图片来对比
-######## FID
-######## FSD
-######## FSS
 #### 第二轮
 ##### [[MLP Project final report related work]]
 #### 我们的模型
