@@ -160,7 +160,7 @@ title: MLP Project
 ##### [[FTGAN Chen 2019]]
 #### 第二轮
 ##### [[MLP Project final report related work]]
-#### 我们的模型
+#### 小组讨论 我们的模型
 ##### variants
 ###### 替换text encoder
 ####### sentence feature
