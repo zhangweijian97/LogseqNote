@@ -3,8 +3,8 @@ title: CLIP OpenAI 2021
 ---
 
 ## 资源
+## 视频学习笔记
 ### [OpenAI CLIP: ConnectingText and Images (Paper Explained)](https://www.youtube.com/watch?v=T9XSU0pKX2E)
-## 学习笔记
 ### Paper Title:
 #### Learning Transferable Visual Models From Natural Language Supervision
 ### zero-shot classifier
@@ -31,4 +31,6 @@ title: CLIP OpenAI 2021
 ### 对比
 #### few-shot linear probes
 #### clip没训练都比few-shot linear probes的BiT-M的16个epoch好
-#### clip自己加上linear probe就更好了
+#### clip自己加上linear probe就更好
+## 论文笔记
+###
