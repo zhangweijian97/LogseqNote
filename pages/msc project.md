@@ -78,7 +78,7 @@ http://homepages.inf.ed.ac.uk/pseries/
 ####### 可以通过导师批准申请Eddie
 ####### https://www.wiki.ed.ac.uk/display/ResearchServices/Who+can+use+Eddie
 ##### 找新的论文？
-##### 和黄文禹一起学��
+##### 和黄文禹一起学
 ### MSc project 第二次会议 总结
 #### 会议上，Pan老师提出了一个研究问题，基于知识增强预训练模型，构建一个新的模型来引入地理数据，如城市名，餐厅位置，街道地址等。相关的数据集有Wikidata中的地理数据。还有一个后续研究方向，前面的那个模型如何提高 Question Answering 任务的表现。又布置了任务，一个是寻找更多知识增强预训练模型的论文，还有一个是看K-Adapter的代码并尝试运行
 #### 本周任务
