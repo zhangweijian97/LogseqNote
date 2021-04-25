@@ -24,9 +24,9 @@ $$V(s)=\frac{\sum_{v\in \mathcal{T}(s)}\rho_{t:T(t)-1}G_t}{|\mathcal{T}(s)|}$$
 ####
 $$V(s)=\frac{\sum_{v\in \mathcal{T}(s)}\rho_{t:T(t)-1}G_t}{\sum_{v\in \mathcal{T}(s)}\rho_{t:T(t)-1}}$$
 ### 增量的加权重要性采样
-####
+#### 
 $$V_{n+1}=V_n+\frac{W_n}{C_n}[G_n-V_n]$$
-####
+#### 
 $$C_{n+1}=C_n+W_{n+1}$$
 #### W是权重，可以是$W_i=\rho_{t_i:T(t_i)-1}$
 ## on-policy的增量计算v
