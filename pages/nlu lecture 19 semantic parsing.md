@@ -60,5 +60,10 @@ $p\left(y_{t} \mid y_{<t}, q\right)=\operatorname{softmax}\left(\mathbf{W}_{o} \
 ##### Provide **global** context to ﬁne meaning decoding. 全局背景
 #### Coarse-to-Fine Model
 #####
+$$
+p(y \mid x)=p(y \mid x, a) p(a \mid x)
+$$
+where $a=a_{1} \ldots a_{|a|}$ is an abstract sketch representing the meaning of $y$.
+#####
 #### Modeling Framework
 #### Training and Inference
