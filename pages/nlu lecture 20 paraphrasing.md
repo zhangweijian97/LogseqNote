@@ -42,6 +42,7 @@ $$
 $p\left(y_{t} \mid y_{<t}, \mathcal{G}^{D E}\right)=\sum_{k=1}^{K} p\left(g_{k}^{\mathcal{D} \mathcal{E}} \mid x\right) p\left(y_{t} \mid y_{<t}, g_{k}^{\mathcal{D} \mathcal{E}}\right)$
 $p\left(y_{t} \mid y_{<t}, \mathcal{G}^{F R}\right)=\sum_{k=1}^{K} p\left(g_{k}^{\mathcal{F R}} \mid x\right) p\left(y_{t} \mid y_{<t}, g_{k}^{\mathcal{F R}}\right)$
 ##### Then average distributions
-######
+###### $p\left(y_{t} \mid y_{<t}, \mathcal{G}^{D E}, \mathcal{G}^{F R}\right)=\lambda_{1} \sum_{k=1}^{K} p\left(g_{k}^{\mathcal{D} \mathcal{E}} \mid x\right) p\left(y_{t} \mid y_{<t}, g_{k}^{\mathcal{F R}}\right)+\lambda_{2} \sum_{k=1}^{K} p\left(g_{k}^{\mathcal{F R}} \mid x\right) p\left(y_{t} \mid y_{<t}, g_{k}^{\mathcal{F} \mathcal{R}}\right)$
+#####
 ### Sentence Compression
 ### Question Answering
