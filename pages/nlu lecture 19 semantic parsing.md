@@ -51,7 +51,7 @@ $p\left(y_{t} \mid y_{<t}, q\right)=\operatorname{softmax}\left(\mathbf{W}_{o} \
 ##### greedy/beam search
 ### Coarse-to-Fine
 #### 解决 Well-formedness Constraints
-#### 例子
+#### 例子 Coarse-to-Fine Decoding
 ##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502193650.png)
 #### Meaning Sketches
 #### Coarse-to-Fine Model
