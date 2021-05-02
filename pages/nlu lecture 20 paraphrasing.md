@@ -56,5 +56,7 @@ $p\left(y_{t} \mid y_{<t}, \mathcal{G}^{F R}\right)=\sum_{k=1}^{K} p\left(g_{k}^
 ####### Sentence compression
 ######## produces a summary of a single sentence by using less words, preserving the most important information, and remaining grammatical.
 ######## 用ParaNet，加上长度限制
+####### Length embedding (Kikuchi et al., 2016)
+########
 ### Sentence Compression
 ### Question Answering
