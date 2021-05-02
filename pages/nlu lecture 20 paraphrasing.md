@@ -18,6 +18,7 @@ title: NLU Lecture 20 Paraphrasing
 #### enriched with annotations for specific tasks(e.g, entailment Simplificatlon
 ####
 ### PPDB
+#### The Paraphrase Database
 ## 现在
 ### NMT and PARANET
 ### Sentence Compression
