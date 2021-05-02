@@ -56,3 +56,4 @@ $p\left(y_{t} \mid y_{<t}, q\right)=\operatorname{softmax}\left(\mathbf{W}_{o} \
 #### Meaning Sketches
 #### Coarse-to-Fine Model
 #### Modeling Framework
+#### Training and Inference
