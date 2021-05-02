@@ -16,7 +16,13 @@ title: NLU Lecture 19 Semantic Parsing
 ##### Well-formedness of Machine Language 格式严格
 ##### Linguistic Coverage，多（NL）对一
 #### 解决
-#####
+##### Structural Mismatches:
+###### neural encoder-decoder architecture for mapping natural language expressions to their logical forms.
+##### Well-formedness Constraints:
+###### coarse-to-ﬁne decoding algorithm generates well-formed meaning representations.
+##### Linguistic Coverage:
+###### query paraphrasing framework handles variation of natural language input.
+####
 ## Modeling
 ### Sequence-to-Sequence
 ### Coarse-to-Fine
