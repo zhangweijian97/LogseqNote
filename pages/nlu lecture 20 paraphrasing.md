@@ -32,6 +32,8 @@ $$
 p\left(x^{\prime} \mid \mathcal{G}_{x}\right)=\prod_{t=1}^{\left|x^{\prime}\right|} p\left(y_{t} \mid y_{<t}, \mathcal{G}_{x}\right)=\prod_{t=1}^{\left|x^{\prime}\right|} \sum_{k=1}^{K} p\left(g_{k} \mid x\right) p\left(y_{t} \mid y_{<t}, g_{k}\right)
 $$
 ##### **Late-weighted combination** (Firhat et al., 2016)
-###### 用两个encoder来编码轴句子
+###### Pivot sentences are encoded separately by two encoders 用两个encoder来编码轴句子
+###### At each time step, two decoders produce a probability distribution over all words, which are then combined (in the yellow square)
+###### From this combined distribution a word is chosen, which is then given as input to each decoder.
 ### Sentence Compression
 ### Question Answering
