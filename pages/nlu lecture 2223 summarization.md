@@ -6,4 +6,10 @@ title: NLU Lecture 2223 Summarization
 ### NLG
 ### 用处？
 ## Modeling Approach
-###
+### Conditional Lanquaqe Modeling
+### Task Definition
+### Sequence-to-sequence Attentional Mode
+## Evaluation
+### ROUGE Metric
+### Results
+## Discussion
