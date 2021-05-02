@@ -69,4 +69,4 @@ where $a_{<t}=a_{1} \cdots a_{t-1}$, and $y_{<t}=y_{1} \cdots y_{t-1} .$
 #### Modeling Framework
 ##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502194231.png)
 #### Training and Inference
-#####
+##### maximizes the log likelihood of the generated meaning representations given natural language expressions:
