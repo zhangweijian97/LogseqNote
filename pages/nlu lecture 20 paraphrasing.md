@@ -11,7 +11,8 @@ title: NLU Lecture 20 Paraphrasing
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502195245.png)
 ### Bilingual Pivoting
 #### 双语旋转（？）
-#### paraphrase是
+#### paraphrase是语言到自己的另一个表达，通常没有这样的数据。借用第三方（另一个语言）来中转
+####
 ### PPDB
 ## 现在
 ### NMT and PARANET
