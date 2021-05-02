@@ -26,6 +26,7 @@ title: NLU Lecture 20 Paraphrasing
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502200004.png)
 #### 复习 Encoder-Decoder with Attention
 #### ParaNet
+##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502200156.png)
 #####
 ### Sentence Compression
 ### Question Answering
