@@ -59,7 +59,7 @@ $p\left(y_{t} \mid y_{<t}, q\right)=\operatorname{softmax}\left(\mathbf{W}_{o} \
 ##### Explicit **sharing** of coarse structure which is the same for examples with same basic meaning. 同结构分享
 ##### Provide **global** context to ﬁne meaning decoding. 全局背景
 #### Coarse-to-Fine Model
-#####
+##### 
 $$
 p(y \mid x)=p(y \mid x, a) p(a \mid x)
 $$
