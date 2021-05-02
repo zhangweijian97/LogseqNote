@@ -87,3 +87,9 @@ $a^{\prime}$ and $y^{\prime}$ represent coarse- and fine-grained meaning candida
 #### Tasks: Natural Language to Source Code
 ##### D JANGO dataset (Oda et al., 2015).
 #### Tasks: Natural Language to SQL
+##### W IKI SQL dataset (Zhong et al., 2017), 80,654 questions and queries distributed across 24,241 tables from Wikipedia).
+### 评估
+#### Exact Match Accuracy
+##### proportion of input queries that are correctly parsed to their gold standard logical forms.
+#### Denotation Match Accuracy:
+##### proportion of correct denotations (answers that the logical forms give when executed against the knowledge base).
