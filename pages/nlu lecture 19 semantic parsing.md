@@ -81,4 +81,7 @@ $$
 \hat{a}=\underset{a^{\prime}}{\arg \max } p\left(a^{\prime} \mid x\right) \quad \hat{y}=\underset{y^{\prime}}{\arg \max } p\left(y^{\prime} \mid x, \hat{a}\right)
 $$
 $a^{\prime}$ and $y^{\prime}$ represent coarse- and fine-grained meaning candidates.
+### 论文
+#### Tasks: Natural Language to Logical Form
+##### G EO Q UERY and ATIS (Zettlemoyer and Collins, 2005; Kwiatkowski et al., 2011)
 ####
