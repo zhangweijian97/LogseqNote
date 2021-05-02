@@ -41,4 +41,5 @@ $p\left(y_{t} \mid y_{<t}, q\right)=\operatorname{softmax}\left(\mathbf{W}_{o} \
 ##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502193128.png)
 ##### $\begin{aligned} r_{t, k} & \propto \exp \left\{\mathbf{h}_{t}^{L} \cdot \mathbf{h}_{k}^{L}\right\} \\ \mathbf{h}_{t}^{a t t} &=\tanh \left(\mathbf{W}_{1} \mathbf{h}_{t}^{L}+\mathbf{W}_{2} \mathbf{c}_{t}\right) \\ p\left(y_{t} \mid y_{<t}, q\right) &=\operatorname{softmax}_{a_{t}}\left(\mathbf{W}_{o} \mathbf{h}_{t}^{a t t}\right) \end{aligned}$
 #### 训练
+##### 最大化
 ### Coarse-to-Fine
