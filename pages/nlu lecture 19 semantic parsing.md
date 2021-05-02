@@ -30,5 +30,6 @@ title: NLU Lecture 19 Semantic Parsing
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502192827.png)
 #### Encoder encodes natural language input q into a vector representation
 #### Decoder generates $y_{1}, \cdots, y_{|a|}$ conditioned on the encoding vector.
-####
+#### 模型细节
+#####
 ### Coarse-to-Fine
