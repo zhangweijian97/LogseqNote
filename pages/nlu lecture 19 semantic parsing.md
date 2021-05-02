@@ -10,7 +10,9 @@ title: NLU Lecture 19 Semantic Parsing
 ##### Logical Form
 ###### λx. ∃y. gender (MALE, x ) ∧ cast (TITANIC, x, y )
 ### Why the Task is Hard
-#### Machine language is different from NL string and its syntactic representation.
+#### Structural Mismatches
+##### Machine language is different from NL string and its syntactic representation.
+##### neural encoder-decoder architecture for mapping natural language expressions to their logical forms.
 #### Well-formedness of Machine Language 格式严格
 #### Linguistic Coverage，多（NL）对一
 ## Modeling
