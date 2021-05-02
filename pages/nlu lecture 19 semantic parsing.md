@@ -25,6 +25,7 @@ title: NLU Lecture 19 Semantic Parsing
 #### 其他挑战略
 ## Modeling
 ### Sequence-to-Sequence
+#### 解决 Structural Mismatches
 #### 模型大概
 ##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502192725.png)
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502192827.png)
@@ -49,3 +50,5 @@ $p\left(y_{t} \mid y_{<t}, q\right)=\operatorname{softmax}\left(\mathbf{W}_{o} \
 ##### Iterating over all possible a ′ s to obtain the optimal prediction is **impractical.**
 ##### greedy/beam search
 ### Coarse-to-Fine
+#### 解决 Well-formedness Constraints
+####
