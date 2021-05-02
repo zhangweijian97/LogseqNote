@@ -10,6 +10,7 @@ title: NLU Lecture 19 Semantic Parsing
 ##### Logical Form
 ###### λx. ∃y. gender (MALE, x ) ∧ cast (TITANIC, x, y )
 ### Why the Task is Hard
+#### Machine language is different from NL string and its syntactic representation.
 ## Modeling
 ### Sequence-to-Sequence
 ### Coarse-to-Fine
