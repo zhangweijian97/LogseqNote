@@ -75,4 +75,9 @@ $$
 \max \sum_{(x, a, y) \in \mathcal{D}} \log p(y \mid x, a)+\log p(a \mid x)
 $$
 $\mathcal{D}$ are training pairs, $x$ input, a sketch, and $y$ meaning representation
-#####
+##### predict a and y via greedy search
+###### 
+$$
+\hat{a}=\underset{a^{\prime}}{\arg \max } p\left(a^{\prime} \mid x\right) \quad \hat{y}=\underset{y^{\prime}}{\arg \max } p\left(y^{\prime} \mid x, \hat{a}\right)
+$$
+$a^{\prime}$ and $y^{\prime}$ represent coarse- and fine-grained meaning candidates.
