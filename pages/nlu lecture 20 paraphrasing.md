@@ -7,4 +7,6 @@ title: NLU Lecture 20 Paraphrasing
 ### Bilingual Pivoting
 ### PPDB
 ## 现在
-### NMT
+### NMT and PARANET
+### Sentence Compression
+### Question Answering
