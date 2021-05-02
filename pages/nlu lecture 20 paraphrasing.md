@@ -51,5 +51,6 @@ $p\left(y_{t} \mid y_{<t}, \mathcal{G}^{F R}\right)=\sum_{k=1}^{K} p\left(g_{k}^
 ####### (Pavlick et al. 2015)
 ###### How Good are the Paraphrases?
 ###### How Good are the Embeddings?
+###### Generation
 ### Sentence Compression
 ### Question Answering
