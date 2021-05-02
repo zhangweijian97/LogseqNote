@@ -12,7 +12,7 @@ title: NLU Lecture 19 Semantic Parsing
 ### Why the Task is Hard
 #### Machine language is different from NL string and its syntactic representation.
 #### Well-formedness of Machine Language 格式严格
-#### Linguistic Coverage，多个表达
+#### Linguistic Coverage，多（NL）对一
 ## Modeling
 ### Sequence-to-Sequence
 ### Coarse-to-Fine
