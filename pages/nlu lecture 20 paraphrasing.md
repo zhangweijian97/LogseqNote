@@ -24,5 +24,6 @@ title: NLU Lecture 20 Paraphrasing
 #### 当前研究（表格图）
 ##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502195840.png)
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502200004.png)
+####
 ### Sentence Compression
 ### Question Answering
