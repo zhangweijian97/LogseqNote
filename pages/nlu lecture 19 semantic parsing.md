@@ -22,7 +22,7 @@ title: NLU Lecture 19 Semantic Parsing
 ###### coarse-to-ﬁne decoding algorithm generates well-formed meaning representations.
 ##### Linguistic Coverage:
 ###### query paraphrasing framework handles variation of natural language input.
-####
+#### 其他挑战略
 ## Modeling
 ### Sequence-to-Sequence
 ### Coarse-to-Fine
