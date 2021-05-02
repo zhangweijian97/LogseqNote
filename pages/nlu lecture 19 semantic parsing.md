@@ -37,5 +37,8 @@ $\mathbf{h}_{t}^{0}=\mathbf{W}_{q} \mathbf{e}\left(x_{t}\right)$
 $\mathbf{h}_{t}^{0}=\mathbf{W}_{a} \mathbf{e}\left(y_{t-1}\right)$
 $p\left(y_{t} \mid y_{<t}, q\right)=\operatorname{softmax}\left(\mathbf{W}_{o} \mathbf{h}_{t}^{L}\right)^{\top} \mathbf{e}\left(y_{t}\right)$
 #### 注意力模型
+##### Bahdanau et al., (2015), Luong et al., (2015b), Xu et al., (2015)
+##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502193128.png)
+##### $\begin{aligned} r_{t, k} & \propto \exp \left\{\mathbf{h}_{t}^{L} \cdot \mathbf{h}_{k}^{L}\right\} \\ \mathbf{h}_{t}^{a t t} &=\tanh \left(\mathbf{W}_{1} \mathbf{h}_{t}^{L}+\mathbf{W}_{2} \mathbf{c}_{t}\right) \\ p\left(y_{t} \mid y_{<t}, q\right) &=\operatorname{softmax}_{a_{t}}\left(\mathbf{W}_{o} \mathbf{h}_{t}^{a t t}\right) \end{aligned}$
 #####
 ### Coarse-to-Fine
