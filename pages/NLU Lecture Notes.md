@@ -20,5 +20,8 @@ title: NLU Lecture Notes
 ### [[NLU Lecture 16 Neural Parsing]]
 ### [[NLU Lecture 17 Recurrent Neural Network Grammars]]
 ### [[NLU Lecture 18 Unsupervised Parsing]]
-### NLU Lecture 19
+### NLU Lecture 19 Semantic Parsing
+### NLU Lecture 20 Paraphrasing
+### NLU Lecture 21 Applications of Paraphrasing
+### NLU Lecture 22Summarization
 ###
