@@ -38,6 +38,10 @@ $$
 ###### From this combined distribution a word is chosen, which is then given as input to each decoder.
 ##### Pivot over sentences from multiple language pairs
 ##### Translate $x$ into $K$ -best German $\mathcal{G}^{\mathcal{D} \mathcal{E}}$ and French $\mathcal{G}^{F R}$ sentences
+###### $P\left(x^{\prime} \mid \mathcal{G}^{D E}, \mathcal{G}^{F R}\right)=\prod_{t=1}^{\left|x^{\prime}\right|} p\left(y_{t} \mid y_{<t}, \mathcal{G}^{D E}, \mathcal{G}^{F R}\right)$
+$p\left(y_{t} \mid y_{<t}, \mathcal{G}^{D E}\right)=\sum_{k=1}^{K} p\left(g_{k}^{\mathcal{D} \mathcal{E}} \mid x\right) p\left(y_{t} \mid y_{<t}, g_{k}^{\mathcal{D} \mathcal{E}}\right)$
+$p\left(y_{t} \mid y_{<t}, \mathcal{G}^{F R}\right)=\sum_{k=1}^{K} p\left(g_{k}^{\mathcal{F R}} \mid x\right) p\left(y_{t} \mid y_{<t}, g_{k}^{\mathcal{F R}}\right)$
+##### Then average distributions
 ######
 ### Sentence Compression
 ### Question Answering
