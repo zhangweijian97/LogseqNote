@@ -16,9 +16,9 @@ title: NLU Lecture 20 Paraphrasing
 #### paraphrases extracted from phrase table of SMT system
 #### lexical and syntactic (aka rules)
 #### enriched with annotations for specific tasks(e.g, entailment Simplificatlon
-####
 ### PPDB
 #### The Paraphrase Database
+#### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502195759.png)
 ## 现在
 ### NMT and PARANET
 ### Sentence Compression
