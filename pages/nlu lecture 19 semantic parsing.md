@@ -66,6 +66,6 @@ $$
 where $a=a_{1} \ldots a_{|a|}$ is an abstract sketch representing the meaning of $y$.
 ##### $p(y \mid x, a)=\prod_{t=1}^{|y|} p\left(y_{t} \mid y_{<t}, x, a\right) \quad p(a \mid x)=\prod_{t=1}^{|a|} p\left(a_{t} \mid a_{<t}, x\right)$
 where $a_{<t}=a_{1} \cdots a_{t-1}$, and $y_{<t}=y_{1} \cdots y_{t-1} .$
-#####
 #### Modeling Framework
+#####
 #### Training and Inference
