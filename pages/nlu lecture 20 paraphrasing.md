@@ -26,23 +26,26 @@ title: NLU Lecture 20 Paraphrasing
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502200004.png)
 #### 复习 Encoder-Decoder with Attention
 #### ParaNet
-##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502200156.png)
-##### Source is translated into $K$ -best list of foreign pivots $\mathcal{G}_{x}=\left\{g_{1}, \ldots, g_{K}\right\}$.
+##### 简要模型
+###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502200156.png)
+###### Source is translated into $K$ -best list of foreign pivots $\mathcal{G}_{x}=\left\{g_{1}, \ldots, g_{K}\right\}$.
 $$
 p\left(x^{\prime} \mid \mathcal{G}_{x}\right)=\prod_{t=1}^{\left|x^{\prime}\right|} p\left(y_{t} \mid y_{<t}, \mathcal{G}_{x}\right)=\prod_{t=1}^{\left|x^{\prime}\right|} \sum_{k=1}^{K} p\left(g_{k} \mid x\right) p\left(y_{t} \mid y_{<t}, g_{k}\right)
 $$
-##### **Late-weighted combination** (Firhat et al., 2016)
-###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502200453.png)
-###### Pivot sentences are encoded separately by two encoders 用两个encoder来编码轴句子
-###### At each time step, two decoders produce a probability distribution over all words, which are then combined (in the yellow square)
-###### From this combined distribution a word is chosen, which is then given as input to each decoder.
-##### Pivot over sentences from multiple language pairs
-##### Translate $x$ into $K$ -best German $\mathcal{G}^{\mathcal{D} \mathcal{E}}$ and French $\mathcal{G}^{F R}$ sentences
-###### $P\left(x^{\prime} \mid \mathcal{G}^{D E}, \mathcal{G}^{F R}\right)=\prod_{t=1}^{\left|x^{\prime}\right|} p\left(y_{t} \mid y_{<t}, \mathcal{G}^{D E}, \mathcal{G}^{F R}\right)$
+##### 多轴
+###### **Late-weighted combination** (Firhat et al., 2016)
+####### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502200453.png)
+####### Pivot sentences are encoded separately by two encoders 用两个encoder来编码轴句子
+####### At each time step, two decoders produce a probability distribution over all words, which are then combined (in the yellow square)
+####### From this combined distribution a word is chosen, which is then given as input to each decoder.
+##### 多语
+###### Pivot over sentences from multiple language pairs
+###### Translate $x$ into $K$ -best German $\mathcal{G}^{\mathcal{D} \mathcal{E}}$ and French $\mathcal{G}^{F R}$ sentences
+####### $P\left(x^{\prime} \mid \mathcal{G}^{D E}, \mathcal{G}^{F R}\right)=\prod_{t=1}^{\left|x^{\prime}\right|} p\left(y_{t} \mid y_{<t}, \mathcal{G}^{D E}, \mathcal{G}^{F R}\right)$
 $p\left(y_{t} \mid y_{<t}, \mathcal{G}^{D E}\right)=\sum_{k=1}^{K} p\left(g_{k}^{\mathcal{D} \mathcal{E}} \mid x\right) p\left(y_{t} \mid y_{<t}, g_{k}^{\mathcal{D} \mathcal{E}}\right)$
 $p\left(y_{t} \mid y_{<t}, \mathcal{G}^{F R}\right)=\sum_{k=1}^{K} p\left(g_{k}^{\mathcal{F R}} \mid x\right) p\left(y_{t} \mid y_{<t}, g_{k}^{\mathcal{F R}}\right)$
-##### Then average distributions
-###### $p\left(y_{t} \mid y_{<t}, \mathcal{G}^{D E}, \mathcal{G}^{F R}\right)=\lambda_{1} \sum_{k=1}^{K} p\left(g_{k}^{\mathcal{D} \mathcal{E}} \mid x\right) p\left(y_{t} \mid y_{<t}, g_{k}^{\mathcal{F R}}\right)+\lambda_{2} \sum_{k=1}^{K} p\left(g_{k}^{\mathcal{F R}} \mid x\right) p\left(y_{t} \mid y_{<t}, g_{k}^{\mathcal{F} \mathcal{R}}\right)$
+###### Then average distributions
+####### $p\left(y_{t} \mid y_{<t}, \mathcal{G}^{D E}, \mathcal{G}^{F R}\right)=\lambda_{1} \sum_{k=1}^{K} p\left(g_{k}^{\mathcal{D} \mathcal{E}} \mid x\right) p\left(y_{t} \mid y_{<t}, g_{k}^{\mathcal{F R}}\right)+\lambda_{2} \sum_{k=1}^{K} p\left(g_{k}^{\mathcal{F R}} \mid x\right) p\left(y_{t} \mid y_{<t}, g_{k}^{\mathcal{F} \mathcal{R}}\right)$
 #####
 ### Sentence Compression
 ### Question Answering
