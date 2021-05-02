@@ -36,5 +36,6 @@ title: NLU Lecture 19 Semantic Parsing
 $\mathbf{h}_{t}^{0}=\mathbf{W}_{q} \mathbf{e}\left(x_{t}\right)$
 $\mathbf{h}_{t}^{0}=\mathbf{W}_{a} \mathbf{e}\left(y_{t-1}\right)$
 $p\left(y_{t} \mid y_{<t}, q\right)=\operatorname{softmax}\left(\mathbf{W}_{o} \mathbf{h}_{t}^{L}\right)^{\top} \mathbf{e}\left(y_{t}\right)$
+#### 注意力模型
 #####
 ### Coarse-to-Fine
