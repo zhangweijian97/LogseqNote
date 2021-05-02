@@ -45,4 +45,6 @@ $p\left(y_{t} \mid y_{<t}, q\right)=\operatorname{softmax}\left(\mathbf{W}_{o} \
 ###### $\max \sum_{(q, a) \in \mathcal{D}} \log p(a \mid q)$
 #### 测试 test
 ##### predict the logical form for an input utterance q by:
+###### $\hat{a}=\underset{a^{\prime}}{\arg \max } p\left(a^{\prime} \mid q\right)$
+#####
 ### Coarse-to-Fine
