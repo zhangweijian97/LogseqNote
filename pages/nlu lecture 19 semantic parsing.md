@@ -47,5 +47,5 @@ $p\left(y_{t} \mid y_{<t}, q\right)=\operatorname{softmax}\left(\mathbf{W}_{o} \
 ##### predict the logical form for an input utterance q by:
 ###### $\hat{a}=\underset{a^{\prime}}{\arg \max } p\left(a^{\prime} \mid q\right)$
 ##### Iterating over all possible a ′ s to obtain the optimal prediction is **impractical.**
-#####
+##### greedy/beam search
 ### Coarse-to-Fine
