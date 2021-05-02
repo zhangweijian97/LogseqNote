@@ -10,6 +10,7 @@ title: NLU Lecture 20 Paraphrasing
 ### 历史
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502195245.png)
 ### Bilingual Pivoting
+#### 双语透视（？）
 ####
 ### PPDB
 ## 现在
