@@ -72,3 +72,4 @@ $H_{q}$ is the set of paraphrases for question $q ; \psi, \theta$ parameters of 
 #### 测试
 ##### $\hat{a}=\underset{a^{\prime} \in C_{q}}{\arg \max } p\left(a^{\prime} \mid q\right)$
 #### Paraphrase Model
+####
