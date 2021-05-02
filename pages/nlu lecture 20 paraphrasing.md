@@ -36,6 +36,7 @@ $$
 ###### Pivot sentences are encoded separately by two encoders 用两个encoder来编码轴句子
 ###### At each time step, two decoders produce a probability distribution over all words, which are then combined (in the yellow square)
 ###### From this combined distribution a word is chosen, which is then given as input to each decoder.
+##### Pivot over sentences from multiple language pairs Translate $x$ into $K$ -best German $\mathcal{G}^{\mathcal{D} \mathcal{E}}$ and French $\mathcal{G}^{F R}$ sentences
 #####
 ### Sentence Compression
 ### Question Answering
