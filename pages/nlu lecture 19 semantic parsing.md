@@ -31,5 +31,10 @@ title: NLU Lecture 19 Semantic Parsing
 #### Encoder encodes natural language input q into a vector representation
 #### Decoder generates $y_{1}, \cdots, y_{|a|}$ conditioned on the encoding vector.
 #### 模型细节
+##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502193043.png)
+##### $\mathbf{h}_{t}^{\prime}=\operatorname{LSTM}\left(\mathbf{h}_{t-1}^{\prime}, \mathbf{h}_{t}^{\prime-1}\right)$
+$\mathbf{h}_{t}^{0}=\mathbf{W}_{q} \mathbf{e}\left(x_{t}\right)$
+$\mathbf{h}_{t}^{0}=\mathbf{W}_{a} \mathbf{e}\left(y_{t-1}\right)$
+$p\left(y_{t} \mid y_{<t}, q\right)=\operatorname{softmax}\left(\mathbf{W}_{o} \mathbf{h}_{t}^{L}\right)^{\top} \mathbf{e}\left(y_{t}\right)$
 #####
 ### Coarse-to-Fine
