@@ -7,6 +7,8 @@ title: NLU Lecture 20 Paraphrasing
 ### 中文翻译：复述
 ### 有很多应用（略）
 ## 过去
+### 历史
+####
 ### Bilingual Pivoting
 ### PPDB
 ## 现在
