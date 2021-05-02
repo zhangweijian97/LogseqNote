@@ -14,7 +14,8 @@ title: NLU Lecture 20 Paraphrasing
 #### paraphrase是语言到自己的另一个表达，通常没有这样的数据。借用第三方（另一个语言）来中转
 #### $P\left(e_{2} \mid e_{1}\right)=\sum_{F} P\left(e_{2} \mid f\right) P\left(f \mid e_{1}\right)$
 #### paraphrases extracted from phrase table of SMT system
-#### lexical and syntactic (aka rules) enriched with annotations for specific tasks(e.g, entailment Simplificatlon
+#### lexical and syntactic (aka rules)
+#### enriched with annotations for specific tasks(e.g, entailment Simplificatlon
 ####
 ### PPDB
 ## 现在
