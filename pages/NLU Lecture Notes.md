@@ -23,5 +23,6 @@ title: NLU Lecture Notes
 ### NLU Lecture 19 Semantic Parsing
 ### NLU Lecture 20 Paraphrasing
 ### NLU Lecture 21 Applications of Paraphrasing
-### NLU Lecture 22Summarization
+### NLU Lecture 22 Summarization 1
+### NLU Lecture 23
 ###
