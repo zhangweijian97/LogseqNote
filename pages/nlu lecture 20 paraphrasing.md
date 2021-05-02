@@ -31,6 +31,7 @@ title: NLU Lecture 20 Paraphrasing
 $$
 p\left(x^{\prime} \mid \mathcal{G}_{x}\right)=\prod_{t=1}^{\left|x^{\prime}\right|} p\left(y_{t} \mid y_{<t}, \mathcal{G}_{x}\right)=\prod_{t=1}^{\left|x^{\prime}\right|} \sum_{k=1}^{K} p\left(g_{k} \mid x\right) p\left(y_{t} \mid y_{<t}, g_{k}\right)
 $$
+##### **Late-weighted combination** (Firhat et al., 2016)
 #####
 ### Sentence Compression
 ### Question Answering
