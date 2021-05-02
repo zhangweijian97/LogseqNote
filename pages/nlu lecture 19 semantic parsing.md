@@ -55,7 +55,7 @@ $p\left(y_{t} \mid y_{<t}, q\right)=\operatorname{softmax}\left(\mathbf{W}_{o} \
 ##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502193650.png)
 #### Meaning Sketches
 ##### **Disentangle** high-level from low-level semantics; different levels of granularity 粒度.
-##### More **compact** meaning representation (length: 21.1 → 9.2 on ATIS).
+##### More **compact** 紧凑 meaning representation (length: 21.1 → 9.2 on ATIS).
 ##### Explicit sharing of coarse structure which is the same for examples with same basic meaning.
 ##### Provide global context to ﬁne meaning decoding.
 #### Coarse-to-Fine Model
