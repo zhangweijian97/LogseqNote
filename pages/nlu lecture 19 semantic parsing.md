@@ -43,5 +43,6 @@ $p\left(y_{t} \mid y_{<t}, q\right)=\operatorname{softmax}\left(\mathbf{W}_{o} \
 #### 训练 training
 ##### maximizes likelihood of logical forms given natural language input:
 ###### $\max \sum_{(q, a) \in \mathcal{D}} \log p(a \mid q)$
-####
+#### 测试 test
+#####
 ### Coarse-to-Fine
