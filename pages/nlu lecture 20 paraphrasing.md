@@ -20,6 +20,6 @@ title: NLU Lecture 20 Paraphrasing
 #### The Paraphrase Database
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502195759.png)
 ## 现在
-### NMT and PARANET
+### NMT (Neural Machine Translation) and PARANET
 ### Sentence Compression
 ### Question Answering
