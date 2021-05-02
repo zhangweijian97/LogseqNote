@@ -63,3 +63,11 @@ $p\left(y_{t} \mid y_{<t}, \mathcal{G}^{F R}\right)=\sum_{k=1}^{K} p\left(g_{k}^
 #### A New Solution: train paraphrase model jointly with QA-model for end tasks.
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502201557.png)
 ####
+$$
+p(a \mid q)=\sum_{q^{\prime} \in H_{q} \cup\{q\}} \underbrace{p_{\psi}\left(a \mid q^{\prime}\right)}_{\text {QA Model }} \underbrace{p_{\theta}\left(q^{\prime} \mid q\right)}_{\text {Paraphrase Model }}
+$$
+$H_{q}$ is the set of paraphrases for question $q ; \psi, \theta$ parameters of $Q A$ and paraphrase scoring model.
+#### 训练
+##### $\max \sum_{(q, a) \in \mathcal{D}} \log p(a \mid q)$
+#### 测试
+#####
