@@ -21,7 +21,8 @@ title: NLU Lecture 20 Paraphrasing
 #### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502195759.png)
 ## 现在
 ### NMT (Neural Machine Translation) and PARANET
-#### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502195840.png)
+#### 当前研究（表格图）
+##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210502195840.png)
 ####
 ### Sentence Compression
 ### Question Answering
