@@ -57,4 +57,11 @@ title: DME mini-project
 ####
 ## 成绩
 ### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210519183115.png)
-###
+### count    202.000000
+mean      65.505433
+std        6.461867
+min       29.250000
+25%       61.468750
+50%       65.562500
+75%       69.743750
+max       84.325000
