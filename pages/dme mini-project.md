@@ -56,4 +56,5 @@ title: DME mini-project
 ### Conclusions
 ####
 ## 成绩
+### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210519183115.png)
 ###
