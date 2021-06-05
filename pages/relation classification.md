@@ -2,6 +2,6 @@
 title: Relation Classification
 ---
 
-## Benchmark
-### [[TACRED]]
-### [[FewRel]]
+- Benchmark
+	- [[TACRED]]
+	- [[FewRel]]

@@ -1,1 +1,1 @@
-# LogseqNote
+- LogseqNote

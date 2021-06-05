@@ -2,24 +2,24 @@
 title: NLU Lecture 13 Ethics in NLP
 ---
 
-### 语言真正相关的是人，而不是单词
-### 这节课主要关于NLP的社会影响
-### The social impact of NLP
-#### benefits
-##### Efficiency
-###### for individuals and institutions trying to understand and summarize information in many languages
-##### Personalization
-###### for users, e.g. through digital assistants, tutoring agents, and other services.
-##### Human understanding
-###### of the language faculty and its social use-e.g. through use in computational psycholinguistics and computational sociolinguistics.
-#### **How can my system harm people?**
-#### Who is aﬀected
-##### language data
-#### 阿拉伯例子
-#### possible harms
-##### Harms to **fairness and justice**: different populations have different levels of access to benefits, and are subject to different degrees of harm
-##### Note: Our goal is not to balance benefits and harm! We want to have as much benefit as possible, with as few harms as possible. When benefits accrue mostly to the powerful, and harms happen mainly to the powerless, this increases social inequity.
-##### Harms to **privacy and security**: data aggregation and inference can lead to many types of harm to individuals
-##### Harms to **transparency and autonomy**: Deep learning systems cannot explain outcomes, and individuals may not be able to challenge outcomes that harm them.
-##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223144701.png)
-####
+	- 语言真正相关的是人，而不是单词
+	- 这节课主要关于NLP的社会影响
+	- The social impact of NLP
+		- benefits
+			- Efficiency
+				- for individuals and institutions trying to understand and summarize information in many languages
+			- Personalization
+				- for users, e.g. through digital assistants, tutoring agents, and other services.
+			- Human understanding
+				- of the language faculty and its social use-e.g. through use in computational psycholinguistics and computational sociolinguistics.
+		- **How can my system harm people?**
+		- Who is aﬀected
+			- language data
+		- 阿拉伯例子
+		- possible harms
+			- Harms to **fairness and justice**: different populations have different levels of access to benefits, and are subject to different degrees of harm
+			- Note: Our goal is not to balance benefits and harm! We want to have as much benefit as possible, with as few harms as possible. When benefits accrue mostly to the powerful, and harms happen mainly to the powerless, this increases social inequity.
+			- Harms to **privacy and security**: data aggregation and inference can lead to many types of harm to individuals
+			- Harms to **transparency and autonomy**: Deep learning systems cannot explain outcomes, and individuals may not be able to challenge outcomes that harm them.
+			- ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223144701.png)
+		-

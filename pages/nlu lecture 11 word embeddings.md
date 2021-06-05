@@ -2,69 +2,69 @@
 title: NLU Lecture 11 Word Embeddings
 ---
 
-### Recall Lecture 5, n-gram probabilities:
-#### {{embed ((((6033f4e0-afdc-4f7b-8097-f76d3ee3dd20))))}}
-#### C 和 word embedding 最相关
-### Recall Lecture 6, RNN
-#### drop Markov assumption
-#### {{embed ((60341335-7dab-4af4-8418-3f90ce1af87a)) }}
-### 引入
-#### 隐藏层是其输入的表示
-#### one-hot encoding是一种 word embedding
-#### 和迁移学习的关系？
-### Pre-training and Finetuning
-#### Feature Extraction
-##### VGG-16
-###### architecture
-####### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222203652.png){:height 324, :width 509}
-###### take the output of the last layer (here: fc8) as a feature vector.
-#### **Pre-training**: train a generic source model (e.g., VGG-16) on a standard, large dataset (e.g., ImageNet).
-#### **Fine-tuning**: then take the resulting model, keep its parameters, and replace the output layer to suit the new task. Now train this target model on the dataset for the new task.
-##### Transfer learning by ﬁne-tuning.
-##### truncate the last layer
-#### **weight freezing**: only finetune a handful of final layers, you keep the other ones fixed
-##### Finetuning without weight freezing is normally too slow.
-#### **source model** is the neural language model (NLM)
-#### **target model** is often very diﬀerent from the NLM
-### Word Embeddings
-#### word embeddings as the input representations for a new task, then we're doing feature extraction.
-#### contextualised word embeddings
-##### 原来每个单词自己编码成向量，比如word2vec
-##### 上下文词嵌入则是先过一层，把获得单词上下文，再对每个单词输出一个向量
-#### Overview
-##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222205625.png)
-##### Fast Text挺好的
-##### 之后会细讲Elmo，GPT，BERT
-##### Static Word Embeddings
-###### fixed vector to each word
-###### used for feature extration
-###### not designd for fine-tuning，但是也能用
-##### Contextualised (or Dynamic) Word Embeddings
-###### a vector to a word that depends on its context
-#### Static Word Embeddings
-##### Word2Vec
-###### architecture
-####### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222210337.png){:height 324, :width 253}
-###### Has only a single, linear hidden layer.
-##### Word2Vec: Skipgram
-###### architecture
-####### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222210620.png){:height 320, :width 234}
-###### uses the current word to predict the context words.
-###### Levy and Goldberg ( 2014 )
-###### word $w \in W$, vector $v_w \in \mathbb{R}^d$
-###### context $c \in C$, vector $v_c \in \mathbb{R}^d$
-###### $W$ word vocabulary, $C$ context vocabulary, $d$ embedding dimensionality
-###### Vector components are **latent** ( parameters to be learned )
-###### 目标函数
-#######
-$$\underset{\theta}{\operatorname{argmax}} \prod_{(w, c) \in D} p(c \mid w ; \theta)$$
-###### basic skipgram formulation
-#######
-$$
-p(c \mid w ; \theta)=\frac{\exp \left(v_{c} \cdot v_{w}\right)}{\sum_{c^{\prime} \in C} \exp \left(v_{c^{\prime}} \cdot v_{w}\right)}
-$$
-####### 但分母没办法计算
-###### Traning，略
-#### Contextualised (or Dynamic) Word Embeddings
-####### 但分母没办法计算，解决办法是Negative Sampling
-###### Negative Sampling
+	- Recall Lecture 5, n-gram probabilities:
+		- {{embed ((((6033f4e0-afdc-4f7b-8097-f76d3ee3dd20))))}}
+		- C 和 word embedding 最相关
+	- Recall Lecture 6, RNN
+		- drop Markov assumption
+		- {{embed ((60341335-7dab-4af4-8418-3f90ce1af87a)) }}
+	- 引入
+		- 隐藏层是其输入的表示
+		- one-hot encoding是一种 word embedding
+		- 和迁移学习的关系？
+	- Pre-training and Finetuning
+		- Feature Extraction
+			- VGG-16
+				- architecture
+					- ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222203652.png){:height 324, :width 509}
+				- take the output of the last layer (here: fc8) as a feature vector.
+		- **Pre-training**: train a generic source model (e.g., VGG-16) on a standard, large dataset (e.g., ImageNet).
+		- **Fine-tuning**: then take the resulting model, keep its parameters, and replace the output layer to suit the new task. Now train this target model on the dataset for the new task.
+			- Transfer learning by ﬁne-tuning.
+			- truncate the last layer
+		- **weight freezing**: only finetune a handful of final layers, you keep the other ones fixed
+			- Finetuning without weight freezing is normally too slow.
+		- **source model** is the neural language model (NLM)
+		- **target model** is often very diﬀerent from the NLM
+	- Word Embeddings
+		- word embeddings as the input representations for a new task, then we're doing feature extraction.
+		- contextualised word embeddings
+			- 原来每个单词自己编码成向量，比如word2vec
+			- 上下文词嵌入则是先过一层，把获得单词上下文，再对每个单词输出一个向量
+		- Overview
+			- ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222205625.png)
+			- Fast Text挺好的
+			- 之后会细讲Elmo，GPT，BERT
+			- Static Word Embeddings
+				- fixed vector to each word
+				- used for feature extration
+				- not designd for fine-tuning，但是也能用
+			- Contextualised (or Dynamic) Word Embeddings
+				- a vector to a word that depends on its context
+		- Static Word Embeddings
+			- Word2Vec
+				- architecture
+					- ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222210337.png){:height 324, :width 253}
+				- Has only a single, linear hidden layer.
+			- Word2Vec: Skipgram
+				- architecture
+					- ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222210620.png){:height 320, :width 234}
+				- uses the current word to predict the context words.
+				- Levy and Goldberg ( 2014 )
+				- word $w \in W$, vector $v_w \in \mathbb{R}^d$
+				- context $c \in C$, vector $v_c \in \mathbb{R}^d$
+				- $W$ word vocabulary, $C$ context vocabulary, $d$ embedding dimensionality
+				- Vector components are **latent** ( parameters to be learned )
+				- 目标函数
+					-
+					  $$\underset{\theta}{\operatorname{argmax}} \prod_{(w, c) \in D} p(c \mid w ; \theta)$$
+				- basic skipgram formulation
+					-
+					  $$
+					  p(c \mid w ; \theta)=\frac{\exp \left(v_{c} \cdot v_{w}\right)}{\sum_{c^{\prime} \in C} \exp \left(v_{c^{\prime}} \cdot v_{w}\right)}
+					  $$
+					- 但分母没办法计算
+				- Traning，略
+		- Contextualised (or Dynamic) Word Embeddings
+					- 但分母没办法计算，解决办法是Negative Sampling
+				- Negative Sampling

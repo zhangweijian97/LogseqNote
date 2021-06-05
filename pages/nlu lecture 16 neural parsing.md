@@ -2,86 +2,84 @@
 title: NLU Lecture 16 Neural Parsing
 ---
 
-### 复习
-#### ((603454d6-c59f-4b54-b1c0-ae31e4fa5334))
-#### 输入输出都是符号序列
-### Reading: Vinyals et al. ( 2015 )
-#### 后面的三个部分都来自这篇论文。最后一个部分不是
-### Neural Parsing
-#### Parsing is the task of turning a sequence of words into a syntax tree:
-##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223200644.png){:height 218, :width 261}
-#### 这里的输出是树
-#### 可以 **linearize**
-##### (S (NP (Pro You)) (VP (V saw ) (NP (Det a) (N man ) (PP (P with) (Det a) (N telescope))))).
-#### 删掉单词，化简
-##### (S (NP Pro) (VP V (NP Det N (PP P Det N))))
-#### 标记右括号
-##### $(S ~(NP ~Pro)_{NP} (VP~ V (NP~ Det~ N (PP ~P~ Det~ N)_{PP} )_{NP} )_{VP} )_{S}$
-#### An Encoder-Decoder for Parsing
-##### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223201250.png){:height 276, :width 375}
-#### 增加性能的方法
-##### EOS (end of sequence)
-##### 反转输入
-##### 更深的网络
-##### 加注意力
-##### 用预训练词嵌入模型
-##### Vinyals et al. (2015)
-###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223201534.png)
-### Potential Problems
-#### 括号并不能完全配对上
-##### 手动加括号
-#### 如何配对词和预测的树？
-##### 用PoS配对
-#### 输出的长度更长
-##### 并不是问题
-#### 如何确定是best overall sequence 而不是 best symbol at each time step
-##### Beam search
-### Results
-#### 训练集
-##### Wall Street Journal (WSJ): treebank with 40k manually
- annotated sentences.
-##### BerkeleyParser corpus: 90k sentences from WSJ and several other treebanks, and 11M sentences parsed with Berkeley Parser.
-##### High-confidence corpus: 90k sentences from WSJ from several treebanks, and 11M sentences for which two parsers produce the same tree (length resampled).
-#### 在当时实现SOTA
-#### 结论
-##### The **encoder-decoder model** only works if **attention** is used.
-##### Ensembling models helps. Which is almost always the case
-##### If we have **a lot of training data**, we get a large boost. And even the simple model without attention starts to work.
-##### A simple encoder-decoder model can match the performance of the Berkeley parser (a probabilistic chart parser; O(n3) complexity)
-##### Even though we use an LSTM, performance by sentence length is same or better than the Berkeley parser.
-#### 分析注意力
-##### Attention matrix shows that the model focuses on one word as it produces the parse tree.
-##### It moves through the input sequence monotonically (left to right)
-##### Model learns stack-like behavior when producing the output.
-##### Note that if model focuses on position i, that state has information for all words after i (input is reversed).
-##### in some cases, the model skips words
-### Parsing with Transformers
-#### Kitaev and Klein (2018):
-##### 特点
-###### tranformer
-###### context aware summary vector
-###### word，pos tag，position
-###### span scores
-###### attention blocks，attention head
-###### factored attention head
-##### decoder
-######
-$$
-s(T)=\sum_{(i, j, l) \in T} s(i, j, l)
-$$
-##### CYK
-##### overall architecture
-:PROPERTIES:
-:id: 603cffc5-abff-49eb-b5ad-4dbddcca69e4
-:END:
-###### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302233316.png){:height 264, :width 297}
-##### transformer block
-##### Factored Attention Head
-##### 结果，略
-### Summary
-#### linearized parse tree
-#### LSTM encoder-decoder
-##### given enough training data
-#### generate well-formed trees
-#### improve by transformer
-#### decoder and CYK
+	- 复习
+		- ((603454d6-c59f-4b54-b1c0-ae31e4fa5334))
+		- 输入输出都是符号序列
+	- Reading: Vinyals et al. ( 2015 )
+		- 后面的三个部分都来自这篇论文。最后一个部分不是
+	- Neural Parsing
+		- Parsing is the task of turning a sequence of words into a syntax tree:
+			- ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223200644.png){:height 218, :width 261}
+		- 这里的输出是树
+		- 可以 **linearize**
+			- (S (NP (Pro You)) (VP (V saw ) (NP (Det a) (N man ) (PP (P with) (Det a) (N telescope))))).
+		- 删掉单词，化简
+			- (S (NP Pro) (VP V (NP Det N (PP P Det N))))
+		- 标记右括号
+			- $(S ~(NP ~Pro)_{NP} (VP~ V (NP~ Det~ N (PP ~P~ Det~ N)_{PP} )_{NP} )_{VP} )_{S}$
+		- An Encoder-Decoder for Parsing
+			- ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223201250.png){:height 276, :width 375}
+		- 增加性能的方法
+			- EOS (end of sequence)
+			- 反转输入
+			- 更深的网络
+			- 加注意力
+			- 用预训练词嵌入模型
+			- Vinyals et al. (2015)
+				- ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210223201534.png)
+	- Potential Problems
+		- 括号并不能完全配对上
+			- 手动加括号
+		- 如何配对词和预测的树？
+			- 用PoS配对
+		- 输出的长度更长
+			- 并不是问题
+		- 如何确定是best overall sequence 而不是 best symbol at each time step
+			- Beam search
+	- Results
+		- 训练集
+			- Wall Street Journal (WSJ): treebank with 40k manually
+			   annotated sentences.
+			- BerkeleyParser corpus: 90k sentences from WSJ and several other treebanks, and 11M sentences parsed with Berkeley Parser.
+			- High-confidence corpus: 90k sentences from WSJ from several treebanks, and 11M sentences for which two parsers produce the same tree (length resampled).
+		- 在当时实现SOTA
+		- 结论
+			- The **encoder-decoder model** only works if **attention** is used.
+			- Ensembling models helps. Which is almost always the case
+			- If we have **a lot of training data**, we get a large boost. And even the simple model without attention starts to work.
+			- A simple encoder-decoder model can match the performance of the Berkeley parser (a probabilistic chart parser; O(n3) complexity)
+			- Even though we use an LSTM, performance by sentence length is same or better than the Berkeley parser.
+		- 分析注意力
+			- Attention matrix shows that the model focuses on one word as it produces the parse tree.
+			- It moves through the input sequence monotonically (left to right)
+			- Model learns stack-like behavior when producing the output.
+			- Note that if model focuses on position i, that state has information for all words after i (input is reversed).
+			- in some cases, the model skips words
+	- Parsing with Transformers
+		- Kitaev and Klein (2018):
+			- 特点
+				- tranformer
+				- context aware summary vector
+				- word，pos tag，position
+				- span scores
+				- attention blocks，attention head
+				- factored attention head
+			- decoder
+				-
+				  $$
+				  s(T)=\sum_{(i, j, l) \in T} s(i, j, l)
+				  $$
+			- CYK
+			- overall architecture
+			  id:: 603cffc5-abff-49eb-b5ad-4dbddcca69e4
+				- ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210302233316.png){:height 264, :width 297}
+			- transformer block
+			- Factored Attention Head
+			- 结果，略
+	- Summary
+		- linearized parse tree
+		- LSTM encoder-decoder
+			- given enough training data
+		- generate well-formed trees
+		- improve by transformer
+		- decoder and CYK

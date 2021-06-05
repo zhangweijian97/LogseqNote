@@ -2,80 +2,80 @@
 title: ERNIE
 ---
 
-## 临时笔记
-### [BERT泛读系列（三）—— ERNIE: Enhanced Language Representation with Informative Entities论文笔记](https://www.jianshu.com/p/5e12e6edbd59)
-#### 笔记作者的话
-#####
-#+BEGIN_QUOTE
-主要思路是在BERT的基础上引入了知识（具体来说是实体向量），并且在预训练任务方面提出了Pre-training for Injecting Knowledge
-#+END_QUOTE
-#### 模型架构 见原文图2
-##### 主要的改进是在bert的后段加入了实体向量和经过bert编码后的向量拼接
-##### 在输出时多加了实体自编码的任务，从而帮助模型注入实体知识信息。
-#### T-Encoder
-##### 负责对输入句子（token embedding, segment embedding和positional embedding）进行编码
-##### 参考bert即可
-#### K-Encoder
-##### 这部分是本文重点，是本文创新之处
-##### 实体信息的引入
-##### 一通操作：
-###### 使用了TransE训练实体向量，
-###### 再通过多头Attention进行编码（其实可以用更复杂一点的训练方法，应该还有一定的提升空间），
-###### 然后通过实体对齐技术，将实体向量加入到对应实体的第一个token编码后的向量上
-##### 笔记作者的例子：
-######
-#+BEGIN_QUOTE
-姚明是一个实体，在输入时会被分割成姚、明，最后在这部分引入的姚明这个实体的向量会被加入到要这个字经过bert之后的向量上去
-#+END_QUOTE
-##### information fusion layer
-#### 实体自编码
-##### 作者多加入了一个预训练任务 entity auto-encoder(dEA)
-##### 类似bert
-#### 微调
-##### 引入了两个新任务[[Entity Typing]]和[[Relation Classification]]
-#### 实验结果
-##### 通用任务 相比bert 优势不大
-##### 更鲁棒
-##### GLUE的评估对ERNIE不是很友好
-##### 加复杂度的同时，并没有取得期待的效果
-#### 总结
-##### 提供了一种很好的实体信息引入思路
-###### 我：即前面姚明那个例子。联系实体向量和实体每个token的向量
-### [清华等提出ERNIE：知识图谱结合BERT才是“有文化”的语言模型](https://www.linkresearcher.com/theses/040314ac-e50f-4208-a302-75b2bb3d5d2a)
-#### 清华大学 张正彦、韩旭、刘知远、孙茂松
-#### 华为 诺亚方舟实验室 蒋欣、刘群
-#### 知识图谱中的多信息实体（informative entity）可以作为外部知识改善语言表征
-#### ERNIE 全名 增强版的语言表征模型
-#### 预训练语言表征模型忽略了将知识信息整合到语言理解中
-##### 原文图1解释
-#### 将外部知识组合到语言表征模型中，我们又会遇到两大主要挑战
-##### 结构化的知识编码：对于给定的文本，如何高效地抽取并编码对应的知识图谱事实是非常重要的，这些 KG 事实需要能用于语言表征模型。
-##### 异质信息融合：语言表征的预训练过程和知识表征过程有很大的不同，它们会产生两个独立的向量空间。因此，如何设计一个特殊的预训练目标，以融合词汇、句法和知识信息就显得非常重要了。
-#### ERNIE 分为抽取知识信息与训练语言模型两大步骤
-#### 抽取知识信息
-##### 识别文本中的命名实体
-##### 与知识图谱中的实体进行匹配
-##### 并不直接使用 KG 中基于图的事实，
-##### 相反通过知识嵌入算法（例如 TransE）编码 KG 的图结构，并将多信息实体嵌入作为 ERNIE 的输入。
-##### 将知识模块的实体表征整合到语义模块的隐藏层中。
-###### 我：这应该就是那个姚明的例子
-#### 训练语言模型
-##### 用带 Mask 的语言模型
-##### 预测下一句文本作为预训练目标
-##### 新型预训练目标
-#### ERNIE 的新目标要求模型同时聚合上下文和知识事实的信息，并同时预测 Token 和实体，从而构建一种知识化的语言表征模型。
-#### 针对具体任务进行精调 图3
-##### 设计了另一种方法
-#### 实验
-##### 实体分型
-###### 数据集 [[FIGER]] 和 [[Open Entity]]
-##### 关系分类
-###### 数据集 [[FewRel]] 和 [[TACRED]]
-##### [[GLUE]]
-##### 模型简化测试
-#### 提出知识型聚合器和预训练任务 dEA
-#### 在去除远监督的数据的噪声和在有限数据上精调方面的能力都胜过 BERT
-#### 未来方向
-##### 将知识 注入 [[ELMo]] 等基于特征的预训练模型
-##### 将形式各异的结构化知识引入 [[ConceptNet]] 等语言表征模型
-### As most datasets do not have entity annotations, we use TAGME (Ferragina and Scaiella, 2010) to extract the entity mentions in the sentences and link them to their corresponding entities in KGs.
+- 临时笔记
+	- [BERT泛读系列（三）—— ERNIE: Enhanced Language Representation with Informative Entities论文笔记](https://www.jianshu.com/p/5e12e6edbd59)
+		- 笔记作者的话
+			-
+			  #+BEGIN_QUOTE
+			  主要思路是在BERT的基础上引入了知识（具体来说是实体向量），并且在预训练任务方面提出了Pre-training for Injecting Knowledge
+			  #+END_QUOTE
+		- 模型架构 见原文图2
+			- 主要的改进是在bert的后段加入了实体向量和经过bert编码后的向量拼接
+			- 在输出时多加了实体自编码的任务，从而帮助模型注入实体知识信息。
+		- T-Encoder
+			- 负责对输入句子（token embedding, segment embedding和positional embedding）进行编码
+			- 参考bert即可
+		- K-Encoder
+			- 这部分是本文重点，是本文创新之处
+			- 实体信息的引入
+			- 一通操作：
+				- 使用了TransE训练实体向量，
+				- 再通过多头Attention进行编码（其实可以用更复杂一点的训练方法，应该还有一定的提升空间），
+				- 然后通过实体对齐技术，将实体向量加入到对应实体的第一个token编码后的向量上
+			- 笔记作者的例子：
+				-
+				  #+BEGIN_QUOTE
+				  姚明是一个实体，在输入时会被分割成姚、明，最后在这部分引入的姚明这个实体的向量会被加入到要这个字经过bert之后的向量上去
+				  #+END_QUOTE
+			- information fusion layer
+		- 实体自编码
+			- 作者多加入了一个预训练任务 entity auto-encoder(dEA)
+			- 类似bert
+		- 微调
+			- 引入了两个新任务[[Entity Typing]]和[[Relation Classification]]
+		- 实验结果
+			- 通用任务 相比bert 优势不大
+			- 更鲁棒
+			- GLUE的评估对ERNIE不是很友好
+			- 加复杂度的同时，并没有取得期待的效果
+		- 总结
+			- 提供了一种很好的实体信息引入思路
+				- 我：即前面姚明那个例子。联系实体向量和实体每个token的向量
+	- [清华等提出ERNIE：知识图谱结合BERT才是“有文化”的语言模型](https://www.linkresearcher.com/theses/040314ac-e50f-4208-a302-75b2bb3d5d2a)
+		- 清华大学 张正彦、韩旭、刘知远、孙茂松
+		- 华为 诺亚方舟实验室 蒋欣、刘群
+		- 知识图谱中的多信息实体（informative entity）可以作为外部知识改善语言表征
+		- ERNIE 全名 增强版的语言表征模型
+		- 预训练语言表征模型忽略了将知识信息整合到语言理解中
+			- 原文图1解释
+		- 将外部知识组合到语言表征模型中，我们又会遇到两大主要挑战
+			- 结构化的知识编码：对于给定的文本，如何高效地抽取并编码对应的知识图谱事实是非常重要的，这些 KG 事实需要能用于语言表征模型。
+			- 异质信息融合：语言表征的预训练过程和知识表征过程有很大的不同，它们会产生两个独立的向量空间。因此，如何设计一个特殊的预训练目标，以融合词汇、句法和知识信息就显得非常重要了。
+		- ERNIE 分为抽取知识信息与训练语言模型两大步骤
+		- 抽取知识信息
+			- 识别文本中的命名实体
+			- 与知识图谱中的实体进行匹配
+			- 并不直接使用 KG 中基于图的事实，
+			- 相反通过知识嵌入算法（例如 TransE）编码 KG 的图结构，并将多信息实体嵌入作为 ERNIE 的输入。
+			- 将知识模块的实体表征整合到语义模块的隐藏层中。
+				- 我：这应该就是那个姚明的例子
+		- 训练语言模型
+			- 用带 Mask 的语言模型
+			- 预测下一句文本作为预训练目标
+			- 新型预训练目标
+		- ERNIE 的新目标要求模型同时聚合上下文和知识事实的信息，并同时预测 Token 和实体，从而构建一种知识化的语言表征模型。
+		- 针对具体任务进行精调 图3
+			- 设计了另一种方法
+		- 实验
+			- 实体分型
+				- 数据集 [[FIGER]] 和 [[Open Entity]]
+			- 关系分类
+				- 数据集 [[FewRel]] 和 [[TACRED]]
+			- [[GLUE]]
+			- 模型简化测试
+		- 提出知识型聚合器和预训练任务 dEA
+		- 在去除远监督的数据的噪声和在有限数据上精调方面的能力都胜过 BERT
+		- 未来方向
+			- 将知识 注入 [[ELMo]] 等基于特征的预训练模型
+			- 将形式各异的结构化知识引入 [[ConceptNet]] 等语言表征模型
+	- As most datasets do not have entity annotations, we use TAGME (Ferragina and Scaiella, 2010) to extract the entity mentions in the sentences and link them to their corresponding entities in KGs.

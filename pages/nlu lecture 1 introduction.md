@@ -2,36 +2,36 @@
 title: NLU Lecture 1 Introduction
 ---
 
-## Natural Language Understanding
-### input is natural language
-### output is structured information
-## Natural Language Generation
-### input is some form of non-linguistic data
-### Output: A natural language description of that data
-## Machine Translation
-### Both input and output are text that convey the same meaning, but written in a different language or style.
-## Objective
-### ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222235327.png)
-## Methods
-### **probabilistic models** parameterised by **deep learning architectures**
-#### feed-forward neural networks
-#### recurrent neural networks
-#### transformers
-#### convolutional networks
-## Why deep learning
-### universal function approximators
-### representation learning
-## multi-task learning
-## Ethical concerns
-## supervised, unsupervised, transfer learning
-## Second part of this course
-### Problems
-#### morphological analysis
-#### syntactic parsing
-#### semantic parsing
-### applications
-#### question answering
-#### paraphrasing
-#### summarization
-#### data-to-text generation
-#### sentiment analysis
+- Natural Language Understanding
+	- input is natural language
+	- output is structured information
+- Natural Language Generation
+	- input is some form of non-linguistic data
+	- Output: A natural language description of that data
+- Machine Translation
+	- Both input and output are text that convey the same meaning, but written in a different language or style.
+- Objective
+	- ![](https://gitee.com/zhang-weijian-97/pic-go-bed/raw/master/assets/20210222235327.png)
+- Methods
+	- **probabilistic models** parameterised by **deep learning architectures**
+		- feed-forward neural networks
+		- recurrent neural networks
+		- transformers
+		- convolutional networks
+- Why deep learning
+	- universal function approximators
+	- representation learning
+- multi-task learning
+- Ethical concerns
+- supervised, unsupervised, transfer learning
+- Second part of this course
+	- Problems
+		- morphological analysis
+		- syntactic parsing
+		- semantic parsing
+	- applications
+		- question answering
+		- paraphrasing
+		- summarization
+		- data-to-text generation
+		- sentiment analysis
